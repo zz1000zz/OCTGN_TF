@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+  <blocks>
+    <block type="text" id="cardTitle">
+      <location x="45" y="25" />
+      <text color="#000000" size="25" />
+      <border color="#FFFFFF" size="3" />
+      <wordwrap height="180" width="350" shrinktofit="False" />
+    </block>
+ </blocks>
+
+  <template src="cards/front.png" default="True">
+    <matches>
+      <match name="Color" value="Red" />
+    </matches>
+    <textblocks>
+      <link block="cardTitle"><property name="Name" /></link>
+    </textblocks>
+	</template> 
+</templates>

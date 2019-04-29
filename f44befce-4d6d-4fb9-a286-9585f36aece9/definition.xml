@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+      name="Transformers" 
+      id="f44befce-4d6d-4fb9-a286-9585f36aece9" 
+      octgnVersion="3.1.2.0" 
+      version="0.0.0.9"
+      markersize="20"
+      tags="Transformers"
+      description="Transformers CCG, by Hasbro.  If you have questions or feedback, please join the Discord server at https://discord.gg/AUJKdD"
+      setsurl="http://placeholder.com"
+      gameurl="http://placeholder.com"
+	  iconurl="http://placeholder.com/placeholder.jpg"
+      authors="Brandon Shollenberger"
+	  scriptVersion="3.1.0.2">
+
+<scripts>
+<script src="scripts/actions.py" />
+</scripts>
+
+<events>
+   <event name="OnLoadDeck" action="loadDeck" />
+</events>
+
+<fonts></fonts>
+
+<proxygen definitionsrc="proxy/proxydef.xml"></proxygen>
+
+<documents></documents>
+
+<globalvariables></globalvariables>
+
+<card back="Cards/front.png" front="Cards/front.png" width="63" height="88">
+	
+<property name="Type" type="String" />
+	
+<property name="ATK" type="Integer" />
+	
+<property name="DEF" type="Integer" />
+	
+<property name="HP" type="Integer" />
+	
+<property name="Stars" type="Integer" />
+	
+<property name="Trait" type="String" />
+	
+<property name="Orange Pips" type="Integer" />
+	
+<property name="Blue Pips" type="Integer" />
+
+<property name="Green Pips" type="Integer" />
+		
+<property name="White Pips" type="Integer" />
+
+<property name="Faction" type="String" />
+
+<property name="Text" type="String" />
+	
+<property name="Card Number" type="String" />
+
+<property name="Rarity" type="String" />
+	
+<size name="Large" width="99" height="132" back="Cards/front.png" front="Cards/front.png"/>
+<size name="Extra Large" width="126" height="176" back="Cards/front.png" front="Cards/front.png"/>
+<size name="Combiner" width="160" height="224" back="Cards/front.png" front="Cards/front.png"/>
+</card>
+
+<table name="Table" visibility="undefined" ordered="False" width="500" height="425" background="Board/background.png" backgroundStyle="uniformToFill">
+   
+<groupaction menu="Clear targets" shortcut="Esc" execute="clearAll" />
+   
+<groupaction menu="Roll a die" shortcut="Ctrl+R" execute="roll20" />
+   
+<groupaction menu="Untap All" shortcut="F1" execute="untapAll" />
+   
+<groupaction menu="Grab Battle Card From Collection" execute="wish" />
+<cardaction menu="Tap / Untap" default="True" shortcut="ctrl+G" execute="tap" />
+   
+<cardaction menu="Discard" shortcut="Del" execute="discard" />
+
+<cardaction menu="Add a Damage" shortcut="F1" execute="addCounter" />
+<cardaction menu="Remove a Damage" shortcut="F2" execute="removeCounter" />
+<cardaction menu="Set Damage" shortcut="F3" execute="setCounter" />
+<cardaction menu="Switch Modes" execute="awaken" shortcut="Ctrl+F"/>
+<cardaction menu="Flip Up/Down" execute="flip" />
+<cardaction menu="KO" execute="KO" />
+<cardaction menu="unKO" execute="unKO" />
+</table>
+
+<player summary="Hand: {#Hand}">
+
+<counter name="Tower" icon="counters/tower.png" default="0" />
+<hand name="Hand" visibility="me" ordered="False"  icon="cards/hand.png">
+
+<cardaction menu="Discard" shortcut="Del" execute="discard" />
+<groupaction menu="Random Discard" execute="randomDiscard" />
+</hand>
+	
+<group name="Deck" visibility="none" icon="cards/front.png" shortcut="F5">
+    
+<groupaction menu="Draw" default="True" shortcut="Ctrl+D" execute="draw" />
+    <groupaction menu="Draw X..." shortcut="Ctrl+X" execute="drawMany" />
+    
+<groupaction menu="Shuffle" shortcut="Ctrl+S" execute="shuffle" />
+
+<groupaction menu="Flip 1 for Battle" shortcut="Ctrl+C" execute="flip1" />
+
+<groupaction menu="Flip X for Battle" shortcut="Ctrl+V" execute="flipMany" />
+
+<groupaction menu="Bottom Card Face Down" execute="botFaceDown" />
+
+</group>
+    
+<group name="Scrap" visibility="all" icon="cards/scrap.png" shortcut="F6">
+<groupaction menu="Reshuffle into Deck" shortcut="Ctrl+Shift+S" execute="reshuffle" />
+
+</group>
+    
+
+<group name="Characters" visibility="all" icon="cards/front.png" shortcut="F7">
+</group>
+    
+
+</player>
+
+<deck>
+	
+<section name="Characters" group="Characters" />
+
+<section name="Deck" group="Deck" />
+	
+</deck>
+
+</game>
