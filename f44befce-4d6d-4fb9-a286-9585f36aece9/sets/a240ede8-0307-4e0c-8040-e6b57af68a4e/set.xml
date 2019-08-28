@@ -1,0 +1,1177 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 4" id="a240ede8-0307-4e0c-8040-e6b57af68a4e" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1"><cards>
+<card id="06c86424-7948-4d1d-a2ef-9ccdd85fc41e" name="Trypticon - Assault Base" size="Extra Large">
+<property name="Card Number" value="T01" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="30" />
+<property name="Stars" value="24" />
+<property name="Trait" value="Titan, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<alternate name="Trypticon - Assault Base" type="bot">
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="Text" value="" />
+<property name="Trait" value="Titan, Melee" />
+</alternate>
+</card>
+<card id="efeb6592-2975-4f75-81ce-c5e144c20ba3" name="Brunt - Artillery Drone" size="Large">
+<property name="Card Number" value="T02" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="DEF" value="3" />
+<property name="HP" value="3" />
+<property name="Stars" value="4" />
+<property name="Trait" value="Tank, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="0c217075-6905-4b12-b3be-d444a3e23362" name="Full-Tilt - Base Recon" size="Large">
+<property name="Card Number" value="T03" />
+<property name="Type" value="Character" />
+<property name="ATK" value="2" />
+<property name="DEF" value="1" />
+<property name="HP" value="5" />
+<property name="Stars" value="4" />
+<property name="Trait" value="Car, Melee" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<alternate name="Full-Tilt - Base Recon" type="bot">
+<property name="ATK" value="2" />
+<property name="DEF" value="1" />
+<property name="Text" value="" />
+<property name="Trait" value="Ranged" />
+</alternate>
+</card>
+<card id="7f2644cb-5812-4bfc-80de-e9e720459032" name="Wipe-Out - Devoted Minion" size="Large">
+<property name="Card Number" value="T04" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="6" />
+<property name="Stars" value="4" />
+<property name="Trait" value="Car, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<alternate name="Wipe-Out - Devoted Minion" type="bot">
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="Text" value="" />
+<property name="Trait" value="Ranged" />
+</alternate>
+</card>
+<card id="4c7aa755-9924-473f-84af-2ce55b3e3f23" name="">
+<property name="Card Number" value="1" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="439ab27b-ea82-4e6c-abc0-7b9135e614a7" name="">
+<property name="Card Number" value="2" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="fa3e2458-ef00-417f-84a1-6c4cabce0c6c" name="">
+<property name="Card Number" value="3" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="56a8c7f9-24d9-4463-b1a8-921338411864" name="">
+<property name="Card Number" value="4" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="2f9e02b3-7aa2-4035-a96a-48b35c954739" name="">
+<property name="Card Number" value="5" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="41af3ef9-c095-4082-8e56-05206e84cf98" name="Battlefield Incursion" size="Small">
+<property name="Card Number" value="6" />
+<property name="Type" value="Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="9c408e5b-bf65-47e8-b79d-bc6ead8388cd" name="">
+<property name="Card Number" value="7" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="c61b76cc-13a6-4f3e-bcc5-4293e732b9bd" name="">
+<property name="Card Number" value="8" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="f364b746-d005-485f-9631-9da5a2b94f7e" name="">
+<property name="Card Number" value="9" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="3e0e5ff3-6f59-479c-97c5-39f85fce9a6d" name="">
+<property name="Card Number" value="10" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="42a2951a-46b3-4e3c-b9ca-636e00d751ad" name="">
+<property name="Card Number" value="11" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="89043952-f14e-4e8b-92c4-1db7fda2e13a" name="">
+<property name="Card Number" value="12" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="96a05a16-3a6a-490d-8d32-44013bf1a678" name="">
+<property name="Card Number" value="13" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="ecf95052-9913-43f9-9c50-7341e58974fa" name="">
+<property name="Card Number" value="14" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="b364e997-4f66-4226-a376-c085ccf0cc82" name="">
+<property name="Card Number" value="15" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="e31d6fba-94d9-4923-8cd9-d9c693780f9f" name="">
+<property name="Card Number" value="16" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="d1bb8565-c945-45ae-8450-64f7bdec478e" name="">
+<property name="Card Number" value="17" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="08ff844e-3ca3-4681-9215-c0ae9225a710" name="">
+<property name="Card Number" value="18" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="9af39aee-5bb2-4991-bef1-bcc6771a160e" name="">
+<property name="Card Number" value="19" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="4410f3b0-1f39-4bfe-9627-0e718cd0c8b7" name="">
+<property name="Card Number" value="20" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="d79112b0-a3eb-4e76-86ce-de5f5aad59dc" name="">
+<property name="Card Number" value="21" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="91da5cc1-5e92-43c0-8fd8-7a15d20dd466" name="">
+<property name="Card Number" value="22" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="81f3bec4-491a-46f4-8aa6-a9306999d9df" name="">
+<property name="Card Number" value="23" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="c4bc4aa2-bd70-43de-8080-e0abc74884dd" name="">
+<property name="Card Number" value="24" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="d3ef16be-6ebb-49a2-bda5-233e9ca0b029" name="">
+<property name="Card Number" value="25" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="140e46fe-9ffc-4013-8a8f-bcb0e503cdb2" name="">
+<property name="Card Number" value="26" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="b887deb3-2be3-4d04-b672-b55a40c18252" name="">
+<property name="Card Number" value="27" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="4ca0e985-a408-4142-b0cd-cbfab60ce2a2" name="">
+<property name="Card Number" value="28" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="7a56e923-09b3-438d-bf2c-e725e00a3854" name="">
+<property name="Card Number" value="29" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="6c52a09a-72b1-4ef8-8aa4-f40969196a6e" name="">
+<property name="Card Number" value="30" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="bbe5bbac-3ec7-4aec-b8d2-d588ccb0ae14" name="">
+<property name="Card Number" value="31" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="90df385e-1256-4f68-b5db-a950c252fd5e" name="">
+<property name="Card Number" value="32" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="fd07bd58-d7e1-4805-b567-3a525b72c265" name="">
+<property name="Card Number" value="33" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="a0876f01-0e8a-456a-9e46-3a312caf3569" name="">
+<property name="Card Number" value="34" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="59b30e39-0a77-4cab-9eff-b6ac921a0f61" name="">
+<property name="Card Number" value="35" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="4c14bdc5-d469-44a2-864c-5aa52e2a684e" name="">
+<property name="Card Number" value="36" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="c5d72d7f-31b9-4404-bfb6-f95cc7ac424c" name="">
+<property name="Card Number" value="37" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="2d0c97d7-5553-40ef-b574-aab01f2bd755" name="">
+<property name="Card Number" value="38" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="c907f264-96f6-4a82-90af-1bf74591322a" name="">
+<property name="Card Number" value="39" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="e34a57ed-749e-48ee-8b73-6bccde8a42ce" name="">
+<property name="Card Number" value="40" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="9a766093-db52-436c-9292-77efd5d36ada" name="">
+<property name="Card Number" value="41" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="6bfb98a0-b30b-47c2-9708-02648dedc1ba" name="">
+<property name="Card Number" value="42" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="1f96d9a1-128c-4000-9cb7-f023646a928c" name="">
+<property name="Card Number" value="43" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="475b9abd-4160-42a2-8b7a-30a62d99e9ed" name="">
+<property name="Card Number" value="44" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="79f1b706-e833-411e-a026-13b7dc781e32" name="">
+<property name="Card Number" value="45" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="ce3622b1-778b-4cf0-b4c3-c91699db4dda" name="Relentless Invasion" size="Small">
+<property name="Card Number" value="46" />
+<property name="Type" value="Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="c5567e64-e791-4d2b-b82a-3e47f6d4a288" name="">
+<property name="Card Number" value="47" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="4d8982a3-5a12-44a8-9db4-b7e9a0ca581f" name="">
+<property name="Card Number" value="48" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="9e40a06f-59eb-49fe-ba79-63980647e886" name="">
+<property name="Card Number" value="49" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="c3cf181e-a6d9-4206-91d8-5284fd078c4d" name="">
+<property name="Card Number" value="50" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="d8dfbfca-d98b-434b-b74a-641d3b2bf3a8" name="">
+<property name="Card Number" value="51" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="5eb7bae0-0397-4a5c-8fec-c95e445e46ca" name="">
+<property name="Card Number" value="52" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="d87115cf-dc31-440a-b875-4224a5330be0" name="">
+<property name="Card Number" value="53" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="80859989-0aba-4c18-86f8-1be50dd67c10" name="">
+<property name="Card Number" value="54" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="96db81d9-ef8b-4355-bdf9-e3c2d35ff1ea" name="">
+<property name="Card Number" value="55" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="80cfd96b-ef84-4cbd-a1ad-28b4cbbf3be9" name="">
+<property name="Card Number" value="56" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="8185adfa-3eb0-4079-a011-a6256f2e8b98" name="">
+<property name="Card Number" value="57" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="1ca3f546-0beb-437d-84af-2a37032a9529" name="">
+<property name="Card Number" value="58" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="e5c89a0d-35e6-4cc6-9a30-409c7e0275f8" name="">
+<property name="Card Number" value="59" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="b57047b2-9ce9-45fa-bbe3-9e0f9d6e5102" name="">
+<property name="Card Number" value="60" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="1ebee277-3853-4ee5-8630-1e7049fcef0e" name="">
+<property name="Card Number" value="61" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="6d43eb12-3109-4b54-b127-32bfbf019f3e" name="">
+<property name="Card Number" value="62" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="05e46878-5bb3-48e4-bd35-54e21f5d9232" name="">
+<property name="Card Number" value="63" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+<card id="e9f19e8d-e9e7-4689-924f-84a03bc68bff" name="">
+<property name="Card Number" value="64" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+</cards>
+</set>

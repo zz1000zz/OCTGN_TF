@@ -11,6 +11,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have Superion on the battlefield -> Do 1 damage to each enemy.  If you have 5 Aerialbots in bot mode on the battlefield and/or in your KO area -> Combine them into Superion, Sky Protector. (A combiner begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)" />
 <property name="Rarity" value="" />
@@ -27,6 +28,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Put on Aerialbots only. The upgraded character has +1 attack for each of your other tapped Aerialbots." />
 <property name="Rarity" value="" />
@@ -43,6 +45,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Scrap the top 2 cards of your deck. Put an Action and an Upgrade scrapped this way into your hand. You may play Unleased Potential." />
 <property name="Rarity" value="" />
@@ -59,6 +62,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="" />
 <property name="Rarity" value="" />
@@ -75,6 +79,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When you put this on a character -> You may play another Attack Drone.  Up to 3 Attack Drones can fit in 1 Weapon slot." />
 <property name="Rarity" value="" />
@@ -89,8 +94,9 @@
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="1" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="1" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Bold 2." />
 <property name="Rarity" value="" />
@@ -107,6 +113,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you began the game with only Decepticon characters : Repair 1 damage from each of your characters. Then do 1 damage to each Autobot." />
 <property name="Rarity" value="Rare" />
@@ -123,6 +130,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When you put this on a character -> Scrap an enemy Armor." />
 <property name="Rarity" value="" />
@@ -139,6 +147,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Do 3 damage to an enemy." />
 <property name="Rarity" value="Uncommon" />
@@ -155,6 +164,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Brave." />
 <property name="Rarity" value="" />
@@ -171,6 +181,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Put on Cars only.  Damage counters can't be moved from other characters to the upgraded character." />
 <property name="Rarity" value="Rare" />
@@ -187,6 +198,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Put on Sentinels only. When the upgraded character attacks : You may flip a Sentinel in your KO area from bot mode to alt mode. If you do, then flip it back to bot mode." />
 <property name="Rarity" value="Rare" />
@@ -203,6 +215,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Draw 2 cards. Then Scrap 2 cards from your hand. If you began the game with only Autobot characters : You may play an Action." />
 <property name="Rarity" value="Common" />
@@ -219,6 +232,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When you put this on a Ranged character -> Repair 1 damage from it." />
 <property name="Rarity" value="" />
@@ -235,6 +249,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Choose an enemy in bot mode. Your opponent flipts it too alt mode." />
 <property name="Rarity" value="Uncommon" />
@@ -251,6 +266,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Put on Planes only.  When the upgraded character is KO'd during your opponent's turn -> Do damage equal to its attack total to a tapped enemy." />
 <property name="Rarity" value="" />
@@ -267,6 +283,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Put on Decepticons only. When one of your Decepticons attacks : Plan 1." />
 <property name="Rarity" value="Rare" />
@@ -283,6 +300,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If the upgraded character would take non-attack damage from an opponent's card ; instead the upgraded character takes that much damage minus 1." />
 <property name="Rarity" value="" />
@@ -299,6 +317,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have Volcanicus on the battlefield : He gets Bold 2 until end of turn. If you have 5 Dinobots in bot mode on the battlefield and/or in your KO area : Combine them into Volcanicus, Fiery Champion." />
 <property name="Rarity" value="Rare" />
@@ -315,6 +334,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Put on Dinobots only. When the upgraded character defends and you flip at least [O][O] : Do 1 damage to the attacker." />
 <property name="Rarity" value="Rare" />
@@ -331,6 +351,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When the upgraded character is battling an enemy that has the same number of stars as it : The upgraded character has +2 attack and +2 armor" />
 <property name="Rarity" value="Uncommon" />
@@ -347,6 +368,7 @@
 <property name="Blue Pips" value="2" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When the upgraded character defends and you flip at least one orange pip -> Do 1 damage to the attacker." />
 <property name="Rarity" value="" />
@@ -363,6 +385,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When you put this on a Melee character -> Do 1 damage to an enemy." />
 <property name="Rarity" value="" />
@@ -379,6 +402,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When you put this on a character -> Scrap an enemy Weapon." />
 <property name="Rarity" value="" />
@@ -395,6 +419,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="(A character's Armor can't go below 0.)" />
 <property name="Rarity" value="Common" />
@@ -411,6 +436,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Flip one of your characters from bot mode to alt mode." />
 <property name="Rarity" value="Common" />
@@ -427,6 +453,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Choose a battle icon color. Then look at your opponent's hand and scrap a card from it that has a battle icon of that color." />
 <property name="Rarity" value="" />
@@ -443,6 +470,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Tough 3. After the upgraded character defends : Scrap this card." />
 <property name="Rarity" value="Uncommon" />
@@ -459,6 +487,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When you pthis on a Specialist : Scrap the top card of your deck. You may play that card." />
 <property name="Rarity" value="Common" />
@@ -475,6 +504,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Repair 1 damage from one of your characters. If it's an Autobot, Plan 1." />
 <property name="Rarity" value="Common" />
@@ -491,6 +521,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Move 1 damage counter from one of your characters to an enemy." />
 <property name="Rarity" value="" />
@@ -507,6 +538,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="For each Focus Fire you've played this turn : One of you characters gets Bold 1 until end of turn. You may play another Focus Fire." />
 <property name="Rarity" value="Uncommon" />
@@ -523,6 +555,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Each palyer chooses 2 cards from their hand and scraps the rest. Each player with fewer than 2 cards in hand draws cards equal to the difference." />
 <property name="Rarity" value="" />
@@ -539,6 +572,7 @@
 <property name="Blue Pips" value="2" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Bold 1." />
 <property name="Rarity" value="" />
@@ -555,6 +589,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="One of your characters gets +2 attack until end of turn. While it's attacking an enemy this turn that has fewer stars than it, it has Pierce 4." />
 <property name="Rarity" value="" />
@@ -571,6 +606,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Tough 1." />
 <property name="Rarity" value="" />
@@ -587,6 +623,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Tap one of your untapped characters that has 5 stars or more : Do 3 damage to an enemy." />
 <property name="Rarity" value="" />
@@ -603,6 +640,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Tap one of your untapped Specialists that has 5 stars or more -> Draw 3 cards" />
 <property name="Rarity" value="" />
@@ -619,6 +657,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When the upgraded character is battling : Each [O] you flip becomes a [B]. Each [B] you flip becomes a [O]." />
 <property name="Rarity" value="Rare" />
@@ -635,6 +674,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Scrap the top card of your deck. You may play that card. Then scrap another card from the top of your deck. You may play that card." />
 <property name="Rarity" value="Uncommon" />
@@ -651,6 +691,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have a Ranged character on the battlefield -> Do 2 damage to an enemy in bot mode." />
 <property name="Rarity" value="" />
@@ -667,6 +708,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Plan 6." />
 <property name="Rarity" value="" />
@@ -683,6 +725,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When the upgraded character attacks : Plan 2.  When you put a card from your hand on top of your deck : the upgraded character gets +1 ATK until end of turn." />
 <property name="Rarity" value="Rare" />
@@ -699,6 +742,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="This can be in an Armor or Utility slot." />
 <property name="Rarity" value="Rare" />
@@ -715,6 +759,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Put on Autobots only. While the upgraded character is attacking an Decepticon : It has pierce 2." />
 <property name="Rarity" value="Uncommon" />
@@ -731,6 +776,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Draw 2 cards" />
 <property name="Rarity" value="" />
@@ -747,6 +793,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Bold 3.  After the upgraded character attacks, Scrap this card." />
 <property name="Rarity" value="" />
@@ -763,6 +810,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have a Predaking on the battlefield : Draw a card. Then you may play an Upgrade. If you have 5 Predacons in bot mode on the battlefield and/or in your KO area : Combine them into Predaking, Ferocious Hunter." />
 <property name="Rarity" value="Rare" />
@@ -779,6 +827,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Choose one of your Autobots, it gets +2 ATK until end of turn.  Choose an enemy Decepticon. it gets -2 DEF until end of turn." />
 <property name="Rarity" value="" />
@@ -795,6 +844,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="" />
 <property name="Rarity" value="" />
@@ -811,6 +861,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Flip one of your characters to it's other mode." />
 <property name="Rarity" value="Common" />
@@ -827,6 +878,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="One of your characters gets +4 attack until the end of turn. At end of turn, do 3 damage to it." />
 <property name="Rarity" value="Uncommon" />
@@ -843,6 +895,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When the upgraded character is battling : Flip 1 more battle card. Scrap one of the cards you flipped without using it's battle icons." />
 <property name="Rarity" value="Rare" />
@@ -859,6 +912,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Repair 1 damage from one of your characters." />
 <property name="Rarity" value="" />
@@ -875,6 +929,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Put on Decepticons only. While the upgraded character is attacking an Autobot : It has Pierce 2." />
 <property name="Rarity" value="Uncommon" />
@@ -891,6 +946,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Scrap the top card of your deck. If it's an upgrade, you may play it." />
 <property name="Rarity" value="Uncommon" />
@@ -907,6 +963,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Draw a card. Then Plan 1." />
 <property name="Rarity" value="Uncommon" />
@@ -923,6 +980,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="When the upgraded character defends -> Draw a card. Then Plan 1." />
 <property name="Rarity" value="" />
@@ -939,6 +997,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have Optimus Maximus on the battlefield : Scrap an enemy weapon or armor. If you have 6 Sentinels in bot mode on the battlefield and/or in your KO area : Combine them into Optimus Maximus, Ultimate Defender." />
 <property name="Rarity" value="Rare" />
@@ -955,6 +1014,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Your opponent chooses one of their Upgrades and scraps it." />
 <property name="Rarity" value="Uncommon" />
@@ -971,6 +1031,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Your opponent chooses a card from their hand and scraps it. If this is the third Sonic Scramble you've played this turn -> Draw 3 cards. You may play another Sonic Scramble." />
 <property name="Rarity" value="" />
@@ -987,6 +1048,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If an opponent's card would cause a Weapon or Armor to be scrapped from the upgraded character -> Scrap this card instead." />
 <property name="Rarity" value="" />
@@ -1003,6 +1065,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Tough 2." />
 <property name="Rarity" value="" />
@@ -1019,6 +1082,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Stealth." />
 <property name="Rarity" value="" />
@@ -1035,6 +1099,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Choose one of your characters. When it does more than enough attack damage to KO an enemy this turn -> Your opponent chooses one of their other characters and puts the extra damage on it." />
 <property name="Rarity" value="" />
@@ -1051,6 +1116,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have menasor on the battlefield : Draw 2 cards. If you have 5 Stunticons in bot mode on the battlefield and/or in your KO area : Combine them into Menasor, Menacing Colossus." />
 <property name="Rarity" value="Uncommon" />
@@ -1067,13 +1133,14 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Put on Stunticons only. Enemies can't use Bold or Tough against the upgraded character." />
 <property name="Rarity" value="Rare" />
 </card>
 <card id="447f8286-552b-4198-b0ed-4689c0b453b2" name="Superior Cannon">
 <property name="Card Number" value="68" />
-<property name="Type" value="UPgrade - Weapon" />
+<property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
@@ -1083,6 +1150,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Play this only if you've played Tech Research this turn. Bold 4." />
 <property name="Rarity" value="" />
@@ -1099,6 +1167,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Play this only if you've played Tech Research this turn. Pierce 4." />
 <property name="Rarity" value="" />
@@ -1115,6 +1184,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Play this only if you've played Tech Research this turn. Tough 4." />
 <property name="Rarity" value="" />
@@ -1131,6 +1201,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="One of your characters gets Pierce 3 until end of turn." />
 <property name="Rarity" value="" />
@@ -1147,6 +1218,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Draw 2 cards. Then Scrap 2 cards from your hand. If you began the game with only Decepticon characters : You may play an Upgrade." />
 <property name="Rarity" value="Common" />
@@ -1163,6 +1235,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Tap one of your untapped Melee characters : Tap an untapped enemy character that has the same number of Stars or fewer." />
 <property name="Rarity" value="" />
@@ -1179,6 +1252,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="" />
 <property name="Rarity" value="" />
@@ -1195,13 +1269,14 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Each player draws 2 cards." />
 <property name="Rarity" value="Common" />
 </card>
 <card id="68d88343-31b8-4983-942f-b5b0053accf1" name="Tooth and Claw">
 <property name="Card Number" value="76" />
-<property name="Type" value="Upgrade Utility" />
+<property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
@@ -1211,6 +1286,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Put on Predacons only. The upgraded character can have a Weapon or Armor in it's Armor slot." />
 <property name="Rarity" value="Rare" />
@@ -1227,13 +1303,14 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Do 1 damage to an enemy.  If it's KO'd this way, repair 1 damage from one of your Deceptipcons." />
 <property name="Rarity" value="Common" />
 </card>
 <card id="e75fc19e-6e49-4e46-8db0-3ff88e35d2b8" name="Universal Network Access">
 <property name="Card Number" value="78" />
-<property name="Type" value="Acvtion" />
+<property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
@@ -1243,6 +1320,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Draw 3 cards." />
 <property name="Rarity" value="" />
@@ -1259,6 +1337,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you've played Ancient Wisdom this turn -> Choose a battle card you own from outside the game that has 1 star and put it into your hand." />
 <property name="Rarity" value="" />
@@ -1275,6 +1354,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Scrap all enemy Weapon, Armors, or Utilities." />
 <property name="Rarity" value="Uncommon" />
@@ -1291,6 +1371,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Scrap an enemy Upgrade." />
 <property name="Rarity" value="Common" />
@@ -1307,6 +1388,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When you flip to this mode : For each card in your opponent's scrap pile that has at least [O] [O], repair 1 damage from this." />
 <property name="Rarity" value="Rare" />
@@ -1329,6 +1411,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Common" />
@@ -1351,6 +1434,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When an enemy Plane attacks : Do 1 damage to it." />
 <property name="Rarity" value="Common" />
@@ -1373,6 +1457,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Tough 1." />
 <property name="Rarity" value="Uncommon" />
@@ -1395,6 +1480,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Pierce 2." />
 <property name="Rarity" value="Uncommon" />
@@ -1417,6 +1503,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Common" />
@@ -1439,6 +1526,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When this has an Armor : He has Tough 2." />
 <property name="Rarity" value="Super Rare" />
@@ -1467,6 +1555,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="" />
 <property name="Rarity" value="Common" />
@@ -1489,6 +1578,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Brave." />
 <property name="Rarity" value="Super Rare" />
@@ -1517,6 +1607,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Uncommon" />
@@ -1539,6 +1630,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When this does attack damage to a tapped enemy while there's at least one untapped enemy : This untaps and attacks the untapped enemy." />
 <property name="Rarity" value="Uncommon" />
@@ -1561,6 +1653,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When you flip to this mode -> Draw a card." />
 <property name="Rarity" value="Rare" />
@@ -1583,6 +1676,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this attacks and you flip at least [B][B] : This gets +2 attack until end of turn." />
 <property name="Rarity" value="Common" />
@@ -1605,6 +1699,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When you flip to this mode -> You may play an Action" />
 <property name="Rarity" value="Common" />
@@ -1627,6 +1722,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Tough 1." />
 <property name="Rarity" value="Common" />
@@ -1649,6 +1745,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this attacks and you flip at least [O][B] : Draw 2 cards." />
 <property name="Rarity" value="Common" />
@@ -1671,6 +1768,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this or one of your other Insecticons is KO'd : Your opponent chooses 2 cards from their hand ans scraps them." />
 <property name="Rarity" value="Rare" />
@@ -1693,6 +1791,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Rare" />
@@ -1715,6 +1814,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Rare" />
@@ -1737,6 +1837,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Rare" />
@@ -1759,6 +1860,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Rare" />
@@ -1781,6 +1883,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When you flip to this mode: This gets +1 ATK until end of turn for each character ni your opponent's KO area." />
 <property name="Rarity" value="Uncommon" />
@@ -1803,6 +1906,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="" />
 <property name="Rarity" value="Rare" />
@@ -1825,6 +1929,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Pierce 2." />
 <property name="Rarity" value="Common" />
@@ -1847,6 +1952,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Brave." />
 <property name="Rarity" value="Common" />
@@ -1869,6 +1975,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When you flip to this mode -> You may discard your hand. If you do and those cards have battle icons of exactly 4 different colors, do 4 damage to an enemy." />
 <property name="Rarity" value="Uncommon" />
@@ -1891,6 +1998,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="" />
 <property name="Rarity" value="Rare" />
@@ -1913,6 +2021,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Bold 1." />
 <property name="Rarity" value="Uncommon" />
@@ -1935,6 +2044,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When you flip to this mode : You may play an Upgrade." />
 <property name="Rarity" value="Common" />
@@ -1957,6 +2067,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Your other characters can't take non-attack damage from your opponent's cards." />
 <property name="Rarity" value="Common" />
@@ -1979,6 +2090,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When an enemy car attacks : Do 1 damage to it." />
 <property name="Rarity" value="Common" />
@@ -2001,6 +2113,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When the game begins and you have only Sentinel characters : Choose up to 3 different Sentinels you own from outside the game. Put them into your KO area in alt mode (Fully damaged)." />
 <property name="Rarity" value="Uncommon" />
@@ -2023,6 +2136,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Brave." />
 <property name="Rarity" value="Uncommon" />
@@ -2045,6 +2159,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Pierce 2." />
 <property name="Rarity" value="Uncommon" />
@@ -2067,6 +2182,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Bold 1." />
 <property name="Rarity" value="Uncommon" />
@@ -2089,6 +2205,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Bold 1." />
 <property name="Rarity" value="Uncommon" />
@@ -2111,6 +2228,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="" />
 <property name="Rarity" value="Common" />
@@ -2133,6 +2251,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Bold 1. When this attacks and you flipe at least [W][O][B] -> Flip him to bot mode." />
 <property name="Rarity" value="Common" />
@@ -2155,6 +2274,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Tough 2." />
 <property name="Rarity" value="Common" />
@@ -2177,6 +2297,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When you flip to this mode -> return a card that has no battle icons from your scrap pile to your hand." />
 <property name="Rarity" value="Rare" />
@@ -2199,6 +2320,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When you flip to this mode -> Return a card that lets you Plan from your scrap pile to your hand." />
 <property name="Rarity" value="Super Rare" />
@@ -2221,6 +2343,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Tough 1." />
 <property name="Rarity" value="Uncommon" />
@@ -2243,6 +2366,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When one of your other characters attacks : you may tap this. If you do, the attacker gets +attack until the end of the turn equal to this character's attack total." />
 <property name="Rarity" value="Rare" />
@@ -2265,6 +2389,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Enemy characters can't be repaired." />
 <property name="Rarity" value="Uncommon" />
@@ -2287,6 +2412,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When you flip to this mode -> For each card in your opponent's scrap pile that has at least [B][B], your opponent chooses one of their characters and does 1 damage to it." />
 <property name="Rarity" value="Rare" />
@@ -2309,6 +2435,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When you flip to this mode : Reveal the top card of your deck. If it has battle icons of at least 2 different colors, you may play it." />
 <property name="Rarity" value="Super Rare" />
@@ -2331,6 +2458,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When this attacks on the turn he's combined : For each battle card you flip that has at least [O], do 1 damage to the defender." />
 <property name="Rarity" value="Rare" />
@@ -2347,6 +2475,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="This has 5 Weapon slots. When this is combined : Draw a card. Then you may play a card." />
 <property name="Rarity" value="Uncommon" />
@@ -2363,6 +2492,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Bold 1, Tough 1, Pierce 1. You may play an extra action on each of your turns. When this is combined : Draw 2 cards." />
 <property name="Rarity" value="Common" />
@@ -2379,6 +2509,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When this battles : Draw a card then Plan 1." />
 <property name="Rarity" value="Uncommon" />
@@ -2395,6 +2526,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="Bold 1, Tough 2, Pierce 3. When this is combined -> Do 3 damage to an enemy." />
 <property name="Rarity" value="" />
@@ -2411,6 +2543,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="This 2 Weapon slots, 2 Armor slots, and 2 Utility slots" />
 <property name="Rarity" value="" />
@@ -2427,6 +2560,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="When you flip to this mode, choose one -> Draw a card / Do 1 damage to an enemy." />
 <property name="Rarity" value="Promo" />
@@ -2449,6 +2583,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Put on Constructicons only.  When the upgraded character attacks -> Put a height counter on your Tower." />
 <property name="Rarity" value="Rare" />
@@ -2465,6 +2600,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have Devastator on the battlefield -> Repair 1 damage from him, then put a height counter on your Tower.  If you have 6 Constructicons in bot mode on the battlefield and/or in your KO area -> Combine them into Devastator, Towering Warrior." />
 <property name="Rarity" value="Rare" />
@@ -2481,6 +2617,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Do 1 damage to an enemy. If your Tower is 6 or higher, do 3 damage to that enemy instead" />
 <property name="Rarity" value="Rare" />
@@ -2497,6 +2634,7 @@
 <property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="Put an Upgrade from your scrap pile on top of your deck. If your tower is 3 or higher, draw a card." />
 <property name="Rarity" value="Rare" />
@@ -2513,6 +2651,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="If you have fewer than 4 cards in hand, draw cards equal to the difference" />
 <property name="Rarity" value="" />
@@ -2529,6 +2668,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
 <property name="Rarity" value="Rare" />
@@ -2551,6 +2691,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
 <property name="Rarity" value="Rare" />
@@ -2573,6 +2714,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
 <property name="Rarity" value="Rare" />
@@ -2595,6 +2737,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
 <property name="Rarity" value="Rare" />
@@ -2617,6 +2760,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
 <property name="Rarity" value="Rare" />
@@ -2639,6 +2783,7 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="At the start of the game -> Put your Tower tracker into your KO area with a height counter on it." />
 <property name="Rarity" value="Rare" />
@@ -2661,9 +2806,102 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this is combined, repair an amount of damage from him equal to the height of your tower.  While your Tower is 6 or higher, this has Bold 2.  While your Tower is 10 or higher, change this character's base ATK from 6 to 10." />
 <property name="Rarity" value="" />
+</card>
+<card id="8cb3d641-2d62-4580-b96b-0f126f36c0f7" name="Bumblebee - Least Likely, Most Dangerous" size="Large">
+<property name="Card Number" value="RT01" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="9" />
+<property name="Stars" value="7" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="RT" />
+<alternate name="Bumblebee - Least Likely, Most Dangerous" type="bot">
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="915dfe7d-8654-4d7d-9471-09114e796e97" name="Megatron - Cybertronian Tyrant" size="Large">
+<property name="Card Number" value="RT02" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="RT" />
+<alternate name="Megatron - Cybertronian Tyrant" type="bot">
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="2c70180b-a811-4772-aee1-8a44fd697e61" name="Starscream - Decepticon Lieutenant" size="Large">
+<property name="Card Number" value="RT03" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="RT" />
+<alternate name="Starscream - Decepticon Lieutenant" type="bot">
+<property name="ATK" value="4" />
+<property name="DEF" value="0" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="19c5199b-afea-4079-b524-edf023e24a6e" name="Windblade - Defender of Truth" size="Large">
+<property name="Card Number" value="RT04" />
+<property name="Type" value="Character" />
+<property name="ATK" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="RT" />
+<alternate name="Windblade - Defender of Truth" type="bot">
+<property name="ATK" value="2" />
+<property name="DEF" value="1" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
 </card>
 </cards>
 </set>

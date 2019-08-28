@@ -4,7 +4,7 @@
       name="Transformers" 
       id="f44befce-4d6d-4fb9-a286-9585f36aece9" 
       octgnVersion="3.1.2.0" 
-      version="0.0.0.9"
+      version="0.0.3.1"
       markersize="20"
       tags="Transformers"
       description="Transformers CCG, by Hasbro.  If you have questions or feedback, please join the Discord server at https://discord.gg/AUJKdD"
@@ -52,6 +52,8 @@
 		
 <property name="White Pips" type="Integer" />
 
+<property name="Black Pips" type="Integer" />
+
 <property name="Faction" type="String" />
 
 <property name="Text" type="String" />
@@ -59,7 +61,8 @@
 <property name="Card Number" type="String" />
 
 <property name="Rarity" type="String" />
-	
+
+<size name="Small" width="63" height="88" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Large" width="99" height="132" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Extra Large" width="126" height="176" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Combiner" width="160" height="224" back="Cards/front.png" front="Cards/front.png"/>
@@ -85,6 +88,7 @@
 <cardaction menu="Flip Up/Down" execute="flip" />
 <cardaction menu="KO" execute="KO" />
 <cardaction menu="unKO" execute="unKO" />
+<groupaction menu="Sideboard" shortcut="ctrl+shift+S" execute="sideboard" />
 </table>
 
 <player summary="Hand: {#Hand}">
@@ -118,7 +122,9 @@
     
 
 <group name="Characters" visibility="all" icon="cards/front.png" shortcut="F7">
+<groupaction menu="Grab Character From Collection" execute="wish" />
 </group>
+<group name="Sideboard" visibility="me" icon="cards/front.png" collapsed="True" shortcut="F8"></group>	
     
 
 </player>
@@ -128,6 +134,8 @@
 <section name="Characters" group="Characters" />
 
 <section name="Deck" group="Deck" />
+	
+<section name="Sideboard" group="Sideboard" />
 	
 </deck>
 

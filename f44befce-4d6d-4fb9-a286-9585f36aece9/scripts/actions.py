@@ -54,8 +54,11 @@ def awaken(card, x = 0, y = 0):
 
 def wish(group, x = 0, y = 0):
     mute()
-    group = me.hand
-    guid, quantity = askCard({"Type":"Upgrade - Weapon", "Type":"Upgrade - Armor", "Type":"Upgrade - Utility", "Type":"Action"}, "or")
+    if group == me.characters:
+        guid, quantity = askCard({"Type":"Character"}, "or")
+    else:
+        guid, quantity = askCard({"Type":"Upgrade - Weapon", "Type":"Upgrade - Armor", "Type":"Upgrade - Utility", "Type":"Action"}, "or")
+        group = me.hand
     if quantity == 0:
         return
     if quantity < 10:
@@ -349,3 +352,26 @@ def lookAtDeck(): #For Automation
     notify("{} looks at their Deck.".format(me))
     me.Deck.lookAt(-1)
 
+def sideboard(group=me.Deck, x = 0, y = 0):
+    mute()
+    topCards = []
+    for c in me.Deck.top(100):
+        topCards.append(c)
+        c.peek()
+    dlg = cardDlg(topCards)
+    botCards = []
+    for c in me.sideboard:
+        botCards.append(c)
+        c.peek()
+    dlg = cardDlg(topCards, botCards)
+    dlg.title = "Sideboarding"
+    dlg.label = "Deck"
+    dlg.bottomLabel = "Sideboard"
+    dlg.text = "Move cards between your deck and sideboard."
+    cards = dlg.show()
+    for c in reversed(dlg.list):
+        c.moveTo(me.Deck)
+    for c in dlg.bottomList:
+        c.moveTo(me.sideboard)
+    me.Deck.visibility = "none"
+    me.Sideboard.visibility = "Me"
