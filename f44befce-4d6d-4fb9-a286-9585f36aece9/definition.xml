@@ -4,7 +4,7 @@
       name="Transformers" 
       id="f44befce-4d6d-4fb9-a286-9585f36aece9" 
       octgnVersion="3.1.2.0" 
-      version="0.0.3.1"
+      version="0.0.3.11"
       markersize="20"
       tags="Transformers"
       description="Transformers CCG, by Hasbro.  If you have questions or feedback, please join the Discord server at https://discord.gg/AUJKdD"
@@ -41,7 +41,7 @@
 <property name="HP" type="Integer" />
 	
 <property name="Stars" type="Integer" />
-	
+
 <property name="Trait" type="String" />
 	
 <property name="Orange Pips" type="Integer" />
@@ -62,13 +62,16 @@
 
 <property name="Rarity" type="String" />
 
+<property name="Draft Type" type="String" hidden="True"/>
+
 <size name="Small" width="63" height="88" back="Cards/front.png" front="Cards/front.png"/>
+<size name="Small2" width="63" height="88" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Large" width="99" height="132" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Extra Large" width="126" height="176" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Combiner" width="160" height="224" back="Cards/front.png" front="Cards/front.png"/>
 </card>
 
-<table name="Table" visibility="undefined" ordered="False" width="500" height="425" background="Board/background.png" backgroundStyle="uniformToFill">
+<table name="Table" visibility="undefined" ordered="False" width="800" height="600" background="Board/background.png" backgroundStyle="uniformToFill">
    
 <groupaction menu="Clear targets" shortcut="Esc" execute="clearAll" />
    
@@ -77,6 +80,8 @@
 <groupaction menu="Untap All" shortcut="F1" execute="untapAll" />
    
 <groupaction menu="Grab Battle Card From Collection" execute="wish" />
+<groupaction menu="Scoop" shortcut="Ctrl+Shift+S" execute="scoop" />
+   
 <cardaction menu="Tap / Untap" default="True" shortcut="ctrl+G" execute="tap" />
    
 <cardaction menu="Discard" shortcut="Del" execute="discard" />
@@ -123,6 +128,7 @@
 
 <group name="Characters" visibility="all" icon="cards/front.png" shortcut="F7">
 <groupaction menu="Grab Character From Collection" execute="wish" />
+<groupaction menu="Play Characters" execute="playCharacters" />
 </group>
 <group name="Sideboard" visibility="me" icon="cards/front.png" collapsed="True" shortcut="F8"></group>	
     

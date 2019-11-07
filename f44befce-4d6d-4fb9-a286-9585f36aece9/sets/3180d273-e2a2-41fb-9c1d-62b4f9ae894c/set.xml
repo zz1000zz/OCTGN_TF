@@ -407,7 +407,7 @@
 <property name="Text" value="When you put this on a character -> Scrap an enemy Weapon." />
 <property name="Rarity" value="" />
 </card>
-<card id="c5e99227-56df-42b8-a8fd-09a3b457bbad" name="Erractic Lightning">
+<card id="c5e99227-56df-42b8-a8fd-09a3b457bbad" name="Erratic Lightning">
 <property name="Card Number" value="25" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />

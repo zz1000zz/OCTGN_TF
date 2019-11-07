@@ -153,7 +153,7 @@ def play(card, x = 0, y = 0): #Extra Cards will go to Drop after being played
 	mute()
 	src = card.group
 	if card.Type=="Extra": card.moveTo(card.owner.piles['Drop Zone'])
-	elif me.id == 1:
+	elif me._id == 1:
                 global xBattle
 		xBattle += 75
 		card.moveToTable(xBattle, 0)
@@ -220,15 +220,15 @@ def testing(card):
     cardsInTable = [c for c in table if c.controller == me and c.orientation != Rot270 and c.orientation != Rot180]
     flippedCardsInTable = [c for c in table if c.controller == me and c.orientation == Rot270]
     if me._id == 1:
-            x = -400
+            x = 400
             for c in cardsInTable:
-                    if c.position[0] >= (x - 150):
-                            x = c.position[0] + 150
+                    if c.position[0] >= (x - 125):
+                            x = c.position[0] + 125
     else:
-            x = 325
+            x = -475
             for c in cardsInTable:
-                    if c.position[0] < (x+150):
-                            x = c.position[0] - 150
+                    if c.position[0] < (x+125):
+                            x = c.position[0] - 125
     if me._id == 1:
             y = 0
             for c in flippedCardsInTable:
@@ -248,44 +248,36 @@ def KO(card, x=0, y=0):
     cardsInTable = [c for c in table if c.controller == me and c.orientation != Rot270 and c.orientation != Rot180]
     KOCardsInTable = [c for c in table if c.controller == me and c.orientation == Rot180]
     if me._id == 1:
-        x = -400
+        x = -500
         for c in cardsInTable:
-            if c.position[0] >= (x - 150):
-                x = c.position[0] + 350
+            if c.position[0] <= (x + 100):
+                x = c.position[0] - 150
     else:
-            x = 325
+            x = 400
             for c in cardsInTable:
-                    if c.position[0] < (x+150):
-                            x = c.position[0] - 350
+                    if c.position[0] > (x-150):
+                            x = c.position[0] - 150
     if me._id == 1:
-            y = 0
+            y = 50
             for c in KOCardsInTable:
                     if c.position[1] >= y:
                             y = c.position[1] + 20
     else:
-            y = -75
+            y = -175
             for c in KOCardsInTable:
                     if c.position[1] <= y:
                             y = c.position[1] - 20
     if KOCardsInTable:
-        notify("Yes")
         x = KOCardsInTable[0].position[0]
-    else:
-        notify("No")
     card.moveToTable(x, y)
     card.orientation = Rot180
+    card.filter = '#88ee0000'
     card.sendToBack()
 
 def unKO(card, x=0, y=0):
     mute()
-    if me._id == 1:
-        x = card.position[0] - 125
-        y = 0
-    else:
-        x = card.position[0] + 125
-        y = 75
-    card.moveToTable(x, y)
     card.orientation = 0
+    card.filter = None
 
 def randomDiscard(group):
 	mute()
@@ -375,3 +367,62 @@ def sideboard(group=me.Deck, x = 0, y = 0):
         c.moveTo(me.sideboard)
     me.Deck.visibility = "none"
     me.Sideboard.visibility = "Me"
+
+
+def playCharacters(group, x = 0, y = 0):
+    mute()
+    stars = 0
+    characters = me.characters
+    if len(me.characters) > 0:
+        for card in me.characters:
+            stars += int(card.stars)
+        if stars > 25:
+            whisper("Sorry, you have too many stars to play your characters automatically.")
+            characters = pickCharacters()
+    count = len(characters)
+    if me._id == 1:
+        if count == 1:
+            characters[0].moveToTable(-50, 20)
+            return
+        i = 0
+        for card in characters:
+            x = round(600/(count-1))*i - 350
+            card.moveToTable(x, 20)
+            i += 1
+    else:
+        i = 0
+        if count == 1:
+            characters[0].moveToTable(-50, 150)
+            return
+        for card in characters:
+            x = round(600/(count-1))*i + 250
+            card.moveToTable(x, -150)
+            i -= 1
+
+
+def scoop(prompt = False, *args):
+    mute()
+    if prompt != False:
+            if not confirm("Are you sure you want to scoop up your cards?  Current setup will be lost"):
+                    return
+    for card in table:
+        if card.owner == me: findCharacter(card)
+    for card in me.hand: findCharacter(card)
+    for card in me.piles['Scrap']: findCharacter(card)
+    notify("{} scoops up their cards.".format(me))
+
+def findCharacter(card):
+    mute()
+    if card.Type=="Character" or len(card.alternates) > 1:
+        card.moveTo(me.characters)
+    else:
+        card.moveTo(me.Deck)
+
+def pickCharacters(*args):
+    dlg = cardDlg(me.Characters)
+    dlg.title = "Choosing Card from Your Character Pile."
+    dlg.text = "You have more than 25 stars worth of characters in your Character pile.  Please choose the ones you wish to start the game with."
+    dlg.min = 0
+    dlg.max = 10
+    cardsSelected = dlg.show()
+    return cardsSelected
