@@ -180,7 +180,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="17" />
 <property name="Stars" value="12" />
-<property name="Trait" value="Leader, Ranged" />
+<property name="Trait" value="Leader, Tank, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -194,7 +194,7 @@
 <property name="ATK" value="6" />
 <property name="DEF" value="3" />
 <property name="Text" value="" />
-<property name="Trait" value="Leader, Tank, Ranged" />
+<property name="Trait" value="Leader, Ranged" />
 </alternate>
 </card>
 <card id="8801bad8-6d23-4a99-9587-932ddf38aaaa" name="MTX-M2 Anit-Gravity Cannon" size="Small">
@@ -215,7 +215,7 @@
 <property name="Rarity" value="" />
 <property name="Draft Type" value="" />
 </card>
-<card id="be368a06-b001-45cb-bd26-56148491c7b2" name="MTX-S2a Guided Missile Launcher" size="Small">
+<card id="be368a06-b001-45cb-bd26-56148491c7b2" name="MTX-S2A Guided Missile Launcher" size="Small">
 <property name="Card Number" value="T10" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
@@ -975,8 +975,8 @@
 <property name="Card Number" value="T42" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
-<property name="DEF" value="12" />
-<property name="HP" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="12" />
 <property name="Stars" value="7" />
 <property name="Trait" value="Car, Melee" />
 <property name="Orange Pips" value="" />
@@ -1134,7 +1134,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
+<property name="Faction" value="Decepticon" />
 <property name="Text" value="" />
 <property name="Rarity" value="" />
 <property name="Draft Type" value="" />
@@ -1152,7 +1152,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
+<property name="Faction" value="Decepticon" />
 <property name="Text" value="" />
 <property name="Rarity" value="" />
 <property name="Draft Type" value="" />
