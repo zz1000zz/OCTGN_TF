@@ -35,7 +35,6 @@ def awaken(card, x = 0, y = 0):
                 whisper("Sorry, something went wrong.")
 	elif card.alternate == card.alternates[1]:
             try:
-                notify("yes")
                 card.alternate = card.alternates[2]
                 card.Type = "Character"
                 notify("{}'s' {} switches to its {} Mode.".format(me, card, card.alternates[2]))
