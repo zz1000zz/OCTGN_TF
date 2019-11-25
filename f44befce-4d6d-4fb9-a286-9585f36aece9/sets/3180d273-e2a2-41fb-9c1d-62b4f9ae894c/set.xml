@@ -1485,8 +1485,8 @@
 <property name="Card Number" value="T02" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
-<property name="DEF" value="8" />
-<property name="HP" value="0" />
+<property name="DEF" value="0" />
+<property name="HP" value="8" />
 <property name="Stars" value="5" />
 <property name="Trait" value="Aerialbot/Plane/Ranged" />
 <property name="Orange Pips" value="" />
