@@ -1,5 +1,6 @@
 import re
-
+cardsUndo = []
+cardsUndoRef = []
 CounterMarker =("Damage", "0f74413d-45d6-4c52-b584-201b99af4125")
 
 ####################################################
@@ -24,8 +25,6 @@ def untapAll(group, x = 0, y = 0): #Modified it to account for Energy which will
 
 def awaken(card, x = 0, y = 0): 
 	mute()
-##	notify(str(card.alternates))
-##	notify(card.alternate)
 	if card.alternate == card.alternates[0]:
             try:
                 card.alternate = 'bot'
@@ -166,7 +165,7 @@ def flip1(count=1):
     mute()
     flipMany(0,1)
 
-def flipMany(group, count=None, w=0, o=0, b=0, g=0):
+def flipMany(group, count=None, w=0, o=0, u=0, b=0, g=0):
     mute()
     x = 0
     try:
@@ -196,17 +195,21 @@ def flipMany(group, count=None, w=0, o=0, b=0, g=0):
         except:
             pass
         try:
-            b += int(card.properties["Blue Pips"])
+            u += int(card.properties["Blue Pips"])
         except:
             pass
         try:
             g += int(card.properties["Green Pips"])
         except:
             pass
+        try:
+            b += int(card.properties["Black Pips"])
+        except:
+            pass
         if len(me.Deck) == 0:
             reshuffle(False)
         count -= 1
-    notify("{} flips {} orange pips, {} blue pips {} white pips and {} green pips!".format(me, o, b, w, g))
+    notify("{} flips {} orange pips, {} blue pips {} white pips {} green pips and {} black pips!".format(me, o, u, w, g, b))
         
 def flipBattle(count=1, card=None):
     mute()
@@ -318,7 +321,11 @@ def drawMany(group, count = None):
 	mute()
 	if count == None: count = askInteger("Draw how many cards?", 0)
 	if count == None: count = 0
-	for card in group.top(count): card.moveTo(me.hand)
+	for card in group.top(count):
+            if group == me.Deck:
+                if len(me.Deck) == 0:
+                    reshuffle(False)
+            card.moveTo(me.hand)
 	notify("{} draws {} cards.".format(me, count))
 
 def drawBottom(group, x = 0, y = 0):
@@ -425,3 +432,39 @@ def pickCharacters(*args):
     dlg.max = 10
     cardsSelected = dlg.show()
     return cardsSelected
+
+def undo(args):
+    mute()
+    global cardsUndo
+    if len(cardsUndo) == 0:
+        whisper("Sorry, we have no saved card movements to undo.")
+        return
+    lastMove = cardsUndo.pop()
+    index = 0
+    for card in lastMove.cards:
+        oldCoords = (lastMove.xs[index], lastMove.ys[index])
+        newCoords = (card.position[0], card.position[1])
+        group = lastMove.fromGroups[index]
+        if group == table:
+            card.moveToTable(oldCoords[0], oldCoords[1])
+        else:
+            card.moveTo(group)
+        index += 1
+        notify("{} undoes their last card movement.".format(me))
+
+def onCardsMoved(args):
+    mute()
+    global cardsUndo
+    global cardsUndoRef
+    i = 0
+    for entry in cardsUndoRef:
+        if entry.cards[0].name == args.cards[0].name and entry.fromGroups[0] == args.cards[0].group:
+            cardsUndoRef.pop(i)
+            return()
+        i += 1
+    cardsUndo.append(args)
+    cardsUndoRef.append(args)
+    if len(cardsUndo) > 10:
+        cardsUndo.pop(0)
+    if len(cardsUndoRef) > 20:
+        cardsUndo.pop(0)
