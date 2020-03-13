@@ -136,6 +136,12 @@ def addCounter(card, x = 0, y = 0):
 	notify("{} adds 1 counter to {}.".format(me, card))
 	card.markers[CounterMarker] += 1
 
+def addCounterX(card, x = 0, y = 0):
+	mute()
+	quantity = askInteger("How many counters", 0)
+	notify("{} adds {} counter to {}.".format(me, quantity, card))
+	card.markers[CounterMarker] += quantity
+
 def removeCounter(card, x = 0 , y = 0):
 	mute()
 	notify("{} removes 1 counter to {}.".format(me, card))
