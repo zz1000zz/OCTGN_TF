@@ -1,780 +1,1221 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 5" id="4ddbcc4c-be2e-415c-b0af-9e27510578b3" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
 <cards>
-    <!-- Bodies -->
-<card id="2844bf1a-5bf6-45b1-b376-d2514c60d9df" name="Autobot Nautica - Camien Engineer" size="Large">
-<property name="Card Number" value="T03" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="10" />
-<property name="DEF" value="1" />
-<property name="Stars" value="8" />
-<property name="Trait" value="Boat, Specialist" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When this defends against a Car, Truck, or tank, and you flip at least [B] -> This gets +1 [DEF] until end of battle for each [B] you flipped. "/>
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Autobot Nautica - Camien Engineer" type="bot">
-<property name="ATK" value="5" />
-<property name="HP" value="10" />
-<property name="DEF" value="1" />
-<property name="Trait" value="Specialist" />
-<property name="Text" value="When this defends -> You may play an Armor onto her. " />
-</alternate>
-</card>
-<card id="0778dae0-4a29-4c26-819c-8f246f3958e4" name="Perceptor - Precise Sniper" size="Large">
-<property name="Card Number" value="P06/2020" />
-<property name="Type" value="Character" />
-<property name="ATK" value="3" />
-<property name="HP" value="12" />
-<property name="DEF" value="2" />
-<property name="Stars" value="8" />
-<property name="Trait" value="Wrecker, Specialist" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> Reveal the top 4 cards of your deck. Your opponent separates those cards into 2 piles. Put 1 pile into your hand and the other under this face down. "/>
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Perceptor - Precise Sniper" type="bot">
-<property name="ATK" value="3" />
-<property name="HP" value="12" />
-<property name="DEF" value="1" />
-<property name="Trait" value="Wrecker, Ranged" />
-<property name="Text" value="This has +1 [ATK] for each card under him. "/>
-</alternate>
-</card>
-<card id="678de8bd-7d27-4619-b0ad-ff99b07d1ce4" name="Brainstorm - Biomechanical Engineer" size="Large">
-<property name="Card Number" value="T10" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="12" />
-<property name="DEF" value="2" />
-<property name="Stars" value="9" />
-<property name="Trait" value="Plane, Ranged" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> Look at the top card of your deck. If it's an Upgrade, you may play it. "/>
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Brainstorm - Biomechanical Engineer" type="bot">
-<property name="ATK" value="4" />
-<property name="HP" value="12" />
-<property name="DEF" value="2" />
-<property name="Trait" value="Ranged" />
-<property name="Text" value="When this attacks and you flip at least one Upgrade -> You may put one of the Upgrades you flipped into your hand after the battle. "/>
-</alternate>
-</card>
-<card id="a00c0196-5f83-40bb-abe8-078227ccf8d1" name="Chromedome - Computer Programmer" size="Large">
-<property name="Card Number" value="T10" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="13" />
-<property name="DEF" value="2" />
-<property name="Stars" value="8" />
-<property name="Trait" value="Car, Specialist" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When this attacks and your opponent has 3 or more Actions in their KO area -> This gets +3 [ATK] until end of turn. " />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Chromedome - Computer Programmer" type="bot">
-<property name="ATK" value="5" />
-<property name="HP" value="13" />
-<property name="DEF" value="1" />
-<property name="Trait" value="Specialist" />
-<property name="Text" value="When you flip to this mode -> Look at your opponent's hand and put an Action from it into their KO area. " />
-</alternate>
-</card>
-<card id="aef48ec2-3c31-4502-978c-92a78e73455f" name="Horri-Bull - Ground Trooper" size="Large">
-<property name="Card Number" value="T25" />
-<property name="Type" value="Character" />
-<property name="ATK" value="3" />
-<property name="HP" value="9" />
-<property name="DEF" value="2" />
-<property name="Stars" value="6" />
-<property name="Trait" value="Beast, Melee" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> Move 1 damage counter from this to an enemy. " />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Horri-Bull - Ground Trooper" type="bot">
-<property name="ATK" value="4" />
-<property name="HP" value="9" />
-<property name="DEF" value="1" />
-<property name="Trait" value="Melee" />
-<property name="Text" value="When you play a [K] card -> Do 1 damage to an enemy and 1 damage to this. " />
-</alternate>
-</card>
-<card id="fb1a1a6a-a3ec-4097-9e9c-d6c1e42eb5bb" name="Sergeant Kup - Wrecker Leader" size="Large">
-<property name="Card Number" value="T35" />
-<property name="Type" value="Character" />
-<property name="ATK" value="3" />
-<property name="HP" value="10" />
-<property name="DEF" value="2" />
-<property name="Stars" value="7" />
-<property name="Trait" value="Leader, Truck, Wrecker, Ranged" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Tough 1. When one of your Wreckers takes 1 or more damage during your turn -> It gets that much +Attack until end of turn. " />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Sergeant Kup - Wrecker Leader" type="bot">
-<property name="ATK" value="4" />
-<property name="HP" value="10" />
-<property name="DEF" value="2" />
-<property name="Trait" value="Leader, Wrecker, Ranged" />
-<property name="Text" value="When you flip to this mode -> You may scrap a [B] card from your hand. If you do, scrap an enemy Upgrade. " />
-</alternate>
-</card>
-<card id="d25abbd4-e01d-4c55-95b2-3f933f8c983a" name="Skullsmasher - Swamp Warrior" size="Large">
-<property name="Card Number" value="T36" />
-<property name="Type" value="Character" />
-<property name="ATK" value="6" />
-<property name="HP" value="14" />
-<property name="DEF" value="1" />
-<property name="Stars" value="11" />
-<property name="Trait" value="Beast, Melee" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Whie this is attacking an Autobot -> This has Pierce 3. "/>
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Skullsmasher - Swamp Warrior" type="bot">
-<property name="ATK" value="5" />
-<property name="HP" value="14" />
-<property name="DEF" value="2" />
-<property name="Trait" value="Melee" />
-<property name="Text" value="When an enemy that has fewer Stars than this becomes tapped -> Do 1 damage to that enemy. When an enemy that has more Stars than this becomes tapped -> Do 1 damage to this. "/>
-</alternate>
-</card>
-<card id="0299e978-2679-46e9-87e6-14d76986d93c" name="Twin Twist - Demolitions" size="Large">
-<property name="Card Number" value="T41" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="12" />
-<property name="DEF" value="2" />
-<property name="Stars" value="9" />
-<property name="Trait" value="Tank, Wrecker, Melee" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> This gets Pierce 3 until end of turn. " />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Twin Twist - Demolitions" type="bot">
-<property name="ATK" value="5" />
-<property name="HP" value="12" />
-<property name="DEF" value="2" />
-<property name="Trait" value="Wrecker, Melee" />
-<property name="Text" value="When you flip to this mode -> Your opponent chooses one of their characters and does 1 damage to it. If you flipped this character at least 2 times this turn, instead do 1 damage to each enemy. "/>
-</alternate>
-</card>
-<card id="087d6419-0688-4152-a233-ff0ecad77fa5" name="Wolfwire - Ground Tracker" size="Large">
-<property name="Card Number" value="T46" />
-<property name="Type" value="Character" />
-<property name="ATK" value="5" />
-<property name="HP" value="12" />
-<property name="DEF" value="2" />
-<property name="Stars" value="9" />
-<property name="Trait" value="Beast, Melee" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> You may scrap a [G] card from your hand. If you do, draw 2 cards. " />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Body Character" />
-<alternate name="Wolfwire - Ground Tracker" type="bot">
-<property name="ATK" value="6" />
-<property name="HP" value="12" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Melee" />
-<property name="Text" value="When this battles -> Instead of swapping a card from your hand with one of your flipped [G] cards after the battle, you may put one of those [G] cards into your hand. "/>
-</alternate>
-</card>
-    <!-- Heads -->
-<card id="054568c5-0443-4da9-b2b8-c87e6f9408ba" name="Autobot Stylor" size="Small">
-<property name="Card Number" value="T05" />
-<property name="Type" value="Character" />
+<card id="964905e1-27c5-4e4c-a758-80584221d04b" name="Belligerence">
+<property name="Card Number" value="1" />
+<property name="Type" value="Action" />
 <property name="ATK" value="" />
-<property name="HP" value="" />
 <property name="DEF" value="" />
-<property name="Stars" value="2" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Until end of turn -> Each [B] either player flips during a battle is a [O] instead. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="be2c5c09-706c-4659-b5e8-f89893266f74" name="">
+<property name="Card Number" value="2" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="+ 1 [DEF]" />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Autobot Stylor" type="bot">
-<property name="ATK" value="2" />
-<property name="HP" value="1" />
-<property name="DEF" value="1" />
-<property name="Trait" value="Titan Master, Ranged" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
 <property name="Text" value="" />
-</alternate>
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="1edbfcd5-d132-45fb-ace9-220110854c82" name="Autobot Teslor" size="Small">
-<property name="Card Number" value="T06" />
-<property name="Type" value="Character" />
+<card id="e0e52253-e12a-426d-be3a-0b73b2cc2a32" name="Brass Knuckles">
+<property name="Card Number" value="3" />
+<property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
-<property name="HP" value="" />
 <property name="DEF" value="" />
-<property name="Stars" value="2" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
+<property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="+ Focus 1" />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Autobot Teslor" type="bot">
-<property name="ATK" value="2" />
-<property name="HP" value="1" />
-<property name="DEF" value="1" />
-<property name="Trait" value="Titan Master, Specialist" />
-<property name="Text" value="Focus 1" />
-</alternate>
-</card>
-<card id="39bf9954-15e8-4666-a6ed-bf36f26ab491" name="Flintlock" size="Small">
-<property name="Card Number" value="T22" />
-<property name="Type" value="Character" />
-<property name="ATK" value="" />
-<property name="HP" value="" />
-<property name="DEF" value="" />
-<property name="Stars" value="4" />
-<property name="Trait" value="" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="+ Tough 3" />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Flintlock" type="bot">
-<property name="ATK" value="4" />
-<property name="HP" value="4" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Titan Master, Melee" />
-<property name="Text" value="Tough 3" />
-</alternate>
-</card>
-<card id="75159043-fa8f-4899-b4af-7f8a8d8d0bc4" name="Grax" size="Small">
-<property name="Card Number" value="T24" />
-<property name="Type" value="Character" />
-<property name="ATK" value="" />
-<property name="HP" value="" />
-<property name="DEF" value="" />
-<property name="Stars" value="3" />
-<property name="Trait" value="" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="+ 5 [HEALTH]" />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Grax" type="bot">
-<property name="ATK" value="4" />
-<property name="HP" value="5" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Titan Master, Melee" />
-<property name="Text" value="" />
-</alternate>
-</card>
-<card id="a393ef7f-d516-4d70-9684-9aa705399173" name="Kreb" size="Small">
-<property name="Card Number" value="T26" />
-<property name="Type" value="Character" />
-<property name="ATK" value="" />
-<property name="HP" value="" />
-<property name="DEF" value="" />
-<property name="Stars" value="1" />
-<property name="Trait" value="" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="+ 2 [HEALTH]" />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Grax" type="bot">
-<property name="ATK" value="2" />
-<property name="HP" value="2" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Titan Master, Melee" />
-<property name="Text" value="" />
-</alternate>
-</card>
-<card id="3060edb5-02d7-42c1-9f7d-3a7db087dfe9" name="Flameout" size="Small">
-<property name="Card Number" value="T21" />
-<property name="Type" value="Character" />
-<property name="ATK" value="" />
-<property name="HP" value="" />
-<property name="DEF" value="" />
-<property name="Stars" value="3" />
-<property name="Trait" value="" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="+ Bold 2" />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Flameout" type="bot">
-<property name="ATK" value="2" />
-<property name="HP" value="2" />
-<property name="DEF" value="1" />
-<property name="Trait" value="Titan Master, Melee" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
 <property name="Text" value="Bold 2" />
-</alternate>
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="fcccddbb-13d3-4bda-9460-ec90f336a45a" name="Arcana" size="Small">
-<property name="Card Number" value="P01/2020" />
-<property name="Type" value="Character" />
+<card id="bf79a6cc-74e7-4c97-95be-f9bd9efa7a7d" name="">
+<property name="Card Number" value="4" />
+<property name="Type" value="" />
 <property name="ATK" value="" />
-<property name="HP" value="" />
 <property name="DEF" value="" />
-<property name="Stars" value="4" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="+ 2 [DEF]" />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Arcana" type="bot">
-<property name="ATK" value="4" />
-<property name="HP" value="2" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="30cd274c-926c-4000-ad71-19fb293f2e1c" name="">
+<property name="Card Number" value="5" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="1a3ff2c2-086f-4207-98aa-ae77e150b38e" name="">
+<property name="Card Number" value="6" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="755b35c0-285f-4cc2-acd8-e5d008abe86a" name="">
+<property name="Card Number" value="7" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="23eb3461-a3fb-48fb-a9dd-26a8f9f7ca95" name="Crystal of Power">
+<property name="Card Number" value="8" />
+<property name="Type" value="Upgrade - Weapon Armor" />
+<property name="ATK" value="3" />
 <property name="DEF" value="2" />
-<property name="Trait" value="Titan Master, Melee" />
-<property name="Text" value="" />
-</alternate>
-</card>
-<card id="15185556-a783-4b7f-b410-eef4eacf3dbd" name="Convex" size="Small">
-<property name="Card Number" value="P05/2020" />
-<property name="Type" value="Character" />
-<property name="ATK" value="" />
 <property name="HP" value="" />
-<property name="DEF" value="" />
-<property name="Stars" value="4" />
+<property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="+ Safeguard 3" />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Convex" type="bot">
-<property name="ATK" value="4" />
-<property name="HP" value="4" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Titan Master, Ranged" />
-<property name="Text" value="Safeguard 3" />
-</alternate>
-</card>
-<card id="54a8ae4d-a586-4a06-92d6-3492975d67e4" name="Monxo" size="Small">
-<property name="Card Number" value="T29" />
-<property name="Type" value="Character" />
-<property name="ATK" value="" />
-<property name="HP" value="" />
-<property name="DEF" value="" />
-<property name="Stars" value="2" />
-<property name="Trait" value="" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="+ 1 [ATK]" />
+<property name="Black Pips" value="1" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="When the upgraded character battles -> Scrap this card after the battle. " />
 <property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Monxo" type="bot">
-<property name="ATK" value="3" />
-<property name="HP" value="2" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Titan Master, Melee" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="05313aa4-8157-43fa-b354-e73251e78005" name="">
+<property name="Card Number" value="9" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
 <property name="Text" value="" />
-</alternate>
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="e0591c2c-4b94-4e53-91ae-5a7380bbc8e6" name="Ominus" size="Small">
-<property name="Card Number" value="T31" />
-<property name="Type" value="Character" />
+<card id="537dbd2e-d8c7-442f-8579-15066e605c45" name="">
+<property name="Card Number" value="10" />
+<property name="Type" value="" />
 <property name="ATK" value="" />
-<property name="HP" value="" />
 <property name="DEF" value="" />
-<property name="Stars" value="3" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="d93e7fc5-6d83-42dc-b12a-eff747fd2b5a" name="Electro-Optical Visor">
+<property name="Card Number" value="11" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="ATK" value="" />
+<property name="DEF" value="1" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="1" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="+ Pierce 4" />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Ominus" type="bot">
-<property name="ATK" value="3" />
-<property name="HP" value="2" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Titan Master, Melee" />
-<property name="Text" value="Pierce 4" />
-</alternate>
+<property name="Text" value="When you put this on a Decepticon -> Your opponent reveals their hand, chooses an Autobot card from it, and scraps that card. " />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="1eb37cf8-586e-4719-a065-3d01e7a15a85" name="Parsec" size="Small">
-<property name="Card Number" value="T33" />
-<property name="Type" value="Character" />
+<card id="a6a3982e-0351-45fe-aef5-93932cc3d283" name="">
+<property name="Card Number" value="12" />
+<property name="Type" value="" />
 <property name="ATK" value="" />
-<property name="HP" value="" />
 <property name="DEF" value="" />
-<property name="Stars" value="1" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="+ Bold 1" />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Head Character" />
-<alternate name="Parsec" type="bot">
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="9c426b2c-2f79-44fc-9bd1-4dde97f2c42e" name="">
+<property name="Card Number" value="13" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="3d51894b-9617-4a12-8101-6a1432352d8a" name="">
+<property name="Card Number" value="14" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="f0523589-8f60-4134-9fd6-d1a6f52ff66b" name="Energon Mace">
+<property name="Card Number" value="15" />
+<property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
-<property name="HP" value="1" />
-<property name="DEF" value="0" />
-<property name="Trait" value="Titan Master, Ranged" />
-<property name="Text" value="Bold 1" />
-</alternate>
-</card>
-    <!-- Other Large Characters -->
-<card id="cd089d15-ea99-4ced-bb21-d8c9ac70f1c0" name="Autobot Gears - Transport &amp; Reconnaisance" size="Large">
-<property name="Card Number" value="T02" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="10" />
-<property name="DEF" value="2" />
-<property name="Stars" value="7" />
-<property name="Trait" value="Truck, Specialist" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
 <property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
+<property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> Move an Upgrade from an enemy to another enemy. " />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Gears - Transport &amp; Reconnaisance" type="bot">
-<property name="ATK" value="3" />
-<property name="DEF" value="3" />
-<property name="Text" value="When you flip to this mode -> Return an Upgrade on an enemy to its owner's hand. " />
-<property name="Trait" value="Specialist" />
-</alternate>
-</card>
-<card id="b92f5778-50bd-44eb-95a5-806d3431bc5d" name="Bludgeon - Electric Warrior" size="Large">
-<property name="Card Number" value="T09" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="13" />
-<property name="DEF" value="3" />
-<property name="Stars" value="11" />
-<property name="Trait" value="Tank, Ranged" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Pierce 1. Tough 1." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Bludgeon - Electric Warrior" type="bot">
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="Text" value="When an enemy takes non-attack damage -> It gets -1 [DEF] until end of turn. " />
-<property name="Trait" value="Melee" />
-</alternate>
-</card>
-<card id="f6f88efc-e457-4a6d-8a28-143129e75a3d" name="Brawn - Demolitions" size="Large">
-<property name="Card Number" value="T11" />
-<property name="Type" value="Character" />
-<property name="ATK" value="3" />
-<property name="HP" value="9" />
-<property name="DEF" value="2" />
-<property name="Stars" value="5" />
-<property name="Trait" value="Truck, Melee" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When this attacks an enemy that has more Stars than him and you flip battle cards -> This gets Pierce 1 until end of battle for each different color among battle icons you flipped. " />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Brawn - Demolitions" type="bot">
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this defends an enemy that has more Stars than him and you flip battle cards -> This gets +1 [DEF] until end of battle for each different color among battle icons you flipped. "/>
-<property name="Trait" value="Melee" />
-</alternate>
-</card>
-<card id="d3e76e9f-bf39-4841-8fef-29cbd784c680" name="Sky Shadow (Plane)" size="Large">
-<property name="Card Number" value="T37" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="10" />
-<property name="DEF" value="2" />
-<property name="Stars" value="7" />
-<property name="Trait" value="Plane, Ranged" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Bold 2" />
+<property name="Text" value="While the upgraded character is attacking an Autobot -> The upgraded character has +1 [ATK]. While the upgraded character is attacking an Autobot Leader -> The upgraded character has Pierce 3. " />
 <property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="5a29f951-4639-41db-92f9-2e07b4bf56d0" name="Sky Shadow (Tank)" size="Large">
-<property name="Card Number" value="T38" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="10" />
-<property name="DEF" value="2" />
-<property name="Stars" value="7" />
-<property name="Trait" value="Tank, Ranged" />
+<card id="0ffdbfaa-0ced-469d-97cb-3eff30713865" name="">
+<property name="Card Number" value="16" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Tough 2" />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="4ad0e739-5eff-4032-937a-d9df26c30659" name="Tracks - Autobot Warrior" size="Large">
-<property name="Card Number" value="T40" />
-<property name="Type" value="Character" />
-<property name="ATK" value="4" />
-<property name="HP" value="13" />
-<property name="DEF" value="2" />
-<property name="Stars" value="9" />
-<property name="Trait" value="Car, Melee" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> One of your characters gets +1 [ATK] until end of turn. If it shares a trait with this, it gets +2 [ATK] until end of turn instead. " />
-<property name="Rarity" value="Super Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Tracks - Autobot Warrior" type="bot">
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this attacks -> Do 1 damage to an enemy that isn't a Car or Plane. " />
-<property name="Trait" value="Melee" />
-</alternate>
-</card>
-<card id="f1c4c9da-a9e2-42dc-adf1-cde29bc1c2b0" name="Windsweeper - Air Defense" size="Large">
-<property name="Card Number" value="T44" />
-<property name="Type" value="Character" />
-<property name="ATK" value="5" />
-<property name="HP" value="15" />
-<property name="DEF" value="1" />
-<property name="Stars" value="10" />
-<property name="Trait" value="Plane, Ranged" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks -> If you had at least 2 Planes on your starting team, move 2 damage counters from this to the defender. Otherwise, move 1 damage counter from this to the defender. "/>
-<property name="Rarity" value="Super Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Windsweeper - Air Defense" type="bot">
-<property name="ATK" value="4" />
-<property name="DEF" value="2" />
-<property name="Text" value="When one of your other characters attacks -> You may move 1 damage counter from it to this. " />
-<property name="Trait" value="Plane, Ranged" />
-</alternate>
-</card>
-<card id="54eb9d29-deb3-4130-8b39-e1faf7fa0ebc" name="Wingspan - Data Processor" size="Large">
-<property name="Card Number" value="T45" />
-<property name="Type" value="Character" />
-<property name="ATK" value="3" />
-<property name="HP" value="11" />
-<property name="DEF" value="2" />
-<property name="Stars" value="8" />
-<property name="Trait" value="Beast, Specialist" />
-<property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> Draw a card. This has +1 [DEF] for each card under him. " />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Wingspan - Data Processor" type="bot">
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="When an Upgrade is scrapped from this -> Put it under him. " />
-<property name="Trait" value="Specialist" />
-</alternate>
-</card>
-<card id="621e3b55-e50a-43bf-aa9e-d95942278946" name="Tidal Wave - Dark Fleet (Aircraft Carrier)" size="Large">
-<property name="Card Number" value="P02/2020" />
-<property name="Type" value="Character" />
+<card id="d1aa1f10-71fe-4e3f-be34-70244370bff2" name="Escape Capsule">
+<property name="Card Number" value="17" />
+<property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
-<property name="HP" value="6" />
-<property name="DEF" value="2" />
-<property name="Stars" value="8" />
-<property name="Trait" value="Boat, Specialist" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="1" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="When you deploy the upgraded character's head -> Put this and any other Upgrades that were on the upgraded character onto the deployed character. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="52db679d-04b3-4825-ba39-5a49e7d312c5" name="Fusion Borer">
+<property name="Card Number" value="18" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="This starts the game with a Plane, or Helicopter under it that costs 4 Stars or fewer. When this attacks, combines, or is KO'd -> Deploy the character under it to the battlefield in alt mode. If this is attacking you get an extra attack this turn, but only with the deployed character." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
+<property name="Black Pips" value="1" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Pierce 3. When the upgraded character attacks -> Scrap this card after the battle. " />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="d46ca008-31d6-4a47-97de-0927afe1cc41" name="Tidal Wave - Dark Fleet (Transport)" size="Large">
-<property name="Card Number" value="P03/2020" />
-<property name="Type" value="Character" />
-<property name="ATK" value="0" />
-<property name="HP" value="5" />
+<card id="cae57ab6-4746-47ba-b021-daeee305c39a" name="Ghost Shield">
+<property name="Card Number" value="19" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="ATK" value="" />
 <property name="DEF" value="3" />
-<property name="Stars" value="8" />
-<property name="Trait" value="Boat, Specialist" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Play this only to replace an Armor on a character that has no empty Armor slots. If an opponent's card would cause this to be scrapped from a character -> You may scrap an Armor from your hand instead. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="bf798726-a252-4a3b-a6c9-53dc353fa228" name="Grav-Inhibitor">
+<property name="Card Number" value="20" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="1" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Pierce 3" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="7937958e-8ea9-428f-a971-3796ce1396ce" name="">
+<property name="Card Number" value="21" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="This starts the game with a Car, Tank, or Truck under it that costs 4 Stars or fewer. When this attacks, combines, or is KO'd -> Deploy the character under it to the battlefield in alt mode. If this is attacking you get an extra attack this turn, but only with the deployed character." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="d8fef5c7-a3a8-487a-979a-af6d42e03215" name="Tidal Wave - Dark Fleet (Battleship)" size="Large">
-<property name="Card Number" value="P04/2020" />
-<property name="Type" value="Character" />
+<card id="54f7fd8e-1d78-41d5-b3dc-ca5a1c7a76c8" name="">
+<property name="Card Number" value="22" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="f7504937-4202-4120-bd7b-e78d7fdeb97b" name="Headbutt">
+<property name="Card Number" value="23" />
+<property name="Type" value="Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="2" />
+<property name="Hybrid Pip Trait" value="Titan Master" />
+<property name="Faction" value="" />
+<property name="Text" value="Tap one of your characters in body mode -> Tap an enemy that has 10 Stars or fewer and is in bot mode or body mode. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a1bd9485-f8af-4f0e-bbcd-69a82f704588" name="">
+<property name="Card Number" value="24" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="605bb5aa-0045-4e7e-8c5b-f42105ea682b" name="">
+<property name="Card Number" value="25" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="7c2d5fc2-c141-42b8-9781-797c0da52049" name="Hold The Line">
+<property name="Card Number" value="26" />
+<property name="Type" value="Secret Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Reveal -> When one of your characters defends. When Revealed -> Repair 1 damage from the defender. It can't take more attack damage this battle than the number of Stars the attacker has." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a8087961-be37-4d7f-b977-3d5b329c147f" name="">
+<property name="Card Number" value="27" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="205212c0-81a5-42c2-8a12-b849c18cdb8b" name="Hull Down">
+<property name="Card Number" value="28" />
+<property name="Type" value="Secret Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="Tank" />
+<property name="Faction" value="" />
+<property name="Text" value="Reveal -> When one of your characters defends. When Revealed -> The defender gets Tough 4 until end of battle. " />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="ad9cb4b3-eba1-452e-b83d-378bfeaa20d2" name="">
+<property name="Card Number" value="29" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="bd1ce539-9e69-413a-8a51-afcd03ad88e2" name="">
+<property name="Card Number" value="30" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="bde0d792-41d1-439e-aa01-c02a0f9579d7" name="Intrusion Countermeasures Software">
+<property name="Card Number" value="31" />
+<property name="Type" value="Secret Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="1" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Reveal -> If an opponent's card would cause you to scrap one or more cards from your hand during their turn. When Revealed -> Instead draw 2 cards. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a1f06a25-2512-4728-856b-69b686decded" name="Junk Cannon">
+<property name="Card Number" value="32" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="When you put this or another Upgrade on the upgraded character -> It gets +2 [ATK] until end of turn." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="9c496fc1-a1f8-4199-b451-b7254a29d594" name="">
+<property name="Card Number" value="33" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="1ab157a7-cb87-4abc-9840-c5ada9a11047" name="">
+<property name="Card Number" value="34" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="778a449a-5824-4dfb-a379-4538727d0f08" name="Lock On Target">
+<property name="Card Number" value="35" />
+<property name="Type" value="Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="1" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="Plane" />
+<property name="Faction" value="" />
+<property name="Text" value="One of your characters gets Bold 4 until end of turn. " />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="d4bd3776-1f38-48f7-9424-3db6639fd12f" name="">
+<property name="Card Number" value="36" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a9083f1d-92ec-4b86-ab25-17f882c95265" name="">
+<property name="Card Number" value="37" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="fa253342-4ab5-43be-acc9-646e563f86a3" name="">
+<property name="Card Number" value="38" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="c60b9d9a-a3f5-4151-b2e1-60a24d88fe49" name="Master of Metallikato">
+<property name="Card Number" value="39" />
+<property name="Type" value="Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="1" />
+<property name="Hybrid Pip Trait" value="Specialist, Ranged, Melee" />
+<property name="Faction" value="" />
+<property name="Text" value="Choose one of your characters. When it attacks this turn and you flip battle cards -> It gets +1 [ATK] until end of battle for each different color among battle icons you flipped. "/>
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="829c8db2-889a-401c-99e0-11edc60cf4e4" name="Master Sword">
+<property name="Card Number" value="40" />
+<property name="Type" value="" />
 <property name="ATK" value="4" />
-<property name="HP" value="10" />
-<property name="DEF" value="1" />
-<property name="Stars" value="8" />
-<property name="Trait" value="Boat, Ranged" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
 <property name="Orange Pips" value="" />
-<property name="Blue Pips" value="" />
+<property name="Blue Pips" value="1" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Stealth. When your second character is KO'd this game and you had Tidal Wave, Dark Fleet (Aircraft Carrier) and Tidal Wave, Dark Fleet (Transport) on your starting team -> Combine them with this into Tidal Wave, Dark Fleet. " />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Play this only to replace a Weapon on a character that has no empty Weapon slots. If an opponent's card would cause this to be scrapped from a character -> You may scrap a Weapon from your hand instead. " />
 <property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-    <!-- Combiners -->
-<card id="0c2b5afe-10d8-41af-b690-7bef67b729e9" name="Sky Shadow - Elite Warrior" size="Large">
-<property name="Card Number" value="T37-38" />
-<property name="Type" value="Character" />
-<property name="ATK" value="8" />
-<property name="HP" value="20" />
-<property name="DEF" value="2" />
-<property name="Stars" value="14" />
-<property name="Trait" value="Ranged" />
+<card id="ea76aeef-06fd-43af-b81e-2e91fcba0391" name="">
+<property name="Card Number" value="41" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Bold 2. Tough 2. When this is combined -> Do 3 damage to an enemy Autobot. " />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
 <property name="Rarity" value="" />
-<property name="Draft Type" value="Excluded" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-<card id="c4b77ca9-002a-45f7-846e-5e6bb287f25b" name="Tidal Wave - Dark Fleet" size="Large">
-<property name="Card Number" value="" />
-<property name="Type" value="Character" />
-<property name="ATK" value="7" />
-<property name="HP" value="21" />
-<property name="DEF" value="2" />
-<property name="Stars" value="24" />
-<property name="Trait" value="Ranged" />
+<card id="b2877587-b00a-4d92-8614-dee3b7be855e" name="">
+<property name="Card Number" value="42" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When this is combined -> Tap an enemy. " />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
 <property name="Rarity" value="" />
-<property name="Draft Type" value="Excluded" />
+<property name="Draft Type" value="Battle Card" />
 </card>
-    <!-- Stratagems -->
+<card id="fc4a6acb-75a9-4e31-b5af-9dc45b306d5a" name="">
+<property name="Card Number" value="43" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="23082d63-c78f-4c94-ae66-be6c8a727d45" name="">
+<property name="Card Number" value="44" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="bd7db98a-45c5-433c-a049-9079aae5c706" name="">
+<property name="Card Number" value="45" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="fda76705-8e01-4a1a-8f4a-681600638e09" name="">
+<property name="Card Number" value="46" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a620ef46-326d-4ea9-8d7b-158ef30ae92c" name="Reflect Damage">
+<property name="Card Number" value="47" />
+<property name="Type" value="Secret Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Reveal -> If exactly one of your characters would take non-attack damage from an opponent's card. When Revealed -> Instead do that much non-attack damage to an enemy. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="4672fec8-7c72-41fc-bb60-952d674d83d4" name="">
+<property name="Card Number" value="48" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="39f8a15c-6afb-430a-aa16-934ca1f04d21" name="">
+<property name="Card Number" value="49" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="f7fa3047-e346-4ddf-8122-3b103cd8eb0d" name="Scouting Mission">
+<property name="Card Number" value="50" />
+<property name="Type" value="Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="1" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="1" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Do 1 damage to any character -> Its owner draws 2 cards. "/>
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="17aec567-e238-4166-aea0-bf803aafaf99" name="">
+<property name="Card Number" value="51" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="5edc2066-edc4-4857-8482-201d065a8ead" name="">
+<property name="Card Number" value="52" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="f5fe80fd-2ccd-46bf-bf61-d9e1f2759728" name="Speed Trap">
+<property name="Card Number" value="53" />
+<property name="Type" value="Secret Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Reveal -> When your opponent plays an Action and it's the second Action they played this turn. When Revealed -> Scrap that Action and it has no effect. Your opponent can't play Actions this turn. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="91c73d67-27ab-4bf0-b2bf-231cd76457a5" name="">
+<property name="Card Number" value="54" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="6083a329-8d80-49fb-a61a-12e059a7d7e4" name="">
+<property name="Card Number" value="55" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="929463d8-8d29-4f4c-a626-7197fecdec26" name="">
+<property name="Card Number" value="56" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="ee693443-53d0-4165-a45c-fa2f0c1fa9b8" name="Staggering Might">
+<property name="Card Number" value="57" />
+<property name="Type" value="Upgrade - Utility" />
+<property name="ATK" value="1" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="While the upgraded character has 16 Stars or more -> It has Bold 1 and Tough 1" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="bc50757e-3ae7-48cb-ba48-5716fad449d5" name="">
+<property name="Card Number" value="58" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="adc93f9a-f54e-4309-b1e1-dacbd97ce27a" name="Temporal Quagmire">
+<property name="Card Number" value="59" />
+<property name="Type" value="Secret Action" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="Reveal -> When one of your character defends. When Revealed -> Each player can't flip more than 2 battle cards during this battle. " />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="f7f0fb6e-db9c-4d23-a592-9fc78d4a4af4" name="">
+<property name="Card Number" value="60" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="8696f19c-3992-4f97-bbfd-e7c75722ae92" name="">
+<property name="Card Number" value="61" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="e52e8752-e012-44b1-8757-655ce65f3871" name="">
+<property name="Card Number" value="62" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a3ad677f-7add-4e30-9ff9-539f8fb873ed" name="">
+<property name="Card Number" value="63" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="b548b85d-1dfc-47cf-9ab7-b51197e1a2a5" name="">
+<property name="Card Number" value="64" />
+<property name="Type" value="" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="HP" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Hybrid Pip Trait" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Battle Card" />
+</card>
 <card id="0b86c54d-0d7b-4151-aeb5-9cb8aa303c5d" name="Aerial Enhancements" size="Small">
 <property name="Card Number" value="S01" />
 <property name="Type" value="Stratagem" />
@@ -792,6 +1233,25 @@
 <property name="Stratagem Target" value="Tracks - Autobot Warrior" />
 <property name="Text" value="While your Tracks, Autobot Warrior is in alt mode -> He has the Plane trait. " />
 <property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="c03a0250-f981-4235-84af-9154d66c77ad" name="" size="Small">
+<property name="Card Number" value="S02" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
 <property name="Draft Type" value="Stratagem" />
 </card>
 <card id="4c611791-27d3-4240-a799-5c2ca9b5b5d0" name="Better Things To Do Than Die" size="Small">
@@ -813,6 +1273,25 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Stratagem" />
 </card>
+<card id="38e703f4-25c6-4be1-a4af-aced12386c4b" name="" size="Small">
+<property name="Card Number" value="S04" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
 <card id="6325495d-4597-4693-8515-0b31acd2bd19" name="Camien Toughness" size="Small">
 <property name="Card Number" value="S05" />
 <property name="Type" value="Stratagem" />
@@ -832,6 +1311,82 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Stratagem" />
 </card>
+<card id="cf0aa10f-1650-4229-8711-0504b094f460" name="" size="Small">
+<property name="Card Number" value="S06" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="4dda3190-c404-44cc-96fa-dde071b6c4d3" name="" size="Small">
+<property name="Card Number" value="S07" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="b666e69b-3d0f-40e6-b7a7-218a339698aa" name="" size="Small">
+<property name="Card Number" value="S08" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="ca5d8b85-0d8c-497a-899f-14c83c9e15a4" name="" size="Small">
+<property name="Card Number" value="S09" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
 <card id="596d68f9-7d50-4bc9-baa9-8042fc9c4993" name="Jurassic Punch" size="Small">
 <property name="Card Number" value="S10" />
 <property name="Type" value="Stratagem" />
@@ -849,6 +1404,44 @@
 <property name="Stratagem Target" value="Volcanicus - Fiery Champion" />
 <property name="Text" value="When your Volcanicus, Fiery Champion attacks an enemy that has fewer Stars than him -> Your Volcanicus gets Bold until end of battle equal to the Star difference. "/>
 <property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="7326555c-c342-491f-8fc3-cf8660dbf2b6" name="" size="Small">
+<property name="Card Number" value="S11" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="9ecc242f-4b51-4612-932c-c5d663796291" name="Me Grimlock, You Grimlock!" size="Small">
+<property name="Card Number" value="S12" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="1" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Stratagem Target" value="Clobber" />
+<property name="Text" value="While your Clobber is in head mode -> The character he's on has the Dinobot trait. " />
+<property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Stratagem" />
 </card>
 <card id="e6057c8b-37e1-4d5b-b770-3f3b7450718a" name="Metallikato Stance" size="Small">
@@ -908,6 +1501,25 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Stratagem" />
 </card>
+<card id="00fccd0b-0354-4f86-8bfe-63ec149b6892" name="" size="Small">
+<property name="Card Number" value="S16" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
 <card id="07618782-2e57-42dc-a4bc-d8aeb0d0c197" name="Resilience" size="Small">
 <property name="Card Number" value="S17" />
 <property name="Type" value="Stratagem" />
@@ -925,6 +1537,25 @@
 <property name="Stratagem Target" value="Brawn - Demolitions" />
 <property name="Text" value="When your Brawn, Demolitions defends -> He gets +1 [DEF] until end of battle equal to the attacker's Bold total. " />
 <property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="bfc58a13-e788-41dd-9ef4-f44c8c670b09" name="" size="Small">
+<property name="Card Number" value="S18" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
 <property name="Draft Type" value="Stratagem" />
 </card>
 <card id="447fc00f-35a5-475c-84af-03e3a6f343b5" name="Sabotage" size="Small">
@@ -965,6 +1596,25 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Stratagem" />
 </card>
+<card id="cb6fe97d-0291-4977-a68f-43a293611250" name="" size="Small">
+<property name="Card Number" value="S21" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
 <card id="4e4e2878-50c4-4c3a-b60b-f5bde6e6985f" name="Sky Shadow Sync" size="Small">
 <property name="Card Number" value="S22" />
 <property name="Type" value="Stratagem" />
@@ -982,6 +1632,44 @@
 <property name="Stratagem Target" value="Sky Shadow" />
 <property name="Text" value="When your Sky Shadow (Tank) or Sky Shadow (Plane) is KO'd and you have Ominus outside the game -> Combine them into Sky Shadow, Elite Warrior with Ominus in head mode. "/>
 <property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="06fd8c7b-4e1f-4d90-888b-274bae845624" name="" size="Small">
+<property name="Card Number" value="S23" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="db624b08-689b-47d3-a8ed-9d4f9779340b" name="" size="Small">
+<property name="Card Number" value="S24" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
 <property name="Draft Type" value="Stratagem" />
 </card>
 <card id="d6282746-2266-4206-bf53-90323874ca2d" name="Swap Heads" size="Small">
@@ -1003,6 +1691,82 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Stratagem" />
 </card>
+<card id="c758efd9-5c60-4b54-b25b-922f9472d154" name="" size="Small">
+<property name="Card Number" value="S26" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="07fa730d-d024-481e-8553-63ab3d4f49d4" name="" size="Small">
+<property name="Card Number" value="S27" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="afa0dc0b-1056-4fda-b9b5-e2c4008ca368" name="" size="Small">
+<property name="Card Number" value="S28" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="2dc08412-ce79-46e8-99d8-9a1c5cbd230c" name="" size="Small">
+<property name="Card Number" value="S29" />
+<property name="Type" value="Stratagem" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Stratagem Target" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Stratagem" />
+</card>
 <card id="74fb3a71-5d05-4612-a3a9-b1be2d09d7ab" name="Who's Next?" size="Small">
 <property name="Card Number" value="S30" />
 <property name="Type" value="Stratagem" />
@@ -1022,101 +1786,1355 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Stratagem" />
 </card>
-    <!-- Battle Cards -->
-<card id="964905e1-27c5-4e4c-a758-80584221d04b" name="Belligerence">
-<property name="Card Number" value="1" />
-<property name="Type" value="Action" />
+<card id="cf3b8b0a-b129-44c7-80d3-ab97615db0c7" name="" size="Large">
+<property name="Card Number" value="T01" />
+<property name="Type" value="Character" />
 <property name="ATK" value="" />
-<property name="DEF" value="" />
 <property name="HP" value="" />
+<property name="DEF" value="" />
 <property name="Stars" value="" />
 <property name="Trait" value="" />
-<property name="Orange Pips" value="1" />
+<property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Hybrid Pip Trait" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="Until end of turn -> Each [B] either player flips during a battle is a [O] instead. " />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Battle Card" />
-</card>
-<card id="e0e52253-e12a-426d-be3a-0b73b2cc2a32" name="Brass Knuckles">
-<property name="Card Number" value="3" />
-<property name="Type" value="Upgrade - Utility" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
 <property name="ATK" value="" />
 <property name="DEF" value="" />
-<property name="HP" value="" />
-<property name="Stars" value="" />
+<property name="Text" value="" />
 <property name="Trait" value="" />
+</alternate>
+</card>
+<card id="cd089d15-ea99-4ced-bb21-d8c9ac70f1c0" name="Autobot Gears - Transport &amp; Reconnaissance" size="Large">
+<property name="Card Number" value="T02" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="10" />
+<property name="DEF" value="2" />
+<property name="Stars" value="7" />
+<property name="Trait" value="Truck, Specialist" />
 <property name="Orange Pips" value="" />
-<property name="Blue Pips" value="1" />
+<property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Hybrid Pip Trait" value="" />
-<property name="Faction" value="" />
-<property name="Text" value="Bold 2" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Move an Upgrade from an enemy to another enemy. " />
 <property name="Rarity" value="Common" />
-<property name="Draft Type" value="Battle Card" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Autobot Gears - Transport &amp; Reconnaissance" type="bot">
+<property name="ATK" value="3" />
+<property name="DEF" value="3" />
+<property name="Text" value="When you flip to this mode -> Return an Upgrade on an enemy to its owner's hand. " />
+<property name="Trait" value="Specialist" />
+</alternate>
 </card>
-<card id="d93e7fc5-6d83-42dc-b12a-eff747fd2b5a" name="Electro-Optical Visor">
-<property name="Card Number" value="11" />
-<property name="Type" value="Upgrade - Armor" />
-<property name="ATK" value="" />
+<card id="2844bf1a-5bf6-45b1-b376-d2514c60d9df" name="Autobot Nautica - Camien Engineer" size="Large">
+<property name="Card Number" value="T03" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="10" />
 <property name="DEF" value="1" />
-<property name="HP" value="" />
-<property name="Stars" value="" />
-<property name="Trait" value="" />
+<property name="Stars" value="8" />
+<property name="Trait" value="Boat, Specialist" />
 <property name="Orange Pips" value="" />
-<property name="Blue Pips" value="1" />
+<property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Hybrid Pip Trait" value="" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you put this on a Decepticon -> Your opponent reveals their hand, chooses an Autobot card from it, and scraps that card. " />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Battle Card" />
-</card>
-<card id="d1aa1f10-71fe-4e3f-be34-70244370bff2" name="Escape Capsule">
-<property name="Card Number" value="17" />
-<property name="Type" value="Upgrade - Utility" />
-<property name="ATK" value="1" />
-<property name="DEF" value="" />
-<property name="HP" value="" />
-<property name="Stars" value="" />
-<property name="Trait" value="" />
-<property name="Orange Pips" value="1" />
-<property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="1" />
-<property name="Hybrid Pip Trait" value="" />
-<property name="Faction" value="" />
-<property name="Text" value="When you deploy the upgraded character's head -> Put this and any other Upgrades that were on the upgraded character onto the deployed character. " />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this defends against a Car, Truck, or tank, and you flip at least [B] -> This gets +1 [DEF] until end of battle for each [B] you flipped. "/>
 <property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Battle Card" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Autobot Nautica - Camien Engineer" type="bot">
+<property name="ATK" value="5" />
+<property name="HP" value="10" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Specialist" />
+<property name="Text" value="When this defends -> You may play an Armor onto her. " />
+</alternate>
 </card>
-<card id="52db679d-04b3-4825-ba39-5a49e7d312c5" name="Fusion Borer">
-<property name="Card Number" value="18" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="3" />
-<property name="DEF" value="" />
+<card id="e81e285b-bbda-42c3-9471-f7e1ca94f027" name="" size="Large">
+<property name="Card Number" value="T04" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
 <property name="HP" value="" />
+<property name="DEF" value="" />
 <property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
-<property name="Black Pips" value="1" />
-<property name="Hybrid Pip Trait" value="" />
+<property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="Pierce 3. When the upgraded character attacks -> Scrap this card after the battle. " />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="054568c5-0443-4da9-b2b8-c87e6f9408ba" name="Autobot Stylor" size="Small">
+<property name="Card Number" value="T05" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="2" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ 1 [DEF]" />
 <property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Battle Card" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Autobot Stylor" type="bot">
+<property name="ATK" value="2" />
+<property name="HP" value="1" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Titan Master, Ranged" />
+<property name="Text" value="" />
+</alternate>
+</card>
+<card id="1edbfcd5-d132-45fb-ace9-220110854c82" name="Autobot Teslor" size="Small">
+<property name="Card Number" value="T06" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="2" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Focus 1" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Autobot Teslor" type="bot">
+<property name="ATK" value="2" />
+<property name="HP" value="1" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Titan Master, Specialist" />
+<property name="Text" value="Focus 1" />
+</alternate>
+</card>
+<card id="f85d13a3-9cae-4d8b-858c-e922a1244b39" name="" size="Large">
+<property name="Card Number" value="T07" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="a5e38016-a553-4b19-82b0-e6845c09898a" name="" size="Large">
+<property name="Card Number" value="T08" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="b92f5778-50bd-44eb-95a5-806d3431bc5d" name="Bludgeon - Electric Warrior" size="Large">
+<property name="Card Number" value="T09" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="13" />
+<property name="DEF" value="3" />
+<property name="Stars" value="11" />
+<property name="Trait" value="Tank, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Pierce 1. Tough 1." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Bludgeon - Electric Warrior" type="bot">
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="Text" value="When an enemy takes non-attack damage -> It gets -1 [DEF] until end of turn. " />
+<property name="Trait" value="Melee" />
+</alternate>
+</card>
+<card id="678de8bd-7d27-4619-b0ad-ff99b07d1ce4" name="Brainstorm - Biomechanical Engineer" size="Large">
+<property name="Card Number" value="T10" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="12" />
+<property name="DEF" value="2" />
+<property name="Stars" value="9" />
+<property name="Trait" value="Plane, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Look at the top card of your deck. If it's an Upgrade, you may play it. "/>
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Brainstorm - Biomechanical Engineer" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="12" />
+<property name="DEF" value="2" />
+<property name="Trait" value="Ranged" />
+<property name="Text" value="When this attacks and you flip at least one Upgrade -> You may put one of the Upgrades you flipped into your hand after the battle. "/>
+</alternate>
+</card>
+<card id="f6f88efc-e457-4a6d-8a28-143129e75a3d" name="Brawn - Demolitions" size="Large">
+<property name="Card Number" value="T11" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="HP" value="9" />
+<property name="DEF" value="2" />
+<property name="Stars" value="5" />
+<property name="Trait" value="Truck, Melee" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this attacks an enemy that has more Stars than him and you flip battle cards -> This gets Pierce 1 until end of battle for each different color among battle icons you flipped. " />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Brawn - Demolitions" type="bot">
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this defends an enemy that has more Stars than him and you flip battle cards -> This gets +1 [DEF] until end of battle for each different color among battle icons you flipped. "/>
+<property name="Trait" value="Melee" />
+</alternate>
+</card>
+<card id="3dc1499a-64fb-40c8-838b-84a4c1ea0ae1" name="" size="Large">
+<property name="Card Number" value="T12" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="58d1a6f0-cd0d-4706-a37f-164c4bfd9da3" name="" size="Large">
+<property name="Card Number" value="T13" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="a00c0196-5f83-40bb-abe8-078227ccf8d1" name="Chromedome - Computer Programmer" size="Large">
+<property name="Card Number" value="T14" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="13" />
+<property name="DEF" value="2" />
+<property name="Stars" value="8" />
+<property name="Trait" value="Car, Specialist" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this attacks and your opponent has 3 or more Actions in their KO area -> This gets +3 [ATK] until end of turn. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Chromedome - Computer Programmer" type="bot">
+<property name="ATK" value="5" />
+<property name="HP" value="13" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Specialist" />
+<property name="Text" value="When you flip to this mode -> Look at your opponent's hand and put an Action from it into their KO area. " />
+</alternate>
+</card>
+<card id="968a6216-8138-4379-9d65-ccbbd4d0bf85" name="Clobber" size="Large">
+<property name="Card Number" value="T15" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="+ Bold 3" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="2" />
+<property name="HP" value="4" />
+<property name="DEF" value="0" />
+<property name="Text" value="Bold 3" />
+<property name="Trait" value="Titan Master, Dinobot, Melee" />
+</alternate>
+</card>
+<card id="7df6fbc7-82d8-461a-bbf0-2a2eee204cec" name="" size="Large">
+<property name="Card Number" value="T16" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="323540a6-5e48-4f76-8b4a-e6854d7240bd" name="" size="Large">
+<property name="Card Number" value="T17" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="bcbbfa2a-bdcb-4a5c-bad9-d26e3973c84a" name="" size="Large">
+<property name="Card Number" value="T18" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="daab9bac-c22d-4013-8c2c-638ed0cd4845" name="" size="Large">
+<property name="Card Number" value="T19" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="0ea60fc3-de4e-4ad3-8283-ca2af00bba95" name="" size="Large">
+<property name="Card Number" value="T20" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="3060edb5-02d7-42c1-9f7d-3a7db087dfe9" name="Flameout" size="Small">
+<property name="Card Number" value="T21" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="3" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Bold 2" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Flameout" type="bot">
+<property name="ATK" value="2" />
+<property name="HP" value="2" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Titan Master, Melee" />
+<property name="Text" value="Bold 2" />
+</alternate>
+</card>
+<card id="39bf9954-15e8-4666-a6ed-bf36f26ab491" name="Flintlock" size="Small">
+<property name="Card Number" value="T22" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="4" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Tough 3" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Flintlock" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="4" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Melee" />
+<property name="Text" value="Tough 3" />
+</alternate>
+</card>
+<card id="a00c8d57-bef9-44ac-bdd6-7b3461c4b757" name="" size="Large">
+<property name="Card Number" value="T23" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="75159043-fa8f-4899-b4af-7f8a8d8d0bc4" name="Grax" size="Small">
+<property name="Card Number" value="T24" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="3" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="+ 5 [HEALTH]" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Grax" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="5" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Melee" />
+<property name="Text" value="" />
+</alternate>
+</card>
+<card id="aef48ec2-3c31-4502-978c-92a78e73455f" name="Horri-Bull - Ground Trooper" size="Large">
+<property name="Card Number" value="T25" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="HP" value="9" />
+<property name="DEF" value="2" />
+<property name="Stars" value="6" />
+<property name="Trait" value="Beast, Melee" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> Move 1 damage counter from this to an enemy. " />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Horri-Bull - Ground Trooper" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="9" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Melee" />
+<property name="Text" value="When you play a [K] card -> Do 1 damage to an enemy and 1 damage to this. " />
+</alternate>
+</card>
+<card id="a393ef7f-d516-4d70-9684-9aa705399173" name="Kreb" size="Small">
+<property name="Card Number" value="T26" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="1" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="+ 2 [HEALTH]" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Kreb" type="bot">
+<property name="ATK" value="2" />
+<property name="HP" value="2" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Melee" />
+<property name="Text" value="" />
+</alternate>
+</card>
+<card id="7aad38ff-89fd-4b6d-a52d-6b8c2133eb80" name="" size="Large">
+<property name="Card Number" value="T27" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="de9bc5b6-9e99-464a-9428-56254e499fc0" name="" size="Large">
+<property name="Card Number" value="T28" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="54a8ae4d-a586-4a06-92d6-3492975d67e4" name="Monxo" size="Small">
+<property name="Card Number" value="T29" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="2" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="+ 1 [ATK]" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Monxo" type="bot">
+<property name="ATK" value="3" />
+<property name="HP" value="2" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Melee" />
+<property name="Text" value="" />
+</alternate>
+</card>
+<card id="16b00655-ae65-41ed-96d6-bcb587b095a5" name="" size="Large">
+<property name="Card Number" value="T30" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="e0591c2c-4b94-4e53-91ae-5a7380bbc8e6" name="Ominus" size="Small">
+<property name="Card Number" value="T31" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="3" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="+ Pierce 4" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Ominus" type="bot">
+<property name="ATK" value="3" />
+<property name="HP" value="2" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Melee" />
+<property name="Text" value="Pierce 4" />
+</alternate>
+</card>
+<card id="04cca87c-98cc-4763-b5de-89531d252740" name="" size="Large">
+<property name="Card Number" value="T32" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="1eb37cf8-586e-4719-a065-3d01e7a15a85" name="Parsec" size="Small">
+<property name="Card Number" value="T33" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="1" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Bold 1" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Parsec" type="bot">
+<property name="ATK" value="2" />
+<property name="HP" value="1" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Ranged" />
+<property name="Text" value="Bold 1" />
+</alternate>
+</card>
+<card id="45731058-9c94-463d-a848-d16f7923039f" name="" size="Large">
+<property name="Card Number" value="T34" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="fb1a1a6a-a3ec-4097-9e9c-d6c1e42eb5bb" name="Sergeant Kup - Wrecker Leader" size="Large">
+<property name="Card Number" value="T35" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="HP" value="10" />
+<property name="DEF" value="2" />
+<property name="Stars" value="7" />
+<property name="Trait" value="Leader, Truck, Wrecker, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Tough 1. When one of your Wreckers takes 1 or more damage during your turn -> It gets that much +Attack until end of turn. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Sergeant Kup - Wrecker Leader" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="10" />
+<property name="DEF" value="2" />
+<property name="Trait" value="Leader, Wrecker, Ranged" />
+<property name="Text" value="When you flip to this mode -> You may scrap a [B] card from your hand. If you do, scrap an enemy Upgrade. " />
+</alternate>
+</card>
+<card id="d25abbd4-e01d-4c55-95b2-3f933f8c983a" name="Skullsmasher - Swamp Warrior" size="Large">
+<property name="Card Number" value="T36" />
+<property name="Type" value="Character" />
+<property name="ATK" value="6" />
+<property name="HP" value="14" />
+<property name="DEF" value="1" />
+<property name="Stars" value="11" />
+<property name="Trait" value="Beast, Melee" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Whie this is attacking an Autobot -> This has Pierce 3. "/>
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Skullsmasher - Swamp Warrior" type="bot">
+<property name="ATK" value="5" />
+<property name="HP" value="14" />
+<property name="DEF" value="2" />
+<property name="Trait" value="Melee" />
+<property name="Text" value="When an enemy that has fewer Stars than this becomes tapped -> Do 1 damage to that enemy. When an enemy that has more Stars than this becomes tapped -> Do 1 damage to this. "/>
+</alternate>
+</card>
+<card id="d3e76e9f-bf39-4841-8fef-29cbd784c680" name="Sky Shadow (Plane)" size="Large">
+<property name="Card Number" value="T37" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="10" />
+<property name="DEF" value="2" />
+<property name="Stars" value="7" />
+<property name="Trait" value="Plane, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Bold 2" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="5a29f951-4639-41db-92f9-2e07b4bf56d0" name="Sky Shadow (Tank)" size="Large">
+<property name="Card Number" value="T38" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="10" />
+<property name="DEF" value="2" />
+<property name="Stars" value="7" />
+<property name="Trait" value="Tank, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Tough 2" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="1333ced4-18e3-4e13-b8b8-645d1c0862f8" name="" size="Large">
+<property name="Card Number" value="T39" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="4ad0e739-5eff-4032-937a-d9df26c30659" name="Tracks - Autobot Warrior" size="Large">
+<property name="Card Number" value="T40" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="13" />
+<property name="DEF" value="2" />
+<property name="Stars" value="9" />
+<property name="Trait" value="Car, Melee" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> One of your characters gets +1 [ATK] until end of turn. If it shares a trait with this, it gets +2 [ATK] until end of turn instead. " />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Tracks - Autobot Warrior" type="bot">
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this attacks -> Do 1 damage to an enemy that isn't a Car or Plane. " />
+<property name="Trait" value="Melee" />
+</alternate>
+</card>
+<card id="0299e978-2679-46e9-87e6-14d76986d93c" name="Twin Twist - Demolitions" size="Large">
+<property name="Card Number" value="T41" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="12" />
+<property name="DEF" value="2" />
+<property name="Stars" value="9" />
+<property name="Trait" value="Tank, Wrecker, Melee" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> This gets Pierce 3 until end of turn. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Twin Twist - Demolitions" type="bot">
+<property name="ATK" value="5" />
+<property name="HP" value="12" />
+<property name="DEF" value="2" />
+<property name="Trait" value="Wrecker, Melee" />
+<property name="Text" value="When you flip to this mode -> Your opponent chooses one of their characters and does 1 damage to it. If you flipped this character at least 2 times this turn, instead do 1 damage to each enemy. "/>
+</alternate>
+</card>
+<card id="8b606e12-a477-49e9-9e1d-469710b497aa" name="" size="Large">
+<property name="Card Number" value="T42" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="01283ade-b723-4c87-ac59-e2a822f63aac" name="" size="Large">
+<property name="Card Number" value="T43" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="" type="bot">
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Trait" value="" />
+</alternate>
+</card>
+<card id="f1c4c9da-a9e2-42dc-adf1-cde29bc1c2b0" name="Windsweeper - Air Defense" size="Large">
+<property name="Card Number" value="T44" />
+<property name="Type" value="Character" />
+<property name="ATK" value="5" />
+<property name="HP" value="15" />
+<property name="DEF" value="1" />
+<property name="Stars" value="10" />
+<property name="Trait" value="Plane, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When this attacks -> If you had at least 2 Planes on your starting team, move 2 damage counters from this to the defender. Otherwise, move 1 damage counter from this to the defender. "/>
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Windsweeper - Air Defense" type="bot">
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="Text" value="When one of your other characters attacks -> You may move 1 damage counter from it to this. " />
+<property name="Trait" value="Plane, Ranged" />
+</alternate>
+</card>
+<card id="54eb9d29-deb3-4130-8b39-e1faf7fa0ebc" name="Wingspan - Data Processor" size="Large">
+<property name="Card Number" value="T45" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="HP" value="11" />
+<property name="DEF" value="2" />
+<property name="Stars" value="8" />
+<property name="Trait" value="Beast, Specialist" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> Draw a card. This has +1 [DEF] for each card under him. " />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Wingspan - Data Processor" type="bot">
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="When an Upgrade is scrapped from this -> Put it under him. " />
+<property name="Trait" value="Specialist" />
+</alternate>
+</card>
+<card id="087d6419-0688-4152-a233-ff0ecad77fa5" name="Wolfwire - Ground Tracker" size="Large">
+<property name="Card Number" value="T46" />
+<property name="Type" value="Character" />
+<property name="ATK" value="5" />
+<property name="HP" value="12" />
+<property name="DEF" value="2" />
+<property name="Stars" value="9" />
+<property name="Trait" value="Beast, Melee" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> You may scrap a [G] card from your hand. If you do, draw 2 cards. " />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Wolfwire - Ground Tracker" type="bot">
+<property name="ATK" value="6" />
+<property name="HP" value="12" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Melee" />
+<property name="Text" value="When this battles -> Instead of swapping a card from your hand with one of your flipped [G] cards after the battle, you may put one of those [G] cards into your hand. "/>
+</alternate>
+</card>
+<card id="53485ea0-0d3f-4653-aca2-7c28af6f888a" name="Fortress Maximus - Great War Veteran" size="Large">
+<property name="Card Number" value="T01" />
+<property name="Type" value="Character" />
+<property name="ATK" value="8" />
+<property name="HP" value="15" />
+<property name="DEF" value="2" />
+<property name="Stars" value="14" />
+<property name="Trait" value="Titan, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this attacks and you flip at least [O][K] -> Do 2 damage to each enemy. Flip this to alt mode after the battle. "/>
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Excluded" />
+<alternate name="Fortress Maximus - Great War Veteran" type="bot">
+<property name="ATK" value="8" />
+<property name="HP" value="15" />
+<property name="DEF" value="2" />
+<property name="Trait" value="Titan, Ranged" />
+<property name="Text" value="When this defends and you flip at least [W][B] -> Do 1 damage to the attacker. This begins with Cerebros, City Commander on him in head mode. "/>
+</alternate>
+</card>
+<card id="ed900e97-f655-419a-80da-cfa565350080" name="Cerebros - City Commander" size="Extra Large">
+<property name="Card Number" value="T02" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="7" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Bold 1, Tough 1" />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Excluded" />
+<alternate name="Cerebros - City Commander" type="bot">
+<property name="ATK" value="6" />
+<property name="HP" value="8" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Ranged" />
+<property name="Text" value="Bold 1, Tough 1. When this battles and you flip at least [W][O][K][B] -> You may play an Upgrade from your scrap pile onto this. " />
+</alternate>
+</card>
+<card id="054c2108-9065-4f7a-ae89-bc45d73a9d67" name="Emissary" size="Small">
+<property name="Card Number" value="T03" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="4" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Focus 2" />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Excluded" />
+<alternate name="Emissary" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="4" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Ranged" />
+<property name="Text" value="Focus 2" />
+</alternate>
+</card>
+<card id="fcccddbb-13d3-4bda-9460-ec90f336a45a" name="Arcana" size="Small">
+<property name="Card Number" value="P01/2020" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="4" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="+ 2 [DEF]" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Arcana" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="2" />
+<property name="DEF" value="2" />
+<property name="Trait" value="Titan Master, Melee" />
+<property name="Text" value="" />
+</alternate>
+</card>
+<card id="621e3b55-e50a-43bf-aa9e-d95942278946" name="Tidal Wave - Dark Fleet (Aircraft Carrier)" size="Large">
+<property name="Card Number" value="P02/2020" />
+<property name="Type" value="Character" />
+<property name="ATK" value="1" />
+<property name="HP" value="6" />
+<property name="DEF" value="2" />
+<property name="Stars" value="8" />
+<property name="Trait" value="Boat, Specialist" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This starts the game with a Plane, or Helicopter under it that costs 4 Stars or fewer. When this attacks, combines, or is KO'd -> Deploy the character under it to the battlefield in alt mode. If this is attacking you get an extra attack this turn, but only with the deployed character." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="d46ca008-31d6-4a47-97de-0927afe1cc41" name="Tidal Wave - Dark Fleet (Transport)" size="Large">
+<property name="Card Number" value="P03/2020" />
+<property name="Type" value="Character" />
+<property name="ATK" value="0" />
+<property name="HP" value="5" />
+<property name="DEF" value="3" />
+<property name="Stars" value="8" />
+<property name="Trait" value="Boat, Specialist" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This starts the game with a Car, Tank, or Truck under it that costs 4 Stars or fewer. When this attacks, combines, or is KO'd -> Deploy the character under it to the battlefield in alt mode. If this is attacking you get an extra attack this turn, but only with the deployed character." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="d8fef5c7-a3a8-487a-979a-af6d42e03215" name="Tidal Wave - Dark Fleet (Battleship)" size="Large">
+<property name="Card Number" value="P04/2020" />
+<property name="Type" value="Character" />
+<property name="ATK" value="4" />
+<property name="HP" value="10" />
+<property name="DEF" value="1" />
+<property name="Stars" value="8" />
+<property name="Trait" value="Boat, Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Stealth. When your second character is KO'd this game and you had Tidal Wave, Dark Fleet (Aircraft Carrier) and Tidal Wave, Dark Fleet (Transport) on your starting team -> Combine them with this into Tidal Wave, Dark Fleet. " />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="15185556-a783-4b7f-b410-eef4eacf3dbd" name="Convex" size="Small">
+<property name="Card Number" value="P05/2020" />
+<property name="Type" value="Character" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Stars" value="4" />
+<property name="Trait" value="" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Safeguard 3" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Head Character" />
+<alternate name="Convex" type="bot">
+<property name="ATK" value="4" />
+<property name="HP" value="4" />
+<property name="DEF" value="0" />
+<property name="Trait" value="Titan Master, Ranged" />
+<property name="Text" value="Safeguard 3" />
+</alternate>
+</card>
+<card id="0778dae0-4a29-4c26-819c-8f246f3958e4" name="Perceptor - Precise Sniper" size="Large">
+<property name="Card Number" value="P06/2020" />
+<property name="Type" value="Character" />
+<property name="ATK" value="3" />
+<property name="HP" value="12" />
+<property name="DEF" value="2" />
+<property name="Stars" value="8" />
+<property name="Trait" value="Wrecker, Specialist" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Reveal the top 4 cards of your deck. Your opponent separates those cards into 2 piles. Put 1 pile into your hand and the other under this face down. "/>
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Perceptor - Precise Sniper" type="bot">
+<property name="ATK" value="3" />
+<property name="HP" value="12" />
+<property name="DEF" value="1" />
+<property name="Trait" value="Wrecker, Ranged" />
+<property name="Text" value="This has +1 [ATK] for each card under him. "/>
+</alternate>
+</card>
+<card id="0c2b5afe-10d8-41af-b690-7bef67b729e9" name="Sky Shadow - Elite Warrior" size="Large">
+<property name="Card Number" value="" />
+<property name="Type" value="Character" />
+<property name="ATK" value="8" />
+<property name="HP" value="20" />
+<property name="DEF" value="2" />
+<property name="Stars" value="14" />
+<property name="Trait" value="Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Bold 2. Tough 2. When this is combined -> Do 3 damage to an enemy Autobot. " />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Excluded" />
+</card>
+<card id="c4b77ca9-002a-45f7-846e-5e6bb287f25b" name="Tidal Wave - Dark Fleet" size="Large">
+<property name="Card Number" value="" />
+<property name="Type" value="Character" />
+<property name="ATK" value="7" />
+<property name="HP" value="21" />
+<property name="DEF" value="2" />
+<property name="Stars" value="24" />
+<property name="Trait" value="Ranged" />
+<property name="Orange Pips" value="" />
+<property name="Blue Pips" value="" />
+<property name="White Pips" value="" />
+<property name="Green Pips" value="" />
+<property name="Black Pips" value="" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When this is combined -> Tap an enemy. " />
+<property name="Rarity" value="" />
+<property name="Draft Type" value="Excluded" />
 </card>
 </cards>
 </set>

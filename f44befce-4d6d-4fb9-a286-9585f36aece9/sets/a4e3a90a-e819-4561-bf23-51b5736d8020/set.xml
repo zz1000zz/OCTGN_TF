@@ -709,7 +709,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Put on Autobots only. If the upgraded character would take non-> attack damage -> Instead it takes that much damages minus one." />
+<property name="Text" value="Put on Autobots only. If the upgraded character would take non-attack damage -> Instead it takes that much damages minus one." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -1123,7 +1123,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="Reveal -> If one or more of your characters would take non-> attack damage during your opponent's turn. When Revealed -> Instead your characters can't take non-> attack damage this turn." />
+<property name="Text" value="Reveal -> If one or more of your characters would take non- attack damage during your opponent's turn. When Revealed -> Instead your characters can't take non-attack damage this turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -1261,7 +1261,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="This can't take non-> attack damage from your opponent's cards." />
+<property name="Text" value="This can't take non-attack damage from your opponent's cards." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Captain Ironhide - Infantry, Bodyguard" type="bot">
