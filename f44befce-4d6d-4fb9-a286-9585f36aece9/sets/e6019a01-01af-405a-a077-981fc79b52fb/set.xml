@@ -1,4 +1,39 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 1" id="e6019a01-01af-405a-a077-981fc79b52fb" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.1" version="0.1">
+<packaging>
+<pack name="Wave 1 Booster" id="50a80b91-60c2-4b7b-889c-1bf1a8ec93f5">
+<options>
+	<option probability="0.013">
+		<pick qty="1" key="Rarity" value="Super Rare">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+	<option probability="0.16">
+		<pick qty="1" key="Rarity" value="Rare">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+	<option probability="0.32">
+		<pick qty="1" key="Rarity" value="Uncommon">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+	<option probability="0.507">
+		<pick qty="1" key="Rarity" value="Common">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+</options>
+<pick qty="4" key="Draft Type" value="Battle Card">
+	<property key="Rarity" value="Common" />
+</pick>
+<pick qty="2" key="Draft Type" value="Battle Card">
+	<property key="Rarity" value="Uncommon" />
+</pick>
+<pick qty="1" key="Draft Type" value="Battle Card">
+	<property key="Rarity" value="Rare" />
+</pick>
+</pack>
+</packaging>
 <markers>
 <marker name="Damage" id="0f74413d-45d6-4c52-b584-201b99af4125" />
 </markers><cards>
