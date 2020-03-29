@@ -4,7 +4,7 @@
       name="Transformers" 
       id="f44befce-4d6d-4fb9-a286-9585f36aece9" 
       octgnVersion="3.1.2.0" 
-      version="0.0.3.17"
+      version="0.0.3.18"
       markersize="20"
       tags="Transformers"
       description="Transformers CCG, by Hasbro.  If you have questions or feedback, please join the Discord server at https://discord.gg/AUJKdD"
@@ -86,7 +86,6 @@
 <groupaction menu="Roll a die" shortcut="Ctrl+R" execute="roll20" />
    
 <groupaction menu="Untap All" shortcut="F1" execute="untapAll" />
-   
 <groupaction menu="Grab Battle Card From Collection" execute="wish" />
 <groupaction menu="Scoop" shortcut="Ctrl+Shift+S" execute="scoop" />
    
@@ -98,8 +97,8 @@
 <cardactions menu="Damage Functions">
 <cardaction menu="Add a Damage" shortcut="F1" execute="addCounter" />
 <cardaction menu="Remove a Damage" shortcut="F2" execute="removeCounter" />
-<cardaction menu="Add X Damage" execute="addCounterX" />
-<cardaction menu="Remove X Damage" execute="removeCounterX" />
+<cardaction menu="Add X Damage" shortcut="Ctrl+F1" execute="addCounterX" />
+<cardaction menu="Remove X Damage" shortcut="Ctrl+F2" execute="removeCounterX" />
 <cardaction menu="Set Damage" shortcut="F3" execute="setCounter" />
 </cardactions>
 <cardaction menu="Flip Up/Down" execute="flip" />

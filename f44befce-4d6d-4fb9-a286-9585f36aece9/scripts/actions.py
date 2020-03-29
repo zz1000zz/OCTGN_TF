@@ -146,11 +146,18 @@ def removeCounter(card, x = 0 , y = 0):
 	mute()
 	notify("{} removes 1 counter to {}.".format(me, card))
 	card.markers[CounterMarker] -= 1
+
+def removeCounterX(card, x = 0, y = 0):
+	mute()
+	quantity = askInteger("How many counters", 0)
+	notify("{} removes {} counter from {}.".format(me, quantity, card))
+	card.markers[CounterMarker] += quantity
 	  
 def setCounter(card, x = 0, y = 0):
 	mute()
+	quantity_prior = card.markers[CounterMarker]
 	quantity = askInteger("How many counters", 0)
-	notify("{} sets {} counters on {}.".format(me, quantity, card))
+	notify("{} changes {}'s counters from {} to {}.".format(me, card, quantity_prior, quantity))
 	card.markers[CounterMarker] = quantity	
 		
 def play(card, x = 0, y = 0): #Extra Cards will go to Drop after being played
@@ -380,14 +387,16 @@ def sideboard(group=me.Deck, x = 0, y = 0):
     me.Deck.visibility = "none"
     me.Sideboard.visibility = "Me"
 
-
 def playCharacters(group, x = 0, y = 0):
     mute()
     stars = 0
     charactersWorking = me.characters
     if len(me.characters) > 0:
         for card in me.characters:
-            stars += int(card.stars)
+            try:
+                stars += int(card.stars)
+            except:
+                pass
         if stars > 25:
             whisper("Sorry, you have too many stars to play your characters automatically.")
             charactersWorking = pickCharacters()
