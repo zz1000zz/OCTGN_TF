@@ -1,5 +1,6 @@
 import re
-
+cardsUndo = []
+cardsUndoRef = []
 CounterMarker =("Damage", "0f74413d-45d6-4c52-b584-201b99af4125")
 
 ####################################################
@@ -24,8 +25,6 @@ def untapAll(group, x = 0, y = 0): #Modified it to account for Energy which will
 
 def awaken(card, x = 0, y = 0): 
 	mute()
-##	notify(str(card.alternates))
-##	notify(card.alternate)
 	if card.alternate == card.alternates[0]:
             try:
                 card.alternate = 'bot'
@@ -137,15 +136,28 @@ def addCounter(card, x = 0, y = 0):
 	notify("{} adds 1 counter to {}.".format(me, card))
 	card.markers[CounterMarker] += 1
 
+def addCounterX(card, x = 0, y = 0):
+	mute()
+	quantity = askInteger("How many counters", 0)
+	notify("{} adds {} counter to {}.".format(me, quantity, card))
+	card.markers[CounterMarker] += quantity
+
 def removeCounter(card, x = 0 , y = 0):
 	mute()
 	notify("{} removes 1 counter to {}.".format(me, card))
 	card.markers[CounterMarker] -= 1
+
+def removeCounterX(card, x = 0, y = 0):
+	mute()
+	quantity = askInteger("How many counters", 0)
+	notify("{} removes {} counter from {}.".format(me, quantity, card))
+	card.markers[CounterMarker] += quantity
 	  
 def setCounter(card, x = 0, y = 0):
 	mute()
+	quantity_prior = card.markers[CounterMarker]
 	quantity = askInteger("How many counters", 0)
-	notify("{} sets {} counters on {}.".format(me, quantity, card))
+	notify("{} changes {}'s counters from {} to {}.".format(me, card, quantity_prior, quantity))
 	card.markers[CounterMarker] = quantity	
 		
 def play(card, x = 0, y = 0): #Extra Cards will go to Drop after being played
@@ -166,7 +178,7 @@ def flip1(count=1):
     mute()
     flipMany(0,1)
 
-def flipMany(group, count=None, w=0, o=0, b=0, g=0):
+def flipMany(group, count=None, w=0, o=0, u=0, b=0, g=0):
     mute()
     x = 0
     try:
@@ -196,17 +208,21 @@ def flipMany(group, count=None, w=0, o=0, b=0, g=0):
         except:
             pass
         try:
-            b += int(card.properties["Blue Pips"])
+            u += int(card.properties["Blue Pips"])
         except:
             pass
         try:
             g += int(card.properties["Green Pips"])
         except:
             pass
+        try:
+            b += int(card.properties["Black Pips"])
+        except:
+            pass
         if len(me.Deck) == 0:
             reshuffle(False)
         count -= 1
-    notify("{} flips {} orange pips, {} blue pips {} white pips and {} green pips!".format(me, o, b, w, g))
+    notify("{} flips {} orange, {} blue, {} white, {} green and {} black pips!".format(me, o, u, w, g, b))
         
 def flipBattle(count=1, card=None):
     mute()
@@ -318,7 +334,11 @@ def drawMany(group, count = None):
 	mute()
 	if count == None: count = askInteger("Draw how many cards?", 0)
 	if count == None: count = 0
-	for card in group.top(count): card.moveTo(me.hand)
+	for card in group.top(count):
+            if group == me.Deck:
+                if len(me.Deck) == 0:
+                    reshuffle(False)
+            card.moveTo(me.hand)
 	notify("{} draws {} cards.".format(me, count))
 
 def drawBottom(group, x = 0, y = 0):
@@ -367,17 +387,30 @@ def sideboard(group=me.Deck, x = 0, y = 0):
     me.Deck.visibility = "none"
     me.Sideboard.visibility = "Me"
 
-
 def playCharacters(group, x = 0, y = 0):
     mute()
     stars = 0
-    characters = me.characters
+    charactersWorking = me.characters
     if len(me.characters) > 0:
         for card in me.characters:
-            stars += int(card.stars)
+            try:
+                stars += int(card.stars)
+            except:
+                pass
         if stars > 25:
             whisper("Sorry, you have too many stars to play your characters automatically.")
-            characters = pickCharacters()
+            charactersWorking = pickCharacters()
+    heads = []
+    characters = []
+    for card in charactersWorking:
+        try:
+            alt_trait = card.alternateProperty('bot', 'trait')
+            if "Titan Master" in alt_trait:
+                heads.append(card)
+            else:
+                characters.append(card)
+        except:
+            characters.append(card)
     count = len(characters)
     if me._id == 1:
         if count == 1:
@@ -386,7 +419,7 @@ def playCharacters(group, x = 0, y = 0):
         i = 0
         for card in characters:
             x = round(600/(count-1))*i - 350
-            card.moveToTable(x, 20)
+            card.moveToTable(x, 40)
             i += 1
     else:
         i = 0
@@ -395,9 +428,41 @@ def playCharacters(group, x = 0, y = 0):
             return
         for card in characters:
             x = round(600/(count-1))*i + 250
-            card.moveToTable(x, -150)
+            card.moveToTable(x, -170)
             i -= 1
+    if len(heads) > 0:
+        playHeads(heads)
 
+def playHeads(heads, *args):
+    mute()
+    for card in heads:
+        pickBody(card)
+
+def pickBody(card, *args):
+    mute()
+    characters = [c for c in table if c.controller == me and c.type == "Character"]
+    dlg = cardDlg(characters)
+    dlg.title = "Choosing a bot to put your {} on.".format(card)
+    dlg.text = "Please select a body to put your {} on".format(card)
+    dlg.min = 1
+    dlg.max = 1
+    cardSelected = dlg.show()
+    try:
+        cardSelected = cardSelected[0]
+    except:
+        pass
+    if cardSelected:
+        x = cardSelected.position[0]
+        y = cardSelected.position[1]
+        if me._id == 1:
+            card.moveToTable(x+35, y-12)
+            card.sendToBack()
+        else:
+            card.moveToTable(x-33, y-25)
+            card.sendToBack()
+    else:
+        return
+    
 
 def scoop(prompt = False, *args):
     mute()
@@ -419,9 +484,52 @@ def findCharacter(card):
 
 def pickCharacters(*args):
     dlg = cardDlg(me.Characters)
-    dlg.title = "Choosing Card from Your Character Pile."
+    dlg.title = "Choosing Cards from Your Character Pile."
     dlg.text = "You have more than 25 stars worth of characters in your Character pile.  Please choose the ones you wish to start the game with."
     dlg.min = 0
     dlg.max = 10
     cardsSelected = dlg.show()
     return cardsSelected
+
+def undo(*args):
+    mute()
+    global cardsUndo
+    if len(cardsUndo) == 0:
+        whisper("Sorry, we have no saved card movements to undo.")
+        return
+    lastMove = cardsUndo.pop()
+    index = 0
+    for card in lastMove.cards:
+        oldCoords = (lastMove.xs[index], lastMove.ys[index])
+        newCoords = (card.position[0], card.position[1])
+        group = lastMove.fromGroups[index]
+        if group == table:
+            card.moveToTable(oldCoords[0], oldCoords[1])
+        else:
+            card.moveTo(group)
+        index += 1
+        notify("{} undoes their last card movement.".format(me))
+
+def onCardsMoved(args):
+    mute()
+    global cardsUndo
+    global cardsUndoRef
+    if args.player != me:
+        return
+    if args.xs[0] == args.cards[0].position[0] and args.fromGroups[0] == args.cards[0].group:
+        return
+    i = 0
+    for entry in cardsUndoRef:
+        try:
+            if entry.cards[0].name == args.cards[0].name and entry.fromGroups[0] == args.cards[0].group:
+                cardsUndoRef.pop(i)
+                return()
+            i += 1
+        except:
+            return
+    cardsUndo.append(args)
+    cardsUndoRef.append(args)
+    if len(cardsUndo) > 10:
+        cardsUndo.pop(0)
+    if len(cardsUndoRef) > 20:
+        cardsUndo.pop(0)

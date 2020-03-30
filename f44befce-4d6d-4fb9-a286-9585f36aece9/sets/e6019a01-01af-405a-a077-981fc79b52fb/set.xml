@@ -1,4 +1,39 @@
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 1" id="e6019a01-01af-405a-a077-981fc79b52fb" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 1" id="e6019a01-01af-405a-a077-981fc79b52fb" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.1" version="0.1">
+<packaging>
+<pack name="Wave 1 Booster" id="50a80b91-60c2-4b7b-889c-1bf1a8ec93f5">
+<options>
+	<option probability="0.013">
+		<pick qty="1" key="Rarity" value="Super Rare">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+	<option probability="0.16">
+		<pick qty="1" key="Rarity" value="Rare">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+	<option probability="0.32">
+		<pick qty="1" key="Rarity" value="Uncommon">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+	<option probability="0.507">
+		<pick qty="1" key="Rarity" value="Common">
+			<property key="Draft Type" value="Large Character" />
+		</pick>
+	</option>
+</options>
+<pick qty="4" key="Draft Type" value="Battle Card">
+	<property key="Rarity" value="Common" />
+</pick>
+<pick qty="2" key="Draft Type" value="Battle Card">
+	<property key="Rarity" value="Uncommon" />
+</pick>
+<pick qty="1" key="Draft Type" value="Battle Card">
+	<property key="Rarity" value="Rare" />
+</pick>
+</pack>
+</packaging>
 <markers>
 <marker name="Damage" id="0f74413d-45d6-4c52-b584-201b99af4125" />
 </markers><cards>
@@ -33,7 +68,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Autobot" />
 <property name="Text" value="When this is on Bumblebee and he attacks -> Draw a card." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -573,7 +608,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Decepticon" />
 <property name="Text" value="While this is on Megatron -> He has Pierce 3." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -735,7 +770,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Autobot" />
 <property name="Text" value="Put on Optimus Prime only." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -789,7 +824,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Autobot" />
 <property name="Text" value="Put on Autobots only. While this is on a Leader -> Each of your other characters has +1 [ATK] and Pierce 1." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -816,7 +851,7 @@
 <property name="Card Number" value="U046" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
-<property name="DEF" value="2" />
+<property name="DEF" value="1" />
 <property name="HP" value="" />
 <property name="Stars" value="" />
 <property name="Trait" value="" />
@@ -879,7 +914,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Decepticon" />
 <property name="Text" value="When this is on Starscream -> He has Bold 2." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -1239,7 +1274,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Autobot" />
 <property name="Text" value="When the upgraded character is NOT Ironhide and it attacks -> Do 2 damage to it." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -1527,7 +1562,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Autobot" />
 <property name="Text" value="If the upgraded character would take damage -> Instead your Metroplex takes that damage." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
@@ -1545,7 +1580,7 @@
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Autobot" />
 <property name="Text" value="If you have Metroplex on the battlefield -> Draw a card for each character you have on the battlefield." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
@@ -1557,7 +1592,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="9" />
 <property name="Stars" value="5" />
-<property name="Trait" value="Motorcycle/Specialist" />
+<property name="Trait" value="Motorcycle, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1581,7 +1616,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="21" />
 <property name="Stars" value="11" />
-<property name="Trait" value="Spaceship/Specialist" />
+<property name="Trait" value="Spaceship, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1605,7 +1640,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="12" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Truck/Melee" />
+<property name="Trait" value="Truck, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1629,7 +1664,7 @@
 <property name="DEF" value="0" />
 <property name="HP" value="10" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Leader/Car/Melee" />
+<property name="Trait" value="Leader, Car, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1643,7 +1678,7 @@
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
 <property name="Text" value="When this attacks and you flip at least [W] [W] -> This gets Pierce 2 until after the attack." />
-<property name="Trait" value="Leader/Melee" />
+<property name="Trait" value="Leader, Melee" />
 </alternate>
 </card>
 <card id="0e5072c4-4e00-49e8-b79d-dd50dad19e76" name="Autobot Mirage - Lone Wolf" size="Large">
@@ -1653,7 +1688,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="12" />
 <property name="Stars" value="9" />
-<property name="Trait" value="Car/Melee" />
+<property name="Trait" value="Car, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1677,7 +1712,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="11" />
 <property name="Stars" value="7" />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1691,7 +1726,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="Text" value="While this is attacking a damaged enemy -> This has Bold 2." />
-<property name="Trait" value="Insecticon/Ranged" />
+<property name="Trait" value="Insecticon, Ranged" />
 </alternate>
 </card>
 <card id="e6fe1285-ba0e-4080-8acd-7360509cc30f" name="Bombshell - Insecticon Mind-Controller" size="Large">
@@ -1701,7 +1736,7 @@
 <property name="DEF" value="4" />
 <property name="HP" value="10" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1715,7 +1750,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="Text" value="" />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 </alternate>
 </card>
 <card id="02c9d433-f2fc-4f56-b260-ffe618ad8ee2" name="Bumblebee - Courageous Scout" size="Large">
@@ -1725,7 +1760,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="10" />
 <property name="Stars" value="9" />
-<property name="Trait" value="Car/Specialist" />
+<property name="Trait" value="Car, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1749,7 +1784,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="15" />
 <property name="Stars" value="10" />
-<property name="Trait" value="Leader/Car/Melee" />
+<property name="Trait" value="Leader, Car, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1763,7 +1798,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="Text" value="While this is your only character on the battlefield -> He has +2 [ATK] and +2 [DEF]." />
-<property name="Trait" value="Leader/Melee" />
+<property name="Trait" value="Leader, Melee" />
 </alternate>
 </card>
 <card id="b2a24808-8882-4711-8d79-c0ceea3056e3" name="Chop Shop - Sneaky Insecticon" size="Large">
@@ -1773,7 +1808,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="9" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1787,7 +1822,7 @@
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this attacks -> You may move an Upgrade from one of your other characters to this one." />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 </alternate>
 </card>
 <card id="64536e15-6966-450a-a9a5-6375b2e0ea2c" name="Chromia - Special Ops" size="Large">
@@ -1797,7 +1832,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="11" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Motorcycle/Specialist" />
+<property name="Trait" value="Motorcycle, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1811,7 +1846,7 @@
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
 <property name="Text" value="When this attacks and you flip at least [W] [W] -> Draw 2 cards." />
-<property name="Trait" value="Leader/Specialist" />
+<property name="Trait" value="Leader, Specialist" />
 </alternate>
 </card>
 <card id="6a78f18e-2789-4864-8781-7ef76dc1fc54" name="Darkmount - Cruel Overlord" size="Large">
@@ -1821,7 +1856,7 @@
 <property name="DEF" value="4" />
 <property name="HP" value="9" />
 <property name="Stars" value="9" />
-<property name="Trait" value="Tank/Ranged" />
+<property name="Trait" value="Tank, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1845,7 +1880,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="11" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Car/Melee" />
+<property name="Trait" value="Car, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1869,7 +1904,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="11" />
 <property name="Stars" value="11" />
-<property name="Trait" value="Leader/Spaceship/Specialist" />
+<property name="Trait" value="Leader, Spaceship, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1883,7 +1918,7 @@
 <property name="ATK" value="4" />
 <property name="DEF" value="3" />
 <property name="Text" value="When a card is scrapped from your opponent's hand -> Your opponent chooses one of their characters and does 1 damage to it." />
-<property name="Trait" value="Leader/Specialist" />
+<property name="Trait" value="Leader, Specialist" />
 </alternate>
 </card>
 <card id="18aa53e3-ea7a-4b33-ad30-0554803048e9" name="Demolisher - Devoted Decepticon" size="Large">
@@ -1893,7 +1928,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="7" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Tank/Ranged" />
+<property name="Trait" value="Tank, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1917,7 +1952,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="12" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Dinobot/Specialist" />
+<property name="Trait" value="Dinobot, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1931,7 +1966,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="Text" value="When one of your Dinobots attacks -> Repair 1 damage from it." />
-<property name="Trait" value="Dinobot/Specialist" />
+<property name="Trait" value="Dinobot, Specialist" />
 </alternate>
 </card>
 <card id="14c1fd8e-8fc7-464e-b9b1-468e4931b0da" name="Dinobot Slug - Hot-Header Warrior" size="Large">
@@ -1941,7 +1976,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="13" />
 <property name="Stars" value="9" />
-<property name="Trait" value="Dinobot/Melee" />
+<property name="Trait" value="Dinobot, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1955,7 +1990,7 @@
 <property name="ATK" value="6" />
 <property name="DEF" value="0" />
 <property name="Text" value="" />
-<property name="Trait" value="Dinobot/Melee" />
+<property name="Trait" value="Dinobot, Melee" />
 </alternate>
 </card>
 <card id="cb540641-3599-4409-8fb0-79f3ceb3f6fa" name="Dinobot Snarl - Desert Warrior" size="Large">
@@ -1965,7 +2000,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="9" />
 <property name="Stars" value="7" />
-<property name="Trait" value="Dinobot/Melee" />
+<property name="Trait" value="Dinobot, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -1979,7 +2014,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="Text" value="When this attacks -> You may put a card from your hand on top of your deck." />
-<property name="Trait" value="Dinobot/Melee" />
+<property name="Trait" value="Dinobot, Melee" />
 </alternate>
 </card>
 <card id="2c399eee-f91c-4ff2-9431-9d7d6bd67be9" name="Dinobot Swoop - Fearsome Flyer" size="Large">
@@ -1989,7 +2024,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="10" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Dinobot/Specialist" />
+<property name="Trait" value="Dinobot, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2003,7 +2038,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
 <property name="Text" value="" />
-<property name="Trait" value="Dinobot/Specialist" />
+<property name="Trait" value="Dinobot, Specialist" />
 </alternate>
 </card>
 <card id="81c106d9-312c-46bd-865b-54148d39acd9" name="Flamewar - Veteran Decepticon" size="Large">
@@ -2013,7 +2048,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="10" />
 <property name="Stars" value="5" />
-<property name="Trait" value="Motorcycle/Specialist" />
+<property name="Trait" value="Motorcycle, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2037,7 +2072,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="12" />
 <property name="Stars" value="10" />
-<property name="Trait" value="Leader/Dinobot/Melee" />
+<property name="Trait" value="Leader, Dinobot, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2051,7 +2086,7 @@
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
 <property name="Text" value="When this does more than enough attack damage to KO an enemy -> Your opponent chooses one of their other characters and puts the extra damage on it." />
-<property name="Trait" value="Leader/Dinobot/Melee" />
+<property name="Trait" value="Leader, Dinobot, Melee" />
 </alternate>
 </card>
 <card id="1e7ac879-6557-40ba-95cd-e426d200e6f9" name="Inferno - Fearless Firefighter" size="Large">
@@ -2061,7 +2096,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="11" />
 <property name="Stars" value="12" />
-<property name="Trait" value="Truck/Ranged" />
+<property name="Trait" value="Truck, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2085,7 +2120,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="7" />
 <property name="Stars" value="7" />
-<property name="Trait" value="Leader/Insecticon/Melee" />
+<property name="Trait" value="Leader, Insecticon, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2099,7 +2134,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
 <property name="Text" value="This can't take more than 3 attack damage from a single attack." />
-<property name="Trait" value="Leader/Insecticon/Melee" />
+<property name="Trait" value="Leader, Insecticon, Melee" />
 </alternate>
 </card>
 <card id="863d619a-50a4-4e75-a4d9-4d13c1fe7c07" name="Jetfire - Air Guardian" size="Large">
@@ -2109,7 +2144,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="15" />
 <property name="Stars" value="10" />
-<property name="Trait" value="Plane/Ranged" />
+<property name="Trait" value="Plane, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2133,7 +2168,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="9" />
 <property name="Stars" value="5" />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2147,7 +2182,7 @@
 <property name="ATK" value="0" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this is attacking, flip 2 more battle cards for each other Insecticon you began the game with." />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 </alternate>
 </card>
 <card id="6a9139e8-582e-44f9-bd7f-b6a7f6b8e757" name="Megatron - Decepticon Leader" size="Large">
@@ -2157,7 +2192,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="12" />
 <property name="Stars" value="10" />
-<property name="Trait" value="Leader/Tank/Ranged" />
+<property name="Trait" value="Leader, Tank, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2171,7 +2206,7 @@
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
 <property name="Text" value="Pierce 3." />
-<property name="Trait" value="Leader/Ranged" />
+<property name="Trait" value="Leader, Ranged" />
 </alternate>
 </card>
 <card id="b0d5bdb5-14ff-48a4-b74c-144c1b1afb16" name="Megatron - Living Weapon" size="Large">
@@ -2181,7 +2216,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="14" />
 <property name="Stars" value="13" />
-<property name="Trait" value="Leader/Tank/Ranged" />
+<property name="Trait" value="Leader, Tank, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2195,7 +2230,7 @@
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
 <property name="Text" value="This can be upgraded with a Weapon in his Armor and/or Utility slots." />
-<property name="Trait" value="Leader/Ranged" />
+<property name="Trait" value="Leader, Ranged" />
 </alternate>
 </card>
 <card id="4b7b6322-bde2-4575-b862-8b69f44c7d55" name="Nemesis Prime - Dark Clone" size="Large">
@@ -2205,7 +2240,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="16" />
 <property name="Stars" value="12" />
-<property name="Trait" value="Truck/Melee" />
+<property name="Trait" value="Truck, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2229,7 +2264,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="14" />
 <property name="Stars" value="13" />
-<property name="Trait" value="Leader/Truck/Melee" />
+<property name="Trait" value="Leader, Truck, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2243,7 +2278,7 @@
 <property name="ATK" value="8" />
 <property name="DEF" value="2" />
 <property name="Text" value="After you flip battle cards for this character's attack and before defense flips -> You may play one of the Actions you flipped." />
-<property name="Trait" value="Leader/Ranged" />
+<property name="Trait" value="Leader, Ranged" />
 </alternate>
 </card>
 <card id="4f694e20-55d6-45a3-b6a1-da19fb4f70f0" name="Optimus Prime - Freedom Fighter" size="Large">
@@ -2253,7 +2288,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="15" />
 <property name="Stars" value="12" />
-<property name="Trait" value="Leader/Truck/Melee" />
+<property name="Trait" value="Leader, Truck, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2267,7 +2302,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="Text" value="Bold 2." />
-<property name="Trait" value="Leader/Melee" />
+<property name="Trait" value="Leader, Melee" />
 </alternate>
 </card>
 <card id="42274b89-74c8-434a-9b6f-ef30081e542d" name="Prowl - Military Strategist" size="Large">
@@ -2277,7 +2312,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="9" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Car/Specialist" />
+<property name="Trait" value="Car, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2301,14 +2336,14 @@
 <property name="DEF" value="0" />
 <property name="HP" value="14" />
 <property name="Stars" value="10" />
-<property name="Trait" value="Plane/Melee" />
+<property name="Trait" value="Plane, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> Move 2 damage counters from another character to this one." />
+<property name="Text" value="" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Ramjet - Sky Smasher" type="bot">
@@ -2325,21 +2360,21 @@
 <property name="DEF" value="2" />
 <property name="HP" value="8" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Insecticon/Melee" />
+<property name="Trait" value="Insecticon, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="" />
+<property name="Text" value="When you flip to this mode -> Move 2 damage counters from another character to this one." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Ransack - Insecticon Commando" type="bot">
 <property name="ATK" value="" />
 <property name="DEF" value="3" />
 <property name="Text" value="This character's Power is equal to the number of damage counters on him." />
-<property name="Trait" value="Insecticon/Ranged" />
+<property name="Trait" value="Insecticon, Ranged" />
 </alternate>
 </card>
 <card id="72a6271c-27c6-4714-ae69-7010bf176eda" name="Sergeant Kup - Veteran Sergeant" size="Large">
@@ -2349,7 +2384,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="8" />
 <property name="Stars" value="7" />
-<property name="Trait" value="Truck/Ranged" />
+<property name="Trait" value="Truck, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2373,7 +2408,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="8" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Plane/Ranged" />
+<property name="Trait" value="Plane, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2397,7 +2432,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="13" />
 <property name="Stars" value="11" />
-<property name="Trait" value="Leader/Plane/Ranged" />
+<property name="Trait" value="Leader, Plane, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2411,7 +2446,7 @@
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
 <property name="Text" value="Bold 2." />
-<property name="Trait" value="Leader/Ranged" />
+<property name="Trait" value="Leader, Ranged" />
 </alternate>
 </card>
 <card id="4c080aab-2eb1-46d2-af54-1c450b5cded3" name="Starscream - Scheming Second-In-Command" size="Large">
@@ -2421,7 +2456,7 @@
 <property name="DEF" value="1" />
 <property name="HP" value="14" />
 <property name="Stars" value="10" />
-<property name="Trait" value="Leader/Plane/Ranged" />
+<property name="Trait" value="Leader, Plane, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2435,7 +2470,7 @@
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="Text" value="Tough 1." />
-<property name="Trait" value="Leader/Ranged" />
+<property name="Trait" value="Leader, Ranged" />
 </alternate>
 </card>
 <card id="59db98a7-48f6-420a-9aa4-ac1bf2518d4e" name="Sunstorm - Fusion Flyer" size="Large">
@@ -2445,7 +2480,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="9" />
 <property name="Stars" value="11" />
-<property name="Trait" value="Plane/Ranged" />
+<property name="Trait" value="Plane, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2467,9 +2502,9 @@
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
-<property name="HP" value="14" />
+<property name="HP" value="12" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Plane/Ranged" />
+<property name="Trait" value="Plane, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2493,7 +2528,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="7" />
 <property name="Stars" value="9" />
-<property name="Trait" value="Car/Specialist" />
+<property name="Trait" value="Car, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2515,9 +2550,9 @@
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="HP" value="12" />
+<property name="HP" value="9" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Leader/Car/Melee" />
+<property name="Trait" value="Leader, Car, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2531,7 +2566,7 @@
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
 <property name="Text" value="Tough 1." />
-<property name="Trait" value="Leader/Melee" />
+<property name="Trait" value="Leader, Melee" />
 </alternate>
 </card>
 <card id="946d4673-b135-43c3-bdb9-6280a40346ef" name="Ironhide - Veteran Autobot" size="Large">
@@ -2541,7 +2576,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="7" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Truck/Melee" />
+<property name="Trait" value="Truck, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2563,9 +2598,9 @@
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
-<property name="HP" value="13" />
+<property name="HP" value="10" />
 <property name="Stars" value="7" />
-<property name="Trait" value="Leader/Truck/Melee" />
+<property name="Trait" value="Leader, Truck, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2579,7 +2614,7 @@
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
 <property name="Text" value="Bold 1." />
-<property name="Trait" value="Leader/Ranged" />
+<property name="Trait" value="Leader, Ranged" />
 </alternate>
 </card>
 <card id="a881606a-5e32-4406-a61c-811a9122cf58" name="Red Alert - Security Chief" size="Large">
@@ -2589,7 +2624,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="10" />
 <property name="Stars" value="6" />
-<property name="Trait" value="Car/Ranged" />
+<property name="Trait" value="Car, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2613,7 +2648,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="12" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Car/Melee" />
+<property name="Trait" value="Car, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2637,7 +2672,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="13" />
 <property name="Stars" value="8" />
-<property name="Trait" value="Plane/Ranged" />
+<property name="Trait" value="Plane, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2661,7 +2696,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="35" />
 <property name="Stars" value="25" />
-<property name="Trait" value="Titan/Ranged" />
+<property name="Trait" value="Titan, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2675,7 +2710,7 @@
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this attacks and you flip at least [W][W][O][O][B][B] -> Tap each enemy and do 1 damage to each enemy." />
-<property name="Trait" value="Titan/Ranged" />
+<property name="Trait" value="Titan, Ranged" />
 </alternate>
 </card>
 <card id="30785791-0e73-4193-b77a-ff7d9de8ae2a" name="Scamper - City Patrol" size="Large">
@@ -2685,7 +2720,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="4" />
 <property name="Stars" value="4" />
-<property name="Trait" value="Car/Melee" />
+<property name="Trait" value="Car, Melee" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
@@ -2733,7 +2768,7 @@
 <property name="DEF" value="3" />
 <property name="HP" value="3" />
 <property name="Stars" value="4" />
-<property name="Trait" value="Tank/Ranged" />
+<property name="Trait" value="Tank, Ranged" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
