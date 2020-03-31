@@ -2396,28 +2396,28 @@
 <property name="Text" value="Tough 3" />
 </alternate>
 </card>
-<card id="a00c8d57-bef9-44ac-bdd6-7b3461c4b757" name="" size="Large">
+<card id="a00c8d57-bef9-44ac-bdd6-7b3461c4b757" name="Freezeout" size="Small">
 <property name="Card Number" value="T23" />
 <property name="Type" value="Character" />
 <property name="ATK" value="" />
-<property name="HP" value="" />
+<property name="HP" value="3" />
 <property name="DEF" value="" />
-<property name="Stars" value="" />
+<property name="Stars" value="3" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
-<property name="Text" value="" />
-<property name="Rarity" value="" />
-<property name="Draft Type" value="Large Character" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="+ Tough 2" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Head Character" />
 <alternate name="" type="bot">
-<property name="ATK" value="" />
-<property name="DEF" value="" />
-<property name="Text" value="" />
-<property name="Trait" value="" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="Text" value="Tough 2" />
+<property name="Trait" value="Titan Master, Melee" />
 </alternate>
 </card>
 <card id="75159043-fa8f-4899-b4af-7f8a8d8d0bc4" name="Grax" size="Small">
@@ -2776,28 +2776,28 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 </card>
-<card id="1333ced4-18e3-4e13-b8b8-645d1c0862f8" name="" size="Large">
+<card id="1333ced4-18e3-4e13-b8b8-645d1c0862f8" name="Topspin - Air &amp; Space Assault" size="Large">
 <property name="Card Number" value="T39" />
 <property name="Type" value="Character" />
-<property name="ATK" value="" />
-<property name="HP" value="" />
-<property name="DEF" value="" />
-<property name="Stars" value="" />
-<property name="Trait" value="" />
+<property name="ATK" value="5" />
+<property name="HP" value="14" />
+<property name="DEF" value="1" />
+<property name="Stars" value="9" />
+<property name="Trait" value="Spaceship, Wrecker, Specialist" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
-<property name="Text" value="" />
-<property name="Rarity" value="" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="" type="bot">
-<property name="ATK" value="" />
-<property name="DEF" value="" />
-<property name="Text" value="" />
-<property name="Trait" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this defends -> He gets Tough until end of battle equal to his Bold total. " />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Body Character" />
+<alternate name="Topspin - Air &amp; Space Assault" type="bot">
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this attacks and you flip at least [W] -> Draw a card. " />
+<property name="Trait" value="Wrecker, Specialist" />
 </alternate>
 </card>
 <card id="4ad0e739-5eff-4032-937a-d9df26c30659" name="Tracks - Autobot Warrior" size="Large">
