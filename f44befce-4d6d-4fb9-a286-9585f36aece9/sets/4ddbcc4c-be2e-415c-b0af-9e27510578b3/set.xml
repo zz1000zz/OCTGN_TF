@@ -842,7 +842,7 @@
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
-<property name="White Pips" value="" />
+<property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
 <property name="Black Pips" value="" />
 <property name="Hybrid Pip Trait" value="" />
