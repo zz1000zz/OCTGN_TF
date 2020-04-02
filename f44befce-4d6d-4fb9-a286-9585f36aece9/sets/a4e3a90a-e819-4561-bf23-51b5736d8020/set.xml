@@ -1177,7 +1177,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="" />
+<property name="Text" value="Tough 1" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
