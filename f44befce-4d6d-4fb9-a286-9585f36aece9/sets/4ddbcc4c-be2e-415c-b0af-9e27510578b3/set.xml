@@ -243,9 +243,9 @@
 <property name="Rarity" value="" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="537dbd2e-d8c7-442f-8579-15066e605c45" name="">
+<card id="537dbd2e-d8c7-442f-8579-15066e605c45" name="Disassemble">
 <property name="Card Number" value="10" />
-<property name="Type" value="" />
+<property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
@@ -254,12 +254,12 @@
 <property name="Orange Pips" value="" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
-<property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="1" />
 <property name="Hybrid Pip Trait" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="" />
-<property name="Rarity" value="" />
+<property name="Text" value="Scrap any Weapon or Armor -> Its owner draws a card. " />
+<property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="d93e7fc5-6d83-42dc-b12a-eff747fd2b5a" name="Electro-Optical Visor">
@@ -927,23 +927,23 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="fda76705-8e01-4a1a-8f4a-681600638e09" name="">
+<card id="fda76705-8e01-4a1a-8f4a-681600638e09" name="Precision Fire">
 <property name="Card Number" value="46" />
-<property name="Type" value="" />
+<property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
 <property name="Stars" value="" />
 <property name="Trait" value="" />
-<property name="Orange Pips" value="" />
+<property name="Orange Pips" value="1" />
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
+<property name="Black Pips" value="1" />
 <property name="Hybrid Pip Trait" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="" />
-<property name="Rarity" value="" />
+<property name="Text" value="Choose a mode. Do 1 damage to EACH character in that mode. " />
+<property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="a620ef46-326d-4ea9-8d7b-158ef30ae92c" name="Reflect Damage">
