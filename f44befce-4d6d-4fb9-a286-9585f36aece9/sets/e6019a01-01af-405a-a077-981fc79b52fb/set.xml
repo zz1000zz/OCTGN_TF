@@ -898,7 +898,7 @@
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
 <property name="Text" value="You may play an upgrade." />
-<property name="Rarity" value="Uncommon" />
+<property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="58854939-7c46-40fb-b223-d0c8d8a1d08c" name="Null-Ray of Starscream" size="Small">
