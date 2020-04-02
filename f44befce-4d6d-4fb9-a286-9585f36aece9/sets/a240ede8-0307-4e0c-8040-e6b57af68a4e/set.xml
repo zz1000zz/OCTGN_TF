@@ -968,7 +968,7 @@
 <property name="ATK" value="3" />
 <property name="DEF" value="9" />
 <property name="Text" value="Focus 1." />
-<property name="Trait" value="Ranged" />
+<property name="Trait" value="Battle Master, Ranged" />
 </alternate>
 </card>
 <card id="ab87c02d-6946-4a2c-95c9-ae0b7c8bd1d5" name="Raider Spinister - Infantry, Aerial Assault" size="Large">
