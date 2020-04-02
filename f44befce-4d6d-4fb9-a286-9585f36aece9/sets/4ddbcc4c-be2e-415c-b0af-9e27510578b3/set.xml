@@ -1862,7 +1862,6 @@
 <property name="Card Number" value="T01" />
 <property name="Type" value="Character" />
 <property name="ATK" value="" />
-<property name="HP" value="3" />
 <property name="DEF" value="" />
 <property name="Stars" value="3" />
 <property name="Trait" value="" />
@@ -1877,6 +1876,7 @@
 <property name="Draft Type" value="Small Head Character" />
 <alternate name="Apex" type="bot">
 <property name="ATK" value="3" />
+<property name="HP" value="3" />
 <property name="DEF" value="0" />
 <property name="Text" value="Stealth" />
 <property name="Trait" value="Titan Master, Melee" />
