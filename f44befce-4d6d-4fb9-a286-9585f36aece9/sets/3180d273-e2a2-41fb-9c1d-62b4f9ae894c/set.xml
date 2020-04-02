@@ -3022,8 +3022,8 @@
 <property name="Card Number" value="RT02" />
 <property name="Type" value="Character" />
 <property name="ATK" value="2" />
-<property name="DEF" value="10" />
-<property name="HP" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="10" />
 <property name="Stars" value="7" />
 <property name="Trait" value="Tank, Ranged" />
 <property name="Orange Pips" value="" />
