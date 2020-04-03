@@ -1250,9 +1250,9 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a3ad677f-7add-4e30-9ff9-539f8fb873ed" name="">
+<card id="a3ad677f-7add-4e30-9ff9-539f8fb873ed" name="Turn the Tide">
 <property name="Card Number" value="63" />
-<property name="Type" value="" />
+<property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
@@ -1262,11 +1262,11 @@
 <property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
-<property name="Black Pips" value="" />
+<property name="Black Pips" value="1" />
 <property name="Hybrid Pip Trait" value="" />
-<property name="Faction" value="" />
-<property name="Text" value="" />
-<property name="Rarity" value="" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Choose an equal number of Autobots and Decepticons. For each of those Autobots, move 1 damage counter from it to one of the Decepticons that you haven't moved a counter to this way. " />
+<property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="b548b85d-1dfc-47cf-9ab7-b51197e1a2a5" name="Versatility">
