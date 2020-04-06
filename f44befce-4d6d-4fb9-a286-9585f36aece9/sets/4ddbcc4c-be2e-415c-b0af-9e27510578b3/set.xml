@@ -161,7 +161,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="2" />
-<property name="Hybrid Pip Trait" value="-, Plane" />
+<property name="Hybrid Pip Trait" value="-,Plane" />
 <property name="Faction" value="" />
 <property name="Text" value="Reveal -> When one of your characters defends and you flip battle cards. When Revealed -> The defender gets +1 [DEF] until end of battle for each [K] you flipped. " />
 <property name="Rarity" value="Uncommon" />
@@ -864,7 +864,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="2" />
-<property name="Hybrid Pip Trait" value="Car, -" />
+<property name="Hybrid Pip Trait" value="Car,-" />
 <property name="Faction" value="" />
 <property name="Text" value="When the upgraded character attacks and has 3 [ATK] or less -> Untap it and scrap this card. " />
 <property name="Rarity" value="Rare" />
@@ -1130,7 +1130,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="1" />
 <property name="Black Pips" value="2" />
-<property name="Hybrid Pip Trait" value="Specialist, -, -"/>
+<property name="Hybrid Pip Trait" value="Specialist,-,-"/>
 <property name="Faction" value="" />
 <property name="Text" value="You may play a Secret Action. While that card is face down, this card and that card aren't scrapped at the end of turns. " />
 <property name="Rarity" value="Rare" />
