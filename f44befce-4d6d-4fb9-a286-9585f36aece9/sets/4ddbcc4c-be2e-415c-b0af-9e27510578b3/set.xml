@@ -93,7 +93,7 @@
 </card>
 <card id="be2c5c09-706c-4659-b5e8-f89893266f74" name="Blade Flurry">
 <property name="Card Number" value="2" />
-<property name="Type" value="" />
+<property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
