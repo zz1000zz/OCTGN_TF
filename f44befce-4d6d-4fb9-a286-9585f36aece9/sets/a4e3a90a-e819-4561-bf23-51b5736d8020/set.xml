@@ -691,7 +691,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Shockwave only. Up to 2 LV Gamma-> Disruptor Launchers can fir in 1 Weapon slot. When you put this on Shockwave -> Your opponent chooses a card from their hand and scraps it." />
+<property name="Text" value="Put on Shockwave only. Up to 2 LV Gamma-Disruptor Launchers can fit in 1 Weapon slot. When you put this on Shockwave -> Your opponent chooses a card from their hand and scraps it." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>

@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
       xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-      name="Transformers" 
-      id="f44befce-4d6d-4fb9-a286-9585f36aece9" 
-      octgnVersion="3.1.2.0" 
-      version="0.0.3.20"
-      markersize="20"
-      tags="Transformers"
-      description="Transformers CCG, by Hasbro.  If you have questions or feedback, please join the Discord server at https://discord.gg/AUJKdD"
-      setsurl="http://placeholder.com"
-      gameurl="http://placeholder.com"
-	  iconurl="http://placeholder.com/placeholder.jpg"
-      authors="Brandon Shollenberger"
-	  scriptVersion="3.1.0.2">
+      
+name="Transformers"
+id="f44befce-4d6d-4fb9-a286-9585f36aece9"
+octgnVersion="3.1.2.0"
+version="0.0.3.21"
 
+markersize="20"
+
+tags="Transformers"
+
+description="Transformers CCG, by Hasbro.  If you have questions or feedback, please join the Discord server at https://discord.gg/AUJKdD"
+
+setsurl="http://placeholder.com"
+
+gameurl="http://placeholder.com"
+	  iconurl="http://placeholder.com/placeholder.jpg"
+authors="Brandon Shollenberger"
+	  scriptVersion="3.1.0.2">
 <scripts>
 <script src="scripts/actions.py" />
 </scripts>
