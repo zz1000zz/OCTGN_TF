@@ -254,9 +254,12 @@ def testing(card):
             for c in flippedCardsInTable:
                     if c.position[1] <= y:
                             y = c.position[1] - 10
-    card.moveToTable(x, y)
-    if not me._id == 1:
-        card.sendToFront()
+    try:
+        card.moveToTable(x, y)
+        if not me._id == 1:
+            card.sendToFront()
+    except:
+        pass
 
 def KO(card, x=0, y=0):
     mute()
