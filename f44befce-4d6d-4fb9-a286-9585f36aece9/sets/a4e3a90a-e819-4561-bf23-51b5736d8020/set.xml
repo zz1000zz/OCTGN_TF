@@ -1,4 +1,4 @@
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 3" id="a4e3a90a-e819-4561-bf23-51b5736d8020" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 3" id="a4e3a90a-e819-4561-bf23-51b5736d8020" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.1" version="0.1">
 <packaging>
 <pack name="Wave 3 Booster" id="129c5102-d961-4d55-b247-f3a1264a641d">
 <options>
@@ -492,7 +492,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Decepticon" />
 <property name="Text" value="Put on Firecons only. Each of your Firecons has Bold 1." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -691,7 +691,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Shockwave only. Up to 2 LV Gamma->Disruptor Launchers can fir in 1 Weapon slot. When you put this on Shockwave -> Your opponent chooses a card from their hand and scraps it." />
+<property name="Text" value="Put on Shockwave only. Up to 2 LV Gamma-> Disruptor Launchers can fir in 1 Weapon slot. When you put this on Shockwave -> Your opponent chooses a card from their hand and scraps it." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -709,7 +709,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Put on Autobots only. If the upgraded character would take non->attack damage -> Instead it takes that much damages minus one." />
+<property name="Text" value="Put on Autobots only. If the upgraded character would take non-attack damage -> Instead it takes that much damages minus one." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -1123,7 +1123,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="Reveal -> If one or more of your characters would take non->attack damage during your opponent's turn. When Revealed -> Instead your characters can't take non->attack damage this turn." />
+<property name="Text" value="Reveal -> If one or more of your characters would take non- attack damage during your opponent's turn. When Revealed -> Instead your characters can't take non-attack damage this turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -1177,13 +1177,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="" />
+<property name="Text" value="Tough 1" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="7c9e0bf7-973b-4c88-940f-80811a2b4ceb" name="W-5 Gyro Blaster" size="Small">
 <property name="Card Number" value="64" />
-<property name="Type" value="Upgrade - Weapon" />
+<property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
 <property name="HP" value="" />
@@ -1261,7 +1261,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="This can't take non->attack damage from your opponent's cards." />
+<property name="Text" value="This can't take non-attack damage from your opponent's cards." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Captain Ironhide - Infantry, Bodyguard" type="bot">
@@ -1549,7 +1549,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Bold 4. When the upgraded character attacks xe2x86x92 Plan 1. If this would leave the battlefield ->> Put it into your KO area instead" />
+<property name="Text" value="Bold 4. When the upgraded character attacks -> Plan 1. If this would leave the battlefield -> > Put it into your KO area instead" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Character" />
 <alternate name="Private Lionizer - Ground Command, Artillery" type="bot">
@@ -2007,7 +2007,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="" />
 <property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
+<property name="Draft Type" value="Small" />
 <alternate name="Raider Ravage - Espionage, Saboteur" type="bot">
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -2365,13 +2365,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Your starting [Star] limit inreases by 1 for each Mini-Cassette on your starting team. This starts the game with all Mini-Cassettes on your starting team under it." />
+<property name="Text" value="Your starting [Star] limit increases by 1 for each Mini-Cassette on your starting team. This starts the game with all Mini-Cassettes on your starting team under it." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Blaster - Communications" type="bot">
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you flip to this mode - Depoly a Mini-Cassette from under this to the battlefield in bot mode. When you do, play the top card of your deck." />
+<property name="Text" value="When you flip to this mode -> Deploy a Mini-Cassette from under this to the battlefield in bot mode. When you do, play the top card of your deck." />
 <property name="Trait" value="Specialist" />
 </alternate>
 </card>
@@ -2389,13 +2389,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Stealth. When you flip to this mode - Look at the top 2 cards of your deck. You may scrap them." />
+<property name="Text" value="Stealth. When you flip to this mode -> Look at the top 2 cards of your deck. You may scrap them." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Eject - Electronic Surveillance" type="bot">
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this defends - Enemies can't use Bold this turn." />
+<property name="Text" value="When this defends -> Enemies can't use Bold this turn." />
 <property name="Trait" value="Mini-Cassette, Specialist" />
 </alternate>
 </card>
@@ -2413,13 +2413,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Stealth. When you flip to this mode - You may move an Armor from one of your characters to another one. " />
+<property name="Text" value="Stealth. When you flip to this mode -> You may move an Armor from one of your characters to another one. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Ramhorn - Warrior" type="bot">
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this defends - You may play an [W] Armor." />
+<property name="Text" value="When this defends -> You may play an [W] Armor." />
 <property name="Trait" value="Mini-Cassette, Melee" />
 </alternate>
 </card>
@@ -2437,7 +2437,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Stealth. When you flip to this mode - Each of your characters gets Bold 1 until end of turn." />
+<property name="Text" value="Stealth. When you flip to this mode -> Each of your characters gets Bold 1 until end of turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Steeljaw - Tracker" type="bot">
@@ -2461,13 +2461,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Your starting [Star] limit inreases by 1 for each Mini-Cassette on your starting team. This starts the game with all Mini-Cassettes on your starting team under it." />
+<property name="Text" value="Your starting [Star] limit increases by 1 for each Mini-Cassette on your starting team. This starts the game with all Mini-Cassettes on your starting team under it." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Soundwave - Communications" type="bot">
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
-<property name="Text" value="When you flip to this mode - Depoly a Mini-Cassette from under this to the battlefield in bot mode. When you do, look at your opponent's hand and choose a card from it. Your opponent puts that card on top of their deck." />
+<property name="Text" value="When you flip to this mode -> Deploy a Mini-Cassette from under this to the battlefield in bot mode. When you do, look at your opponent's hand and choose a card from it. Your opponent puts that card on top of their deck." />
 <property name="Trait" value="Leader, Specialist" />
 </alternate>
 </card>
@@ -2485,13 +2485,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Stealth. When you flip to this mode - You may move a Weapon from one of your characters to another one." />
+<property name="Text" value="Stealth. When you flip to this mode -> You may move a Weapon from one of your characters to another one." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Buzzsaw - Spy" type="bot">
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this attacks - You may play a [B] Weapon." />
+<property name="Text" value="When this attacks -> You may play a [B] Weapon." />
 <property name="Trait" value="Mini-Cassette, Ranged" />
 </alternate>
 </card>
@@ -2509,13 +2509,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Stealth. When you flip to this mode - Your opponent reveals the top 2 cards of their deck. You may have your opponent scrap those cards." />
+<property name="Text" value="Stealth. When you flip to this mode -> Your opponent reveals the top 2 cards of their deck. You may have your opponent scrap those cards." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Frenzy - Warrior" type="bot">
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this attacks - Enemies can't use Tough this turn." />
+<property name="Text" value="When this attacks -> Enemies can't use Tough this turn." />
 <property name="Trait" value="Mini-Cassette, Melee" />
 </alternate>
 </card>
@@ -2533,7 +2533,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Stealth. When you flip to this mode - One of your characters gets Pierce 2 until end of turn." />
+<property name="Text" value="Stealth. When you flip to this mode -> One of your characters gets Pierce 2 until end of turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Ravage - Saboteur" type="bot">
@@ -2552,12 +2552,12 @@
 <property name="Stars" value="" />
 <property name="Trait" value="" />
 <property name="Orange Pips" value="" />
-<property name="Blue Pips" value="1" />
+<property name="Blue Pips" value="" />
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="If you have Buzzsaw on the battlefield - Draw a card. If you have Ravage on the battlefield - Do 1 damage to an enemy. If you have Frenzy on the battlefield - Your opponent chooses one of thier Armors and scraps it." />
+<property name="Text" value="If you have Buzzsaw on the battlefield -> Draw a card. If you have Ravage on the battlefield -> Do 1 damage to an enemy. If you have Frenzy on the battlefield -> Your opponent chooses one of thier Armors and scraps it." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -2575,7 +2575,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Choose one of your characters - It gets +1 [Atk] until end of turn for each Autobot Mini-Cassette in your KO area. If you have Blaster on the battlefield, the chosen character also gets Pierce 6 until end of turn. " />
+<property name="Text" value="Choose one of your characters -> It gets +1 [Atk] until end of turn for each Autobot Mini-Cassette in your KO area. If you have Blaster on the battlefield, the chosen character also gets Pierce 6 until end of turn. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -2647,7 +2647,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="For each Mini-Cassette you have on the battlefield - The upgraded character has Tough 1." />
+<property name="Text" value="For each Mini-Cassette you have on the battlefield -> The upgraded character has Tough 1." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -2665,7 +2665,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="If you have Blaster or Soundwave on the battlefield - You may put one of your Mini-Cassettes from the battefield under it. If you do, repair 2 damage from one of your characters, then put this card into your KO area." />
+<property name="Text" value="If you have Blaster or Soundwave on the battlefield -> You may put one of your Mini-Cassettes from the battefield under it. If you do, repair 2 damage from one of your characters, then put this card into your KO area." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -2683,13 +2683,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="At the start of your first turn - You may play an Armor onto one of your Omnibots." />
+<property name="Text" value="At the start of your first turn -> You may play an Armor onto one of your Omnibots." />
 <property name="Rarity" value="" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Private Camshaft - Special Ops, Scout" type="bot">
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="Text" value="When one of your Omnibots with an Armor defends - It gets Tough until end of battle equal to the number of Omnibots you have with an Armor." />
+<property name="Text" value="When one of your Omnibots with an Armor defends -> It gets Tough until end of battle equal to the number of Omnibots you have with an Armor." />
 <property name="Trait" value="Omnibot, Specialist" />
 </alternate>
 </card>
@@ -2707,13 +2707,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="At the start of your first turn - You may play a Weapon onto one of your Omnibots." />
+<property name="Text" value="At the start of your first turn -> You may play a Weapon onto one of your Omnibots." />
 <property name="Rarity" value="" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Private Downshift - Special Ops, Security Agent" type="bot">
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="Text" value="When one of your Omnibots with a Weapon attacks - It gets Bold until end of the turn equal to the number of Omnibots you have with a Weapon." />
+<property name="Text" value="When one of your Omnibots with a Weapon attacks -> It gets Bold until end of the turn equal to the number of Omnibots you have with a Weapon." />
 <property name="Trait" value="Omnibot, Ranged" />
 </alternate>
 </card>
@@ -2731,13 +2731,13 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="At the start of your turn - You may play a Utility onto one of your Omnibots." />
+<property name="Text" value="At the start of your turn -> You may play a Utility onto one of your Omnibots." />
 <property name="Rarity" value="" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Sergeant Overdrive - Special Ops, Strategist" type="bot">
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="Text" value="When one of your Omnibots with a Utility battles - It gets Focus until end of battle equal to the number of Omnibots you have with a Utility." />
+<property name="Text" value="When one of your Omnibots with a Utility battles -> It gets Focus until end of battle equal to the number of Omnibots you have with a Utility." />
 <property name="Trait" value="Leader, Omnibot, Ranged" />
 </alternate>
 </card>
@@ -2755,7 +2755,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When the upgraded character attacks and you flip more colors of battle icons than your opponent flips - The upgraded character gets +2 [Atk] until end of battle. If this would leave the battlefield - Put it into your KO area instead." />
+<property name="Text" value="When the upgraded character attacks and you flip more colors of battle icons than your opponent flips -> The upgraded character gets +2 [Atk] until end of battle. If this would leave the battlefield -> Put it into your KO area instead." />
 <property name="Rarity" value="" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Private Smashdown - Ground Command, Artillery" type="bot">
