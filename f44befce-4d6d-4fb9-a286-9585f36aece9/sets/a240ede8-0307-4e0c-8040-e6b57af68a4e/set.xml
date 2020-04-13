@@ -1,4 +1,4 @@
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 4" id="a240ede8-0307-4e0c-8040-e6b57af68a4e" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.1" version="0.1">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 4" id="a240ede8-0307-4e0c-8040-e6b57af68a4e" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
 <packaging>
 <pack name="Wave 4 Booster" id="6667c24c-3876-48d1-a0d8-478c8d3b9a59">
 <options>
@@ -733,7 +733,7 @@
 </card>
 <card id="d597e667-e629-4ac7-adc7-d978d3ebf29d" name="Oxidation Cannon" size="Small">
 <property name="Card Number" value="T30" />
-<property name="Type" value="Character" />
+<property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
 <property name="DEF" value="" />
 <property name="HP" value="8" />
@@ -1112,10 +1112,10 @@
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this attacks -> You may play a [Bl] Weapon from your scrap pile onto this." />
-<property name="Trait" value="Sepecialist" />
+<property name="Trait" value="Specialist" />
 </alternate>
 </card>
-<card id="466b5140-00c5-4c41-949b-dda0f3ca1afa" name="Sergeant Springer - Special Ops Aerial Defense" size="Large">
+<card id="466b5140-00c5-4c41-949b-dda0f3ca1afa" name="Sergeant Springer - Special Ops, Aerial Defense" size="Large">
 <property name="Card Number" value="T46" />
 <property name="Type" value="Character" />
 <property name="ATK" value="6" />
@@ -1132,13 +1132,13 @@
 <property name="Text" value="When you flip to this mode -> You may scrap an Action from your hand.  If you do, draw 2 cards." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Springer - Special Ops Aerial Defense" type="bot">
+<alternate name="Sergeant Springer - Special Ops, Aerial Defense" type="bot">
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
 <property name="Text" value="When you have 7 or more cards in hand and you flip to this mode -> You may play an Action.  Then you may play an Upgrade." />
 <property name="Trait" value="Leader, Specialist" />
 </alternate>
-<alternate name="Sergeant Springer - Special Ops Defence" type="alt2">
+<alternate name="Sergeant Springer - Special Ops, Aerial Defense" type="alt2">
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
 <property name="Text" value="When you flip to this mode -> You may scrap an Upgrade from your hand.  If you do, draw 2 cards." />
@@ -2058,7 +2058,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Decepticon" />
 <property name="Text" value="When one of your Decepticons attacks an enemy this turn -> You get an extra attack this turn, but only with one of your other Decepticons against the same enemy." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
@@ -2544,7 +2544,7 @@
 <property name="White Pips" value="" />
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
-<property name="Faction" value="" />
+<property name="Faction" value="Decepticon" />
 <property name="Text" value="Each enemy's Bold total and Tough total can't be more than 1." />
 <property name="Rarity" value="" />
 <property name="Draft Type" value="Excluded" />
