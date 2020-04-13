@@ -2276,8 +2276,8 @@
 <card id="6a6701c2-f4ed-4c97-9e42-07356ce28add" name="Predacon Headstrong - Ground Assault" size="Large">
 <property name="Card Number" value="T33" />
 <property name="Type" value="Character" />
-<property name="ATK" value="3" />
-<property name="DEF" value="2" />
+<property name="ATK" value="1" />
+<property name="DEF" value="3" />
 <property name="HP" value="5" />
 <property name="Stars" value="5" />
 <property name="Trait" value="Predacon, Melee" />
@@ -2291,8 +2291,8 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Predacon Headstrong - Ground Assault" type="bot">
-<property name="ATK" value="1" />
-<property name="DEF" value="3" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
 <property name="Text" value="" />
 <property name="Trait" value="Predacon, Melee" />
 </alternate>
@@ -3045,8 +3045,8 @@
 <property name="Card Number" value="RT03" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
-<property name="DEF" value="7" />
-<property name="HP" value="1" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
 <property name="Stars" value="5" />
 <property name="Trait" value="Plane, Melee" />
 <property name="Orange Pips" value="" />
