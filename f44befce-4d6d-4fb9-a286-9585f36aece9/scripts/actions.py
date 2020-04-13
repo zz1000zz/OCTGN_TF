@@ -151,7 +151,7 @@ def removeCounterX(card, x = 0, y = 0):
 	mute()
 	quantity = askInteger("How many counters", 0)
 	notify("{} removes {} counter from {}.".format(me, quantity, card))
-	card.markers[CounterMarker] += quantity
+	card.markers[CounterMarker] -= quantity
 	  
 def setCounter(card, x = 0, y = 0):
 	mute()
@@ -405,6 +405,7 @@ def playCharacters(group, x = 0, y = 0):
             charactersWorking = pickCharacters()
     heads = []
     characters = []
+    stratagems = []
     for card in charactersWorking:
         try:
             alt_trait = card.alternateProperty('bot', 'trait')
@@ -413,11 +414,14 @@ def playCharacters(group, x = 0, y = 0):
             else:
                 characters.append(card)
         except:
-            characters.append(card)
+            if "Stratagem" in card.type:
+                stratagems.append(card)
+            else:
+                characters.append(card)
     count = len(characters)
     if me._id == 1:
         if count == 1:
-            characters[0].moveToTable(-50, 20)
+            characters[0].moveToTable(-50, 40)
             return
         i = 0
         for card in characters:
@@ -427,7 +431,7 @@ def playCharacters(group, x = 0, y = 0):
     else:
         i = 0
         if count == 1:
-            characters[0].moveToTable(-50, 150)
+            characters[0].moveToTable(-50, -170)
             return
         for card in characters:
             x = round(600/(count-1))*i + 250
@@ -435,6 +439,8 @@ def playCharacters(group, x = 0, y = 0):
             i -= 1
     if len(heads) > 0:
         playHeads(heads)
+    if len(stratagems) > 0:
+        playStratagems(stratagems)
 
 def playHeads(heads, *args):
     mute()
@@ -445,8 +451,8 @@ def pickBody(card, *args):
     mute()
     characters = [c for c in table if c.controller == me and c.type == "Character"]
     dlg = cardDlg(characters)
-    dlg.title = "Choosing a bot to put your {} on.".format(card)
-    dlg.text = "Please select a body to put your {} on".format(card)
+    dlg.title = "Choosing a bot to put your {} on.".format(card.name)
+    dlg.text = "Please select a body to put your {} on".format(card.name)
     dlg.min = 1
     dlg.max = 1
     cardSelected = dlg.show()
@@ -461,11 +467,25 @@ def pickBody(card, *args):
             card.moveToTable(x+35, y-12)
             card.sendToBack()
         else:
-            card.moveToTable(x-33, y-25)
+            card.moveToTable(x, y+60)
             card.sendToBack()
     else:
         return
     
+def playStratagems(stratagems, *args):
+    mute()
+    i = 0
+    if me._id == 1:
+        x = -450
+        for card in stratagems:
+            card.moveToTable(x, 40 + i * 15)
+            i += 1
+    else:
+        x = 375
+        for card in stratagems:
+            card.moveToTable(x, -130 - i * 15)
+            card.sendToFront()
+            i += 1
 
 def scoop(prompt = False, *args):
     mute()
@@ -480,7 +500,7 @@ def scoop(prompt = False, *args):
 
 def findCharacter(card):
     mute()
-    if card.Type=="Character" or len(card.alternates) > 1:
+    if card.Type=="Character" or len(card.alternates) > 1 or card.Type =="Stratagem":
         card.moveTo(me.characters)
     else:
         card.moveTo(me.Deck)
