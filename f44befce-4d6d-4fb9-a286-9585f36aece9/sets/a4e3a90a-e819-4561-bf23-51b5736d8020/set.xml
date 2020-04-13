@@ -1,4 +1,4 @@
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 3" id="a4e3a90a-e819-4561-bf23-51b5736d8020" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.1" version="0.1">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 3" id="a4e3a90a-e819-4561-bf23-51b5736d8020" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
 <packaging>
 <pack name="Wave 3 Booster" id="129c5102-d961-4d55-b247-f3a1264a641d">
 <options>
@@ -691,7 +691,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Shockwave only. Up to 2 LV Gamma-Disruptor Launchers can fit in 1 Weapon slot. When you put this on Shockwave -> Your opponent chooses a card from their hand and scraps it." />
+<property name="Text" value="Put on Shockwave only. Up to 2 LV Gamma -> Disruptor Launchers can fir in 1 Weapon slot. When you put this on Shockwave -> Your opponent chooses a card from their hand and scraps it." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -1123,7 +1123,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="" />
-<property name="Text" value="Reveal -> If one or more of your characters would take non- attack damage during your opponent's turn. When Revealed -> Instead your characters can't take non-attack damage this turn." />
+<property name="Text" value="Reveal -> If one or more of your characters would take non-attack damage during your opponent's turn. When Revealed -> Instead your characters can't take non-attack damage this turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -1789,7 +1789,7 @@
 <property name="Green Pips" value="" />
 <property name="Black Pips" value="" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When the upgraded character attacks and you flip at least [B][B][B]-> Do 3 damage to the defender. If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Text" value="When the upgraded character attacks and you flip at least [B][B][B] -> Do 3 damage to the defender. If this would leave the battlefield -> Put it into your KO area instead." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Character" />
 <alternate name="Raider Aimless - Air Force, Weapons" type="bot">
@@ -1847,7 +1847,7 @@
 <property name="Trait" value="Firecon, Melee" />
 </alternate>
 </card>
-<card id="4be6b24c-be97-470a-881f-4d40484ce8d1" name="Raider Detour - Infantry, Demolitions" size="Large">
+<card id="4be6b24c-be97-470a-881f-4d40484ce8d1" name="Raider Detour - Infantry, Demolitions" size="Small">
 <property name="Card Number" value="28" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
@@ -1863,7 +1863,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
+<property name="Draft Type" value="Small Character" />
 <alternate name="Raider Detour - Infantry, Demolitions" type="bot">
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
