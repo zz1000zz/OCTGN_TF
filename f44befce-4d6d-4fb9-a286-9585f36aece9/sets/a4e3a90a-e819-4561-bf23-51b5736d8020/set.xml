@@ -2007,7 +2007,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="" />
 <property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small" />
+<property name="Draft Type" value="Small Character" />
 <alternate name="Raider Ravage - Espionage, Saboteur" type="bot">
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
