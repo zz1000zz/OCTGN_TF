@@ -1,4 +1,4 @@
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 1" id="e6019a01-01af-405a-a077-981fc79b52fb" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.1" version="0.1">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 1" id="e6019a01-01af-405a-a077-981fc79b52fb" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
 <packaging>
 <pack name="Wave 1 Booster" id="50a80b91-60c2-4b7b-889c-1bf1a8ec93f5">
 <options>
@@ -38,7 +38,7 @@
 <marker name="Damage" id="0f74413d-45d6-4c52-b584-201b99af4125" />
 </markers><cards>
 <card id="c3200832-3e7c-42db-92a7-5ddc02597c33" name="Aerial Recon" size="Small">
-<property name="Card Number" value="U001" />
+<property name="Card Number" value="1" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="1" />
@@ -56,7 +56,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="98b820b3-26c6-4857-9079-1c3f2592c887" name="Agility of Bumblebee" size="Small">
-<property name="Card Number" value="R002" />
+<property name="Card Number" value="2" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -74,7 +74,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="905abf7f-09bd-47d4-bc1f-d93180860138" name="Armed Hovercraft" size="Small">
-<property name="Card Number" value="U003" />
+<property name="Card Number" value="3" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -92,7 +92,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="4f298a3e-b05e-4c82-8aa5-06e78aea5e22" name="Armored Plating" size="Small">
-<property name="Card Number" value="C004" />
+<property name="Card Number" value="4" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="1" />
@@ -110,7 +110,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="5e05e6cf-ccea-4929-a4e3-2bb994e601cc" name="Backup Plan" size="Small">
-<property name="Card Number" value="U005" />
+<property name="Card Number" value="5" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -128,7 +128,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="c685f3ba-b74b-403d-94a6-9d58d71beeae" name="Battle Ready" size="Small">
-<property name="Card Number" value="C006" />
+<property name="Card Number" value="6" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -146,7 +146,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="3598f13a-130d-4bdf-b544-378f32650304" name="Blast Shield" size="Small">
-<property name="Card Number" value="U007" />
+<property name="Card Number" value="7" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="2" />
@@ -164,7 +164,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="d409eac0-a3d7-4368-a3fa-b92467ab8f1c" name="Body Armor" size="Small">
-<property name="Card Number" value="U008" />
+<property name="Card Number" value="8" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -182,7 +182,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="bf29019b-8abd-45d5-9b79-7a97b9adf265" name="Bombing Run" size="Small">
-<property name="Card Number" value="R009" />
+<property name="Card Number" value="9" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -200,7 +200,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="2ee015da-8e42-4582-b3ea-184cf4017a40" name="Brainstorm" size="Small">
-<property name="Card Number" value="C010" />
+<property name="Card Number" value="10" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -218,7 +218,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="d0d5a6ca-b225-4e24-a7ee-6a2989d48ff8" name="Bug Bomb" size="Small">
-<property name="Card Number" value="U011" />
+<property name="Card Number" value="11" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -236,7 +236,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="a7ccba4b-1170-44b6-b4ee-b1891007adb8" name="Cargo Trailer" size="Small">
-<property name="Card Number" value="R012" />
+<property name="Card Number" value="12" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -254,7 +254,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="2418cc8e-9904-4ece-a302-bc02cd35579f" name="Collateral Damage" size="Small">
-<property name="Card Number" value="U013" />
+<property name="Card Number" value="13" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -272,7 +272,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="afe1d946-2f78-47a9-b74d-96890ae22308" name="Combat Training" size="Small">
-<property name="Card Number" value="R014" />
+<property name="Card Number" value="14" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -290,7 +290,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="16f16f4d-26d6-4e02-b569-1a631b79c444" name="Computer Sabotage" size="Small">
-<property name="Card Number" value="U015" />
+<property name="Card Number" value="15" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -308,7 +308,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="a90e24e2-5f4b-4e89-b1aa-ae45be55f507" name="Crushing Size" size="Small">
-<property name="Card Number" value="C016" />
+<property name="Card Number" value="16" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -326,7 +326,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="cbb27c3a-9ab9-4b2c-9ab1-773d79ef5355" name="Crushing Treads" size="Small">
-<property name="Card Number" value="U017" />
+<property name="Card Number" value="17" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -344,7 +344,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="e82a8221-3158-4d9f-9cb8-302f91de4eba" name="Cybertonium Bow" size="Small">
-<property name="Card Number" value="R018" />
+<property name="Card Number" value="18" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -362,7 +362,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="4125cac1-68a8-41c8-bcbe-18a6e750e491" name="Data Bank" size="Small">
-<property name="Card Number" value="R019" />
+<property name="Card Number" value="19" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -380,7 +380,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="8e9ed216-6fdb-43f9-bd84-339ecb9e0343" name="Data Pad" size="Small">
-<property name="Card Number" value="C020" />
+<property name="Card Number" value="20" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -398,7 +398,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="80bc75d4-2b2e-4e21-88b6-7dc843d4c814" name="Debilitating Crystal" size="Small">
-<property name="Card Number" value="U021" />
+<property name="Card Number" value="21" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -416,7 +416,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="0006b2ef-671d-4c48-a73c-2310ce998083" name="Dino-Chomp!" size="Small">
-<property name="Card Number" value="R022" />
+<property name="Card Number" value="22" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -434,7 +434,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="459176ea-fb30-4e99-9d0f-8d926c2efc09" name="Disarm" size="Small">
-<property name="Card Number" value="U023" />
+<property name="Card Number" value="23" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -452,7 +452,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="04139f6f-c61b-4b99-b42d-3c5626f26d16" name="Disruption" size="Small">
-<property name="Card Number" value="U024" />
+<property name="Card Number" value="24" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -470,7 +470,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="5ae71a99-8129-4ead-9890-53f3976055e7" name="Disruptive Entrance" size="Small">
-<property name="Card Number" value="U025" />
+<property name="Card Number" value="25" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -488,7 +488,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="fd2b885c-6808-4a0c-89b4-5349bf4b4e27" name="Drill Arms" size="Small">
-<property name="Card Number" value="C026" />
+<property name="Card Number" value="26" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -506,7 +506,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="bec06ff3-96d4-4552-b144-4689bc52e20d" name="Emergency Maintenance" size="Small">
-<property name="Card Number" value="U027" />
+<property name="Card Number" value="27" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -524,7 +524,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="ad14fb2f-3511-45cc-a191-46d5630957ca" name="Energon Axe" size="Small">
-<property name="Card Number" value="R028" />
+<property name="Card Number" value="28" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
 <property name="DEF" value="" />
@@ -542,7 +542,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="efcc5ff1-266c-41e1-85e7-011f03819ca0" name="Equipment Enthusiast" size="Small">
-<property name="Card Number" value="U029" />
+<property name="Card Number" value="29" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -560,7 +560,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="443c37fc-8284-49cf-9d60-df10175192dd" name="Flamethrower" size="Small">
-<property name="Card Number" value="C030" />
+<property name="Card Number" value="30" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -578,7 +578,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="5628641e-a87d-4a16-8b7c-e8a6b1524291" name="Force Field" size="Small">
-<property name="Card Number" value="C031" />
+<property name="Card Number" value="31" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -596,7 +596,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="58d8b6a0-f7d9-4134-9509-d0542cea9e0f" name="Fusion Cannon of Megatron" size="Small">
-<property name="Card Number" value="R032" />
+<property name="Card Number" value="32" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -614,7 +614,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="b831220f-edbf-4221-a16c-c784b21140de" name="Grenade Launcher" size="Small">
-<property name="Card Number" value="U033" />
+<property name="Card Number" value="33" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="4" />
 <property name="DEF" value="" />
@@ -632,7 +632,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="830a2e99-52d5-46da-b580-5c0500facd88" name="Handheld Blaster" size="Small">
-<property name="Card Number" value="C034" />
+<property name="Card Number" value="34" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -650,7 +650,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="5e73a384-3d05-42a9-8d48-5e6096432ff1" name="Heroism" size="Small">
-<property name="Card Number" value="R035" />
+<property name="Card Number" value="35" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -668,7 +668,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="5b848725-1ea7-4440-b82b-2ca6777e8b92" name="Hunker Down" size="Small">
-<property name="Card Number" value="R036" />
+<property name="Card Number" value="36" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -686,7 +686,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="b6f874f5-751f-45eb-b0af-cbd47fe00019" name="I Still Function!" size="Small">
-<property name="Card Number" value="R037" />
+<property name="Card Number" value="37" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -704,7 +704,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="931d7733-055d-4257-8f4d-69df02f4a262" name="Improvised Shield" size="Small">
-<property name="Card Number" value="C038" />
+<property name="Card Number" value="38" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -722,7 +722,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="c9163f87-0393-4089-bc81-f2ad6dddddca" name="Incoming Transmission" size="Small">
-<property name="Card Number" value="C039" />
+<property name="Card Number" value="39" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -740,7 +740,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="0ce3d090-6c5b-495d-8321-357c10d3a47b" name="Inspiring Leadership" size="Small">
-<property name="Card Number" value="C040" />
+<property name="Card Number" value="40" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -758,7 +758,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="9d8274e1-8977-467b-a436-b50551ae0a63" name="Ion Blaster of Optimus Prime" size="Small">
-<property name="Card Number" value="R041" />
+<property name="Card Number" value="41" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
 <property name="DEF" value="" />
@@ -776,7 +776,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="ab7f324f-270e-4601-9917-d22ed70ace1e" name="Jaws of Steel" size="Small">
-<property name="Card Number" value="U042" />
+<property name="Card Number" value="42" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -794,7 +794,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="44e0f1f2-964f-47ff-87a2-ba370308b377" name="Leap Into Battle" size="Small">
-<property name="Card Number" value="C043" />
+<property name="Card Number" value="43" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -812,7 +812,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="ab67415a-edc0-4c86-acce-41e5b5c4b9c6" name="Matrix of Leadership" size="Small">
-<property name="Card Number" value="R044" />
+<property name="Card Number" value="44" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -830,7 +830,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="461a2d80-5151-45d6-b454-9021777ec99b" name="Medic!" size="Small">
-<property name="Card Number" value="C045" />
+<property name="Card Number" value="45" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -848,7 +848,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="cc9bceb4-5c0a-4d02-81e2-cedd6693748b" name="Multi-Mission Gear" size="Small">
-<property name="Card Number" value="U046" />
+<property name="Card Number" value="46" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="1" />
@@ -866,7 +866,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="ea361898-9774-444e-9ff4-bdd586d09519" name="Multi-Tool" size="Small">
-<property name="Card Number" value="U047" />
+<property name="Card Number" value="47" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -884,7 +884,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="fc3ed879-ccc9-4b50-999c-08e8cdb6b017" name="New Designs" size="Small">
-<property name="Card Number" value="U048" />
+<property name="Card Number" value="48" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -902,7 +902,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="58854939-7c46-40fb-b223-d0c8d8a1d08c" name="Null-Ray of Starscream" size="Small">
-<property name="Card Number" value="R049" />
+<property name="Card Number" value="49" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -920,7 +920,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="e070facb-4590-4a7c-9848-ff6270312080" name="One Shall Stand, One Shall Fall" size="Small">
-<property name="Card Number" value="R050" />
+<property name="Card Number" value="50" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -938,7 +938,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="ad2443fc-232a-40c1-83ac-3855efb611e4" name="Peace through Tyranny" size="Small">
-<property name="Card Number" value="R051" />
+<property name="Card Number" value="51" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -956,7 +956,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="741c6e15-840d-42d6-a42c-cc8b058d5a1d" name="Photon Bomb" size="Small">
-<property name="Card Number" value="R052" />
+<property name="Card Number" value="52" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -974,7 +974,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="74b7aa8e-a1b4-4ab1-83f2-3f97ab159fdc" name="Piercing Blaster" size="Small">
-<property name="Card Number" value="C053" />
+<property name="Card Number" value="53" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -992,7 +992,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="b02a8fc4-b5f1-46e5-a78b-e1e9a72ca7be" name="Plasma Burst" size="Small">
-<property name="Card Number" value="U054" />
+<property name="Card Number" value="54" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1010,7 +1010,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="c6dee9cf-088e-4116-93b6-48182269036a" name="Power Sword" size="Small">
-<property name="Card Number" value="U055" />
+<property name="Card Number" value="55" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1028,7 +1028,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="181b3347-cc34-437c-9f3f-997187e13631" name="Primary Laser" size="Small">
-<property name="Card Number" value="C056" />
+<property name="Card Number" value="56" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
 <property name="DEF" value="" />
@@ -1046,7 +1046,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="bae64761-368c-4880-bd0b-03db2e577421" name="Ramming Speed" size="Small">
-<property name="Card Number" value="U057" />
+<property name="Card Number" value="57" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1064,7 +1064,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="ed06e899-11a5-4743-8b80-cca943cee112" name="Rapid Ascent" size="Small">
-<property name="Card Number" value="U058" />
+<property name="Card Number" value="58" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="1" />
@@ -1082,7 +1082,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="933d115d-90fa-4a13-9789-8cd73cd80332" name="Rapid Conversion" size="Small">
-<property name="Card Number" value="C059" />
+<property name="Card Number" value="59" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1100,7 +1100,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="cdcc8324-f886-45ab-82ad-40d3a352327b" name="Ready For Action" size="Small">
-<property name="Card Number" value="C060" />
+<property name="Card Number" value="60" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1118,7 +1118,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="c15daf57-9de9-4e63-8bf7-419cbb2ff806" name="Reinforced Plating" size="Small">
-<property name="Card Number" value="C061" />
+<property name="Card Number" value="61" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1136,7 +1136,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="0b19d986-c196-4cdb-9a94-eaa120026db8" name="Repair Bay" size="Small">
-<property name="Card Number" value="C062" />
+<property name="Card Number" value="62" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1154,7 +1154,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="eaed7186-fe61-43c4-b608-acd5f0ef7f5e" name="Roll Out!" size="Small">
-<property name="Card Number" value="R063" />
+<property name="Card Number" value="63" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1172,7 +1172,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="cde2e40c-3539-4f3f-8e06-00884539e8e9" name="Salvage for Parts" size="Small">
-<property name="Card Number" value="R064" />
+<property name="Card Number" value="64" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1190,7 +1190,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="c9a8312f-a00f-4120-9430-be937d61742b" name="Scrapper Gauntlets" size="Small">
-<property name="Card Number" value="C065" />
+<property name="Card Number" value="65" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="1" />
@@ -1208,7 +1208,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad" name="Security Checkpoint" size="Small">
-<property name="Card Number" value="R066" />
+<property name="Card Number" value="66" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1226,7 +1226,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="918946ee-d239-447f-a1c4-9d073ee6b81b" name="Shock Absorbers" size="Small">
-<property name="Card Number" value="R067" />
+<property name="Card Number" value="67" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="ATK" value="" />
 <property name="DEF" value="1" />
@@ -1244,7 +1244,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="40cbf251-e2f3-4e6c-9efa-51cb792a3496" name="Start Your Engines" size="Small">
-<property name="Card Number" value="R068" />
+<property name="Card Number" value="68" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1262,7 +1262,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="931de4dc-f3bb-4418-a3f4-e1a69801cb82" name="Static Laser of Ironhide" size="Small">
-<property name="Card Number" value="R069" />
+<property name="Card Number" value="69" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
 <property name="DEF" value="" />
@@ -1280,7 +1280,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="cbc15b79-7aef-4b77-b16c-22f765a5c793" name="Strafing Run" size="Small">
-<property name="Card Number" value="U070" />
+<property name="Card Number" value="70" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1298,7 +1298,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="fa8f735e-ab4d-46f7-ab4e-64d72d195cc7" name="Supercharge" size="Small">
-<property name="Card Number" value="C071" />
+<property name="Card Number" value="71" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1316,7 +1316,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="8e2587e7-2c91-43c3-8e7f-4424b9f26c56" name="Swap Missions" size="Small">
-<property name="Card Number" value="U072" />
+<property name="Card Number" value="72" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1334,7 +1334,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="7b303e88-b283-4fd2-87d2-9d92e3fcdfb3" name="Swap Parts" size="Small">
-<property name="Card Number" value="R073" />
+<property name="Card Number" value="73" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1352,7 +1352,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="34a4bede-ec6e-43d3-92d2-db6cd669cf36" name="Swarm!" size="Small">
-<property name="Card Number" value="R074" />
+<property name="Card Number" value="74" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1370,7 +1370,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="fc7c9356-0e4a-4bb4-bb2a-b654eb4cbd5e" name="System Reboot" size="Small">
-<property name="Card Number" value="R075" />
+<property name="Card Number" value="75" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1388,7 +1388,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="9bc4e8d0-3831-42e6-9b21-b6642843377b" name="Team-Up Tactics" size="Small">
-<property name="Card Number" value="R076" />
+<property name="Card Number" value="76" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1406,7 +1406,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="9e54984a-66f1-472c-91ef-d618e3912717" name="The Bigger They Are" size="Small">
-<property name="Card Number" value="R077" />
+<property name="Card Number" value="77" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1424,7 +1424,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="a50b907f-c037-442b-9e46-f6d896fbb462" name="Thermal Weaponry" size="Small">
-<property name="Card Number" value="R078" />
+<property name="Card Number" value="78" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -1442,7 +1442,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="b9466a65-b3d7-475c-bfa3-ddaa3241d8c9" name="Treasure Hunt" size="Small">
-<property name="Card Number" value="U079" />
+<property name="Card Number" value="79" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1460,7 +1460,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="6aacfef7-6587-477b-b29d-e8f0d4ac699d" name="Turbo Boosters" size="Small">
-<property name="Card Number" value="U080" />
+<property name="Card Number" value="80" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -1478,7 +1478,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="912b675f-3801-4d86-944f-e473e70d89fc" name="Zap" size="Small">
-<property name="Card Number" value="C081" />
+<property name="Card Number" value="81" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1496,7 +1496,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="d3fcb1ca-3960-4bc4-8eb9-0288a87e9ff8" name="All-Out Attack" size="Small">
-<property name="Card Number" value="R001" />
+<property name="Card Number" value="1" />
 <property name="Type" value="Action" />
 <property name="ATK" value="" />
 <property name="DEF" value="" />
@@ -1514,7 +1514,7 @@
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="6db7c4b0-0ba0-49f8-9dca-5dabdc9f44a4" name="Tandem Targeting System" size="Small">
-<property name="Card Number" value="R002" />
+<property name="Card Number" value="2" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
 <property name="DEF" value="" />
@@ -1586,7 +1586,7 @@
 <property name="Draft Type" value="Excluded" />
 </card>
 <card id="84a79359-a6f1-48b1-9973-78253c8da1c0" name="Arcee - Skilled Fighter" size="Large">
-<property name="Card Number" value="RT 01" />
+<property name="Card Number" value="T 01" />
 <property name="Type" value="Character" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1610,7 +1610,7 @@
 </alternate>
 </card>
 <card id="fa716f36-d26d-43a9-95a8-fb72acf103f8" name="Autobot Cosmos - Recon and Communication" size="Large">
-<property name="Card Number" value="RT 02" />
+<property name="Card Number" value="T 02" />
 <property name="Type" value="Character" />
 <property name="ATK" value="1" />
 <property name="DEF" value="1" />
@@ -1634,7 +1634,7 @@
 </alternate>
 </card>
 <card id="4b530bcf-4e87-4a7d-8bbd-8b4681756411" name="Autobot Hound - Long Range Scout" size="Large">
-<property name="Card Number" value="CT 03" />
+<property name="Card Number" value="T 03" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1658,7 +1658,7 @@
 </alternate>
 </card>
 <card id="184af65c-b21c-438a-a358-b7f5f8f8ada8" name="Autobot Jazz - Special Ops" size="Large">
-<property name="Card Number" value="UT 04" />
+<property name="Card Number" value="T 04" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1682,7 +1682,7 @@
 </alternate>
 </card>
 <card id="0e5072c4-4e00-49e8-b79d-dd50dad19e76" name="Autobot Mirage - Lone Wolf" size="Large">
-<property name="Card Number" value="UT 05" />
+<property name="Card Number" value="T 05" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1706,7 +1706,7 @@
 </alternate>
 </card>
 <card id="1687e8d8-e094-4812-a08b-238fac8cbb40" name="Barrage - Merciless Insecticon" size="Large">
-<property name="Card Number" value="CT 06" />
+<property name="Card Number" value="T 06" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -1730,7 +1730,7 @@
 </alternate>
 </card>
 <card id="e6fe1285-ba0e-4080-8acd-7360509cc30f" name="Bombshell - Insecticon Mind-Controller" size="Large">
-<property name="Card Number" value="CT 07" />
+<property name="Card Number" value="T 07" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="4" />
@@ -1754,7 +1754,7 @@
 </alternate>
 </card>
 <card id="02c9d433-f2fc-4f56-b260-ffe618ad8ee2" name="Bumblebee - Courageous Scout" size="Large">
-<property name="Card Number" value="CT 08" />
+<property name="Card Number" value="T 08" />
 <property name="Type" value="Character" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1778,7 +1778,7 @@
 </alternate>
 </card>
 <card id="10993aa6-24d7-492a-a219-e347493eb91f" name="Bumblebee - Legendary Warrior" size="Large">
-<property name="Card Number" value="SRT 09" />
+<property name="Card Number" value="T 09" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1802,7 +1802,7 @@
 </alternate>
 </card>
 <card id="b2a24808-8882-4711-8d79-c0ceea3056e3" name="Chop Shop - Sneaky Insecticon" size="Large">
-<property name="Card Number" value="UT 10" />
+<property name="Card Number" value="T 10" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1826,7 +1826,7 @@
 </alternate>
 </card>
 <card id="64536e15-6966-450a-a9a5-6375b2e0ea2c" name="Chromia - Special Ops" size="Large">
-<property name="Card Number" value="RT 11" />
+<property name="Card Number" value="T 11" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1850,7 +1850,7 @@
 </alternate>
 </card>
 <card id="6a78f18e-2789-4864-8781-7ef76dc1fc54" name="Darkmount - Cruel Overlord" size="Large">
-<property name="Card Number" value="RT 12" />
+<property name="Card Number" value="T 12" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="4" />
@@ -1874,7 +1874,7 @@
 </alternate>
 </card>
 <card id="13763e6e-feb1-429d-a22c-5b1f23adc31e" name="Deadlock - Bounty Hunter" size="Large">
-<property name="Card Number" value="UT 13" />
+<property name="Card Number" value="T 13" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -1898,7 +1898,7 @@
 </alternate>
 </card>
 <card id="589ad9d6-da4f-406b-adae-469b32e3af3d" name="Decepticon Shockwave - Cybertron Commander" size="Large">
-<property name="Card Number" value="RT 14" />
+<property name="Card Number" value="T 14" />
 <property name="Type" value="Character" />
 <property name="ATK" value="6" />
 <property name="DEF" value="3" />
@@ -1922,7 +1922,7 @@
 </alternate>
 </card>
 <card id="18aa53e3-ea7a-4b33-ad30-0554803048e9" name="Demolisher - Devoted Decepticon" size="Large">
-<property name="Card Number" value="UT 15" />
+<property name="Card Number" value="T 15" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
@@ -1946,7 +1946,7 @@
 </alternate>
 </card>
 <card id="5ae0de86-73f7-45e9-a61a-16d41e38ff29" name="Dinobot Sludge - Mighty Stomper" size="Large">
-<property name="Card Number" value="UT 16" />
+<property name="Card Number" value="T 16" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1970,7 +1970,7 @@
 </alternate>
 </card>
 <card id="14c1fd8e-8fc7-464e-b9b1-468e4931b0da" name="Dinobot Slug - Hot-Header Warrior" size="Large">
-<property name="Card Number" value="CT 17" />
+<property name="Card Number" value="T 17" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
@@ -1994,7 +1994,7 @@
 </alternate>
 </card>
 <card id="cb540641-3599-4409-8fb0-79f3ceb3f6fa" name="Dinobot Snarl - Desert Warrior" size="Large">
-<property name="Card Number" value="UT 18" />
+<property name="Card Number" value="T 18" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -2018,7 +2018,7 @@
 </alternate>
 </card>
 <card id="2c399eee-f91c-4ff2-9431-9d7d6bd67be9" name="Dinobot Swoop - Fearsome Flyer" size="Large">
-<property name="Card Number" value="CT 19" />
+<property name="Card Number" value="T 19" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -2042,7 +2042,7 @@
 </alternate>
 </card>
 <card id="81c106d9-312c-46bd-865b-54148d39acd9" name="Flamewar - Veteran Decepticon" size="Large">
-<property name="Card Number" value="CT 20" />
+<property name="Card Number" value="T 20" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -2066,7 +2066,7 @@
 </alternate>
 </card>
 <card id="4a0aa87b-f472-4dee-b205-5864a50e3af1" name="Grimlock - Dinobot Leader" size="Large">
-<property name="Card Number" value="RT 21" />
+<property name="Card Number" value="T 21" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -2090,7 +2090,7 @@
 </alternate>
 </card>
 <card id="1e7ac879-6557-40ba-95cd-e426d200e6f9" name="Inferno - Fearless Firefighter" size="Large">
-<property name="Card Number" value="UT 22" />
+<property name="Card Number" value="T 22" />
 <property name="Type" value="Character" />
 <property name="ATK" value="6" />
 <property name="DEF" value="3" />
@@ -2114,7 +2114,7 @@
 </alternate>
 </card>
 <card id="182c33ac-3212-4048-8504-0745a6d8689d" name="Insecticon Skrapnel - Insecticon Leader" size="Large">
-<property name="Card Number" value="RT 23" />
+<property name="Card Number" value="T 23" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="3" />
@@ -2138,7 +2138,7 @@
 </alternate>
 </card>
 <card id="863d619a-50a4-4e75-a4d9-4d13c1fe7c07" name="Jetfire - Air Guardian" size="Large">
-<property name="Card Number" value="UT 24" />
+<property name="Card Number" value="T 24" />
 <property name="Type" value="Character" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -2162,7 +2162,7 @@
 </alternate>
 </card>
 <card id="f3404ae2-6fcc-47a2-8e7a-7144f67623dc" name="Kickback - Cunning Insecticon" size="Large">
-<property name="Card Number" value="UT 25" />
+<property name="Card Number" value="T 25" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -2186,7 +2186,7 @@
 </alternate>
 </card>
 <card id="6a9139e8-582e-44f9-bd7f-b6a7f6b8e757" name="Megatron - Decepticon Leader" size="Large">
-<property name="Card Number" value="CT 26" />
+<property name="Card Number" value="T 26" />
 <property name="Type" value="Character" />
 <property name="ATK" value="2" />
 <property name="DEF" value="3" />
@@ -2210,7 +2210,7 @@
 </alternate>
 </card>
 <card id="b0d5bdb5-14ff-48a4-b74c-144c1b1afb16" name="Megatron - Living Weapon" size="Large">
-<property name="Card Number" value="RT 27" />
+<property name="Card Number" value="T 27" />
 <property name="Type" value="Character" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -2234,7 +2234,7 @@
 </alternate>
 </card>
 <card id="4b7b6322-bde2-4575-b862-8b69f44c7d55" name="Nemesis Prime - Dark Clone" size="Large">
-<property name="Card Number" value="SRT 28" />
+<property name="Card Number" value="T 28" />
 <property name="Type" value="Character" />
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
@@ -2258,7 +2258,7 @@
 </alternate>
 </card>
 <card id="f2f3ec01-afa9-400b-9439-edceed184a9b" name="Optimus Prime - Battlefield Legend" size="Large">
-<property name="Card Number" value="RT 29" />
+<property name="Card Number" value="T 29" />
 <property name="Type" value="Character" />
 <property name="ATK" value="6" />
 <property name="DEF" value="3" />
@@ -2282,7 +2282,7 @@
 </alternate>
 </card>
 <card id="4f694e20-55d6-45a3-b6a1-da19fb4f70f0" name="Optimus Prime - Freedom Fighter" size="Large">
-<property name="Card Number" value="CT 30" />
+<property name="Card Number" value="T 30" />
 <property name="Type" value="Character" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -2306,7 +2306,7 @@
 </alternate>
 </card>
 <card id="42274b89-74c8-434a-9b6f-ef30081e542d" name="Prowl - Military Strategist" size="Large">
-<property name="Card Number" value="UT 31" />
+<property name="Card Number" value="T 31" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -2330,7 +2330,7 @@
 </alternate>
 </card>
 <card id="dc8cd48f-db50-4f3d-af0e-29c22e843919" name="Ramjet - Sky Smasher" size="Large">
-<property name="Card Number" value="CT 32" />
+<property name="Card Number" value="T 32" />
 <property name="Type" value="Character" />
 <property name="ATK" value="7" />
 <property name="DEF" value="0" />
@@ -2354,7 +2354,7 @@
 </alternate>
 </card>
 <card id="c40b926f-6748-4f75-abd2-03db668b51b2" name="Ransack - Insecticon Commando" size="Large">
-<property name="Card Number" value="UT 33" />
+<property name="Card Number" value="T 33" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -2378,7 +2378,7 @@
 </alternate>
 </card>
 <card id="72a6271c-27c6-4714-ae69-7010bf176eda" name="Sergeant Kup - Veteran Sergeant" size="Large">
-<property name="Card Number" value="CT 34" />
+<property name="Card Number" value="T 34" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
@@ -2402,7 +2402,7 @@
 </alternate>
 </card>
 <card id="80d69cda-c070-48a2-9b7a-a4de5e70c088" name="Skywarp - Sneaky Prankster" size="Large">
-<property name="Card Number" value="UT 35" />
+<property name="Card Number" value="T 35" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -2426,7 +2426,7 @@
 </alternate>
 </card>
 <card id="b87daea3-bd8b-4954-bd01-96fd0323db4e" name="Starscream - Air Commander" size="Large">
-<property name="Card Number" value="UT 36" />
+<property name="Card Number" value="T 36" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -2450,7 +2450,7 @@
 </alternate>
 </card>
 <card id="4c080aab-2eb1-46d2-af54-1c450b5cded3" name="Starscream - Scheming Second-In-Command" size="Large">
-<property name="Card Number" value="CT 37" />
+<property name="Card Number" value="T 37" />
 <property name="Type" value="Character" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -2474,7 +2474,7 @@
 </alternate>
 </card>
 <card id="59db98a7-48f6-420a-9aa4-ac1bf2518d4e" name="Sunstorm - Fusion Flyer" size="Large">
-<property name="Card Number" value="RT 38" />
+<property name="Card Number" value="T 38" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -2498,7 +2498,7 @@
 </alternate>
 </card>
 <card id="c0917630-717b-4dfc-a9d3-6f2f55ddace6" name="Thundercracker - Mach Warrior" size="Large">
-<property name="Card Number" value="UT 39" />
+<property name="Card Number" value="T 39" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
@@ -2522,7 +2522,7 @@
 </alternate>
 </card>
 <card id="0e9d44a1-65bf-4985-99c9-bb48d5ddfeb3" name="Wheeljack - Weapons Inventor" size="Large">
-<property name="Card Number" value="UT 40" />
+<property name="Card Number" value="T 40" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
@@ -2546,7 +2546,7 @@
 </alternate>
 </card>
 <card id="cdda8bb2-0ffd-47bc-a229-fae691d6c7a6" name="Bumblebee - Brave Warrior" size="Large">
-<property name="Card Number" value="RT T01" />
+<property name="Card Number" value="T01" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -2570,7 +2570,7 @@
 </alternate>
 </card>
 <card id="946d4673-b135-43c3-bdb9-6280a40346ef" name="Ironhide - Veteran Autobot" size="Large">
-<property name="Card Number" value="RT T02" />
+<property name="Card Number" value="T02" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -2594,7 +2594,7 @@
 </alternate>
 </card>
 <card id="4402e5a7-cd8b-4f24-8169-6eb0c5e3c857" name="Optimus Prime - Autobot Leader" size="Large">
-<property name="Card Number" value="RT T03" />
+<property name="Card Number" value="T03" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -2618,7 +2618,7 @@
 </alternate>
 </card>
 <card id="a881606a-5e32-4406-a61c-811a9122cf58" name="Red Alert - Security Chief" size="Large">
-<property name="Card Number" value="RT T04" />
+<property name="Card Number" value="T04" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -2642,7 +2642,7 @@
 </alternate>
 </card>
 <card id="d04efac3-62c8-4959-b246-0557b53ebf47" name="CliffJumper - Renegade Warrior" size="Large">
-<property name="Card Number" value="SRT T01" />
+<property name="Card Number" value="T01" />
 <property name="Type" value="Character" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -2666,7 +2666,7 @@
 </alternate>
 </card>
 <card id="e33826d3-7e18-4bf7-96e2-f0c0ee29331a" name="Slipstream - Strategic Seeker" size="Large">
-<property name="Card Number" value="SRT T02" />
+<property name="Card Number" value="T02" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -2690,7 +2690,7 @@
 </alternate>
 </card>
 <card id="86193b60-adf9-4930-b17b-8ba167546ac5" name="Metroplex - Autobot City" size="Extra Large">
-<property name="Card Number" value="SRT T01" />
+<property name="Card Number" value="T01" />
 <property name="Type" value="Character" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -2714,7 +2714,7 @@
 </alternate>
 </card>
 <card id="30785791-0e73-4193-b77a-ff7d9de8ae2a" name="Scamper - City Patrol" size="Large">
-<property name="Card Number" value="SRT T02" />
+<property name="Card Number" value="T02" />
 <property name="Type" value="Character" />
 <property name="ATK" value="2" />
 <property name="DEF" value="2" />
@@ -2738,7 +2738,7 @@
 </alternate>
 </card>
 <card id="e31d7239-b584-4bd5-ba89-ffca51798fee" name="Six-Gun - Heavy Weapon Expert" size="Large">
-<property name="Card Number" value="SRT T03" />
+<property name="Card Number" value="T03" />
 <property name="Type" value="Character" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -2762,7 +2762,7 @@
 </alternate>
 </card>
 <card id="7f200a34-1d1a-4f74-ac1d-c40c0b6f544c" name="Slammer - Combat Drone" size="Large">
-<property name="Card Number" value="SRT T04" />
+<property name="Card Number" value="T04" />
 <property name="Type" value="Character" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
