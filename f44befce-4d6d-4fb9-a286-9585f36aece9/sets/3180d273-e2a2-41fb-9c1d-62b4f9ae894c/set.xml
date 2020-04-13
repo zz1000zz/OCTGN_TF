@@ -1,4 +1,4 @@
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 2" id="3180d273-e2a2-41fb-9c1d-62b4f9ae894c" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.1" version="0.1">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 2" id="3180d273-e2a2-41fb-9c1d-62b4f9ae894c" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
 <packaging>
 <pack name="Wave 2 Booster" id="e1b158ea-c590-49c7-befa-8bb0857cc10c">
 <options>
@@ -34,7 +34,6 @@
 </pick>
 </pack>
 </packaging>
-
 <cards>
 <card id="0d0d15c3-2d54-41ab-b96f-3c1014845bb9" name="Aerialbot Enigma">
 <property name="Card Number" value="1" />
