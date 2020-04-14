@@ -23,32 +23,24 @@ def untapAll(group, x = 0, y = 0): #Modified it to account for Energy which will
 			card.orientation = Rot180
 	notify("{} untaps all their cards.".format(me))			
 
-def awaken(card, x = 0, y = 0): 
+def switchModes(card, x = 0, y = 0): 
 	mute()
-	if card.alternate == card.alternates[0]:
-            try:
-                card.alternate = 'bot'
-                notify("{}'s' {} switches to its Bot Mode.".format(me, card))
-                card.Type = "Character"
-            except:
-                whisper("Sorry, something went wrong.")
-	elif card.alternate == card.alternates[1]:
-            try:
-                card.alternate = card.alternates[2]
-                card.Type = "Character"
-                notify("{}'s' {} switches to its {} Mode.".format(me, card, card.alternates[2]))
-            except:
-                try:
-                    card.alternate = card.alternates[0]
-                    notify("{}'s' {} switches to its Alt Mode.".format(me, card))
-                except:
-                    whisper("Sorry, something went wrong.")
-        elif card.alternate == card.alternates[2]:
-            try:
-                card.alternate = card.alternates[0]
-                notify("{}'s' {} switches to its Alt Mode.".format(me, card))
-            except:
-                whisper("Sorry, something went wrong.")
+	alt_count = len(card.alternates)
+	if alt_count == 0:
+            notify("{} has no other sides to flip to".format(card.name))
+            return
+        side = 0
+        for alternate in card.alternates:
+            if alternate == card.alternate:
+                break
+            else:
+                side += 1
+        if side < alt_count -1:
+            card.alternate = card.alternates[side +1]
+        else:
+            card.alternate = card.alternates[0]
+        notify("{}'s {} switches to its {}.".format(me, card, card.type))
+
 
 def wish(group, x = 0, y = 0):
     mute()
@@ -408,7 +400,7 @@ def playCharacters(group, x = 0, y = 0):
     stratagems = []
     for card in charactersWorking:
         try:
-            alt_trait = card.alternateProperty('bot', 'trait')
+            alt_trait = card.alternateProperty('bot', 'traits')
             if "Titan Master" in alt_trait:
                 heads.append(card)
             else:
