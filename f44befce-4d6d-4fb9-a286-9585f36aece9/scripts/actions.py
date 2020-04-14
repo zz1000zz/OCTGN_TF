@@ -255,6 +255,11 @@ def testing(card):
 
 def KO(card, x=0, y=0):
     mute()
+    if ("Battle Master" in card.traits or "Weaponizer" in card.traits) and card.alternate == "":
+        switchModes(card)
+        card.markers[CounterMarker] = 0
+        card.orientation = Rot0
+        return
     cardsInTable = [c for c in table if c.controller == me and c.orientation != Rot270 and c.orientation != Rot180]
     KOCardsInTable = [c for c in table if c.controller == me and c.orientation == Rot180]
     if me._id == 1:
