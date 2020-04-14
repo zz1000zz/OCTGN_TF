@@ -839,23 +839,24 @@
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
-<card id="82f6ca40-ff6a-4c1f-955b-85314003dba5" name="Duo-Charge Electrostatic Photon Cannon" size="Small">
+<card id="82f6ca40-ff6a-4c1f-955b-85314003dba5" name="Private Firedrive - Ground Command, Artillery" size="Small">
 <property name="Card Number" value="13" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="3" />
-<property name="HP" value="10" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Battle Master" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When the upgraded character attacks -> Scrap any number of cards from your hand. For each one scrapped this way, the upgraded character gets +1 [ATK] until end of turn. If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Firedrive - Ground Command, Artillery" type="bot">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
-<property name="Text" value="When this attacks -> Draw a card." />
+<property name="HP" value="10" />
+<property name="Stars" value="7" />
 <property name="Traits" value="Battle Master, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this attacks -> Draw a card." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Upgrade - Weapon" />
+<alternate name="Duo-Charge Electrostatic Photon Cannon" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="Text" value="When the upgraded character attacks -> Scrap any number of cards from your hand. For each one scrapped this way, the upgraded character gets +1 [ATK] until end of turn. If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
 </alternate>
 </card>
 <card id="99c4ac4e-9b2b-4a6b-84b1-82ac99c8b0c1" name="Private Flak - Artillery, Tactics" size="Small">
@@ -878,22 +879,22 @@
 <property name="Traits" value="Battle Patrol, Ranged" />
 </alternate>
 </card>
-<card id="527a7553-41ea-4c6c-9c62-2f26fcc10828" name="RS Firesteel Saber" size="Small">
+<card id="527a7553-41ea-4c6c-9c62-2f26fcc10828" name="Private Lionizer - Ground Command, Artillery" size="Small">
 <property name="Card Number" value="15" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="HP" value="8" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Battle Master" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Bold 4. When the upgraded character attacks -> Plan 1. If this would leave the battlefield -> > Put it into your KO area instead" />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Lionizer - Ground Command, Artillery" type="bot">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="0" />
 <property name="DEF" value="2" />
-<property name="Text" value="Bold 4" />
+<property name="HP" value="8" />
+<property name="Stars" value="7" />
 <property name="Traits" value="Battle Master, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Bold 4" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Upgrade - Weapon" />
+<alternate name="RS Firesteel Saber" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="Text" value="Bold 4. When the upgraded character attacks -> Plan 1. If this would leave the battlefield -> Put it into your KO area instead" />
+<property name="Traits" value="Battle Master" />
 </alternate>
 </card>
 <card id="133220ba-8d62-4b0e-9342-35b8bde8d143" name="Private Mudslinger - Special Ops, Infiltration" size="Small">
@@ -916,22 +917,22 @@
 <property name="Traits" value="Off-Road Patrol, Melee" />
 </alternate>
 </card>
-<card id="3e7a7fb9-bff9-4864-a52a-50d3dc0bfbd2" name="Binary Edgewing Scythe" size="Small">
+<card id="3e7a7fb9-bff9-4864-a52a-50d3dc0bfbd2" name="Private Pteraxadon - Air Command, Artillery" size="Small">
 <property name="Card Number" value="17" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="3" />
-<property name="HP" value="9" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Battle Master" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When the upgraded character attacks and you flip at least [W][W] -> The defender's base [DEF] becomes 0 during this battle. If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Pteraxadon - Air Command, Artillery" type="bot">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
+<property name="HP" value="9" />
+<property name="Stars" value="6" />
 <property name="Traits" value="Battle Master, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Binary Edgewing Scythe" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="Text" value="When the upgraded character attacks and you flip at least [W][W] -> The defender's base [DEF] becomes 0 during this battle. If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
 </alternate>
 </card>
 <card id="ed92dd75-0cee-4e72-bfd4-6a8c9a7d4329" name="Private Red Alert - Medical, Medic" size="Large">
@@ -1074,41 +1075,41 @@
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
-<card id="9645e8e5-0618-4eff-9455-3dcec6267aaa" name="Manifold Ion Particle Blaster" size="Small">
+<card id="9645e8e5-0618-4eff-9455-3dcec6267aaa" name="Raider Aimless - Air Force, Weapons" size="Small">
 <property name="Card Number" value="25" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="3" />
-<property name="HP" value="8" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Battle Master" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When the upgraded character attacks and you flip at least [B][B][B] -> Do 3 damage to the defender. If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Aimless - Air Force, Weapons" type="bot">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
-<property name="Text" value="Tough 3" />
+<property name="HP" value="8" />
+<property name="Stars" value="7" />
 <property name="Traits" value="Battle Master, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Tough 3" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Upgrade - Weapon" />
+<alternate name="Manifold Ion Particle Blaster" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="Text" value="When the upgraded character attacks and you flip at least [B][B][B] -> Do 3 damage to the defender. If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
 </alternate>
 </card>
-<card id="bc8d1725-0495-4245-bfc4-de63b3c8a97c" name="Dual-Impact Shatterblast Compression Cannon" size="Small">
+<card id="bc8d1725-0495-4245-bfc4-de63b3c8a97c" name="Raider Blowpipe - Air Force, Weapons" size="Small">
 <property name="Card Number" value="26" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="HP" value="7" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Battle Master" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When the upgraded character attacks and you flip battle cards -> It gets +1 [ATK] until end of turn for each different color among battle icons you flipped. If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Blowpipe - Air Force, Weapons" type="bot">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Text" value="Focus 1" />
+<property name="HP" value="7" />
+<property name="Stars" value="5" />
 <property name="Traits" value="Battle Master, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Focus 1" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Upgrade - Weapon" />
+<alternate name="Dual-Impact Shatterblast Compression Cannon" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="Text" value="Focus 1" />
+<property name="Traits" value="Battle Master" />
 </alternate>
 </card>
 <card id="196aeeaa-ef96-4f69-86e3-b350ac9fb5da" name="Raider Cindersaur - Black Ops, Demolitions" size="Large">
@@ -1230,23 +1231,23 @@
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>
-<card id="ae516104-f050-426a-9880-99847b48e465" name="Black Beam Blaster" size="Small">
+<card id="ae516104-f050-426a-9880-99847b48e465" name="Raider Nightstick - Ground Force, Weapons" size="Small">
 <property name="Card Number" value="33" />
-<property name="Type" value="Upgrade - Weapon" />
+<property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
 <property name="HP" value="6" />
 <property name="Stars" value="6" />
-<property name="Traits" value="Battle Master" />
+<property name="Traits" value="Battle Master, Specialist" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When the upgraded character attacks and you flip at least [Bl][Bl] -> Your opponent chooses a card from their hand and scraps it. If this would leave the battlefield -> Put it in your KO area instead." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Raider Nightstick - Ground Force, Weapons" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<alternate name="Black Beam Blaster" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Traits" value="Battle Master, Specialist" />
+<property name="Text" value="When the upgraded character attacks and you flip at least [Bl][Bl] -> Your opponent chooses a card from their hand and scraps it. If this would leave the battlefield -> Put it in your KO area instead." />
+<property name="Traits" value="Battle Master" />
 </alternate>
 </card>
 <card id="1ce94762-0a43-4f89-abe2-97f2e1c4f050" name="Raider Ravage - Espionage, Saboteur" size="Small">
@@ -1406,22 +1407,22 @@
 <property name="Traits" value="Specialist" />
 </alternate>
 </card>
-<card id="3a7eb922-2629-4dc4-91fa-3f079afe5ee1" name="Heavy Force Defensebreaker Cannon" size="Large">
+<card id="3a7eb922-2629-4dc4-91fa-3f079afe5ee1" name="Sergeant Cog - Artillery, Mechanic" size="Large">
 <property name="Card Number" value="42" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="4" />
-<property name="HP" value="12" />
-<property name="Stars" value="10" />
-<property name="Traits" value="Weaponizer" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you put this on a character -> Draw a card for each character you have on the battlefield. Then you may play an Upgrade onto each of your characters. If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Super Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Cog - Artillery, Mechanic" type="bot">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
+<property name="HP" value="12" />
+<property name="Stars" value="10" />
 <property name="Traits" value="Weaponizer, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Heavy Force Defensebreaker Cannon" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="4" />
+<property name="Text" value="When you put this on a character -> Draw a card for each character you have on the battlefield. Then you may play an Upgrade onto each of your characters. If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Weaponizer" />
 </alternate>
 </card>
 <card id="4abcf396-9ace-44fc-b407-823786ef67c0" name="Sergeant Hound - Infantry, Recon" size="Large">
@@ -1824,21 +1825,21 @@
 <property name="Traits" value="Leader, Omnibot, Ranged" />
 </alternate>
 </card>
-<card id="199b5579-f3fb-4943-b57a-34d1396a4f54" name="Airquake Hammerclaw" size="Small">
+<card id="199b5579-f3fb-4943-b57a-34d1396a4f54" name="Private Smashdown - Ground Command, Artillery" size="Small">
 <property name="Card Number" value="P3" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="2" />
-<property name="HP" value="6" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Battle Master" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When the upgraded character attacks and you flip more colors of battle icons than your opponent flips -> The upgraded character gets +2 [Atk] until end of battle. If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Draft Type" value="Excluded" />
-<alternate name="Private Smashdown - Ground Command, Artillery" type="bot">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="2" />
+<property name="HP" value="6" />
+<property name="Stars" value="5" />
 <property name="Traits" value="Battle Master, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Draft Type" value="Excluded" />
+<alternate name="Airquake Hammerclaw" type="bot">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="2" />
+<property name="Text" value="When the upgraded character attacks and you flip more colors of battle icons than your opponent flips -> The upgraded character gets +2 [Atk] until end of battle. If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
 </alternate>
 </card>
 </cards>
