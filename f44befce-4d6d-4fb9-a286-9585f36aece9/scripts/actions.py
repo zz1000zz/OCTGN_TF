@@ -255,7 +255,7 @@ def testing(card):
 
 def KO(card, x=0, y=0):
     mute()
-    if ("Battle Master" in card.traits or "Weaponizer" in card.traits) and card.alternate == "":
+    if ("Battle Master" in card.traits or "Sergeant Cog - Artillery, Mechanic" in card.name) and card.alternate == "":
         switchModes(card)
         card.markers[CounterMarker] = 0
         card.orientation = Rot0
