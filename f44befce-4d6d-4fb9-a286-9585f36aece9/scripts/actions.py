@@ -27,7 +27,7 @@ def switchModes(card, x = 0, y = 0):
 	mute()
 	alt_count = len(card.alternates)
 	if alt_count == 0:
-            notify("{} has no other sides to flip to".format(card.name))
+            notify("{} has no other sides to flip to its {}.".format(card.name, card.type.split('- ')[1]))
             return
         side = 0
         for alternate in card.alternates:
@@ -39,15 +39,15 @@ def switchModes(card, x = 0, y = 0):
             card.alternate = card.alternates[side +1]
         else:
             card.alternate = card.alternates[0]
-        notify("{}'s {} switches to its {}.".format(me, card, card.type))
+        notify("{}'s {} switches to its {}.".format(me, card, card.type.split('- ')[1]))
 
 
 def wish(group, x = 0, y = 0):
     mute()
     if group == me.characters:
-        guid, quantity = askCard({"Type":"Character"}, "or")
+        guid, quantity = askCard({"Type":["Character - Head Mode", "Character - Bot Mod", "Character - Alt Mode", "Character - Alt1 Mode", "Character - Alt2 Mode", "Character - Body Mode", "Character - Combiner Mode"]}, "or")
     else:
-        guid, quantity = askCard({"Type":"Upgrade - Weapon", "Type":"Upgrade - Armor", "Type":"Upgrade - Utility", "Type":"Action"}, "or")
+        guid, quantity = askCard({"Type":["Upgrade - Weapon", "Upgrade - Armor", "Upgrade - Utility", "Action", "Secret Action", "Upgrade - Weapon Armor"]}, "or")
         group = me.hand
     if quantity == 0:
         return
@@ -405,8 +405,8 @@ def playCharacters(group, x = 0, y = 0):
     stratagems = []
     for card in charactersWorking:
         try:
-            alt_trait = card.alternateProperty('bot', 'traits')
-            if "Titan Master" in alt_trait:
+            alt_type = card.alternateProperty('bot', 'type')
+            if "Body Mode" in alt_type:
                 heads.append(card)
             else:
                 characters.append(card)
