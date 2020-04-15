@@ -130,7 +130,7 @@
 </card>
 <card id="23eb3461-a3fb-48fb-a9dd-26a8f9f7ca95" name="Crystal of Power">
 <property name="Card Number" value="8" />
-<property name="Type" value="Upgrade - Weapon Armor" />
+<property name="Type" value="Upgrade - Weapon, Armor" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
 <property name="Black Pips" value="1" />
@@ -943,7 +943,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Autobot Nautica - Camien Engineer" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="HP" value="10" />
@@ -1078,7 +1078,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Brainstorm - Biomechanical Engineer" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="HP" value="12" />
@@ -1153,7 +1153,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Chromedome - Computer Programmer" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="HP" value="13" />
@@ -1231,7 +1231,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Decepticon Quake - Ground Assault" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="Text" value="When this or another character is KO'd -> Do 1 damage to EACH other character. " />
@@ -1268,7 +1268,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Fangry - Sky Tracker" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
 <property name="Text" value="While this is defending against an enemy that has fewer Stars than him -> This has Tough 2. " />
@@ -1356,7 +1356,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Horri-Bull - Ground Trooper" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
 <property name="HP" value="9" />
@@ -1394,7 +1394,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Megatron - Fallen Hero" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="Text" value="When you flip to this mode -> This gets +2 [ATK] until end of turn. " />
@@ -1414,7 +1414,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Mindwipe - Hypnotist" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this attacks and you flip at least [K] -> Your opponent chooses a card from their hand and scraps it. If they can't, you draw a card. " />
@@ -1488,7 +1488,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Optimus Prime - Legendary Warrior" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this attacks -> Repair 1 damage from one of your characters. Then, if you have fewer characters on the battlefield than your opponent, repair 1 more damage from that character. " />
@@ -1545,7 +1545,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Sergeant Kup - Wrecker Leader" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
 <property name="HP" value="10" />
@@ -1566,7 +1566,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Skullsmasher - Swamp Warrior" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="HP" value="14" />
@@ -1613,7 +1613,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Topspin - Air and Space Assault" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this attacks and you flip at least [W] -> Draw a card. " />
@@ -1653,7 +1653,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Twin Twist - Demolitions" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="HP" value="12" />
@@ -1751,7 +1751,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Wolfwire - Ground Tracker" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="0" />
 <property name="HP" value="12" />
@@ -1772,7 +1772,7 @@
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Fortress Maximus - Great War Veteran" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="8" />
 <property name="DEF" value="2" />
 <property name="HP" value="15" />
@@ -1789,7 +1789,7 @@
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Cerebros - City Commander" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
 <property name="HP" value="8" />
@@ -1900,7 +1900,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Perceptor - Precise Sniper" type="bot">
-<property name="Type" value="Character - Bot Mode" />
+<property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
 <property name="HP" value="12" />
@@ -1909,7 +1909,7 @@
 </alternate>
 </card>
 <card id="0c2b5afe-10d8-41af-b690-7bef67b729e9" name="Sky Shadow - Elite Warrior" size="Extra Large">
-<property name="Type" value="Character - Alt Mode" />
+<property name="Type" value="Character - Combiner Mode" />
 <property name="ATK" value="8" />
 <property name="DEF" value="2" />
 <property name="HP" value="20" />
@@ -1920,7 +1920,7 @@
 <property name="Draft Type" value="Excluded" />
 </card>
 <card id="c4b77ca9-002a-45f7-846e-5e6bb287f25b" name="Tidal Wave - Dark Fleet" size="Extra Large">
-<property name="Type" value="Character - Alt Mode" />
+<property name="Type" value="Character - Combiner Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
 <property name="HP" value="21" />

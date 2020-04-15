@@ -49,7 +49,7 @@
 <cards>
 <card id="db7fa4fb-4754-4a87-9ef4-b17feaea0824" name="Captain Astrotrain - Space Force, Transport" size="Large">
 <property name="Card Number" value="T01" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="HP" value="14" />
@@ -76,7 +76,7 @@
 </card>
 <card id="6c46963d-757d-4604-ad49-6d328416fd68" name="Captain Impactor - Special Ops, Wrecker" size="Large">
 <property name="Card Number" value="T02" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
 <property name="HP" value="12" />
@@ -96,7 +96,7 @@
 </card>
 <card id="466b8472-6b9c-4157-a31a-a3de146e08ec" name="Captain Jetfire - Engineering, Air Guardian" size="Large">
 <property name="Card Number" value="T03" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
 <property name="HP" value="20" />
@@ -116,7 +116,7 @@
 </card>
 <card id="644d6dfd-8ecc-4532-bb5d-a3d89cd07fd5" name="Deadlock - Soldier Of Fortune" size="Large">
 <property name="Card Number" value="T04" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
 <property name="HP" value="12" />
@@ -136,7 +136,7 @@
 </card>
 <card id="d503f51a-5efb-4334-8438-c5bf1181aac3" name="Detritus - Arms Dealer" size="Large">
 <property name="Card Number" value="T05" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
 <property name="HP" value="14" />
@@ -156,7 +156,7 @@
 </card>
 <card id="f639cb04-c96e-453f-8013-c586c0c25196" name="General Optimus Prime - Galactic Commander" size="Large">
 <property name="Card Number" value="T06" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
 <property name="HP" value="21" />
@@ -176,7 +176,7 @@
 </card>
 <card id="8363f72c-fb59-4395-9a2a-937f206a94fd" name="Lockdown - Bounty Hunter" size="Large">
 <property name="Card Number" value="T07" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
 <property name="HP" value="15" />
@@ -196,7 +196,7 @@
 </card>
 <card id="988aded3-bf6f-40d2-b872-5db2674c52fb" name="Lord Megatron - Conqueror of Cybertron" size="Large">
 <property name="Card Number" value="T08" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
 <property name="HP" value="17" />
