@@ -93,9 +93,9 @@ def botFaceDown(group = me.Deck, card=''):
 def clearAll(group, x = 0, y= 0):
     notify("{} clears all targets and combat.".format(me))
     for card in group:
-		if card.controller == me:
-			card.target(False)
-			card.highlight = None
+##        if card.controller == me:
+            card.target(False)
+            card.highlight = None
 
 def roll20(group, x = 0, y = 0):
     mute()
@@ -404,17 +404,14 @@ def playCharacters(group, x = 0, y = 0):
     characters = []
     stratagems = []
     for card in charactersWorking:
-        try:
-            alt_type = card.alternateProperty('bot', 'type')
-            if "Body Mode" in alt_type:
-                heads.append(card)
-            else:
-                characters.append(card)
-        except:
-            if "Stratagem" in card.type:
-                stratagems.append(card)
-            else:
-                characters.append(card)
+        if "Head Mode" in card.type:
+            heads.append(card)
+        else:
+            characters.append(card)
+        if "Stratagem" in card.type:
+            stratagems.append(card)
+        else:
+            characters.append(card)
     count = len(characters)
     if me._id == 1:
         if count == 1:
@@ -446,8 +443,15 @@ def playHeads(heads, *args):
 
 def pickBody(card, *args):
     mute()
-    characters = [c for c in table if c.controller == me and c.type == "Character"]
-    dlg = cardDlg(characters)
+    characters = [c for c in table if c.controller == me and "Character" in c.type]
+    bodyCharacters =[]
+    for c in characters:
+        try:
+            if c.alternateProperty('bot', 'type') == "Character - Body Mode":
+                bodyCharacters.append(c)
+        except:
+            pass
+    dlg = cardDlg(bodyCharacters)
     dlg.title = "Choosing a bot to put your {} on.".format(card.name)
     dlg.text = "Please select a body to put your {} on".format(card.name)
     dlg.min = 1
@@ -487,8 +491,8 @@ def playStratagems(stratagems, *args):
 def scoop(prompt = False, *args):
     mute()
     if prompt != False:
-            if not confirm("Are you sure you want to scoop up your cards?  Current setup will be lost"):
-                    return
+        if not confirm("Are you sure you want to scoop up your cards?  Current setup will be lost"):
+            return
     for card in table:
         if card.owner == me: findCharacter(card)
     for card in me.hand: findCharacter(card)
@@ -497,7 +501,7 @@ def scoop(prompt = False, *args):
 
 def findCharacter(card):
     mute()
-    if card.Type=="Character" or len(card.alternates) > 1 or card.Type =="Stratagem":
+    if "Character" in card.Type or len(card.alternates) > 1 or card.Type =="Stratagem":
         card.moveTo(me.characters)
     else:
         card.moveTo(me.Deck)
