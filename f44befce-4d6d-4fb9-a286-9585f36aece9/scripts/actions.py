@@ -15,12 +15,12 @@ def tap(card, x = 0, y = 0):
 def untapAll(group, x = 0, y = 0): #Modified it to account for Energy which will be played upside down
 	mute()
 	for card in group:
-		if not card.owner == me:
-			continue
-		if card.orientation == Rot90:
-			card.orientation = Rot0
-		if card.orientation == Rot270:
-			card.orientation = Rot180
+            if not card.owner == me:
+                continue
+            if card.orientation == Rot90:
+                card.orientation = Rot0
+            if card.orientation == Rot270:
+                card.orientation = Rot180
 	notify("{} untaps all their cards.".format(me))			
 
 def switchModes(card, x = 0, y = 0): 
@@ -120,51 +120,51 @@ def flip(card, x = 0, y = 0):
         notify("{} turns {} face up.".format(me, card))
 
 def discard(card, x = 0, y = 0): #Renamed
-	card.moveTo(me.piles['Scrap'])
-	notify("{} discards {}".format(me, card))
+    card.moveTo(me.piles['Scrap'])
+    notify("{} discards {}".format(me, card))
 
 def addCounter(card, x = 0, y = 0):
-	mute()
-	notify("{} adds 1 counter to {}.".format(me, card))
-	card.markers[CounterMarker] += 1
+    mute()
+    notify("{} adds 1 counter to {}.".format(me, card))
+    card.markers[CounterMarker] += 1
 
 def addCounterX(card, x = 0, y = 0):
-	mute()
-	quantity = askInteger("How many counters", 0)
-	notify("{} adds {} counter to {}.".format(me, quantity, card))
-	card.markers[CounterMarker] += quantity
+    mute()
+    quantity = askInteger("How many counters", 0)
+    notify("{} adds {} counter to {}.".format(me, quantity, card))
+    card.markers[CounterMarker] += quantity
 
 def removeCounter(card, x = 0 , y = 0):
-	mute()
-	notify("{} removes 1 counter to {}.".format(me, card))
-	card.markers[CounterMarker] -= 1
+    mute()
+    notify("{} removes 1 counter to {}.".format(me, card))
+    card.markers[CounterMarker] -= 1
 
 def removeCounterX(card, x = 0, y = 0):
-	mute()
-	quantity = askInteger("How many counters", 0)
-	notify("{} removes {} counter from {}.".format(me, quantity, card))
-	card.markers[CounterMarker] -= quantity
+    mute()
+    quantity = askInteger("How many counters", 0)
+    notify("{} removes {} counter from {}.".format(me, quantity, card))
+    card.markers[CounterMarker] -= quantity
 	  
 def setCounter(card, x = 0, y = 0):
-	mute()
-	quantity_prior = card.markers[CounterMarker]
-	quantity = askInteger("How many counters", 0)
-	notify("{} changes {}'s counters from {} to {}.".format(me, card, quantity_prior, quantity))
-	card.markers[CounterMarker] = quantity	
+    mute()
+    quantity_prior = card.markers[CounterMarker]
+    quantity = askInteger("How many counters", 0)
+    notify("{} changes {}'s counters from {} to {}.".format(me, card, quantity_prior, quantity))
+    card.markers[CounterMarker] = quantity	
 		
 def play(card, x = 0, y = 0): #Extra Cards will go to Drop after being played
-	mute()
-	src = card.group
-	if card.Type=="Extra": card.moveTo(card.owner.piles['Drop Zone'])
-	elif me._id == 1:
-                global xBattle
-		xBattle += 75
-		card.moveToTable(xBattle, 0)
-	else:
-                global XBattle2
-                xBattle -= 75
-                card.moveToTable(xBattle2, -90)
-	notify("{} plays {} from their {}.".format(me, card, src.name))
+    mute()
+    src = card.group
+    if card.Type=="Extra": card.moveTo(card.owner.piles['Drop Zone'])
+    elif me._id == 1:
+        global xBattle
+        xBattle += 75
+        card.moveToTable(xBattle, 0)
+    else:
+        global XBattle2
+        xBattle -= 75
+        card.moveToTable(xBattle2, -90)
+    notify("{} plays {} from their {}.".format(me, card, src.name))
 
 def flip1(count=1):
     mute()
@@ -227,25 +227,25 @@ def testing(card):
     cardsInTable = [c for c in table if c.controller == me and c.orientation != Rot270 and c.orientation != Rot180]
     flippedCardsInTable = [c for c in table if c.controller == me and c.orientation == Rot270]
     if me._id == 1:
-            x = 400
-            for c in cardsInTable:
-                    if c.position[0] >= (x - 125):
-                            x = c.position[0] + 125
+        x = 400
+        for c in cardsInTable:
+            if c.position[0] >= (x - 125):
+                x = c.position[0] + 125
     else:
-            x = -475
-            for c in cardsInTable:
-                    if c.position[0] < (x+125):
-                            x = c.position[0] - 125
+        x = -475
+        for c in cardsInTable:
+            if c.position[0] < (x+125):
+                x = c.position[0] - 125
     if me._id == 1:
-            y = 0
-            for c in flippedCardsInTable:
-                    if c.position[1] >= y:
-                            y = c.position[1] + 10
+        y = 0
+        for c in flippedCardsInTable:
+            if c.position[1] >= y:
+                y = c.position[1] + 10
     else:
-            y = -75
-            for c in flippedCardsInTable:
-                    if c.position[1] <= y:
-                            y = c.position[1] - 10
+        y = -75
+        for c in flippedCardsInTable:
+            if c.position[1] <= y:
+                y = c.position[1] - 10
     try:
         card.moveToTable(x, y)
         if not me._id == 1:
@@ -270,18 +270,18 @@ def KO(card, x=0, y=0):
     else:
             x = 400
             for c in cardsInTable:
-                    if c.position[0] > (x-150):
-                            x = c.position[0] - 150
+                if c.position[0] > (x-150):
+                        x = c.position[0] - 150
     if me._id == 1:
-            y = 50
-            for c in KOCardsInTable:
-                    if c.position[1] >= y:
-                            y = c.position[1] + 20
+        y = 50
+        for c in KOCardsInTable:
+            if c.position[1] >= y:
+                y = c.position[1] + 20
     else:
-            y = -175
-            for c in KOCardsInTable:
-                    if c.position[1] <= y:
-                            y = c.position[1] - 20
+        y = -175
+        for c in KOCardsInTable:
+            if c.position[1] <= y:
+                y = c.position[1] - 20
     if KOCardsInTable:
         x = KOCardsInTable[0].position[0]
     card.moveToTable(x, y)
@@ -295,21 +295,21 @@ def unKO(card, x=0, y=0):
     card.filter = None
 
 def randomDiscard(group):
-	mute()
-	card = group.random()
-	if card == None: return
-	if group==me.piles["VP"]:
-            notify("{} randomly discards {} from VP.".format(me,card.name))
-        else:
-        	notify("{} randomly discards {}.".format(me,card.name))
-	card.moveTo(me.piles['Scrap'])
+    mute()
+    card = group.random()
+    if card == None: return
+    if group==me.piles["VP"]:
+        notify("{} randomly discards {} from VP.".format(me,card.name))
+    else:
+        notify("{} randomly discards {}.".format(me,card.name))
+    card.moveTo(me.piles['Scrap'])
 
 def randomDraw(group):
-	mute()
-	card = group.random()
-	if card == None: return
-	notify("{} takes a random VP.".format(me))
-        card.moveTo(card.owner.hand)
+    mute()
+    card = group.random()
+    if card == None: return
+    notify("{} takes a random VP.".format(me))
+    card.moveTo(card.owner.hand)
 
 def draw(group, conditional = False, count = 1, x = 0, y = 0): #Added draw function to include choice
     mute()
@@ -330,25 +330,25 @@ def draw(group, conditional = False, count = 1, x = 0, y = 0): #Added draw funct
         notify("{} draws a card.".format(me))
 
 def drawMany(group, count = None):
-	if len(group) == 0: return
-	mute()
-	if count == None: count = askInteger("Draw how many cards?", 0)
-	if count == None: count = 0
-	for card in group.top(count):
-            if group == me.Deck:
-                if len(me.Deck) == 0:
-                    reshuffle(False)
-            card.moveTo(me.hand)
-	notify("{} draws {} cards.".format(me, count))
+    if len(group) == 0: return
+    mute()
+    if count == None: count = askInteger("Draw how many cards?", 0)
+    if count == None: count = 0
+    for card in group.top(count):
+        if group == me.Deck:
+            if len(me.Deck) == 0:
+                reshuffle(False)
+        card.moveTo(me.hand)
+    notify("{} draws {} cards.".format(me, count))
 
 def drawBottom(group, x = 0, y = 0):
-	if len(group) == 0: return
-	mute()
-	group.bottom().moveTo(me.hand)
-	notify("{} draws a card from the bottom.".format(me))
+    if len(group) == 0: return
+    mute()
+    group.bottom().moveTo(me.hand)
+    notify("{} draws a card from the bottom.".format(me))
 
 def shuffle(group):
-	group.shuffle()
+    group.shuffle()
   
 def lookAtTopCards(num, targetZone='hand'): #Added function for looking at top X cards and take a card
     mute()
