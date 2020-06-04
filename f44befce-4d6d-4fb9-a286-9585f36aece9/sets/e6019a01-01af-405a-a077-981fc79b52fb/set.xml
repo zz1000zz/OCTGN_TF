@@ -757,7 +757,7 @@
 <property name="Text" value="When you flip to this mode -> Repair 1 damage from each of your characters." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Arcee - Skilled Fighter" type="bot">
+<alternate name="Arcee - Skilled Fighter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="1" />
 <property name="DEF" value="1" />
@@ -777,7 +777,7 @@
 <property name="Text" value="When you flip to this mode -> Scrap all cards from your hand. Then draw that many cards." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Cosmos - Recon and Communication" type="bot">
+<alternate name="Autobot Cosmos - Recon and Communication" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -797,7 +797,7 @@
 <property name="Text" value="When you flip to this mode -> You may scrap a card from your hand that has at least [W]. If you do, draw 2 cards." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Hound - Long Range Scout" type="bot">
+<alternate name="Autobot Hound - Long Range Scout" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -817,7 +817,7 @@
 <property name="Text" value="When this defends against an enemy that doesn't have Pierce and you flip at least [W] [W] -> This can't take more than 2 damage this attack." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Jazz - Special Ops" type="bot">
+<alternate name="Autobot Jazz - Special Ops" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -837,7 +837,7 @@
 <property name="Text" value="When you flip to this mode -> You may play an Action." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Mirage - Lone Wolf" type="bot">
+<alternate name="Autobot Mirage - Lone Wolf" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -857,7 +857,7 @@
 <property name="Text" value="When you flip to this mode -> One of your characters gets Pierce 2 until end of turn." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Barrage - Merciless Insecticon" type="bot">
+<alternate name="Barrage - Merciless Insecticon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -876,7 +876,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Bombshell - Insecticon Mind-Controller" type="bot">
+<alternate name="Bombshell - Insecticon Mind-Controller" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -895,7 +895,7 @@
 <property name="Text" value="When you flip to this mode -> Draw a card. Then put a card from your hand on top of your deck." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Bumblebee - Courageous Scout" type="bot">
+<alternate name="Bumblebee - Courageous Scout" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
@@ -915,7 +915,7 @@
 <property name="Text" value="When you flip to this mode -> This character can attack untapped enemies this turn as though they were untapped." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Bumblebee - Legendary Warrior" type="bot">
+<alternate name="Bumblebee - Legendary Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -935,7 +935,7 @@
 <property name="Text" value="When you flip to this mode -> Scrap all Upgrades from this character. For each one scrapped this way, draw a card and repair 1 damage from each of your Insecticons." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Chop Shop - Sneaky Insecticon" type="bot">
+<alternate name="Chop Shop - Sneaky Insecticon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -955,7 +955,7 @@
 <property name="Text" value="When you flip to this mode -> Return a card that has at least [W] from your scrap pile to hand." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Chromia - Special Ops" type="bot">
+<alternate name="Chromia - Special Ops" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
@@ -975,7 +975,7 @@
 <property name="Text" value="When you flip to this mode -> You may scrap a card from your hand. If you do, do 2 damage to an enemy." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Darkmount - Cruel Overlord" type="bot">
+<alternate name="Darkmount - Cruel Overlord" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="3" />
@@ -995,7 +995,7 @@
 <property name="Text" value="When you flip to this mode -> Choose and enemy. If its KO'd this turn, draw 2 cards." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Deadlock - Bounty Hunter" type="bot">
+<alternate name="Deadlock - Bounty Hunter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1014,7 +1014,7 @@
 <property name="Text" value="When you flip to this mode -> Each player draws 2 cards." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Decepticon Shockwave - Cybertron Commander" type="bot">
+<alternate name="Decepticon Shockwave - Cybertron Commander" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="3" />
@@ -1034,7 +1034,7 @@
 <property name="Text" value="When you flip to this mode -> Draw a card for each of your other Tanks." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Demolisher - Devoted Decepticon" type="bot">
+<alternate name="Demolisher - Devoted Decepticon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="0" />
 <property name="DEF" value="4" />
@@ -1054,7 +1054,7 @@
 <property name="Text" value="When you flip to this mode -> Move any number of damage counters from your other Dinobots to this one." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Dinobot Sludge - Mighty Stomper" type="bot">
+<alternate name="Dinobot Sludge - Mighty Stomper" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1073,7 +1073,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Dinobot Slug - Hot-Header Warrior" type="bot">
+<alternate name="Dinobot Slug - Hot-Header Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="0" />
@@ -1092,7 +1092,7 @@
 <property name="Text" value="When you flip to this mode and you have no cards in hand -> Draw 2 cards." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Dinobot Snarl - Desert Warrior" type="bot">
+<alternate name="Dinobot Snarl - Desert Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1112,7 +1112,7 @@
 <property name="Text" value="When you flip to this mode -> Move 1 damage counter from this character to an enemy." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Dinobot Swoop - Fearsome Flyer" type="bot">
+<alternate name="Dinobot Swoop - Fearsome Flyer" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
@@ -1131,7 +1131,7 @@
 <property name="Text" value="When you flip to this mode -> Each of your characters has Bold 1 until end of turn." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Flamewar - Veteran Decepticon" type="bot">
+<alternate name="Flamewar - Veteran Decepticon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1151,7 +1151,7 @@
 <property name="Text" value="When you flip to this mode -> One of your Dinobots gets Bold 3 until end of turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Grimlock - Dinobot Leader" type="bot">
+<alternate name="Grimlock - Dinobot Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
@@ -1171,7 +1171,7 @@
 <property name="Text" value="When you flip to this mode -> Return all upgrades on a character to their owner's hand." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Inferno - Fearless Firefighter" type="bot">
+<alternate name="Inferno - Fearless Firefighter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="8" />
 <property name="DEF" value="3" />
@@ -1190,7 +1190,7 @@
 <property name="Text" value="When you flip to this mode -> You may KO one of your Insecticons. If you do, tap an enemy that has 13 Stars or fewer." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Insecticon Skrapnet - Insecticon Leader" type="bot">
+<alternate name="Insecticon Skrapnet - Insecticon Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
@@ -1210,7 +1210,7 @@
 <property name="Text" value="Bold 1." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Jetfire - Air Guardian" type="bot">
+<alternate name="Jetfire - Air Guardian" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1230,7 +1230,7 @@
 <property name="Text" value="When this damages an enemy -> Repair 1 damage from one of your Insecticons." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Kickback - Cunning Insecticon" type="bot">
+<alternate name="Kickback - Cunning Insecticon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="0" />
 <property name="DEF" value="1" />
@@ -1250,7 +1250,7 @@
 <property name="Text" value="When you flip to this mode -> You may scrap a card from your hand. If you do, scrap an enemy Upgrade." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Megatron - Decepticon Leader" type="bot">
+<alternate name="Megatron - Decepticon Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1270,7 +1270,7 @@
 <property name="Text" value="When you flip to this mode -> Return a Weapon from your scrap pile to hand." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Megatron - Living Weapon" type="bot">
+<alternate name="Megatron - Living Weapon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
@@ -1290,7 +1290,7 @@
 <property name="Text" value="When you flip to this mode -> Your opponent chooses one of their characters and does 2 damage to it." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Nemesis Prime - Dark Clone" type="bot">
+<alternate name="Nemesis Prime - Dark Clone" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
@@ -1310,7 +1310,7 @@
 <property name="Text" value="When you flip to this mode -> Return an Action from your scrap pile to hand." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Optimus Prime - Battlefield Legend" type="bot">
+<alternate name="Optimus Prime - Battlefield Legend" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="8" />
 <property name="DEF" value="2" />
@@ -1330,7 +1330,7 @@
 <property name="Text" value="When you flip to this mode -> Repair 1 damage from each of your Autobots." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Optimus Prime - Freedom Fighter" type="bot">
+<alternate name="Optimus Prime - Freedom Fighter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1350,7 +1350,7 @@
 <property name="Text" value="When you flip to this mode -> Each of your Cars gets Bold 2 until end of turn." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Prowl - Military Strategist" type="bot">
+<alternate name="Prowl - Military Strategist" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1369,7 +1369,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Ramjet - Sky Smasher" type="bot">
+<alternate name="Ramjet - Sky Smasher" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1388,7 +1388,7 @@
 <property name="Text" value="When you flip to this mode -> Move 2 damage counters from another character to this one." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Ransack - Insecticon Commando" type="bot">
+<alternate name="Ransack - Insecticon Commando" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="DEF" value="3" />
 <property name="Text" value="This character's Power is equal to the number of damage counters on him." />
@@ -1406,7 +1406,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Kup - Veteran Sergeant" type="bot">
+<alternate name="Sergeant Kup - Veteran Sergeant" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1425,7 +1425,7 @@
 <property name="Text" value="When you flip to this mode -> Each player reveals the top card of their deck." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Skywarp - Sneaky Prankster" type="bot">
+<alternate name="Skywarp - Sneaky Prankster" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1445,7 +1445,7 @@
 <property name="Text" value="When you flip to this mode -> Do damage to an enemy equal to the number of other Planes you have." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Starscream - Air Commander" type="bot">
+<alternate name="Starscream - Air Commander" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1465,7 +1465,7 @@
 <property name="Text" value="Bold 1." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Starscream - Scheming Second-In-Command" type="bot">
+<alternate name="Starscream - Scheming Second-In-Command" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1485,7 +1485,7 @@
 <property name="Text" value="When you flip to this mode and you have fewer than 3 cards in hand -> Draw cards equal to the difference." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sunstorm - Fusion Flyer" type="bot">
+<alternate name="Sunstorm - Fusion Flyer" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="DEF" value="1" />
 <property name="Text" value="This character's [ATK] is equal to the number of cards you have in hand." />
@@ -1504,7 +1504,7 @@
 <property name="Text" value="When you flip to this mode -> Do 2 damage to a Melee enemy." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Thundercracker - Mach Warrior" type="bot">
+<alternate name="Thundercracker - Mach Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1524,7 +1524,7 @@
 <property name="Text" value="When you upgrade one of your Cars -> Draw a card. Then scrap a card from your hand." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Wheeljack - Weapons Inventor" type="bot">
+<alternate name="Wheeljack - Weapons Inventor" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1544,7 +1544,7 @@
 <property name="Text" value="When you flip to this mode -> Each of your characters has Pierce 1 until end of turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Bumblebee - Brave Warrior" type="bot">
+<alternate name="Bumblebee - Brave Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1563,7 +1563,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Ironhide - Veteran Autobot" type="bot">
+<alternate name="Ironhide - Veteran Autobot" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1582,7 +1582,7 @@
 <property name="Text" value="When you flip to this mode -> Draw a card." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Optimus Prime - Autobot Leader" type="bot">
+<alternate name="Optimus Prime - Autobot Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -1601,7 +1601,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Red Alert - Security Chief" type="bot">
+<alternate name="Red Alert - Security Chief" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
@@ -1620,7 +1620,7 @@
 <property name="Text" value="When you flip one of your other Cars to Bot Mode -> Draw a card." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="CliffJumper - Renegade Warrior" type="bot">
+<alternate name="CliffJumper - Renegade Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1640,7 +1640,7 @@
 <property name="Text" value="When one of your Planes attacks -> Move 1 damage from it to the defender." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Slipstream - Strategic Seeker" type="bot">
+<alternate name="Slipstream - Strategic Seeker" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1660,7 +1660,7 @@
 <property name="Text" value="This begins the game with these 3 characters under it -> Scamper, City Patrol, Six-Gun, Heavy Weapons Expert, Slammer, Combat Drone. When you flip to this mode -> Deploy a character from under this to the battlefield." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Metroplex - Autobot City" type="bot">
+<alternate name="Metroplex - Autobot City" type="bot" size="Extra Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -1680,7 +1680,7 @@
 <property name="Text" value="Your Metroplex has Bold 1." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Scamper - City Patrol" type="bot">
+<alternate name="Scamper - City Patrol" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1700,7 +1700,7 @@
 <property name="Text" value="When your Metroplex attacks -> Do 1 damage to the defender." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Six-Gun - Heavy Weapon Expert" type="bot">
+<alternate name="Six-Gun - Heavy Weapon Expert" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />

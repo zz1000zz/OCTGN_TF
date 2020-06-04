@@ -612,7 +612,7 @@
 <property name="Text" value="When you flip to this mode -> Return an [O] Action from your scrap pile to hand." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Alpha Trion - Cybertronian, Sage" type="bot">
+<alternate name="Alpha Trion - Cybertronian, Sage" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -632,7 +632,7 @@
 <property name="Text" value="When you flip to this mode -> Move any number of damage counters from one of your other characters to this, but not enough to KO her." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Captain Elita-1 - Special Ops, Ranger" type="bot">
+<alternate name="Captain Elita-1 - Special Ops, Ranger" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="0" />
@@ -652,7 +652,7 @@
 <property name="Text" value="This can't take non-attack damage from your opponent's cards." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Captain Ironhide - Infantry, Bodyguard" type="bot">
+<alternate name="Captain Ironhide - Infantry, Bodyguard" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -672,7 +672,7 @@
 <property name="Text" value="When you flip to this mode -> Do 1 damage to an enemy that has no Upgrades." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Captain Starscream - Infantry, Air Commander" type="bot">
+<alternate name="Captain Starscream - Infantry, Air Commander" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -692,7 +692,7 @@
 <property name="Text" value="Before the game begins -> You may reveal a Brainstorm from your deck and put it into your hand." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Captain Wheeljack - Engineer, Scientist" type="bot">
+<alternate name="Captain Wheeljack - Engineer, Scientist" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -712,7 +712,7 @@
 <property name="Text" value="When you flip to this mode -> Do damage to an enemy equal to the number of Weapons you have on the battlefield." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="General Megatron - Infantry, Leader" type="bot">
+<alternate name="General Megatron - Infantry, Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
@@ -732,7 +732,7 @@
 <property name="Text" value="Each of your other characters has Bold 1 and Tough 1." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="General Optimus Prime - Infantry, Leader" type="bot">
+<alternate name="General Optimus Prime - Infantry, Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
@@ -751,7 +751,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Major Prowl - Infantry, Strategist" type="bot">
+<alternate name="Major Prowl - Infantry, Strategist" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -771,7 +771,7 @@
 <property name="Text" value="You may look at the top card of your deck at any time. When you flip to this mode -> Draw a card. Then your opponent chooses a cards from their hand and scraps it." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Major Shockwave - Applied Sciences, Scientist" type="bot">
+<alternate name="Major Shockwave - Applied Sciences, Scientist" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
@@ -791,7 +791,7 @@
 <property name="Text" value="Each of your Spy Patrol has +1 [DEF]" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Major Soundwave - Espionage, Spy" type="bot">
+<alternate name="Major Soundwave - Espionage, Spy" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
@@ -811,7 +811,7 @@
 <property name="Text" value="Before the game begins -> You may put an Ultra Magnus Armor from your deck onto this. Brave." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Major Ultra Magnus - Infantry, City Commander" type="bot">
+<alternate name="Major Ultra Magnus - Infantry, City Commander" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -831,7 +831,7 @@
 <property name="Text" value="Focus 1." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Private Arcee - Special Ops, Warrior" type="bot">
+<alternate name="Private Arcee - Special Ops, Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -851,7 +851,7 @@
 <property name="Text" value="When this attacks -> Draw a card." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Upgrade - Weapon" />
-<alternate name="Duo-Charge Electrostatic Photon Cannon" type="bot">
+<alternate name="Duo-Charge Electrostatic Photon Cannon" type="bot" size="Small">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -871,7 +871,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Private Flak - Artillery, Tactics" type="bot">
+<alternate name="Private Flak - Artillery, Tactics" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -891,7 +891,7 @@
 <property name="Text" value="Bold 4" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Upgrade - Weapon" />
-<alternate name="RS Firesteel Saber" type="bot">
+<alternate name="RS Firesteel Saber" type="bot" size="Small">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Text" value="Bold 4. When the upgraded character attacks -> Plan 1. If this would leave the battlefield -> Put it into your KO area instead" />
 <property name="Traits" value="Battle Master" />
@@ -909,7 +909,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Private Mudslinger - Special Ops, Infiltration" type="bot">
+<alternate name="Private Mudslinger - Special Ops, Infiltration" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -928,7 +928,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Binary Edgewing Scythe" type="bot">
+<alternate name="Binary Edgewing Scythe" type="bot" size="Small">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
 <property name="Text" value="When the upgraded character attacks and you flip at least [W][W] -> The defender's base [DEF] becomes 0 during this battle. If this would leave the battlefield -> Put it into your KO area instead." />
@@ -947,7 +947,7 @@
 <property name="Text" value="When you flip to this mode -> Repair 1 damage from one of your characters." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Private Red Alert - Medical, Medic" type="bot">
+<alternate name="Private Red Alert - Medical, Medic" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -967,7 +967,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Private Red Heat - Infantry, Emergency Response" type="bot">
+<alternate name="Private Red Heat - Infantry, Emergency Response" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -987,7 +987,7 @@
 <property name="Text" value="When you flip to this mode -> This gets +2 [ATK] until end of turn for each character in your KO area." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Private Sideswipe - Infantry, Soldier" type="bot">
+<alternate name="Private Sideswipe - Infantry, Soldier" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1007,7 +1007,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Private Stakeout - Infantry, Communications" type="bot">
+<alternate name="Private Stakeout - Infantry, Communications" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1027,7 +1027,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Private Top Shot - Artillery, Patrol Leader" type="bot">
+<alternate name="Private Top Shot - Artillery, Patrol Leader" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1047,7 +1047,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Private Tote - Special Ops, Infiltration" type="bot">
+<alternate name="Private Tote - Special Ops, Infiltration" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1067,7 +1067,7 @@
 <property name="Text" value="Before the game begins -> You may put a Force Field from your deck onto this." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Private Trailbreaker - Infantry, Fortification and Defense" type="bot">
+<alternate name="Private Trailbreaker - Infantry, Fortification and Defense" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
@@ -1087,7 +1087,7 @@
 <property name="Text" value="Tough 3" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Upgrade - Weapon" />
-<alternate name="Manifold Ion Particle Blaster" type="bot">
+<alternate name="Manifold Ion Particle Blaster" type="bot" size="Small">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
 <property name="Text" value="When the upgraded character attacks and you flip at least [B][B][B] -> Do 3 damage to the defender. If this would leave the battlefield -> Put it into your KO area instead." />
@@ -1106,7 +1106,7 @@
 <property name="Text" value="Focus 1" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Upgrade - Weapon" />
-<alternate name="Dual-Impact Shatterblast Compression Cannon" type="bot">
+<alternate name="Dual-Impact Shatterblast Compression Cannon" type="bot" size="Small">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Text" value="Focus 1" />
 <property name="Traits" value="Battle Master" />
@@ -1124,7 +1124,7 @@
 <property name="Text" value="When you flip to this mode -> You may play an [O] Action." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Raider Cindersaur - Black Ops, Demolitions" type="bot">
+<alternate name="Raider Cindersaur - Black Ops, Demolitions" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1144,7 +1144,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Raider Detour - Infantry, Demolitions" type="bot">
+<alternate name="Raider Detour - Infantry, Demolitions" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1164,7 +1164,7 @@
 <property name="Text" value="When you flip to this mode -> Each of your Firecons gets Bold 1 until end of turn." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Raider Flamefeather - Black Ops, Soldier" type="bot">
+<alternate name="Raider Flamefeather - Black Ops, Soldier" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1183,7 +1183,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Raider Ion Storm - Infantry, Rainmaker" type="bot">
+<alternate name="Raider Ion Storm - Infantry, Rainmaker" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="2" />
@@ -1203,7 +1203,7 @@
 <property name="Text" value="When you flip to this mode -> Draw a card. Then scrap a card from your hand." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Raider Laserbeak - Espionage, Interrogation" type="bot">
+<alternate name="Raider Laserbeak - Espionage, Interrogation" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1223,7 +1223,7 @@
 <property name="Text" value="When you flip to this mode -> Return a card that has exactly 1 [Star] from your scrap pile to hand." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Raider Needlenose - Air Force, Soldier" type="bot">
+<alternate name="Raider Needlenose - Air Force, Soldier" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1242,7 +1242,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Black Beam Blaster" type="bot">
+<alternate name="Black Beam Blaster" type="bot" size="Small">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1261,7 +1261,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small" />
-<alternate name="Raider Ravage - Espionage, Saboteur" type="bot">
+<alternate name="Raider Ravage - Espionage, Saboteur" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1281,7 +1281,7 @@
 <property name="Text" value="This has Stealth while Untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Raider Road Hugger - Infantry, Tactics" type="bot">
+<alternate name="Raider Road Hugger - Infantry, Tactics" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1301,7 +1301,7 @@
 <property name="Text" value="When you flip to this mode -> Repair 1 damage from this. If you have Runamuck on the battlefield, repair 1 damage from him, and flip him from bot mode to alt mode. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Raider Runabout - Infantry, Soldier" type="bot">
+<alternate name="Raider Runabout - Infantry, Soldier" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1319,7 +1319,7 @@
 <property name="Faction" value="Decepticon" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Raider Runamuck - Infantry, Soldier" type="bot">
+<alternate name="Raider Runamuck - Infantry, Soldier" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1339,7 +1339,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Raider Storm Cloud - Infantry, Electronic Warfare" type="bot">
+<alternate name="Raider Storm Cloud - Infantry, Electronic Warfare" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1359,7 +1359,7 @@
 <property name="Text" value="When you flip to this mode -> Return a Weapon from your scrap pile to hand." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Raider Triggerhappy - Air Force, Gunner" type="bot">
+<alternate name="Raider Triggerhappy - Air Force, Gunner" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="2" />
@@ -1379,7 +1379,7 @@
 <property name="Text" value="This has Stealth while untapped." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Small Character" />
-<alternate name="Raider Visper - Infantry, Patrol Leader" type="bot">
+<alternate name="Raider Visper - Infantry, Patrol Leader" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1399,7 +1399,7 @@
 <property name="Text" value="When you flip to this mode -> You may play an [B] armor." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Chromia - Special Ops, Counterintelligence" type="bot">
+<alternate name="Sergeant Chromia - Special Ops, Counterintelligence" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1418,7 +1418,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Heavy Force Defensebreaker Cannon" type="bot">
+<alternate name="Heavy Force Defensebreaker Cannon" type="bot" size="Large">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="4" />
 <property name="Text" value="When you put this on a character -> Draw a card for each character you have on the battlefield. Then you may play an Upgrade onto each of your characters. If this would leave the battlefield -> Put it into your KO area instead." />
@@ -1436,7 +1436,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Hound - Infantry, Recon" type="bot">
+<alternate name="Sergeant Hound - Infantry, Recon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1456,7 +1456,7 @@
 <property name="Text" value="Brave." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Skrapnel - Infantry, Electronic Warfare" type="bot">
+<alternate name="Sergeant Skrapnel - Infantry, Electronic Warfare" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1476,7 +1476,7 @@
 <property name="Text" value="When you flip to this mode -> Return up to 2 Secret Actions that have different names from your scrap pile to hand." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Skywarp - Black Ops, Seeker" type="bot">
+<alternate name="Sergeant Skywarp - Black Ops, Seeker" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1496,7 +1496,7 @@
 <property name="Text" value="When you flip to this mode -> Scrap an enemy Armor." />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Sparkstalker - Black Ops, Cryptology" type="bot">
+<alternate name="Sergeant Sparkstalker - Black Ops, Cryptology" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1516,7 +1516,7 @@
 <property name="Text" value="Stealth." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Specialist Flamewar - Special Ops, Hunter" type="bot">
+<alternate name="Specialist Flamewar - Special Ops, Hunter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1536,7 +1536,7 @@
 <property name="Text" value="Before the game begins -> You may reveal a Medic! from your deck and put it into your hand." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Specialist Ratchet - Engineering, Rescue and Repair" type="bot">
+<alternate name="Specialist Ratchet - Engineering, Rescue and Repair" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1556,7 +1556,7 @@
 <property name="Text" value="Your starting [Star] limit increases by 1 for each Mini-Cassette on your starting team. This starts the game with all Mini-Cassettes on your starting team under it." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Blaster - Communications" type="bot">
+<alternate name="Blaster - Communications" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1576,7 +1576,7 @@
 <property name="Text" value="Stealth. When you flip to this mode -> Look at the top 2 cards of your deck. You may scrap them." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Eject - Electronic Surveillance" type="bot">
+<alternate name="Eject - Electronic Surveillance" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1596,7 +1596,7 @@
 <property name="Text" value="Stealth. When you flip to this mode -> You may move an Armor from one of your characters to another one. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Ramhorn - Warrior" type="bot">
+<alternate name="Ramhorn - Warrior" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1616,7 +1616,7 @@
 <property name="Text" value="Stealth. When you flip to this mode -> Each of your characters gets Bold 1 until end of turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Steeljaw - Tracker" type="bot">
+<alternate name="Steeljaw - Tracker" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1636,7 +1636,7 @@
 <property name="Text" value="Your starting [Star] limit increases by 1 for each Mini-Cassette on your starting team. This starts the game with all Mini-Cassettes on your starting team under it." />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Soundwave - Communications" type="bot">
+<alternate name="Soundwave - Communications" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1656,7 +1656,7 @@
 <property name="Text" value="Stealth. When you flip to this mode -> You may move a Weapon from one of your characters to another one." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Buzzsaw - Spy" type="bot">
+<alternate name="Buzzsaw - Spy" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1676,7 +1676,7 @@
 <property name="Text" value="Stealth. When you flip to this mode -> Your opponent reveals the top 2 cards of their deck. You may have your opponent scrap those cards." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Frenzy - Warrior" type="bot">
+<alternate name="Frenzy - Warrior" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1696,7 +1696,7 @@
 <property name="Text" value="Stealth. When you flip to this mode -> One of your characters gets Pierce 2 until end of turn." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Ravage - Saboteur" type="bot">
+<alternate name="Ravage - Saboteur" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1779,7 +1779,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Text" value="At the start of your first turn -> You may play an Armor onto one of your Omnibots." />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Private Camshaft - Special Ops, Scout" type="bot">
+<alternate name="Private Camshaft - Special Ops, Scout" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1798,7 +1798,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Text" value="At the start of your first turn -> You may play a Weapon onto one of your Omnibots." />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Private Downshift - Special Ops, Security Agent" type="bot">
+<alternate name="Private Downshift - Special Ops, Security Agent" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1817,7 +1817,7 @@
 <property name="Faction" value="Autobot" />
 <property name="Text" value="At the start of your turn -> You may play a Utility onto one of your Omnibots." />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Sergeant Overdrive - Special Ops, Strategist" type="bot">
+<alternate name="Sergeant Overdrive - Special Ops, Strategist" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1835,7 +1835,7 @@
 <property name="Traits" value="Battle Master, Melee" />
 <property name="Faction" value="Autobot" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Airquake Hammerclaw" type="bot">
+<alternate name="Airquake Hammerclaw" type="bot" size="Small">
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
 <property name="Text" value="When the upgraded character attacks and you flip more colors of battle icons than your opponent flips -> The upgraded character gets +2 [Atk] until end of battle. If this would leave the battlefield -> Put it into your KO area instead." />

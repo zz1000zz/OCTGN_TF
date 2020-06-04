@@ -901,7 +901,7 @@
 <property name="Text" value="+ Stealth" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Apex" type="bot">
+<alternate name="Apex" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -922,7 +922,7 @@
 <property name="Text" value="When you flip to this mode -> Move an Upgrade from an enemy to another enemy. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Gears - Transport and Reconnaissance" type="bot">
+<alternate name="Autobot Gears - Transport and Reconnaissance" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
@@ -942,7 +942,7 @@
 <property name="Text" value="When this defends against a Car, Truck, or tank, and you flip at least [B] -> This gets +1 [DEF] until end of battle for each [B] you flipped. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Autobot Nautica - Camien Engineer" type="bot">
+<alternate name="Autobot Nautica - Camien Engineer" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -963,7 +963,7 @@
 <property name="Text" value="When you flip to this mode -> You may scrap an Upgrade from your hand. If you do, draw 2 cards. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Outback - Gunner" type="bot">
+<alternate name="Autobot Outback - Gunner" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -980,7 +980,7 @@
 <property name="Text" value="+ 1 [DEF]" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Autobot Stylor" type="bot">
+<alternate name="Autobot Stylor" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -996,7 +996,7 @@
 <property name="Text" value="+ Focus 1" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Autobot Teslor" type="bot">
+<alternate name="Autobot Teslor" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1017,7 +1017,7 @@
 <property name="Text" value="When this attacks and you flip at least [B] -> Do 1 damage to each non-defending enemy. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Autobot Whirl - Aerial Assault" type="bot">
+<alternate name="Autobot Whirl - Aerial Assault" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -1037,7 +1037,7 @@
 <property name="Text" value="When you flip to this mode -> Name a card. Then reveal the top card of your deck. If it's the named card, draw 3 cards. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Beachcomber - Geologist" type="bot">
+<alternate name="Beachcomber - Geologist" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1057,7 +1057,7 @@
 <property name="Text" value="Pierce 1. Tough 1. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Bludgeon - Electric Warrior" type="bot">
+<alternate name="Bludgeon - Electric Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -1077,7 +1077,7 @@
 <property name="Text" value="When you flip to this mode -> Look at the top card of your deck. If it's an Upgrade, you may play it. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Brainstorm - Biomechanical Engineer" type="bot">
+<alternate name="Brainstorm - Biomechanical Engineer" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1098,7 +1098,7 @@
 <property name="Text" value="When this attacks an enemy that has more Stars than him and you flip battle cards -> This gets Pierce 1 until end of battle for each different color among battle icons you flipped. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Brawn - Demolitions" type="bot">
+<alternate name="Brawn - Demolitions" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
@@ -1115,7 +1115,7 @@
 <property name="Text" value="+ 3 [HEALTH]" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Brisko" type="bot">
+<alternate name="Brisko" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1132,7 +1132,7 @@
 <property name="Text" value="+ 2 [ATK]" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Chasm" type="bot">
+<alternate name="Chasm" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
@@ -1152,7 +1152,7 @@
 <property name="Text" value="When this attacks and your opponent has 3 or more Actions in their KO area -> This gets +3 [ATK] until end of turn. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Chromedome - Computer Programmer" type="bot">
+<alternate name="Chromedome - Computer Programmer" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1169,7 +1169,7 @@
 <property name="Text" value="+ Bold 3" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Clobber" type="bot">
+<alternate name="Clobber" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
@@ -1190,7 +1190,7 @@
 <property name="Text" value="When you flip to this mode -> Draw a card. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Crankcase - Data Collector" type="bot">
+<alternate name="Crankcase - Data Collector" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1210,7 +1210,7 @@
 <property name="Text" value="This has +2 [ATK] for each face-down or face-up Secret Action you have. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Decepticon Pounce - Infiltrator" type="bot">
+<alternate name="Decepticon Pounce - Infiltrator" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
@@ -1230,7 +1230,7 @@
 <property name="Text" value="While this is your only character on the battledfield -> He has +2 [ATK]. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Decepticon Quake - Ground Assault" type="bot">
+<alternate name="Decepticon Quake - Ground Assault" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1246,7 +1246,7 @@
 <property name="Text" value="+ Brave" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Doomshot" type="bot">
+<alternate name="Doomshot" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1267,7 +1267,7 @@
 <property name="Text" value="While this is attacking an enemy that has more Stars than him -> This has Bold 2. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Fangry - Sky Tracker" type="bot">
+<alternate name="Fangry - Sky Tracker" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1283,7 +1283,7 @@
 <property name="Text" value="+ Bold 2" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Flameout" type="bot">
+<alternate name="Flameout" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
@@ -1300,7 +1300,7 @@
 <property name="Text" value="+ Tough 3" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Flintlock" type="bot">
+<alternate name="Flintlock" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
@@ -1317,7 +1317,7 @@
 <property name="Text" value="+ Tough 2" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Freezeout" type="bot">
+<alternate name="Freezeout" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1335,7 +1335,7 @@
 <property name="Text" value="+ 5 [HEALTH]" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Grax" type="bot">
+<alternate name="Grax" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
@@ -1355,7 +1355,7 @@
 <property name="Text" value="When you flip to this mode -> Move 1 damage counter from this to an enemy. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Horri-Bull - Ground Trooper" type="bot">
+<alternate name="Horri-Bull - Ground Trooper" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1373,7 +1373,7 @@
 <property name="Text" value="+ 2 [HEALTH]" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Kreb" type="bot">
+<alternate name="Kreb" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
@@ -1393,7 +1393,7 @@
 <property name="Text" value="When this defends and you flip at least [O] -> Do 1 damage to the attacker after the battle. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Megatron - Fallen Hero" type="bot">
+<alternate name="Megatron - Fallen Hero" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1413,7 +1413,7 @@
 <property name="Text" value="When you flip to this mode -> Choose a battle icon color. Then look at your opponent's hand and scrap a card from it that has a battle icon of that color. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Mindwipe - Hypnotist" type="bot">
+<alternate name="Mindwipe - Hypnotist" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1430,7 +1430,7 @@
 <property name="Text" value="+ 1 [ATK]" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Monxo" type="bot">
+<alternate name="Monxo" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
@@ -1450,7 +1450,7 @@
 <property name="Text" value="While you have a face-down or face-up Secret Action -> Each of your characters has Tough 1. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Nightracer - Gunner" type="bot">
+<alternate name="Nightracer - Gunner" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1466,7 +1466,7 @@
 <property name="Text" value="+ Pierce 4" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Ominus" type="bot">
+<alternate name="Ominus" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
@@ -1487,7 +1487,7 @@
 <property name="Text" value="When you flip to this mode -> Draw a card. Then, if you have fewer cards in hand than your opponent, draw another card. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Optimus Prime - Legendary Warrior" type="bot">
+<alternate name="Optimus Prime - Legendary Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -1503,7 +1503,7 @@
 <property name="Text" value="+ Bold 1" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Parsec" type="bot">
+<alternate name="Parsec" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
@@ -1524,7 +1524,7 @@
 <property name="Text" value="When you upgrade this with an Armor -> Repair 1 damage from him. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Roadbuster - Ground Assault Commander" type="bot">
+<alternate name="Roadbuster - Ground Assault Commander" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
@@ -1544,7 +1544,7 @@
 <property name="Text" value="Tough 1. When one of your Wreckers takes 1 or more damage during your turn -> It gets that much +Attack until end of turn. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Sergeant Kup - Wrecker Leader" type="bot">
+<alternate name="Sergeant Kup - Wrecker Leader" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1565,7 +1565,7 @@
 <property name="Text" value="Whie this is attacking an Autobot -> This has Pierce 3. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Skullsmasher - Swamp Warrior" type="bot">
+<alternate name="Skullsmasher - Swamp Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1612,7 +1612,7 @@
 <property name="Text" value="When this defends -> He gets Tough until end of battle equal to his Bold total. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Topspin - Air and Space Assault" type="bot">
+<alternate name="Topspin - Air and Space Assault" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1632,7 +1632,7 @@
 <property name="Text" value="When you flip to this mode -> One of your characters gets +1 [ATK] until end of turn. If it shares a trait with this, it gets +2 [ATK] until end of turn instead. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Tracks - Autobot Warrior" type="bot">
+<alternate name="Tracks - Autobot Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
@@ -1652,7 +1652,7 @@
 <property name="Text" value="When you flip to this mode -> This gets Pierce 3 until end of turn. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Twin Twist - Demolitions" type="bot">
+<alternate name="Twin Twist - Demolitions" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="2" />
@@ -1669,7 +1669,7 @@
 <property name="Text" value="+ Tough 1" />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Small Head Character" />
-<alternate name="Vorath" type="bot">
+<alternate name="Vorath" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
@@ -1690,7 +1690,7 @@
 <property name="Text" value="This has +3 [ATK] during your first turn of the game. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Windcharger - Autobot Warrior" type="bot">
+<alternate name="Windcharger - Autobot Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
@@ -1710,7 +1710,7 @@
 <property name="Text" value="When this attacks -> If you had at least 2 Planes on your starting team, move 2 damage counters from this to the defender. Otherwise, move 1 damage counter from this to the defender. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Windsweeper - Air Defense" type="bot">
+<alternate name="Windsweeper - Air Defense" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1730,7 +1730,7 @@
 <property name="Text" value="When you flip to this mode -> Draw a card. This has +1 [DEF] for each card under him. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
-<alternate name="Wingspan - Data Processor" type="bot">
+<alternate name="Wingspan - Data Processor" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
@@ -1750,7 +1750,7 @@
 <property name="Text" value="When you flip to this mode -> You may scrap a [G] card from your hand. If you do, draw 2 cards. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
-<alternate name="Wolfwire - Ground Tracker" type="bot">
+<alternate name="Wolfwire - Ground Tracker" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="0" />
@@ -1771,7 +1771,7 @@
 <property name="Text" value="When this attacks and you flip at least [O][K] -> Do 2 damage to each enemy. Flip this to alt mode after the battle. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Fortress Maximus - Great War Veteran" type="bot">
+<alternate name="Fortress Maximus - Great War Veteran" type="bot" size="Extra Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="8" />
 <property name="DEF" value="2" />
@@ -1788,7 +1788,7 @@
 <property name="Text" value="+ Bold 1, Tough 1" />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Cerebros - City Commander" type="bot">
+<alternate name="Cerebros - City Commander" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
@@ -1805,7 +1805,7 @@
 <property name="Text" value="+ Focus 2" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Emissary" type="bot">
+<alternate name="Emissary" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
@@ -1823,7 +1823,7 @@
 <property name="Text" value="+ 2 [DEF]" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Arcana" type="bot">
+<alternate name="Arcana" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
@@ -1878,7 +1878,7 @@
 <property name="Text" value="+ Safeguard 3" />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Convex" type="bot">
+<alternate name="Convex" type="bot" size="Small">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
@@ -1899,7 +1899,7 @@
 <property name="Text" value="When you flip to this mode -> Reveal the top 4 cards of your deck. Your opponent separates those cards into 2 piles. Put 1 pile into your hand and the other under this face down. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
-<alternate name="Perceptor - Precise Sniper" type="bot">
+<alternate name="Perceptor - Precise Sniper" type="bot" size="Large">
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
