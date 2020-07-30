@@ -1,0 +1,200 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Placeholder Cards" id="62539654-4c65-40e5-b87d-13fb1e573735" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<cards>
+<card id="5c57cea4-b909-40e6-9cc5-e738d09da61d" name="Orange Battle Card 1" size="Small">
+<property name="Orange Pips" value="1" />
+</card>
+<card id="fa59f4ef-28db-4cd4-99d3-1ab7f24b3452" name="Orange Battle Card 2" size="Small">
+<property name="Orange Pips" value="1" />
+</card>
+<card id="a7714f3c-0046-49f3-af41-e781386f87dc" name="Blue Battle Card 1" size="Small">
+<property name="Blue Pips" value="1" />
+</card>
+<card id="c9f79696-047c-477c-9423-654cd401911c" name="Blue Battle Card 2" size="Small">
+<property name="Blue Pips" value="1" />
+</card>
+<card id="d8425243-038b-470f-9101-40b084775017" name="White Battle Card 1" size="Small">
+<property name="White Pips" value="1" />
+</card>
+<card id="b1d61c53-b1e7-4fd7-acc5-bcf2058feec4" name="White Battle Card 2" size="Small">
+<property name="White Pips" value="1" />
+</card>
+<card id="88080fac-0417-4a2f-9ca5-87df04efb00d" name="Black Battle Card 1" size="Small">
+<property name="Black Pips" value="1" />
+</card>
+<card id="5449419d-9403-4d3f-9efb-a28448ee5e19" name="Black Battle Card 2" size="Small">
+<property name="Black Pips" value="1" />
+</card>
+<card id="de059900-c2f9-476a-b276-b8523684d5f8" name="Green Battle Card 1" size="Small">
+<property name="Green Pips" value="1" />
+</card>
+<card id="b1336881-5b74-4b95-8487-7955cc4dac3e" name="Green Battle Card 2" size="Small">
+<property name="Green Pips" value="1" />
+</card>
+<card id="2b2a8a6c-e22f-4ea6-9091-62806b3b8147" name="Orange/Black Battle Card 1" size="Small">
+<property name="Orange Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="adaf4498-0fb2-422d-b45c-29d2d1937d8f" name="Orange/Black Battle Card 2" size="Small">
+<property name="Orange Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="4f888bbc-6485-42f6-a238-c123f03d8d90" name="Blue/Black Battle Card 1" size="Small">
+<property name="Blue Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="45666ca7-df4d-4c4c-907f-be90d25f29b9" name="Blue/Black Battle Card 2" size="Small">
+<property name="Blue Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="0cce447c-3bdf-452f-b555-2ddf4e5314b2" name="White Black Battle Card 1" size="Small">
+<property name="White Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="eaf73bc9-27f4-428d-895d-7d743fd04cbb" name="White Black Battle Card 2" size="Small">
+<property name="White Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="1d2b8a34-1f4d-4d6c-aee0-367876d2cc5a" name="Green/Black Battle Card 1" size="Small">
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="da083ef7-9895-4084-9242-e7cabfd050a5" name="Green/Black Battle Card 2" size="Small">
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="1" />
+</card>
+<card id="47da8716-092d-4508-9843-8ccc0aed18b8" name="Green/White Battle Card 1" size="Small">
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+</card>
+<card id="5a4aa88a-d98e-4075-a84d-86b92ebbeda4" name="Green/White Battle Card 2" size="Small">
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+</card>
+<card id="4776cb59-e08a-4837-9f69-48788175dac4" name="Orange/Blue Battle Card 1" size="Small">
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="1" />
+</card>
+<card id="d7fe79c4-800a-49bd-a9b9-7b88c4fab609" name="Double Orange Battle Card 1" size="Small">
+<property name="Orange Pips" value="2" />
+</card>
+<card id="45ae4dbd-9102-4553-a006-948bed6673f6" name="Double Blue Battle Card 1" size="Small">
+<property name="Blue Pips" value="2" />
+</card>
+<card id="30c7cb0d-c258-438c-aa1d-487965be3082" name="Large Character 1" size="Large">
+<alternate name="Large Character 1" type="bot" size="Large">
+</alternate>
+</card>
+<card id="917e24a0-b4ed-4425-8c22-a7edbdb347b9" name="Large Character 2" size="Large">
+<alternate name="Large Character 2" type="bot" size="Large">
+</alternate>
+</card>
+<card id="1803179b-c572-4632-9267-05e3060c39af" name="Large Character 3" size="Large">
+<alternate name="Large Character 3" type="bot" size="Large">
+</alternate>
+</card>
+<card id="2ac7ec25-f1c0-4f32-bade-be20de319746" name="Large Character 4" size="Large">
+<alternate name="Large Character 4" type="bot" size="Large">
+</alternate>
+</card>
+<card id="801858a1-b9bb-4fcd-9688-656f688ad233" name="Large Character 5" size="Large">
+<alternate name="Large Character 5" type="bot" size="Large">
+</alternate>
+</card>
+<card id="271174bb-c9bf-45c7-b60a-3671cd44d045" name="Large Character 6" size="Large">
+<alternate name="Large Character 6" type="bot" size="Large">
+</alternate>
+</card>
+<card id="dc52423a-4f23-4aef-a370-dc017ff864a5" name="Large Character 7" size="Large">
+<alternate name="Large Character 7" type="bot" size="Large">
+</alternate>
+</card>
+<card id="88bb917f-017f-486a-be3b-9be568f07c81" name="Large Character 8" size="Large">
+<alternate name="Large Character 8" type="bot" size="Large">
+</alternate>
+</card>
+<card id="44d5bc35-47b5-4300-b570-6d6d76bf340f" name="Large Character 9" size="Large">
+<alternate name="Large Character 9" type="bot" size="Large">
+</alternate>
+</card>
+<card id="4cebd192-6d4c-4b2d-9ac1-f3455fd7368c" name="Large Character 10" size="Large">
+<alternate name="Large Character 10" type="bot" size="Large">
+</alternate>
+</card>
+<card id="590d4e03-a5b4-4346-850a-50ecc92c2293" name="Small Character 1" size="Small">
+<alternate name="Small Character 1" type="bot" size="Small">
+</alternate>
+</card>
+<card id="dbcb2a79-56bb-45b6-8261-7f17a3169c60" name="Small Character 2" size="Small">
+<alternate name="Small Character 2" type="bot" size="Small">
+</alternate>
+</card>
+<card id="b790df31-4647-45e7-970b-ef031a03d34a" name="Small Character 3" size="Small">
+<alternate name="Small Character 3" type="bot" size="Small">
+</alternate>
+</card>
+<card id="decec750-5800-4f6e-8aed-724cac4ed73a" name="Small Character 4" size="Small">
+<alternate name="Small Character 4" type="bot" size="Small">
+</alternate>
+</card>
+<card id="acb3e73b-d028-414c-af20-346f7fb241ae" name="Small Character 5" size="Small">
+<alternate name="Small Character 5" type="bot" size="Small">
+</alternate>
+</card>
+<card id="034065cf-12ce-4591-9f50-3914360d3629" name="Small Character 6" size="Small">
+<alternate name="Small Character 6" type="bot" size="Small">
+</alternate>
+</card>
+<card id="32f55142-8a20-4442-894e-db303d046426" name="Small Character 7" size="Small">
+<alternate name="Small Character 7" type="bot" size="Small">
+</alternate>
+</card>
+<card id="8bf956a9-c75a-444a-8d67-dcd9ee657dae" name="Small Character 8" size="Small">
+<alternate name="Small Character 8" type="bot" size="Small">
+</alternate>
+</card>
+<card id="d6c42f90-5392-4840-a092-a511a1616c62" name="Small Character 9" size="Small">
+<alternate name="Small Character 9" type="bot" size="Small">
+</alternate>
+</card>
+<card id="2f9bd646-7dff-4219-a3b3-0de5cf100e98" name="Small Character 10" size="Small">
+<alternate name="Small Character 10" type="bot" size="Small">
+</alternate>
+</card>
+<card id="ceffd5ba-3dad-40f6-b34e-0a0eede2a4ea" name="Extra Large Character 1" size="Extra Large">
+<alternate name="Extra Large Character 1" type="bot" size="Extra Large">
+</alternate>
+</card>
+<card id="4d147dc7-9c61-46ae-8252-e23e43ac740e" name="Extra Large Character 2" size="Extra Large">
+<alternate name="Extra Large Character 2" type="bot" size="Extra Large">
+</alternate>
+</card>
+<card id="c1851be8-3e0b-491c-a835-bd6b42b504fa" name="Extra Large Character 3" size="Extra Large">
+<alternate name="Extra Large Character 3" type="bot" size="Extra Large">
+</alternate>
+</card>
+<card id="40ac7e96-9c0c-43fd-bc7a-c08ffb9ac336" name="Extra Large Character 4" size="Extra Large">
+<alternate name="Extra Large Character 4" type="bot" size="Extra Large">
+</alternate>
+</card>
+<card id="4385348a-1969-4974-980b-708e4dd59998" name="Stratagem 1" size="Small">
+</card>
+<card id="53b1f61d-4a28-48af-854e-0b8a3254d51f" name="Stratagem 2" size="Small">
+</card>
+<card id="05e8925a-f4c2-4641-8873-aca3c9bc2740" name="Stratagem 3" size="Small">
+</card>
+<card id="316f0e8f-fffc-4dbe-b573-41e2d2ad2efd" name="Stratagem 4" size="Small">
+</card>
+<card id="65797513-c97a-4102-a479-95c53e909179" name="Stratagem 5" size="Small">
+</card>
+<card id="69d9bdc0-8b76-42ac-a0a4-d026337f8c40" name="Stratagem 6" size="Small">
+</card>
+<card id="4f35b261-3b7a-4531-a824-5da303d3e0aa" name="Stratagem 7" size="Small">
+</card>
+<card id="adeacaba-a20c-484c-bce3-0c499f63bbe3" name="Stratagem 8" size="Small">
+</card>
+<card id="b6aa1149-930f-4d32-9948-b0457e3927c9" name="Stratagem 9" size="Small">
+</card>
+<card id="08018652-8fcd-4456-aeb7-196cd3326b60" name="Stratagem 10" size="Small">
+</card>
+</cards>
+</set>
