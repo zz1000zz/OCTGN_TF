@@ -873,7 +873,7 @@
 <property name="HP" value="10" />
 <property name="Stars" value="8" />
 <property name="Traits" value="Insecticon, Melee" />
-<property name="Faction" value="Autobot" />
+<property name="Faction" value="Decepticon" />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Bombshell - Insecticon Mind-Controller" type="bot" size="Large">

@@ -47,1002 +47,6 @@
 </pack>
 </packaging>
 <cards>
-<card id="db7fa4fb-4754-4a87-9ef4-b17feaea0824" name="Captain Astrotrain - Space Force, Transport" size="Large">
-<property name="Card Number" value="T01" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="2" />
-<property name="HP" value="14" />
-<property name="Stars" value="12" />
-<property name="Traits" value="Leader, Specialist" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When this has at least one Upgrade and defends -> He gets +1 [DEF] until end of turn." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Captain Astrotrain - Space Force, Transport" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this has at least 3 Upgrades and Battles -> He gets +3 [ATK] and +3 [DEF] until end of battle." />
-<property name="Traits" value="Leader, Specialist" />
-</alternate>
-<alternate name="Captain Astrotrain - Space Force, Transport" type="alt2" size="Large">
-<property name="Type" value="Character - Alt2 Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this has at least 2 Upgrades and attacks -> He gets +2 [ATK] until end of turn." />
-<property name="Traits" value="Leader, Train, Specialist" />
-</alternate>
-</card>
-<card id="6c46963d-757d-4604-ad49-6d328416fd68" name="Captain Impactor - Special Ops, Wrecker" size="Large">
-<property name="Card Number" value="T02" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="2" />
-<property name="HP" value="12" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Leader, Tank, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> Each of your characters get Bold 1 until end of turn." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Captain Impactor - Special Ops, Wrecker" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="Bold 1." />
-<property name="Traits" value="Leader, Ramged" />
-</alternate>
-</card>
-<card id="466b8472-6b9c-4157-a31a-a3de146e08ec" name="Captain Jetfire - Engineering, Air Guardian" size="Large">
-<property name="Card Number" value="T03" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="2" />
-<property name="HP" value="20" />
-<property name="Stars" value="16" />
-<property name="Traits" value="Leader, Plane, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> Reveal the top 5 cards of your deck.  Put all Upgrades from among them into your hand.  Scrap the rest." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Captain Jetfire - Engineering, Air Guardian" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="2" />
-<property name="Text" value="When this card battles -> Draw a card.  Then you may reveal an Upgrade from your hand and put it on top of your deck.  If you do, flip one more battle card this battle." />
-<property name="Traits" value="Leader, Ranged" />
-</alternate>
-</card>
-<card id="644d6dfd-8ecc-4532-bb5d-a3d89cd07fd5" name="Deadlock - Soldier Of Fortune" size="Large">
-<property name="Card Number" value="T04" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="0" />
-<property name="HP" value="12" />
-<property name="Stars" value="9" />
-<property name="Traits" value="Car, Ranged" />
-<property name="Faction" value="Mercenary" />
-<property name="Text" value="Stealth against Autobots and Decepticons.  When you flip to this mode -> Autobots and Decepticons can't use Stealth this turn." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Deadlock - Soldier Of Fortune" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="0" />
-<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Flip this and draw 2 cards." />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="d503f51a-5efb-4334-8438-c5bf1181aac3" name="Detritus - Arms Dealer" size="Large">
-<property name="Card Number" value="T05" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="HP" value="14" />
-<property name="Stars" value="11" />
-<property name="Traits" value="Truck, Ranged" />
-<property name="Faction" value="Mercenary" />
-<property name="Text" value="When you flip to this mode -> You may play a [Bl] card." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Detritus - Arms Dealer" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="2" />
-<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Repair 3 damage from this." />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="f639cb04-c96e-453f-8013-c586c0c25196" name="General Optimus Prime - Galactic Commander" size="Large">
-<property name="Card Number" value="T06" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="7" />
-<property name="DEF" value="2" />
-<property name="HP" value="21" />
-<property name="Stars" value="15" />
-<property name="Traits" value="Leader, Truck, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has 3 Utility slots.  When you flip to this mode -> Reveal the top card of your deck.  If it's an Action, you may play it." />
-<property name="Rarity" value="Super Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="General Optimus Prime - Galactic Commander" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="8" />
-<property name="DEF" value="2" />
-<property name="Text" value="This has 3 Utility slots.  When this attacks and you flip [O][B} -> You may play one of your flipped Upgrades onto this after the battle." />
-<property name="Traits" value="Leader, Ranged" />
-</alternate>
-</card>
-<card id="8363f72c-fb59-4395-9a2a-937f206a94fd" name="Lockdown - Bounty Hunter" size="Large">
-<property name="Card Number" value="T07" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="HP" value="15" />
-<property name="Stars" value="10" />
-<property name="Traits" value="Car, Melee" />
-<property name="Faction" value="Mercenary" />
-<property name="Text" value="This has +2 [ATK] for each card under him.  When you flip to this mode -> Draw a card for each card under this and for each Upgrade it has.  Then scrap that many cards from your hand." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Lockdown - Bounty Hunter" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="2" />
-<property name="Text" value="This has +2 [ATK] for each card under it.  When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Put the bottom card of your deck face down under this." />
-<property name="Traits" value="Melee" />
-</alternate>
-</card>
-<card id="988aded3-bf6f-40d2-b872-5db2674c52fb" name="Lord Megatron - Conqueror of Cybertron" size="Large">
-<property name="Card Number" value="T08" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="2" />
-<property name="HP" value="17" />
-<property name="Stars" value="12" />
-<property name="Traits" value="Leader, Tank, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> Your opponent scraps a number of cards from the top of their deck equal to this character's [DEF] total." />
-<property name="Rarity" value="Super Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Lord Megatron - Conqueror of Cybertron" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="3" />
-<property name="Text" value="When your opponent reshuffles their deck -> They choose one of their characters and do damage to it equal to this character's [ATK] total." />
-<property name="Traits" value="Leader, Ranged" />
-</alternate>
-</card>
-<card id="8801bad8-6d23-4a99-9587-932ddf38aaaa" name="MTX-M2 Anit-Gravity Cannon" size="Small">
-<property name="Card Number" value="T09" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="1" />
-<property name="Traits" value="Weaponizer" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Play this only with MTX-S2A Guided Missile Launcher.  They start the game assembled as Sergeant Six-Gun.  Pierce 4.  If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Character" />
-</card>
-<card id="be368a06-b001-45cb-bd26-56148491c7b2" name="MTX-S2A Guided Missile Launcher" size="Small">
-<property name="Card Number" value="T10" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="3" />
-<property name="Traits" value="Weaponizer" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Play this only with MTX-M2 Anti-Gravity Cannon.  They start the game assembled as Sergeant Six-Gun.  This can be in an Armor or Utility slot.  If this would leave the battlefield -> Put it into the KO area instead." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Character" />
-</card>
-<card id="44629116-ba12-4645-a7bf-ecfea66a2604" name="Mudflap - Hired Muscle" size="Large">
-<property name="Card Number" value="T11" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="HP" value="12" />
-<property name="Stars" value="8" />
-<property name="Traits" value="Truck, Ranged" />
-<property name="Faction" value="Mercenary" />
-<property name="Text" value="When you flip to this mode -> Plan 1." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Mudflap - Hired Muscle" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="2" />
-<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Reveal the top card of your deck.  You may play it." />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="76253733-6f09-4122-8541-931d63de62c6" name="Octone - Capricious Agitator" size="Large">
-<property name="Card Number" value="T12" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="2" />
-<property name="HP" value="17" />
-<property name="Stars" value="13" />
-<property name="Traits" value="Truck, Melee" />
-<property name="Faction" value="Mercenary" />
-<property name="Text" value="When you flip to this mode -> Your opponent chooses one of their Autobots and does 1 damage to it.  This has +3 [ATK] while attacking an Autobot." />
-<property name="Rarity" value="Super Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Octone - Capricious Agitator" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="2" />
-<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Do 2 damage to an enemy." />
-<property name="Traits" value="Ranged" />
-</alternate>
-<alternate name="Octone - Capricious Agitator" type="alt2" size="Large">
-<property name="Type" value="Character - Alt2 Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="2" />
-<property name="Text" value="When you flip to this mode -> Your opponent chooses one of their Decepticons and does 1 damage to it.  This has +3 [ATK] while attacking a Decepticon." />
-<property name="Traits" value="Plane, Ranged" />
-</alternate>
-</card>
-<card id="88ce7b87-9c48-4cd2-bd37-7f485181bd75" name="Omega Supreme (Base) - Transport City Defender" size="Large">
-<property name="Card Number" value="T13" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="0" />
-<property name="DEF" value="1" />
-<property name="HP" value="12" />
-<property name="Stars" value="8" />
-<property name="Traits" value="Specialist" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When this defends -> Do 2 damage to the attacker.  Your opponent scraps the top 2 cards of their deck." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
-</card>
-<card id="c7a86a67-26ec-43e4-b7b2-a3ee3d7d827c" name="Omega Supreme (Spaceship) - Transport City Defender" size="Large">
-<property name="Card Number" value="T14" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="0" />
-<property name="HP" value="12" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Spaceship. Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When this attacks -> You may scrap 2 cards from your hand.  If you do, scrap an enemy Upgrade." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
-</card>
-<card id="aabd9cd1-516f-4853-80a6-9418ee982178" name="Omega Supreme (Tank) - Transport City Defender" size="Large">
-<property name="Card Number" value="T15" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="2" />
-<property name="HP" value="9" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Tank, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When this attacks -> You may scrap 2 cards from your hand.  If you do, do 1 damage to an enemy.  When your opponent reshuffles their deck, if you have Omega Supreme (Spaceship) and Omega Supreme (Base) on the battlefield or in your KO pile -> Combine them into Captain Omega Supreme." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
-</card>
-<card id="f6ad3d43-104b-46a8-b491-387fe60cdbdb" name="Private Dazzlestrike - Ground Command, Artillery" size="Small">
-<property name="Card Number" value="T16" />
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="9" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Battle Master, Melee" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Enemies can't use Brave." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Shadowsteel Iceblade" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="When you put this on a character -> Repair 3 damage from it.  When this is removed from a character -> Do 3 damage to it.  If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Traits" value="Battle Master" />
-</alternate>
-</card>
-<card id="47812c48-4539-4a3c-b08d-fa40c7b9ab5d" name="Private Fixit - Rescue Patrol, Medic" size="Small">
-<property name="Card Number" value="T17" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="0" />
-<property name="HP" value="6" />
-<property name="Stars" value="4" />
-<property name="Traits" value="Rescue Patrol, Truck, Specialist" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has Stealth while untapped (Enemies attack other characters if able.)" />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Fixit - Rescue Patrol, Medic" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="[TAP] Scrap a [W] card from your hand -> Each player scraps their hand and draws 4 cards." />
-<property name="Traits" value="Rescue Patrol, Specialist" />
-</alternate>
-</card>
-<card id="b5a3136a-fd62-4c3b-97eb-95dc62e31a81" name="Private Greenlight - Special Ops, Recon" size="Large">
-<property name="Card Number" value="T18" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="2" />
-<property name="HP" value="12" />
-<property name="Stars" value="8" />
-<property name="Traits" value="Car, Specialist" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Safeguard 3.  The character's Upgrade can't be scrapped by your opponent's cards." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Private Greenlight - Special Ops, Recon" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="When you play a [G] card -> This card gains +1 [ATK] until end of turn." />
-<property name="Traits" value="Specialist" />
-</alternate>
-</card>
-<card id="7a57c97f-1fa6-4e0a-8e87-003b4f37a64f" name="Private Highjump - Off-Road Patrol, Infiltration" size="Small">
-<property name="Card Number" value="T19" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="6" />
-<property name="Stars" value="4" />
-<property name="Traits" value="Off-Road Patrol, Truck, Melee" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has Stealth while untapped (Enemies attack other characters if able.)" />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Highjump - Off-Road Patrol, Infiltration" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="[TAP] Scrap a [Bl] card from your hand -> Draw 2 cards." />
-<property name="Traits" value="Off-Rad Patrol, Melee" />
-</alternate>
-</card>
-<card id="c3a45534-8e56-40c6-9ea4-ca3723efbe73" name="Private Hot Rod - Infantry, Soldier" size="Large">
-<property name="Card Number" value="T20" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="2" />
-<property name="HP" value="12" />
-<property name="Stars" value="9" />
-<property name="Traits" value="Car, Melee" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Safeguard 3 (Can't take more than 3 damage while undamaged) When you shuffle your deck and this doesn't have a battle card under him - Put the bottom card of your deck face down under him." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Private Hot Rod - Infantry, Soldier" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="While this has a battle card under him - You may play another action on each of your turns. " />
-<property name="Traits" value="Melee" />
-</alternate>
-</card>
-<card id="3f8a6b96-2bc4-4e67-ab7a-272f56b4348b" name="Private Powertrain - Off-Road Patrol, Patrol Leader" size="Small">
-<property name="Card Number" value="T21" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="2" />
-<property name="DEF" value="2" />
-<property name="HP" value="8" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Leader, Off-Road Patrol, Melee" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has Stealth while untapped.  Each of your Off-Road Patrols has Bold 1." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Powertrain - Off-Road Patrol, Patrol Leader" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="2" />
-<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Off-Road Patrol in your KO area." />
-<property name="Traits" value="Leader, Off-Road Patrol, Truck, Melee" />
-</alternate>
-</card>
-<card id="032d56b5-2a39-41d9-b222-d55733d992bc" name="Private Seawatch - Rescue Patrol, Search and Rescue" size="Small">
-<property name="Card Number" value="T22" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="0" />
-<property name="HP" value="8" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Rescue Patrol, Boat, Specialist" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has Stealth while untapped.  When one of your Off-Road Patrols battles and you flip at least [W][W] -> Flip 3 more battle cards." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Seawatch - Rescue Patrol, Search and Rescue" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Off-Road Patrol in your KO area." />
-<property name="Traits" value="Rescue Patrol, Specialist" />
-</alternate>
-</card>
-<card id="86312038-1068-4532-9bcd-1bdc788d9346" name="Private Sidetrack - Battle Patrol, Demolitions" size="Small">
-<property name="Card Number" value="T23" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="1" />
-<property name="DEF" value="3" />
-<property name="HP" value="3" />
-<property name="Stars" value="4" />
-<property name="Traits" value="Battle Patrol, Tank, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has Stealth while untapped (Enemies attack other characters if able.)" />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Sidetrack - Battle Patrol, Demolitions" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="2" />
-<property name="DEF" value="3" />
-<property name="Text" value="[TAP] Scrap a [O] card from your hand -> Scrap the top 4 cards of your deck.  Put all Upgrades scrapped from your deck this way into your hand." />
-<property name="Traits" value="Battle Patrol, Melee" />
-</alternate>
-</card>
-<card id="c67f93da-aa8d-46db-a324-d6cf7364eb5d" name="Private Smokescreen - Special Ops, Soldier" size="Large">
-<property name="Card Number" value="T24" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="HP" value="11" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Car, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Safeguard 3." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Private Smokescreen - Special Ops, Soldier" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="Focus 1.  While this has an [W] Upgrade -> This has +1 [ATK] and +1 [DEF]." />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="3cb3d221-b13f-4db3-af03-52cd8a2fd4fb" name="Private Sunrunner - Battle Patrol, Air Defense" size="Small">
-<property name="Card Number" value="T25" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="2" />
-<property name="DEF" value="1" />
-<property name="HP" value="8" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Battle Patrol, Plane, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has Stealth while untapped.  When one of your Off-Road Patrols becomes tapped -> Do 1 damage to a tapped enemy." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Private Sunrunner - Battle Patrol, Air Defense" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Off-Road Patrol in your KO area." />
-<property name="Traits" value="Battle Patrol, Ranged" />
-</alternate>
-</card>
-<card id="c440f419-647a-4de9-a79c-6a9119b63f85" name="Private Turbo Board - Air Command, Evac" size="Small">
-<property name="Card Number" value="T26" />
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="2" />
-<property name="DEF" value="0" />
-<property name="HP" value="12" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Battle Master, Specialist" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="Your opponent can't play more than 2 cards during their turn." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Anti-Gravity Turbo Pack" type="bot" size="Small">
-<property name="Type" value="Upgrade - Utility" />
-<property name="ATK" value="1" />
-<property name="DEF" value="1" />
-<property name="Text" value="When the upgraded character attacks and you flip at least [O][B] -> After the battle, you may play one of the [O] or [B] card you flipped.  If this would leave the battlefield -> Put it in your KO area instead." />
-<property name="Traits" value="Battle Master" />
-</alternate>
-</card>
-<card id="b70f9da3-735a-4725-a6d3-cb8632bd0120" name="Private Vanguard - Ground Command, Advance Guard" size="Small">
-<property name="Card Number" value="T27" />
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="5" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Battle Master, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When one of your other characters defends and you flip at least [W] -> That character can't take more than 5 attack damage this battle." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Anti-Ballistic Turret Helmet" type="bot" size="Small">
-<property name="Type" value="Upgrade - Armor" />
-<property name="DEF" value="2" />
-<property name="Text" value="When you put this on a character -> Do 1 damage to a tapped enemy.  If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Traits" value="Battle Master" />
-</alternate>
-</card>
-<card id="efc601ba-c00e-45c4-b225-392c7b788df1" name="Raider Apeface - Espionage Commando" size="Large">
-<property name="Card Number" value="T28" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="HP" value="14" />
-<property name="Stars" value="10" />
-<property name="Traits" value="Plane, Range" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="While this is undamaged -> He has Focus 1." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Raider Apeface - Espionage Commando" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="Text" value="While this has 10 or more damage counters -> He Has Tough 3." />
-<property name="Traits" value="Ranged" />
-</alternate>
-<alternate name="Raider Apeface - Espionage Commando" type="alt2" size="Large">
-<property name="Type" value="Character - Alt2 Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="Text" value="While this has 1 to 9 damage counters -> He has Bold 2." />
-<property name="Traits" value="Beast, Melee" />
-</alternate>
-</card>
-<card id="03fc881b-7fe9-44b3-a48e-846735edd235" name="Raider Blackjack - Sports Car Patrol, Patrol Leader" size="Small">
-<property name="Card Number" value="T29" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="0" />
-<property name="HP" value="8" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Leader, Sports Car Patrol, Car, Melee" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="This has Stealth while untapped.  When one of your Sports Car Patrols becomes untapped -> Repair 1 damage from it." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Blackjack - Sports Car Patrol, Patrol Leader" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Sports Car Patrol in your KO area." />
-<property name="Traits" value="Leader, Sports Car Patrol Melee" />
-</alternate>
-</card>
-<card id="d597e667-e629-4ac7-adc7-d978d3ebf29d" name="Raider Caliburst - Air Force, Weapons" size="Small">
-<property name="Card Number" value="T30" />
-<property name="Type" value="Character - Bot Mod" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="8" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Battle Master, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When your opponent draws a card, if they've already drawn a card this turn -> Your opponent chooses one of their characters and does 1 damage to it." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Oxidation Cannon" type="bot" size="Small">
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="3" />
-<property name="Text" value="When the upgraded character attacks and your opponent has more cards in hand than you -> Your opponent chooses a card from their hand and scraps it.  Then you draw a card.  If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Traits" value="Battle Master" />
-</alternate>
-</card>
-<card id="2f7e0cf3-59af-427e-826f-b846d9f814ad" name="Raider Chop Shop - Infantry Soldier" size="Large">
-<property name="Card Number" value="T31" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="HP" value="11" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Insecticon, Melee" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> You may scrap a [G] card from your hand.  If you do, repair 1 damage from each of your characters.  If the scrapped card has no other battle icons, repair 1 more damage from each of your characters." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Raider Chop Shop - Infantry Soldier" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this attacks and you flip at least [G] -> Repair 1 damage from this." />
-<property name="Traits" value="Insecticon, Melee" />
-</alternate>
-</card>
-<card id="ebfb276d-9e44-46a3-99b2-bec31b8883a5" name="Raider Hyperdrive - Sports Car Patrol, Demolitions" size="Small">
-<property name="Card Number" value="T32" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="0" />
-<property name="HP" value="6" />
-<property name="Stars" value="4" />
-<property name="Traits" value="Sports Car Patrol, Car, Specialist" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="This has Stealth while untapped." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Hyperdrive - Sports Car Patrol, Demolitions" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="[TAP] Scrap a [B] card from your hand -> Draw 3 cards.  Then scrap 2 cards from your hand." />
-<property name="Traits" value="Sports Car Patrol, Specialist" />
-</alternate>
-</card>
-<card id="cedcc3db-4005-4a80-9672-36eafe698939" name="Raider Kickback - Infantry Soldier" size="Large">
-<property name="Card Number" value="T33" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="0" />
-<property name="HP" value="9" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Insecticon, Specialist" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When this defends -> Flip 1 more battle card for each Insecticon that was on your starting team." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Raider Kickback - Infantry, Soldier" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="When one of your Insecticons attacks and you flip at least [B] -> Do 1 damage to the defender." />
-<property name="Traits" value="Insecticon, Specialist" />
-</alternate>
-</card>
-<card id="c908a170-64f0-4d92-8e7d-2a6373db4336" name="Raider Needler - Ground Force Demolitions" size="Small">
-<property name="Card Number" value="T34" />
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="10" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Battle Master, Melee" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Enemy characters can't be repaired." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Needler - Ground Force Demolitions" type="bot" size="Small">
-<property name="Type" value="Upgrade - Armor" />
-<property name="DEF" value="2" />
-<property name="Text" value="Pierce 2.  If this would leave the battlefield -_ Put it into your KO area instead." />
-<property name="Traits" value="Battle Master" />
-</alternate>
-</card>
-<card id="7bf596be-bdc0-4f63-9384-dcd38e43a9b2" name="Raider Nightflight - Air Strike Patrol Spy" size="Small">
-<property name="Card Number" value="T35" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="0" />
-<property name="HP" value="7" />
-<property name="Stars" value="4" />
-<property name="Traits" value="Air Strike Patrol, Plane, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="This has Stealth while untapped." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Nightflight - Air Strike Patrol Spy" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="{TAP] Scrap 3 [G] cards from your hand -> Your opponent chooses one of their characters and does 3 damage to it.  If your 3 scrapped cards have the same name, repair 3 damage from one of your characters." />
-<property name="Traits" value="Air Strike Patrol, Ranged" />
-</alternate>
-</card>
-<card id="62e51bc9-027f-4db1-a4ea-8e98eb7e6316" name="Raider Nova Storm - Infantry, Combustion Specialist" size="Large">
-<property name="Card Number" value="T36" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="0" />
-<property name="HP" value="12" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When this has an [Bl] Upgrade and you flip to this mode - Move 1 damage counter from this to an enemy." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Raider Nova Storm - Infantry, Combustion Specialist" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="While this has an [Bl] Upgrade - She has Pierce 3 (Do at least 3 damage when attacking, bur not more than attack total.)" />
-<property name="Traits" value="Plane, Ranged" />
-</alternate>
-</card>
-<card id="aef0d066-0f64-4c86-87ff-3818028948e1" name="Raider Ratbat - Spy Patrol, Fuel Scout" size="Small">
-<property name="Card Number" value="T37" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="0" />
-<property name="DEF" value="2" />
-<property name="HP" value="10" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Spy Patrol" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Revenge -> Choose a battle icon color. Then look at your opponent's hand and scrap a card from it that has a battle icon of that color. (Use a character's revenge abilities when it's KO'd)" />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Ratbat - Spy Patrol, Fuel Scout" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="Tap - Reveal the top card of your deck. Repair 1 damage from each of your characters for each different color among that card's battle icons. (To Tap, tap this character before you attack)" />
-<property name="Traits" value="Spy Patrol, Ranged" />
-</alternate>
-</card>
-<card id="52cc31e8-1334-4fe5-ac05-08bb53538329" name="Raider Rumble - Spy Patrol, Demolitions" size="Small">
-<property name="Card Number" value="T38" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="0" />
-<property name="DEF" value="0" />
-<property name="HP" value="11" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Spy Patrol" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Revenge -> Do 2 damage to an enemy." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Rumble - Spy Patrol, Demolitions" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="0" />
-<property name="Text" value="[TAP] -> Return an Upgrade on a character to its owner's hand." />
-<property name="Traits" value="Spy Patrol, Melee" />
-</alternate>
-</card>
-<card id="8aa276b3-7e41-4edb-b40d-906e7fe83d65" name="Raider Sights - Air Force, Artillery" size="Small">
-<property name="Card Number" value="T39" />
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="9" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Battle Master, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Focus 1." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Sights - Air Force, Artillery" type="bot" size="Small">
-<property name="Type" value="Upgrade - Utility" />
-<property name="ATK" value="3" />
-<property name="DEF" value="9" />
-<property name="Text" value="Focus 2.  If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Traits" value="Battle Master" />
-</alternate>
-</card>
-<card id="ab87c02d-6946-4a2c-95c9-ae0b7c8bd1d5" name="Raider Spinister - Infantry, Aerial Assault" size="Large">
-<property name="Card Number" value="T40" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="13" />
-<property name="Stars" value="11" />
-<property name="Traits" value="Helicopter, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="This has 2 Weapon slots.  While this has a Battle Master Upgrade -> This has +3 [ATK]" />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Raider Spinister - Infantry, Aerial Assault" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="This has 2 Weapon slots.  When you flip to this mode -> One of your Battle Master characters gets +3 [ATK] until end of turn." />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="29ab5e5d-f3be-4ade-a0a9-d84d776863c5" name="Raider Tailwind - Air Strike Patrol, Strategist" size="Small">
-<property name="Card Number" value="T41" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="8" />
-<property name="Stars" value="5" />
-<property name="Traits" value="Air Strike Patrol, Plane, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="This has Stealth while untapped.  When one of your Air Strike Patrols battles and you flip at least [G] -> It gets +2 [ATK] and +1 [DEF] until end of battle." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Small Character" />
-<alternate name="Raider Tailwind - Air Strike Patrol, Strategist" type="bot" size="Small">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Air Strike Patrol in your KO area." />
-<property name="Traits" value="Air Strike Patrol, Ranged" />
-</alternate>
-</card>
-<card id="4ad0fe0b-3f48-48f5-90ae-d17ce6841437" name="Sergeant Barricade - Infantry, Enforcer" size="Large">
-<property name="Card Number" value="T42" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="2" />
-<property name="HP" value="12" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Car, Melee" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> You may play a battle card from under this." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Barricade - Infantry, Enforcer" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this battles and has no battle cards under him -> After the battle, put one of your flipped battle cards that has no battle icons under this card instead of into your scrap pile." />
-<property name="Traits" value="Melee" />
-</alternate>
-</card>
-<card id="a261d2a6-7226-402b-8dfc-3f8cd64a46d8" name="Sergeant Crosshairs - Artillery, Weapons Supervisor" size="Large">
-<property name="Card Number" value="T43" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="HP" value="12" />
-<property name="Stars" value="10" />
-<property name="Traits" value="Tank, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="This has 2 Armor slots.  When you flip to this mode -> Move 2 damage counters from this to one of your Battle Master characters." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Crosshairs - Artillery, Weapons Supervisor" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="0" />
-<property name="Text" value="this has 2 Armor slots.  While this has a Battle Master Upgrade -> This has +2 [DEF]" />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="5ff64724-0287-42e3-8f77-8873e221f7cd" name="Sergeant Mirage - Special Ops, Spy" size="Large">
-<property name="Card Number" value="T44" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="1" />
-<property name="HP" value="13" />
-<property name="Stars" value="7" />
-<property name="Traits" value="Car, Ranged" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> Reveal the top card of your deck.  If it's a [B] card, draw 2 cards.  Otherwise, draw a card." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Mirage - Special Ops, Spy" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="1" />
-<property name="Text" value="When you have a face-down or face-up Secret Action -> This has Tough 2." />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="cf4d81e1-bebf-479a-b5dc-e14d93a4b941" name="Sergeant Soundblaster - Weapons Arms Dealer" size="Large">
-<property name="Card Number" value="T45" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="2" />
-<property name="HP" value="16" />
-<property name="Stars" value="12" />
-<property name="Traits" value="Spaceship, Specialist" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> You may move a Weapon from this character to one of your other characters.  If you do, that characters gets +1 [ATK] until end of turn." />
-<property name="Rarity" value="Super Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Soundblaster - Weapons Arms Dealer" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this attacks -> You may play a [Bl] Weapon from your scrap pile onto this." />
-<property name="Traits" value="Specialist" />
-</alternate>
-</card>
-<card id="466b5140-00c5-4c41-949b-dda0f3ca1afa" name="Sergeant Springer - Special Ops, Aerial Defense" size="Large">
-<property name="Card Number" value="T46" />
-<property name="Type" value="Character - Alt1 Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="2" />
-<property name="HP" value="16" />
-<property name="Stars" value="12" />
-<property name="Traits" value="Leader, Truck, Specialist" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> You may scrap an Action from your hand.  If you do, draw 2 cards." />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Springer - Special Ops, Aerial Defense" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="2" />
-<property name="Text" value="When you have 7 or more cards in hand and you flip to this mode -> You may play an Action.  Then you may play an Upgrade." />
-<property name="Traits" value="Leader, Specialist" />
-</alternate>
-<alternate name="Sergeant Springer - Special Ops, Aerial Defense" type="alt2" size="Large">
-<property name="Type" value="Character - Alt2 Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="2" />
-<property name="Text" value="When you flip to this mode -> You may scrap an Upgrade from your hand.  If you do, draw 2 cards." />
-<property name="Traits" value="Leader, Helicopter, Specialist" />
-</alternate>
-</card>
-<card id="74139ed7-bfef-467d-88cc-022d53858d47" name="Sergeant Thundercracker - Infantry, Seeker" size="Large">
-<property name="Card Number" value="T47" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="2" />
-<property name="HP" value="14" />
-<property name="Stars" value="9" />
-<property name="Traits" value="Plane, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode - Reveal the top card of your deck. For each Black Icon it has, move a damage counter from one of your Planes to an enemy." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Sergeant Thundercracker - Infantry, Seeker" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="5" />
-<property name="DEF" value="1" />
-<property name="Text" value="When this attacks and you flip at least one Black Icon - Your opponent chooses a number of cards from their hand equal to the number of Black Icons you flipped and reveals them. You scrap one of them." />
-<property name="Traits" value="Ranged" />
-</alternate>
-</card>
-<card id="1b1dbe78-a1fe-4fcb-b709-1591df5fc103" name="Skytread (Plane) - Special Ops Soldier" size="Large">
-<property name="Card Number" value="T48" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="4" />
-<property name="DEF" value="0" />
-<property name="HP" value="10" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Plane, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Revenge -> If you have Skytread (Tank) on the battlefield or in your KO area, you may combine this with him into Raider Skytread.  If you do, put the cards from your hand face down under Raider Skytread." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Character" />
-</card>
-<card id="e563a132-b788-4f7a-912f-d18b085506c9" name="Skytread (Tank) - Special Ops Soldier" size="Large">
-<property name="Card Number" value="T49" />
-<property name="Type" value="Character - Alt Mode" />
-<property name="ATK" value="3" />
-<property name="DEF" value="3" />
-<property name="HP" value="8" />
-<property name="Stars" value="6" />
-<property name="Traits" value="Tank, Ranged" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Revenge -> If you have Skytread (Plane) on the battlefield or in your KO area, you may combine this with him into Raider Skytread.  If you do, put the cards from your hand face down under Raider Skytread." />
-<property name="Rarity" value="Uncommon" />
-<property name="Draft Type" value="Large Character" />
-</card>
-<card id="c0e5234e-beaa-41fc-897a-222207a76154" name="Specialist Sandstorm - Special Ops, Advance Guard" size="Large">
-<property name="Card Number" value="T50" />
-<property name="Type" value="Character - Alt1 Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="HP" value="15" />
-<property name="Stars" value="11" />
-<property name="Traits" value="Car, Melee" />
-<property name="Faction" value="Autobot" />
-<property name="Text" value="While this is attack a Melee character -> This has +2 [ATK]" />
-<property name="Rarity" value="Common" />
-<property name="Draft Type" value="Large Character" />
-<alternate name="Specialist Sandstorm - Special Ops, Advance Guard" type="bot" size="Large">
-<property name="Type" value="Character - Bot Mode" />
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="Text" value="When you flip to this mode -> Do 1 damage to an enemy Specialist." />
-<property name="Traits" value="Specialist" />
-</alternate>
-<alternate name="Specialist Sandstorm - Special Ops Advance Guard" type="alt2" size="Large">
-<property name="ATK" value="6" />
-<property name="DEF" value="1" />
-<property name="Text" value="While this is defending against a Ranged character -> This has +2 [DEF]" />
-<property name="Traits" value="Helicopter, Ranged" />
-</alternate>
-</card>
-<card id="aed1c9cf-f559-48bc-918c-17e4ef8c1150" name="TTC-HD Turret Armor" size="Small">
-<property name="Card Number" value="T51" />
-<property name="Type" value="Upgrade - Armor" />
-<property name="DEF" value="2" />
-<property name="Traits" value="Weaponizer" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Play this only with TTC-HP Oblivio Launcher.  They start the game assembled as Raider Brunt.  Tough 1.  If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Character" />
-</card>
-<card id="fb1857b4-e705-4fe8-893a-f28c88e9ef68" name="TTC-HP Oblivion Launcher" size="Small">
-<property name="Card Number" value="T52" />
-<property name="Type" value="Upgrade - Weapon" />
-<property name="ATK" value="3" />
-<property name="Traits" value="Weaponizer" />
-<property name="Faction" value="Decepticon" />
-<property name="Text" value="Play this only with TTC-HD Turret Armor.  They start the game assembled as Raider Brunt.  Bold 1.  If this would leave the battlefield -> Put it into your KO area instead." />
-<property name="Rarity" value="Rare" />
-<property name="Draft Type" value="Small Character" />
-</card>
 <card id="4c7aa755-9924-473f-84af-2ce55b3e3f23" name="4-Wheel Drive" size="Small">
 <property name="Card Number" value="1" />
 <property name="Type" value="Action" />
@@ -1608,6 +612,1002 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
+<card id="db7fa4fb-4754-4a87-9ef4-b17feaea0824" name="Captain Astrotrain - Space Force, Transport" size="Large">
+<property name="Card Number" value="T01" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="HP" value="14" />
+<property name="Stars" value="12" />
+<property name="Traits" value="Leader, Specialist" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When this has at least one Upgrade and defends -> He gets +1 [DEF] until end of turn." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Captain Astrotrain - Space Force, Transport" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this has at least 3 Upgrades and Battles -> He gets +3 [ATK] and +3 [DEF] until end of battle." />
+<property name="Traits" value="Leader, Specialist" />
+</alternate>
+<alternate name="Captain Astrotrain - Space Force, Transport" type="alt2" size="Large">
+<property name="Type" value="Character - Alt2 Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this has at least 2 Upgrades and attacks -> He gets +2 [ATK] until end of turn." />
+<property name="Traits" value="Leader, Train, Specialist" />
+</alternate>
+</card>
+<card id="6c46963d-757d-4604-ad49-6d328416fd68" name="Captain Impactor - Special Ops, Wrecker" size="Large">
+<property name="Card Number" value="T02" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="12" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Leader, Tank, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Each of your characters get Bold 1 until end of turn." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Captain Impactor - Special Ops, Wrecker" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="Bold 1." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="466b8472-6b9c-4157-a31a-a3de146e08ec" name="Captain Jetfire - Engineering, Air Guardian" size="Large">
+<property name="Card Number" value="T03" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="HP" value="20" />
+<property name="Stars" value="16" />
+<property name="Traits" value="Leader, Plane, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Reveal the top 5 cards of your deck.  Put all Upgrades from among them into your hand.  Scrap the rest." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Captain Jetfire - Engineering, Air Guardian" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="2" />
+<property name="Text" value="When this card battles -> Draw a card.  Then you may reveal an Upgrade from your hand and put it on top of your deck.  If you do, flip one more battle card this battle." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="644d6dfd-8ecc-4532-bb5d-a3d89cd07fd5" name="Deadlock - Soldier Of Fortune" size="Large">
+<property name="Card Number" value="T04" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="0" />
+<property name="HP" value="12" />
+<property name="Stars" value="9" />
+<property name="Traits" value="Car, Ranged" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="Stealth against Autobots and Decepticons.  When you flip to this mode -> Autobots and Decepticons can't use Stealth this turn." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Deadlock - Soldier Of Fortune" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="0" />
+<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Flip this and draw 2 cards." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="d503f51a-5efb-4334-8438-c5bf1181aac3" name="Detritus - Arms Dealer" size="Large">
+<property name="Card Number" value="T05" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="HP" value="14" />
+<property name="Stars" value="11" />
+<property name="Traits" value="Truck, Ranged" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="When you flip to this mode -> You may play a [Bl] card." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Detritus - Arms Dealer" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Repair 3 damage from this." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="f639cb04-c96e-453f-8013-c586c0c25196" name="General Optimus Prime - Galactic Commander" size="Large">
+<property name="Card Number" value="T06" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="7" />
+<property name="DEF" value="2" />
+<property name="HP" value="21" />
+<property name="Stars" value="15" />
+<property name="Traits" value="Leader, Truck, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has 3 Utility slots.  When you flip to this mode -> Reveal the top card of your deck.  If it's an Action, you may play it." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="General Optimus Prime - Galactic Commander" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="8" />
+<property name="DEF" value="2" />
+<property name="Text" value="This has 3 Utility slots.  When this attacks and you flip [O][B} -> You may play one of your flipped Upgrades onto this after the battle." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="8363f72c-fb59-4395-9a2a-937f206a94fd" name="Lockdown - Bounty Hunter" size="Large">
+<property name="Card Number" value="T07" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="15" />
+<property name="Stars" value="10" />
+<property name="Traits" value="Car, Melee" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="This has +2 [ATK] for each card under him.  When you flip to this mode -> Draw a card for each card under this and for each Upgrade it has.  Then scrap that many cards from your hand." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Lockdown - Bounty Hunter" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="Text" value="This has +2 [ATK] for each card under it.  When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Put the bottom card of your deck face down under this." />
+<property name="Traits" value="Melee" />
+</alternate>
+</card>
+<card id="988aded3-bf6f-40d2-b872-5db2674c52fb" name="Lord Megatron - Conqueror of Cybertron" size="Large">
+<property name="Card Number" value="T08" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="17" />
+<property name="Stars" value="12" />
+<property name="Traits" value="Leader, Tank, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> Your opponent scraps a number of cards from the top of their deck equal to this character's [DEF] total." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Lord Megatron - Conqueror of Cybertron" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="3" />
+<property name="Text" value="When your opponent reshuffles their deck -> They choose one of their characters and do damage to it equal to this character's [ATK] total." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="8801bad8-6d23-4a99-9587-932ddf38aaaa" name="MTX-M2 Anit-Gravity Cannon" size="Small">
+<property name="Card Number" value="T09" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="1" />
+<property name="Traits" value="Weaponizer" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Play this only with MTX-S2A Guided Missile Launcher.  They start the game assembled as Sergeant Six-Gun.  Pierce 4.  If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Character" />
+</card>
+<card id="be368a06-b001-45cb-bd26-56148491c7b2" name="MTX-S2A Guided Missile Launcher" size="Small">
+<property name="Card Number" value="T10" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="Traits" value="Weaponizer" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Play this only with MTX-M2 Anti-Gravity Cannon.  They start the game assembled as Sergeant Six-Gun.  This can be in an Armor or Utility slot.  If this would leave the battlefield -> Put it into the KO area instead." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Character" />
+</card>
+<card id="44629116-ba12-4645-a7bf-ecfea66a2604" name="Mudflap - Hired Muscle" size="Large">
+<property name="Card Number" value="T11" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="12" />
+<property name="Stars" value="8" />
+<property name="Traits" value="Truck, Ranged" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="When you flip to this mode -> Plan 1." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Mudflap - Hired Muscle" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Reveal the top card of your deck.  You may play it." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="76253733-6f09-4122-8541-931d63de62c6" name="Octone - Capricious Agitator" size="Large">
+<property name="Card Number" value="T12" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="HP" value="17" />
+<property name="Stars" value="13" />
+<property name="Traits" value="Truck, Melee" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="When you flip to this mode -> Your opponent chooses one of their Autobots and does 1 damage to it.  This has +3 [ATK] while attacking an Autobot." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Octone - Capricious Agitator" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="2" />
+<property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability.  Bounty -> Do 2 damage to an enemy." />
+<property name="Traits" value="Ranged" />
+</alternate>
+<alternate name="Octone - Capricious Agitator" type="alt2" size="Large">
+<property name="Type" value="Character - Alt2 Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="Text" value="When you flip to this mode -> Your opponent chooses one of their Decepticons and does 1 damage to it.  This has +3 [ATK] while attacking a Decepticon." />
+<property name="Traits" value="Plane, Ranged" />
+</alternate>
+</card>
+<card id="88ce7b87-9c48-4cd2-bd37-7f485181bd75" name="Omega Supreme (Base) - Transport City Defender" size="Large">
+<property name="Card Number" value="T13" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="0" />
+<property name="DEF" value="1" />
+<property name="HP" value="12" />
+<property name="Stars" value="8" />
+<property name="Traits" value="Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this defends -> Do 2 damage to the attacker.  Your opponent scraps the top 2 cards of their deck." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="c7a86a67-26ec-43e4-b7b2-a3ee3d7d827c" name="Omega Supreme (Spaceship) - Transport City Defender" size="Large">
+<property name="Card Number" value="T14" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="0" />
+<property name="HP" value="12" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Spaceship, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this attacks -> You may scrap 2 cards from your hand.  If you do, scrap an enemy Upgrade." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="aabd9cd1-516f-4853-80a6-9418ee982178" name="Omega Supreme (Tank) - Transport City Defender" size="Large">
+<property name="Card Number" value="T15" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="9" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Tank, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this attacks -> You may scrap 2 cards from your hand.  If you do, do 1 damage to an enemy.  When your opponent reshuffles their deck, if you have Omega Supreme (Spaceship) and Omega Supreme (Base) on the battlefield or in your KO pile -> Combine them into Captain Omega Supreme." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="f6ad3d43-104b-46a8-b491-387fe60cdbdb" name="Private Dazzlestrike - Ground Command, Artillery" size="Small">
+<property name="Card Number" value="T16" />
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Battle Master, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Enemies can't use Brave." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Shadowsteel Iceblade" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="When you put this on a character -> Repair 3 damage from it.  When this is removed from a character -> Do 3 damage to it.  If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
+</alternate>
+</card>
+<card id="47812c48-4539-4a3c-b08d-fa40c7b9ab5d" name="Private Fixit - Rescue Patrol, Medic" size="Small">
+<property name="Card Number" value="T17" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="6" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Rescue Patrol, Truck, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has Stealth while untapped (Enemies attack other characters if able.)" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Private Fixit - Rescue Patrol, Medic" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="[TAP] Scrap a [W] card from your hand -> Each player scraps their hand and draws 4 cards." />
+<property name="Traits" value="Rescue Patrol, Specialist" />
+</alternate>
+</card>
+<card id="b5a3136a-fd62-4c3b-97eb-95dc62e31a81" name="Private Greenlight - Special Ops, Recon" size="Large">
+<property name="Card Number" value="T18" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="12" />
+<property name="Stars" value="8" />
+<property name="Traits" value="Car, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Safeguard 3.  The character's Upgrade can't be scrapped by your opponent's cards." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Private Greenlight - Special Ops, Recon" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="When you play a [G] card -> This card gains +1 [ATK] until end of turn." />
+<property name="Traits" value="Specialist" />
+</alternate>
+</card>
+<card id="7a57c97f-1fa6-4e0a-8e87-003b4f37a64f" name="Private Highjump - Off-Road Patrol, Infiltration" size="Small">
+<property name="Card Number" value="T19" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="6" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Off-Road Patrol, Truck, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has Stealth while untapped (Enemies attack other characters if able.)" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Private Highjump - Off-Road Patrol, Infiltration" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="[TAP] Scrap a [Bl] card from your hand -> Draw 2 cards." />
+<property name="Traits" value="Off-Road Patrol, Melee" />
+</alternate>
+</card>
+<card id="c3a45534-8e56-40c6-9ea4-ca3723efbe73" name="Private Hot Rod - Infantry, Soldier" size="Large">
+<property name="Card Number" value="T20" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="12" />
+<property name="Stars" value="9" />
+<property name="Traits" value="Car, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Safeguard 3 (Can't take more than 3 damage while undamaged) When you shuffle your deck and this doesn't have a battle card under him - Put the bottom card of your deck face down under him." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Private Hot Rod - Infantry, Soldier" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="While this has a battle card under him - You may play another action on each of your turns. " />
+<property name="Traits" value="Melee" />
+</alternate>
+</card>
+<card id="3f8a6b96-2bc4-4e67-ab7a-272f56b4348b" name="Private Powertrain - Off-Road Patrol, Patrol Leader" size="Small">
+<property name="Card Number" value="T21" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Leader, Off-Road Patrol, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has Stealth while untapped.  Each of your Off-Road Patrols has Bold 1." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Private Powertrain - Off-Road Patrol, Patrol Leader" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Off-Road Patrol in your KO area." />
+<property name="Traits" value="Leader, Off-Road Patrol, Truck, Melee" />
+</alternate>
+</card>
+<card id="032d56b5-2a39-41d9-b222-d55733d992bc" name="Private Seawatch - Rescue Patrol, Search and Rescue" size="Small">
+<property name="Card Number" value="T22" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Rescue Patrol, Boat, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has Stealth while untapped.  When one of your Off-Road Patrols battles and you flip at least [W][W] -> Flip 3 more battle cards." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Private Seawatch - Rescue Patrol, Search and Rescue" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Off-Road Patrol in your KO area." />
+<property name="Traits" value="Rescue Patrol, Specialist" />
+</alternate>
+</card>
+<card id="86312038-1068-4532-9bcd-1bdc788d9346" name="Private Sidetrack - Battle Patrol, Demolitions" size="Small">
+<property name="Card Number" value="T23" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="1" />
+<property name="DEF" value="3" />
+<property name="HP" value="3" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Battle Patrol, Tank, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has Stealth while untapped (Enemies attack other characters if able.)" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Private Sidetrack - Battle Patrol, Demolitions" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="3" />
+<property name="Text" value="[TAP] Scrap a [O] card from your hand -> Scrap the top 4 cards of your deck.  Put all Upgrades scrapped from your deck this way into your hand." />
+<property name="Traits" value="Battle Patrol, Melee" />
+</alternate>
+</card>
+<card id="c67f93da-aa8d-46db-a324-d6cf7364eb5d" name="Private Smokescreen - Special Ops, Soldier" size="Large">
+<property name="Card Number" value="T24" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="HP" value="11" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Car, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Safeguard 3." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Private Smokescreen - Special Ops, Soldier" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="Focus 1.  While this has an [W] Upgrade -> This has +1 [ATK] and +1 [DEF]." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="3cb3d221-b13f-4db3-af03-52cd8a2fd4fb" name="Private Sunrunner - Battle Patrol, Air Defense" size="Small">
+<property name="Card Number" value="T25" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="1" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Battle Patrol, Plane, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has Stealth while untapped.  When one of your Off-Road Patrols becomes tapped -> Do 1 damage to a tapped enemy." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Private Sunrunner - Battle Patrol, Air Defense" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Off-Road Patrol in your KO area." />
+<property name="Traits" value="Battle Patrol, Ranged" />
+</alternate>
+</card>
+<card id="c440f419-647a-4de9-a79c-6a9119b63f85" name="Private Turbo Board - Air Command, Evac" size="Small">
+<property name="Card Number" value="T26" />
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="0" />
+<property name="HP" value="12" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Battle Master, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Your opponent can't play more than 2 cards during their turn." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Anti-Gravity Turbo Pack" type="bot" size="Small">
+<property name="Type" value="Upgrade - Utility" />
+<property name="ATK" value="1" />
+<property name="DEF" value="1" />
+<property name="Text" value="When the upgraded character attacks and you flip at least [O][B] -> After the battle, you may play one of the [O] or [B] card you flipped.  If this would leave the battlefield -> Put it in your KO area instead." />
+<property name="Traits" value="Battle Master" />
+</alternate>
+</card>
+<card id="b70f9da3-735a-4725-a6d3-cb8632bd0120" name="Private Vanguard - Ground Command, Advance Guard" size="Small">
+<property name="Card Number" value="T27" />
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="5" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Battle Master, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When one of your other characters defends and you flip at least [W] -> That character can't take more than 5 attack damage this battle." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Anti-Ballistic Turret Helmet" type="bot" size="Small">
+<property name="Type" value="Upgrade - Armor" />
+<property name="DEF" value="2" />
+<property name="Text" value="When you put this on a character -> Do 1 damage to a tapped enemy.  If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
+</alternate>
+</card>
+<card id="efc601ba-c00e-45c4-b225-392c7b788df1" name="Raider Apeface - Espionage Commando" size="Large">
+<property name="Card Number" value="T28" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="14" />
+<property name="Stars" value="10" />
+<property name="Traits" value="Plane, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="While this is undamaged -> He has Focus 1." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Raider Apeface - Espionage Commando" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="Text" value="While this has 10 or more damage counters -> He Has Tough 3." />
+<property name="Traits" value="Ranged" />
+</alternate>
+<alternate name="Raider Apeface - Espionage Commando" type="alt2" size="Large">
+<property name="Type" value="Character - Alt2 Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="Text" value="While this has 1 to 9 damage counters -> He has Bold 2." />
+<property name="Traits" value="Beast, Melee" />
+</alternate>
+</card>
+<card id="03fc881b-7fe9-44b3-a48e-846735edd235" name="Raider Blackjack - Sports Car Patrol, Patrol Leader" size="Small">
+<property name="Card Number" value="T29" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Leader, Sports Car Patrol, Car, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped.  When one of your Sports Car Patrols becomes untapped -> Repair 1 damage from it." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Blackjack - Sports Car Patrol, Patrol Leader" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Sports Car Patrol in your KO area." />
+<property name="Traits" value="Leader, Sports Car Patrol, Melee" />
+</alternate>
+</card>
+<card id="d597e667-e629-4ac7-adc7-d978d3ebf29d" name="Raider Caliburst - Air Force, Weapons" size="Small">
+<property name="Card Number" value="T30" />
+<property name="Type" value="Character - Bot Mod" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="8" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Battle Master, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When your opponent draws a card, if they've already drawn a card this turn -> Your opponent chooses one of their characters and does 1 damage to it." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Oxidation Cannon" type="bot" size="Small">
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="Text" value="When the upgraded character attacks and your opponent has more cards in hand than you -> Your opponent chooses a card from their hand and scraps it.  Then you draw a card.  If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
+</alternate>
+</card>
+<card id="2f7e0cf3-59af-427e-826f-b846d9f814ad" name="Raider Chop Shop - Infantry Soldier" size="Large">
+<property name="Card Number" value="T31" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="HP" value="11" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Insecticon, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> You may scrap a [G] card from your hand.  If you do, repair 1 damage from each of your characters.  If the scrapped card has no other battle icons, repair 1 more damage from each of your characters." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Raider Chop Shop - Infantry Soldier" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this attacks and you flip at least [G] -> Repair 1 damage from this." />
+<property name="Traits" value="Insecticon, Melee" />
+</alternate>
+</card>
+<card id="ebfb276d-9e44-46a3-99b2-bec31b8883a5" name="Raider Hyperdrive - Sports Car Patrol, Demolitions" size="Small">
+<property name="Card Number" value="T32" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="6" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Sports Car Patrol, Car, Specialist" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Hyperdrive - Sports Car Patrol, Demolitions" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="[TAP] Scrap a [B] card from your hand -> Draw 3 cards.  Then scrap 2 cards from your hand." />
+<property name="Traits" value="Sports Car Patrol, Specialist" />
+</alternate>
+</card>
+<card id="cedcc3db-4005-4a80-9672-36eafe698939" name="Raider Kickback - Infantry Soldier" size="Large">
+<property name="Card Number" value="T33" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="0" />
+<property name="HP" value="9" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Insecticon, Specialist" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When this defends -> Flip 1 more battle card for each Insecticon that was on your starting team." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Raider Kickback - Infantry, Soldier" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="When one of your Insecticons attacks and you flip at least [B] -> Do 1 damage to the defender." />
+<property name="Traits" value="Insecticon, Specialist" />
+</alternate>
+</card>
+<card id="c908a170-64f0-4d92-8e7d-2a6373db4336" name="Raider Needler - Ground Force Demolitions" size="Small">
+<property name="Card Number" value="T34" />
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="10" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Battle Master, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Enemy characters can't be repaired." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Needler - Ground Force Demolitions" type="bot" size="Small">
+<property name="Type" value="Upgrade - Armor" />
+<property name="DEF" value="2" />
+<property name="Text" value="Pierce 2.  If this would leave the battlefield -_ Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
+</alternate>
+</card>
+<card id="7bf596be-bdc0-4f63-9384-dcd38e43a9b2" name="Raider Nightflight - Air Strike Patrol Spy" size="Small">
+<property name="Card Number" value="T35" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="7" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Air Strike Patrol, Plane, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Nightflight - Air Strike Patrol Spy" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="{TAP] Scrap 3 [G] cards from your hand -> Your opponent chooses one of their characters and does 3 damage to it.  If your 3 scrapped cards have the same name, repair 3 damage from one of your characters." />
+<property name="Traits" value="Air Strike Patrol, Ranged" />
+</alternate>
+</card>
+<card id="62e51bc9-027f-4db1-a4ea-8e98eb7e6316" name="Raider Nova Storm - Infantry, Combustion Specialist" size="Large">
+<property name="Card Number" value="T36" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="0" />
+<property name="HP" value="12" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When this has an [Bl] Upgrade and you flip to this mode - Move 1 damage counter from this to an enemy." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Raider Nova Storm - Infantry, Combustion Specialist" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="While this has an [Bl] Upgrade - She has Pierce 3 (Do at least 3 damage when attacking, bur not more than attack total.)" />
+<property name="Traits" value="Plane, Ranged" />
+</alternate>
+</card>
+<card id="aef0d066-0f64-4c86-87ff-3818028948e1" name="Raider Ratbat - Spy Patrol, Fuel Scout" size="Small">
+<property name="Card Number" value="T37" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="0" />
+<property name="DEF" value="2" />
+<property name="HP" value="10" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Spy Patrol" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Revenge -> Choose a battle icon color. Then look at your opponent's hand and scrap a card from it that has a battle icon of that color. (Use a character's revenge abilities when it's KO'd)" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Ratbat - Spy Patrol, Fuel Scout" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="Tap - Reveal the top card of your deck. Repair 1 damage from each of your characters for each different color among that card's battle icons. (To Tap, tap this character before you attack)" />
+<property name="Traits" value="Spy Patrol, Ranged" />
+</alternate>
+</card>
+<card id="52cc31e8-1334-4fe5-ac05-08bb53538329" name="Raider Rumble - Spy Patrol, Demolitions" size="Small">
+<property name="Card Number" value="T38" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="0" />
+<property name="DEF" value="0" />
+<property name="HP" value="11" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Spy Patrol" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Revenge -> Do 2 damage to an enemy." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Rumble - Spy Patrol, Demolitions" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="0" />
+<property name="Text" value="[TAP] -> Return an Upgrade on a character to its owner's hand." />
+<property name="Traits" value="Spy Patrol, Melee" />
+</alternate>
+</card>
+<card id="8aa276b3-7e41-4edb-b40d-906e7fe83d65" name="Raider Sights - Air Force, Artillery" size="Small">
+<property name="Card Number" value="T39" />
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Battle Master, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Focus 1." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Sights - Air Force, Artillery" type="bot" size="Small">
+<property name="Type" value="Upgrade - Utility" />
+<property name="ATK" value="3" />
+<property name="DEF" value="9" />
+<property name="Text" value="Focus 2.  If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Traits" value="Battle Master" />
+</alternate>
+</card>
+<card id="ab87c02d-6946-4a2c-95c9-ae0b7c8bd1d5" name="Raider Spinister - Infantry, Aerial Assault" size="Large">
+<property name="Card Number" value="T40" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="13" />
+<property name="Stars" value="11" />
+<property name="Traits" value="Helicopter, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has 2 Weapon slots.  While this has a Battle Master Upgrade -> This has +3 [ATK]" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Raider Spinister - Infantry, Aerial Assault" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="This has 2 Weapon slots.  When you flip to this mode -> One of your Battle Master characters gets +3 [ATK] until end of turn." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="29ab5e5d-f3be-4ade-a0a9-d84d776863c5" name="Raider Tailwind - Air Strike Patrol, Strategist" size="Small">
+<property name="Card Number" value="T41" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Air Strike Patrol, Plane, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped.  When one of your Air Strike Patrols battles and you flip at least [G] -> It gets +2 [ATK] and +1 [DEF] until end of battle." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Raider Tailwind - Air Strike Patrol, Strategist" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Text" value="This has +1 [ATK] and +1 [DEF] for each Air Strike Patrol in your KO area." />
+<property name="Traits" value="Air Strike Patrol, Ranged" />
+</alternate>
+</card>
+<card id="4ad0fe0b-3f48-48f5-90ae-d17ce6841437" name="Sergeant Barricade - Infantry, Enforcer" size="Large">
+<property name="Card Number" value="T42" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="12" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Car, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> You may play a battle card from under this." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sergeant Barricade - Infantry, Enforcer" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this battles and has no battle cards under him -> After the battle, put one of your flipped battle cards that has no battle icons under this card instead of into your scrap pile." />
+<property name="Traits" value="Melee" />
+</alternate>
+</card>
+<card id="a261d2a6-7226-402b-8dfc-3f8cd64a46d8" name="Sergeant Crosshairs - Artillery, Weapons Supervisor" size="Large">
+<property name="Card Number" value="T43" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="12" />
+<property name="Stars" value="10" />
+<property name="Traits" value="Tank, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has 2 Armor slots.  When you flip to this mode -> Move 2 damage counters from this to one of your Battle Master characters." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sergeant Crosshairs - Artillery, Weapons Supervisor" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="0" />
+<property name="Text" value="this has 2 Armor slots.  While this has a Battle Master Upgrade -> This has +2 [DEF]" />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="5ff64724-0287-42e3-8f77-8873e221f7cd" name="Sergeant Mirage - Special Ops, Spy" size="Large">
+<property name="Card Number" value="T44" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="13" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Car, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Reveal the top card of your deck.  If it's a [B] card, draw 2 cards.  Otherwise, draw a card." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sergeant Mirage - Special Ops, Spy" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="Text" value="When you have a face-down or face-up Secret Action -> This has Tough 2." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="cf4d81e1-bebf-479a-b5dc-e14d93a4b941" name="Sergeant Soundblaster - Weapons Arms Dealer" size="Large">
+<property name="Card Number" value="T45" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="HP" value="16" />
+<property name="Stars" value="12" />
+<property name="Traits" value="Spaceship, Specialist" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> You may move a Weapon from this character to one of your other characters.  If you do, that characters gets +1 [ATK] until end of turn." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sergeant Soundblaster - Weapons Arms Dealer" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this attacks -> You may play a [Bl] Weapon from your scrap pile onto this." />
+<property name="Traits" value="Specialist" />
+</alternate>
+</card>
+<card id="466b5140-00c5-4c41-949b-dda0f3ca1afa" name="Sergeant Springer - Special Ops, Aerial Defense" size="Large">
+<property name="Card Number" value="T46" />
+<property name="Type" value="Character - Alt1 Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="2" />
+<property name="HP" value="16" />
+<property name="Stars" value="12" />
+<property name="Traits" value="Leader, Truck, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> You may scrap an Action from your hand.  If you do, draw 2 cards." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sergeant Springer - Special Ops, Aerial Defense" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="2" />
+<property name="Text" value="When you have 7 or more cards in hand and you flip to this mode -> You may play an Action.  Then you may play an Upgrade." />
+<property name="Traits" value="Leader, Specialist" />
+</alternate>
+<alternate name="Sergeant Springer - Special Ops, Aerial Defense" type="alt2" size="Large">
+<property name="Type" value="Character - Alt2 Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="2" />
+<property name="Text" value="When you flip to this mode -> You may scrap an Upgrade from your hand.  If you do, draw 2 cards." />
+<property name="Traits" value="Leader, Helicopter, Specialist" />
+</alternate>
+</card>
+<card id="74139ed7-bfef-467d-88cc-022d53858d47" name="Sergeant Thundercracker - Infantry, Seeker" size="Large">
+<property name="Card Number" value="T47" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="14" />
+<property name="Stars" value="9" />
+<property name="Traits" value="Plane, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode - Reveal the top card of your deck. For each Black Icon it has, move a damage counter from one of your Planes to an enemy." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sergeant Thundercracker - Infantry, Seeker" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="Text" value="When this attacks and you flip at least one Black Icon - Your opponent chooses a number of cards from their hand equal to the number of Black Icons you flipped and reveals them. You scrap one of them." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="1b1dbe78-a1fe-4fcb-b709-1591df5fc103" name="Skytread (Plane) - Special Ops Soldier" size="Large">
+<property name="Card Number" value="T48" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="0" />
+<property name="HP" value="10" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Plane, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Revenge -> If you have Skytread (Tank) on the battlefield or in your KO area, you may combine this with him into Raider Skytread.  If you do, put the cards from your hand face down under Raider Skytread." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="e563a132-b788-4f7a-912f-d18b085506c9" name="Skytread (Tank) - Special Ops Soldier" size="Large">
+<property name="Card Number" value="T49" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="3" />
+<property name="HP" value="8" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Tank, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Revenge -> If you have Skytread (Plane) on the battlefield or in your KO area, you may combine this with him into Raider Skytread.  If you do, put the cards from your hand face down under Raider Skytread." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+</card>
+<card id="c0e5234e-beaa-41fc-897a-222207a76154" name="Specialist Sandstorm - Special Ops, Advance Guard" size="Large">
+<property name="Card Number" value="T50" />
+<property name="Type" value="Character - Alt1 Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="HP" value="15" />
+<property name="Stars" value="11" />
+<property name="Traits" value="Car, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="While this is attack a Melee character -> This has +2 [ATK]" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Specialist Sandstorm - Special Ops, Advance Guard" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="Text" value="When you flip to this mode -> Do 1 damage to an enemy Specialist." />
+<property name="Traits" value="Specialist" />
+</alternate>
+<alternate name="Specialist Sandstorm - Special Ops Advance Guard" type="alt2" size="Large">
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="Text" value="While this is defending against a Ranged character -> This has +2 [DEF]" />
+<property name="Traits" value="Helicopter, Ranged" />
+</alternate>
+</card>
+<card id="aed1c9cf-f559-48bc-918c-17e4ef8c1150" name="TTC-HD Turret Armor" size="Small">
+<property name="Card Number" value="T51" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="DEF" value="2" />
+<property name="Traits" value="Weaponizer" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Play this only with TTC-HP Oblivio Launcher.  They start the game assembled as Raider Brunt.  Tough 1.  If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Character" />
+</card>
+<card id="fb1857b4-e705-4fe8-893a-f28c88e9ef68" name="TTC-HP Oblivion Launcher" size="Small">
+<property name="Card Number" value="T52" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="Traits" value="Weaponizer" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Play this only with TTC-HD Turret Armor.  They start the game assembled as Raider Brunt.  Bold 1.  If this would leave the battlefield -> Put it into your KO area instead." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Small Character" />
+</card>
 <card id="06c86424-7948-4d1d-a2ef-9ccdd85fc41e" name="Trypticon - Assault Base" size="Extra Large">
 <property name="Card Number" value="T01" />
 <property name="Type" value="Character - Alt Mode" />
@@ -1718,7 +1718,7 @@
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>
-<card id="d1cc6d2b-9e07-491c-ac22-671b17601d86" name="Raider Skytread - Special Ops Soldier" size="Large">
+<card id="d1cc6d2b-9e07-491c-ac22-671b17601d86" name="Raider Skytread - Special Ops Soldier" size="Extra Large">
 <property name="Type" value="Character - Combiner Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="3" />

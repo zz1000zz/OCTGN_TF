@@ -895,7 +895,7 @@
 </card>
 <card id="cf3b8b0a-b129-44c7-80d3-ab97615db0c7" name="Apex" size="Small">
 <property name="Card Number" value="T01" />
-<property name="Type" value="Character" />
+<property name="Type" value="Character - Head Mode" />
 <property name="Stars" value="3" />
 <property name="Faction" value="Autobot" />
 <property name="Text" value="+ Stealth" />
@@ -1768,7 +1768,7 @@
 <property name="Stars" value="14" />
 <property name="Traits" value="Titan, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When this attacks and you flip at least [O][K] -> Do 2 damage to each enemy. Flip this to alt mode after the battle. " />
+<property name="Text" value="When this defends and you flip at least [W][B] -> Do 1 damage to the attacker. This begins with Cerebros, City Commander on him in head mode. " />
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Fortress Maximus - Great War Veteran" type="bot" size="Extra Large">
@@ -1776,7 +1776,7 @@
 <property name="ATK" value="8" />
 <property name="DEF" value="2" />
 <property name="HP" value="15" />
-<property name="Text" value="When this defends and you flip at least [W][B] -> Do 1 damage to the attacker. This begins with Cerebros, City Commander on him in head mode. " />
+<property name="Text" value="When this attacks and you flip at least [O][K] -> Do 2 damage to each enemy. Flip this to alt mode after the battle." />
 <property name="Traits" value="Titan, Ranged" />
 </alternate>
 </card>
