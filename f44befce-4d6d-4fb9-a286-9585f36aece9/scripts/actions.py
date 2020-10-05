@@ -438,7 +438,7 @@ def pickBody(card, *args):
         except:
             pass
     dlg = cardDlg(bodyCharacters)
-    dlg.title = "Choosing a bot to put your {} on.".format(card.name)
+    dlg.title = "Choosing a Bot to Put Your {} on.".format(card.name)
     dlg.text = "Please select a body to put your {} on".format(card.name)
     dlg.min = 1
     dlg.max = 1
@@ -473,6 +473,39 @@ def playStratagems(stratagems, *args):
             card.moveToTable(x, -130 - i * 15)
             card.sendToFront()
             i += 1
+
+def playUpgrade(card, *args):
+    mute()
+    i = 0
+    characters = [c for c in table if c.controller == me and "Character" in c.type and "Head" not in c.type]
+    dlg = cardDlg(characters)
+    dlg.title = "Upgrade a Bot With Your {}.".format(card.name)
+    dlg.text = "Please select a bot to put your {} on".format(card.name)
+    dlg.min = 1
+    dlg.max = 1
+    cardSelected = dlg.show()
+    try:
+        cardSelected = cardSelected[0]
+    except:
+        pass
+    if cardSelected:
+        x = cardSelected.position[0]
+        y = cardSelected.position[1]
+        if me._id == 1:
+            if "Weapon" in card.type: x = x-30
+            if "Armor" in card.type: x = x+15
+            if "Utility" in card.type: x = x+60
+            card.moveToTable(x, y + cardSelected.height + 5)
+            card.sendToBack()
+        else:
+            if "Weapon" in card.type: x = x+60
+            if "Armor" in card.type: x = x+15
+            if "Utility" in card.type: x = x-30
+            card.moveToTable(x, y - 90)
+            card.sendToBack()
+    else:
+        return
+
 
 def scoop(prompt = False, *args):
     mute()
