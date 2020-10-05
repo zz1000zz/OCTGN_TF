@@ -119,6 +119,7 @@ authors="Brandon Shollenberger"
 <counter name="Tower" icon="counters/tower.png" default="0" />
 <hand name="Hand" visibility="me" ordered="False"  icon="cards/hand.png">
 
+<cardaction menu="Play Upgrade" shortcut="Ctrl+P" execute="playUpgrade" />
 <cardaction menu="Discard" shortcut="Del" execute="discard" />
 <groupaction menu="Random Discard" execute="randomDiscard" />
 </hand>
