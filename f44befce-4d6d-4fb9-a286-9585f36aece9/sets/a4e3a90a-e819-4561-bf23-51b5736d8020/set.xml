@@ -537,7 +537,7 @@
 <property name="Card Number" value="57" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Choose on of your characters. When it does attack damage this turn to an enemy that has fewer [STAR] than it -> Do 1 damage to each enemy that has fewer [STAR] than your character." />
+<property name="Text" value="Choose one of your characters. When it does attack damage this turn to an enemy that has fewer [STAR] than it -> Do 1 damage to each enemy that has fewer [STAR] than your character." />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
