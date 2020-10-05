@@ -477,7 +477,7 @@ def playStratagems(stratagems, *args):
 def playUpgrade(card, *args):
     mute()
     i = 0
-    characters = [c for c in table if c.controller == me and "Character" in c.type and "Head" not in c.type]
+    characters = [c for c in table if c.controller == me and "Character" in c.type and "Head" not in c.type and c.orientation != Rot180]
     dlg = cardDlg(characters)
     dlg.title = "Upgrade a Bot With Your {}.".format(card.name)
     dlg.text = "Please select a bot to put your {} on".format(card.name)
@@ -492,14 +492,14 @@ def playUpgrade(card, *args):
         x = cardSelected.position[0]
         y = cardSelected.position[1]
         if me._id == 1:
-            if "Weapon" in card.type: x = x-30
+            if "Weapon" in card.type: x = x-35
             if "Armor" in card.type: x = x+15
-            if "Utility" in card.type: x = x+60
+            if "Utility" in card.type: x = x+55
             card.moveToTable(x, y + cardSelected.height + 5)
         else:
-            if "Weapon" in card.type: x = x+60
+            if "Weapon" in card.type: x = x+65
             if "Armor" in card.type: x = x+15
-            if "Utility" in card.type: x = x-30
+            if "Utility" in card.type: x = x-35
             card.moveToTable(x, y - 90)
     else:
         return
