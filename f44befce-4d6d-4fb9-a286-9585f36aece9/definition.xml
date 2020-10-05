@@ -102,6 +102,7 @@ authors="Brandon Shollenberger"
 <cardaction menu="Discard" shortcut="Del" execute="discard" />
 
 <cardaction menu="Switch Modes" execute="switchModes" shortcut="Ctrl+F"/>
+<cardaction menu="Play Upgrade" shortcut="Ctrl+P" execute="playUpgrade" />
 <cardactions menu="Damage Functions">
 <cardaction menu="Add a Damage" shortcut="F1" execute="addCounter" />
 <cardaction menu="Remove a Damage" shortcut="F2" execute="removeCounter" />
