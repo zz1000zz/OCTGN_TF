@@ -496,13 +496,11 @@ def playUpgrade(card, *args):
             if "Armor" in card.type: x = x+15
             if "Utility" in card.type: x = x+60
             card.moveToTable(x, y + cardSelected.height + 5)
-            card.sendToBack()
         else:
             if "Weapon" in card.type: x = x+60
             if "Armor" in card.type: x = x+15
             if "Utility" in card.type: x = x-30
             card.moveToTable(x, y - 90)
-            card.sendToBack()
     else:
         return
 
