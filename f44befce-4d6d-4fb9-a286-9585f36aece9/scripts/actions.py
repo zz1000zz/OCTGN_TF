@@ -491,16 +491,32 @@ def playUpgrade(card, *args):
     if cardSelected:
         x = cardSelected.position[0]
         y = cardSelected.position[1]
-        if me._id == 1:
-            if "Weapon" in card.type: x = x-35
-            if "Armor" in card.type: x = x+15
-            if "Utility" in card.type: x = x+55
-            card.moveToTable(x, y + cardSelected.height + 5)
+        upgrades = [c for c in table if c.controller == me and cardSelected.name in c.filler]
+        if len(upgrades) > 0:
+            dlg = cardDlg([card], upgrades)
+            dlg.title = "Play an Upgrade"
+            dlg.text = "Bottom box is equipped upgrades, top box is upgrades to be scrapped."
+            dlg.label = "Upgrades to be Scrapped"
+            dlg.bottomLabel = "Equipped Upgrades"
+            ph = dlg.show()
+            for c in dlg.list:
+                c.moveTo(me.scrap)
+                notify("{} replaces their {}".format(me, c))
+            upgrades = dlg.bottomList
         else:
-            if "Weapon" in card.type: x = x+65
-            if "Armor" in card.type: x = x+15
-            if "Utility" in card.type: x = x-35
-            card.moveToTable(x, y - 90)
+            upgrades.append(card)
+        i = 0
+        notify("{} plays {} on {}".format(me, card, cardSelected))
+        if me._id == 1:
+            for card in upgrades:
+                card.moveToTable(x-35 + 50*(i%3), y + cardSelected.height + 12*(i//3))
+                card.filler = cardSelected.name
+                i += 1
+        else:
+            for card in upgrades:
+                card.moveToTable(x+65 - 50*(i%3), y + cardSelected.height - 80 - 12*(i//3))
+                card.filler = cardSelected.name
+                i += 1            
     else:
         return
 
