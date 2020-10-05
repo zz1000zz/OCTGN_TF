@@ -1173,7 +1173,7 @@
 </card>
 <card id="d597e667-e629-4ac7-adc7-d978d3ebf29d" name="Raider Caliburst - Air Force, Weapons" size="Small">
 <property name="Card Number" value="T30" />
-<property name="Type" value="Character - Bot Mod" />
+<property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
 <property name="HP" value="8" />
