@@ -78,6 +78,8 @@ authors="Brandon Shollenberger"
 
 <property name="Hybrid Pip Trait" type="String" hidden="True"/>
 
+<property name="Filler" type="String" hidden="True"/>
+
 <size name="Small" width="63" height="88" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Small2" width="63" height="88" back="Cards/front.png" front="Cards/front.png"/>
 <size name="Large" width="99" height="132" back="Cards/front.png" front="Cards/front.png"/>
