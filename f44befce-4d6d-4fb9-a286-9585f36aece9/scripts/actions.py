@@ -152,20 +152,6 @@ def setCounter(card, x = 0, y = 0):
     notify("{} changes {}'s counters from {} to {}.".format(me, card, quantity_prior, quantity))
     card.markers[CounterMarker] = quantity	
 		
-def play(card, x = 0, y = 0): #Extra Cards will go to Drop after being played
-    mute()
-    src = card.group
-    if card.Type=="Extra": card.moveTo(card.owner.piles['Drop Zone'])
-    elif me._id == 1:
-        global xBattle
-        xBattle += 75
-        card.moveToTable(xBattle, 0)
-    else:
-        global XBattle2
-        xBattle -= 75
-        card.moveToTable(xBattle2, -90)
-    notify("{} plays {} from their {}.".format(me, card, src.name))
-
 def flip1(count=1):
     mute()
     flipMany(0,1)
