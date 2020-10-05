@@ -941,7 +941,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you play a [G] card -> This card gains +1 [ATK] until end of turn." />
+<property name="Text" value="When you play a [G] card -> This card gets +1 [ATK] until end of turn." />
 <property name="Traits" value="Specialist" />
 </alternate>
 </card>
