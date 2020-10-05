@@ -1478,7 +1478,7 @@
 <property name="Type" value="Character - Alt Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
-<property name="HP" value="9" />
+<property name="HP" value="14" />
 <property name="Stars" value="11" />
 <property name="Traits" value="Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
