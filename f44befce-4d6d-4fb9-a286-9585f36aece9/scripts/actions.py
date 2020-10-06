@@ -39,7 +39,7 @@ def switchModes(card, x = 0, y = 0):
             card.alternate = card.alternates[side +1]
         else:
             card.alternate = card.alternates[0]
-        notify("{}'s {} switches to its {}.".format(me, card, card.type.split('- ')[1]))
+        notify("{}'s {} switches to its {}.".format(me, card, card.type.split('- ')[-1]))
 
 
 def wish(group, x = 0, y = 0):
