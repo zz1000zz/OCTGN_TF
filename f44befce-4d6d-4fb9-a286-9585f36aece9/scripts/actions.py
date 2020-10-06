@@ -27,7 +27,7 @@ def switchModes(card, x = 0, y = 0):
 	mute()
 	alt_count = len(card.alternates)
 	if alt_count == 0:
-            notify("{} has no other sides to flip to its {}.".format(card.name, card.type.split('- ')[1]))
+            whisper("{} has no other sides to flip to.".format(card.name))
             return
         side = 0
         for alternate in card.alternates:
