@@ -63,13 +63,6 @@ def combiner(card, x = 0, y = 0):
     except:
         whisper("I'm sorry, it appears {} has no Combiner Mode.".format(card))
 
-def unawaken(card, x = 0, y = 0): 
-	mute()
-	altName = card.alternateProperty('bot', 'name')
-        card.alternate = ''
-	notify("{}'s' {} switches to its Alr Mosw {}.".format(me, altName, card))
-	return
-
 def reshuffle(verbose=True):
     mute()
     if verbose == False:
@@ -516,7 +509,7 @@ def playUpgrade(card, *args):
             for card in upgrades:
                 card.moveToTable(x+65 - 50*(i%3), y + cardSelected.height - 80 - 12*(i//3))
                 card.filler = cardSelected.name
-                i += 1            
+                i += 1
     else:
         return
 
