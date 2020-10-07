@@ -1898,7 +1898,7 @@
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
 <property name="Text" value="When this or one of your other Constructicons is KO'd while this is on the battlefield or in your KO area -> Put a height counter on your Tower" />
-<property name="Traits" value="Constructicon, Melee" />
+<property name="Traits" value="Constructicon, Leader, Melee" />
 </alternate>
 </card>
 <card id="250f1f0e-6492-4534-a221-3c2e34bd0f91" name="Devastator - Towering Warrior" size="Extra Large">

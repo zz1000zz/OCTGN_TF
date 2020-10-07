@@ -619,7 +619,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="14" />
 <property name="Stars" value="12" />
-<property name="Traits" value="Leader, Specialist" />
+<property name="Traits" value="Leader, Spaceship, Specialist" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this has at least one Upgrade and defends -> He gets +1 [DEF] until end of turn." />
 <property name="Rarity" value="Common" />
@@ -1296,7 +1296,7 @@
 <property name="DEF" value="0" />
 <property name="HP" value="12" />
 <property name="Stars" value="7" />
-<property name="Traits" value="Ranged" />
+<property name="Traits" value="Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="When this has an [Bl] Upgrade and you flip to this mode - Move 1 damage counter from this to an enemy." />
 <property name="Rarity" value="Common" />
@@ -1306,7 +1306,7 @@
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
 <property name="Text" value="While this has an [Bl] Upgrade - She has Pierce 3 (Do at least 3 damage when attacking, bur not more than attack total.)" />
-<property name="Traits" value="Plane, Ranged" />
+<property name="Traits" value="Ranged" />
 </alternate>
 </card>
 <card id="aef0d066-0f64-4c86-87ff-3818028948e1" name="Raider Ratbat - Spy Patrol, Fuel Scout" size="Small">

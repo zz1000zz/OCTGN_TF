@@ -1631,7 +1631,7 @@
 <property name="DEF" value="2" />
 <property name="HP" value="15" />
 <property name="Stars" value="10" />
-<property name="Traits" value="Specialist" />
+<property name="Traits" value="Leader, Specialist" />
 <property name="Faction" value="Decepticon" />
 <property name="Text" value="Your starting [Star] limit increases by 1 for each Mini-Cassette on your starting team. This starts the game with all Mini-Cassettes on your starting team under it." />
 <property name="Rarity" value="Super Rare" />
