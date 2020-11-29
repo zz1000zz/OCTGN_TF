@@ -72,7 +72,7 @@
 </pack>
 </packaging>
 <cards>
-<card id="964905e1-27c5-4e4c-a758-80584221d04b" name="Belligerence">
+<card id="964905e1-27c5-4e4c-a758-80584221d04b" name="Belligerence" size="Small">
 <property name="Card Number" value="1" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
@@ -80,14 +80,14 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="be2c5c09-706c-4659-b5e8-f89893266f74" name="Blade Flurry">
+<card id="be2c5c09-706c-4659-b5e8-f89893266f74" name="Blade Flurry" size="Small">
 <property name="Card Number" value="2" />
 <property name="Type" value="Action" />
 <property name="Text" value="One of your characters gets +2 [ATK] until end of turn. If it has a Weapon, instead it gets +4 [ATK] until end of turn. " />
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="e0e52253-e12a-426d-be3a-0b73b2cc2a32" name="Brass Knuckles">
+<card id="e0e52253-e12a-426d-be3a-0b73b2cc2a32" name="Brass Knuckles" size="Small">
 <property name="Card Number" value="3" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Blue Pips" value="1" />
@@ -95,7 +95,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="bf79a6cc-74e7-4c97-95be-f9bd9efa7a7d" name="Camien Crash">
+<card id="bf79a6cc-74e7-4c97-95be-f9bd9efa7a7d" name="Camien Crash" size="Small">
 <property name="Card Number" value="4" />
 <property name="Type" value="Action" />
 <property name="Black Pips" value="1" />
@@ -103,7 +103,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="30cd274c-926c-4000-ad71-19fb293f2e1c" name="Concealing Contrails">
+<card id="30cd274c-926c-4000-ad71-19fb293f2e1c" name="Concealing Contrails" size="Small">
 <property name="Card Number" value="5" />
 <property name="Type" value="Secret Action" />
 <property name="Black Pips" value="2" />
@@ -111,7 +111,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="1a3ff2c2-086f-4207-98aa-ae77e150b38e" name="Conversion Expertise">
+<card id="1a3ff2c2-086f-4207-98aa-ae77e150b38e" name="Conversion Expertise" size="Small">
 <property name="Card Number" value="6" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="White Pips" value="1" />
@@ -119,7 +119,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="755b35c0-285f-4cc2-acd8-e5d008abe86a" name="Counterespionage">
+<card id="755b35c0-285f-4cc2-acd8-e5d008abe86a" name="Counterespionage" size="Small">
 <property name="Card Number" value="7" />
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
@@ -128,7 +128,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="23eb3461-a3fb-48fb-a9dd-26a8f9f7ca95" name="Crystal of Power">
+<card id="23eb3461-a3fb-48fb-a9dd-26a8f9f7ca95" name="Crystal of Power" size="Small">
 <property name="Card Number" value="8" />
 <property name="Type" value="Upgrade - Weapon, Armor" />
 <property name="ATK" value="3" />
@@ -138,7 +138,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="05313aa4-8157-43fa-b354-e73251e78005" name="Decoy Flares">
+<card id="05313aa4-8157-43fa-b354-e73251e78005" name="Decoy Flares" size="Small">
 <property name="Card Number" value="9" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
@@ -147,7 +147,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="537dbd2e-d8c7-442f-8579-15066e605c45" name="Disassemble">
+<card id="537dbd2e-d8c7-442f-8579-15066e605c45" name="Disassemble" size="Small">
 <property name="Card Number" value="10" />
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
@@ -156,7 +156,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="d93e7fc5-6d83-42dc-b12a-eff747fd2b5a" name="Electro-Optical Visor">
+<card id="d93e7fc5-6d83-42dc-b12a-eff747fd2b5a" name="Electro-Optical Visor" size="Small">
 <property name="Card Number" value="11" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
@@ -166,7 +166,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a6a3982e-0351-45fe-aef5-93932cc3d283" name="Emergency Barricade">
+<card id="a6a3982e-0351-45fe-aef5-93932cc3d283" name="Emergency Barricade" size="Small">
 <property name="Card Number" value="12" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="3" />
@@ -175,7 +175,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="9c426b2c-2f79-44fc-9bd1-4dde97f2c42e" name="Emergency Repair Patch">
+<card id="9c426b2c-2f79-44fc-9bd1-4dde97f2c42e" name="Emergency Repair Patch" size="Small">
 <property name="Card Number" value="13" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
@@ -185,7 +185,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="3d51894b-9617-4a12-8101-6a1432352d8a" name="End Hostilities">
+<card id="3d51894b-9617-4a12-8101-6a1432352d8a" name="End Hostilities" size="Small">
 <property name="Card Number" value="14" />
 <property name="Type" value="Secret Action" />
 <property name="Blue Pips" value="1" />
@@ -193,7 +193,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="f0523589-8f60-4134-9fd6-d1a6f52ff66b" name="Energon Mace">
+<card id="f0523589-8f60-4134-9fd6-d1a6f52ff66b" name="Energon Mace" size="Small">
 <property name="Card Number" value="15" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
@@ -203,7 +203,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="0ffdbfaa-0ced-469d-97cb-3eff30713865" name="Enhanced Power Cell">
+<card id="0ffdbfaa-0ced-469d-97cb-3eff30713865" name="Enhanced Power Cell" size="Small">
 <property name="Card Number" value="16" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Black Pips" value="1" />
@@ -211,7 +211,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="d1aa1f10-71fe-4e3f-be34-70244370bff2" name="Escape Capsule">
+<card id="d1aa1f10-71fe-4e3f-be34-70244370bff2" name="Escape Capsule" size="Small">
 <property name="Card Number" value="17" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
@@ -221,7 +221,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="52db679d-04b3-4825-ba39-5a49e7d312c5" name="Fusion Borer">
+<card id="52db679d-04b3-4825-ba39-5a49e7d312c5" name="Fusion Borer" size="Small">
 <property name="Card Number" value="18" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="3" />
@@ -230,7 +230,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="cae57ab6-4746-47ba-b021-daeee305c39a" name="Ghost Shield">
+<card id="cae57ab6-4746-47ba-b021-daeee305c39a" name="Ghost Shield" size="Small">
 <property name="Card Number" value="19" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="3" />
@@ -239,7 +239,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="bf798726-a252-4a3b-a6c9-53dc353fa228" name="Grav-Inhibitor">
+<card id="bf798726-a252-4a3b-a6c9-53dc353fa228" name="Grav-Inhibitor" size="Small">
 <property name="Card Number" value="20" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Black Pips" value="1" />
@@ -247,7 +247,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="7937958e-8ea9-428f-a971-3796ce1396ce" name="Hand-To-Hand Combat">
+<card id="7937958e-8ea9-428f-a971-3796ce1396ce" name="Hand-To-Hand Combat" size="Small">
 <property name="Card Number" value="21" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
@@ -255,7 +255,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="54f7fd8e-1d78-41d5-b3dc-ca5a1c7a76c8" name="Handheld Blaster">
+<card id="54f7fd8e-1d78-41d5-b3dc-ca5a1c7a76c8" name="Handheld Blaster" size="Small">
 <property name="Card Number" value="22" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Blue Pips" value="2" />
@@ -263,7 +263,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="f7504937-4202-4120-bd7b-e78d7fdeb97b" name="Headbutt">
+<card id="f7504937-4202-4120-bd7b-e78d7fdeb97b" name="Headbutt" size="Small">
 <property name="Card Number" value="23" />
 <property name="Type" value="Action" />
 <property name="Black Pips" value="2" />
@@ -271,7 +271,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a1bd9485-f8af-4f0e-bbcd-69a82f704588" name="High Five">
+<card id="a1bd9485-f8af-4f0e-bbcd-69a82f704588" name="High Five" size="Small">
 <property name="Card Number" value="24" />
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
@@ -279,7 +279,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="605bb5aa-0045-4e7e-8c5b-f42105ea682b" name="Hit and Run">
+<card id="605bb5aa-0045-4e7e-8c5b-f42105ea682b" name="Hit and Run" size="Small">
 <property name="Card Number" value="25" />
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
@@ -288,7 +288,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="7c2d5fc2-c141-42b8-9781-797c0da52049" name="Hold The Line">
+<card id="7c2d5fc2-c141-42b8-9781-797c0da52049" name="Hold The Line" size="Small">
 <property name="Card Number" value="26" />
 <property name="Type" value="Secret Action" />
 <property name="White Pips" value="1" />
@@ -297,7 +297,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a8087961-be37-4d7f-b977-3d5b329c147f" name="Holomatter Projector">
+<card id="a8087961-be37-4d7f-b977-3d5b329c147f" name="Holomatter Projector" size="Small">
 <property name="Card Number" value="27" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
@@ -306,7 +306,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="205212c0-81a5-42c2-8a12-b849c18cdb8b" name="Hull Down">
+<card id="205212c0-81a5-42c2-8a12-b849c18cdb8b" name="Hull Down" size="Small">
 <property name="Card Number" value="28" />
 <property name="Type" value="Secret Action" />
 <property name="Orange Pips" value="1" />
@@ -314,7 +314,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="ad9cb4b3-eba1-452e-b83d-378bfeaa20d2" name="Improvised Shield">
+<card id="ad9cb4b3-eba1-452e-b83d-378bfeaa20d2" name="Improvised Shield" size="Small">
 <property name="Card Number" value="29" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="Orange Pips" value="2" />
@@ -322,7 +322,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="bd1ce539-9e69-413a-8a51-afcd03ad88e2" name="Industrial-Grade Phase Charge">
+<card id="bd1ce539-9e69-413a-8a51-afcd03ad88e2" name="Industrial-Grade Phase Charge" size="Small">
 <property name="Card Number" value="30" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
@@ -331,7 +331,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="bde0d792-41d1-439e-aa01-c02a0f9579d7" name="Intrusion Countermeasures Software">
+<card id="bde0d792-41d1-439e-aa01-c02a0f9579d7" name="Intrusion Countermeasures Software" size="Small">
 <property name="Card Number" value="31" />
 <property name="Type" value="Secret Action" />
 <property name="Green Pips" value="1" />
@@ -340,7 +340,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a1f06a25-2512-4728-856b-69b686decded" name="Junk Cannon">
+<card id="a1f06a25-2512-4728-856b-69b686decded" name="Junk Cannon" size="Small">
 <property name="Card Number" value="32" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Orange Pips" value="1" />
@@ -348,7 +348,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="9c496fc1-a1f8-4199-b451-b7254a29d594" name="Laser Scalpel">
+<card id="9c496fc1-a1f8-4199-b451-b7254a29d594" name="Laser Scalpel" size="Small">
 <property name="Card Number" value="33" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Black Pips" value="2" />
@@ -356,7 +356,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="1ab157a7-cb87-4abc-9840-c5ada9a11047" name="Last Stand">
+<card id="1ab157a7-cb87-4abc-9840-c5ada9a11047" name="Last Stand" size="Small">
 <property name="Card Number" value="34" />
 <property name="Type" value="Action" />
 <property name="Black Pips" value="1" />
@@ -364,7 +364,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="778a449a-5824-4dfb-a379-4538727d0f08" name="Lock On Target">
+<card id="778a449a-5824-4dfb-a379-4538727d0f08" name="Lock On Target" size="Small">
 <property name="Card Number" value="35" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
@@ -372,7 +372,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="d4bd3776-1f38-48f7-9424-3db6639fd12f" name="Lose the Initiative">
+<card id="d4bd3776-1f38-48f7-9424-3db6639fd12f" name="Lose the Initiative" size="Small">
 <property name="Card Number" value="36" />
 <property name="Type" value="Secret Action" />
 <property name="Orange Pips" value="1" />
@@ -382,7 +382,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a9083f1d-92ec-4b86-ab25-17f882c95265" name="Lucky Dodge">
+<card id="a9083f1d-92ec-4b86-ab25-17f882c95265" name="Lucky Dodge" size="Small">
 <property name="Card Number" value="37" />
 <property name="Type" value="Secret Action" />
 <property name="Stars" value="1" />
@@ -390,7 +390,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="fa253342-4ab5-43be-acc9-646e563f86a3" name="Magnetic Dysfunction Ray">
+<card id="fa253342-4ab5-43be-acc9-646e563f86a3" name="Magnetic Dysfunction Ray" size="Small">
 <property name="Card Number" value="38" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
@@ -400,7 +400,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="c60b9d9a-a3f5-4151-b2e1-60a24d88fe49" name="Master of Metallikato">
+<card id="c60b9d9a-a3f5-4151-b2e1-60a24d88fe49" name="Master of Metallikato" size="Small">
 <property name="Card Number" value="39" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
@@ -410,7 +410,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="829c8db2-889a-401c-99e0-11edc60cf4e4" name="Master Sword">
+<card id="829c8db2-889a-401c-99e0-11edc60cf4e4" name="Master Sword" size="Small">
 <property name="Card Number" value="40" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="4" />
@@ -419,7 +419,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="ea76aeef-06fd-43af-b81e-2e91fcba0391" name="Mission Briefing">
+<card id="ea76aeef-06fd-43af-b81e-2e91fcba0391" name="Mission Briefing" size="Small">
 <property name="Card Number" value="41" />
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
@@ -428,7 +428,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="b2877587-b00a-4d92-8614-dee3b7be855e" name="Nitro Booster">
+<card id="b2877587-b00a-4d92-8614-dee3b7be855e" name="Nitro Booster" size="Small">
 <property name="Card Number" value="42" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Black Pips" value="2" />
@@ -436,7 +436,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="fc4a6acb-75a9-4e31-b5af-9dc45b306d5a" name="Overrule">
+<card id="fc4a6acb-75a9-4e31-b5af-9dc45b306d5a" name="Overrule" size="Small">
 <property name="Card Number" value="43" />
 <property name="Type" value="Secret Action" />
 <property name="Black Pips" value="1" />
@@ -444,7 +444,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="23082d63-c78f-4c94-ae66-be6c8a727d45" name="Paralyzo Box">
+<card id="23082d63-c78f-4c94-ae66-be6c8a727d45" name="Paralyzo Box" size="Small">
 <property name="Card Number" value="44" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="White Pips" value="1" />
@@ -453,7 +453,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="bd7db98a-45c5-433c-a049-9079aae5c706" name="Plasma Horns">
+<card id="bd7db98a-45c5-433c-a049-9079aae5c706" name="Plasma Horns" size="Small">
 <property name="Card Number" value="45" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
@@ -462,7 +462,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="fda76705-8e01-4a1a-8f4a-681600638e09" name="Precision Fire">
+<card id="fda76705-8e01-4a1a-8f4a-681600638e09" name="Precision Fire" size="Small">
 <property name="Card Number" value="46" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
@@ -471,7 +471,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a620ef46-326d-4ea9-8d7b-158ef30ae92c" name="Reflect Damage">
+<card id="a620ef46-326d-4ea9-8d7b-158ef30ae92c" name="Reflect Damage" size="Small">
 <property name="Card Number" value="47" />
 <property name="Type" value="Secret Action" />
 <property name="Green Pips" value="1" />
@@ -479,7 +479,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="4672fec8-7c72-41fc-bb60-952d674d83d4" name="Regenerative Core">
+<card id="4672fec8-7c72-41fc-bb60-952d674d83d4" name="Regenerative Core" size="Small">
 <property name="Card Number" value="48" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
@@ -488,7 +488,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="39f8a15c-6afb-430a-aa16-934ca1f04d21" name="Scout Armor">
+<card id="39f8a15c-6afb-430a-aa16-934ca1f04d21" name="Scout Armor" size="Small">
 <property name="Card Number" value="49" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
@@ -498,7 +498,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="f7fa3047-e346-4ddf-8122-3b103cd8eb0d" name="Scouting Mission">
+<card id="f7fa3047-e346-4ddf-8122-3b103cd8eb0d" name="Scouting Mission" size="Small">
 <property name="Card Number" value="50" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
@@ -507,7 +507,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="17aec567-e238-4166-aea0-bf803aafaf99" name="Sharpened Talons">
+<card id="17aec567-e238-4166-aea0-bf803aafaf99" name="Sharpened Talons" size="Small">
 <property name="Card Number" value="51" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="2" />
@@ -515,7 +515,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="5edc2066-edc4-4857-8482-201d065a8ead" name="Sonic Stun-Gun">
+<card id="5edc2066-edc4-4857-8482-201d065a8ead" name="Sonic Stun-Gun" size="Small">
 <property name="Card Number" value="52" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
@@ -524,7 +524,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="f5fe80fd-2ccd-46bf-bf61-d9e1f2759728" name="Speed Trap">
+<card id="f5fe80fd-2ccd-46bf-bf61-d9e1f2759728" name="Speed Trap" size="Small">
 <property name="Card Number" value="53" />
 <property name="Type" value="Secret Action" />
 <property name="White Pips" value="1" />
@@ -533,7 +533,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="91c73d67-27ab-4bf0-b2bf-231cd76457a5" name="Spiked Bracelet">
+<card id="91c73d67-27ab-4bf0-b2bf-231cd76457a5" name="Spiked Bracelet" size="Small">
 <property name="Card Number" value="54" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Orange Pips" value="1" />
@@ -541,7 +541,7 @@
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="6083a329-8d80-49fb-a61a-12e059a7d7e4" name="Spy Satellite Uplink">
+<card id="6083a329-8d80-49fb-a61a-12e059a7d7e4" name="Spy Satellite Uplink" size="Small">
 <property name="Card Number" value="55" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
@@ -551,7 +551,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="929463d8-8d29-4f4c-a626-7197fecdec26" name="Spymaster's Ruse">
+<card id="929463d8-8d29-4f4c-a626-7197fecdec26" name="Spymaster's Ruse" size="Small">
 <property name="Card Number" value="56" />
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
@@ -560,7 +560,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="ee693443-53d0-4165-a45c-fa2f0c1fa9b8" name="Staggering Might">
+<card id="ee693443-53d0-4165-a45c-fa2f0c1fa9b8" name="Staggering Might" size="Small">
 <property name="Card Number" value="57" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
@@ -569,21 +569,21 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="bc50757e-3ae7-48cb-ba48-5716fad449d5" name="Supporting Fire">
+<card id="bc50757e-3ae7-48cb-ba48-5716fad449d5" name="Supporting Fire" size="Small">
 <property name="Card Number" value="58" />
 <property name="Type" value="Action" />
 <property name="Text" value="One of your characters gets +1 [ATK] until end of turn. It can attack untapped characters this turn as though they were tapped. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="adc93f9a-f54e-4309-b1e1-dacbd97ce27a" name="Temporal Quagmire">
+<card id="adc93f9a-f54e-4309-b1e1-dacbd97ce27a" name="Temporal Quagmire" size="Small">
 <property name="Card Number" value="59" />
 <property name="Type" value="Secret Action" />
 <property name="Text" value="Reveal -> When one of your character defends. When Revealed -> Each player can't flip more than 2 battle cards during this battle. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="f7f0fb6e-db9c-4d23-a592-9fc78d4a4af4" name="Triangulator">
+<card id="f7f0fb6e-db9c-4d23-a592-9fc78d4a4af4" name="Triangulator" size="Small">
 <property name="Card Number" value="60" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Green Pips" value="1" />
@@ -591,7 +591,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="8696f19c-3992-4f97-bbfd-e7c75722ae92" name="Tripwire">
+<card id="8696f19c-3992-4f97-bbfd-e7c75722ae92" name="Tripwire" size="Small">
 <property name="Card Number" value="61" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
@@ -599,7 +599,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="e52e8752-e012-44b1-8757-655ce65f3871" name="Trithyllium Shield">
+<card id="e52e8752-e012-44b1-8757-655ce65f3871" name="Trithyllium Shield" size="Small">
 <property name="Card Number" value="62" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
@@ -609,7 +609,7 @@
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="a3ad677f-7add-4e30-9ff9-539f8fb873ed" name="Turn the Tide">
+<card id="a3ad677f-7add-4e30-9ff9-539f8fb873ed" name="Turn the Tide" size="Small">
 <property name="Card Number" value="63" />
 <property name="Type" value="Action" />
 <property name="Black Pips" value="1" />
@@ -618,7 +618,7 @@
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
-<card id="b548b85d-1dfc-47cf-9ab7-b51197e1a2a5" name="Versatility">
+<card id="b548b85d-1dfc-47cf-9ab7-b51197e1a2a5" name="Versatility" size="Small">
 <property name="Card Number" value="64" />
 <property name="Type" value="Action" />
 <property name="Text" value="Choose one of your characters. When it attacks for the first time this turn and you flip at least one battle icon -> Repair 1 damage from it for each different color among battle icons you flipped. " />
@@ -1227,7 +1227,7 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Tank, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="While this is your only character on the battledfield -> He has +2 [ATK]. " />
+<property name="Text" value="While this is your only character on the battlefield -> He has +2 [ATK]. " />
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Decepticon Quake - Ground Assault" type="bot" size="Large">
@@ -1417,7 +1417,7 @@
 <property name="Type" value="Character - Body Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this attacks and you flip at least [K] -> Your opponent chooses a card from their hand and scraps it. If they can't, you draw a card. " />
+<property name="Text" value="When this attacks and you flip at least [B] -> Your opponent chooses a card from their hand and scraps it. If they can't, you draw a card. " />
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
@@ -1541,7 +1541,7 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Leader, Truck, Wrecker, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Tough 1. When one of your Wreckers takes 1 or more damage during your turn -> It gets that much +Attack until end of turn. " />
+<property name="Text" value="Tough 1. When one of your Wreckers takes 1 or more damage during your turn -> It gets that much +[ATK] until end of turn. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Body Character" />
 <alternate name="Sergeant Kup - Wrecker Leader" type="bot" size="Large">
@@ -1776,7 +1776,7 @@
 <property name="ATK" value="8" />
 <property name="DEF" value="2" />
 <property name="HP" value="15" />
-<property name="Text" value="When this attacks and you flip at least [O][K] -> Do 2 damage to each enemy. Flip this to alt mode after the battle." />
+<property name="Text" value="When this attacks and you flip at least [O][B] -> Do 2 damage to each enemy. Flip this to alt mode after the battle." />
 <property name="Traits" value="Titan, Ranged" />
 </alternate>
 </card>
@@ -1793,7 +1793,7 @@
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
 <property name="HP" value="8" />
-<property name="Text" value="Bold 1, Tough 1. When this battles and you flip at least [W][O][K][B] -> You may play an Upgrade from your scrap pile onto this. " />
+<property name="Text" value="Bold 1, Tough 1. When this battles and you flip at least [W][O][B][U] -> You may play an Upgrade from your scrap pile onto this. " />
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>

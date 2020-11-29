@@ -742,7 +742,7 @@
 <property name="Stars" value="6" />
 <property name="Traits" value="Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> For each card in your opponent's scrap pile that has at least [O] [O], repair 1 damage from this." />
+<property name="Text" value="When you flip to this mode -> For each card in your opponent's scrap pile that has at least [O][O], repair 1 damage from this." />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Acid Storm - Toxic Terror" type="bot" size="Large">
@@ -912,7 +912,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
-<property name="Text" value="When this attacks and you flip at least [O] [B] -> Draw a card. After the battle, flip this to one of his other modes." />
+<property name="Text" value="When this attacks and you flip at least [O][B] -> Draw a card. After the battle, flip this to one of his other modes." />
 <property name="Traits" value="Ranged" />
 </alternate>
 <alternate name="Blitzwing - Relentless Foe" type="alt2" size="Large">
@@ -938,7 +938,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
-<property name="Text" value="When this attacks and you flip at least [W] [O] [B] -> Flip this to alt mode after the attack" />
+<property name="Text" value="When this attacks and you flip at least [W][O][B] -> Flip this to alt mode after the attack" />
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
@@ -1606,7 +1606,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
-<property name="Text" value="When you flip to this mode -> Draw a card, then Plan 1." />
+<property name="Text" value="When you flip to this mode -> Draw a card.  Then Plan 1." />
 <property name="Traits" value="Predacon, Melee" />
 </alternate>
 </card>

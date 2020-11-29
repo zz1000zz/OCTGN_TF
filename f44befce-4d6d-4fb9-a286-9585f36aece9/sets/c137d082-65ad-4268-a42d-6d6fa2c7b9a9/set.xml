@@ -1,0 +1,1324 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Ark's Wave 1 (Fan Set)" id="c137d082-65ad-4268-a42d-6d6fa2c7b9a9" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<cards>
+<card id="20579262-3c03-498f-9fb8-b0a98a936791" name="300-TT Crusher Claw" size="Small">
+<property name="Card Number" value="1" />
+<property name="Type" value="Upgrade - Utility" />
+<property name="White Pips" value="1" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Pierce 2nnWhen you put this on a character that has 19[STARS] or more -> Tap an enemy [Decepticon] that has 10[STARS] or fewer." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="8da0dc6b-ae49-4761-83a3-388cfdc23312" name="Aerial Superiority" size="Small">
+<property name="Card Number" value="2" />
+<property name="Type" value="Action" />
+<property name="Text" value="Choose one of your characters. When it attacks this turn, if it's a [Plane], [Helicopter], or [Spaceship] and is attacking a [Truck], [Car], or [Tank] -> The chosen character gets +4[ATK] and Pierce 4 until end of battle." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="8914d769-c3bd-45bf-ba71-95bbcda9c40f" name="Alliance" size="Small">
+<property name="Card Number" value="3" />
+<property name="Type" value="Action" />
+<property name="DEF" value="0" />
+<property name="White Pips" value="1" />
+<property name="Text" value="Play only if you had an [Autobot] and a [Decepticon] on your starting team.nnUntil end of turn, each of your characters' base [ATK] is 6.nnAt end of turn -> Do 2 damage to each of your characters that attacked this turn." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="73855068-2a43-4710-8d29-8f1c56e1e9da" name="Apex Armor" size="Small">
+<property name="Card Number" value="4" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="ATK" value="1" />
+<property name="DEF" value="1" />
+<property name="Stars" value="2" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="Black Pips" value="1" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Can't be put on [Decepticons].nnWhen the upgraded character defends and you flip at least [B] -> Move a damage counter from the upgraded character to the attacker.nnWhen the upgraded character defends and you flip at least [O][U] -> Repair 1 damage from the upgraded character. Do 1 damage to the attacker." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="b253eccc-fc86-4c83-a012-13aea8ade041" name="Assault Formation" size="Small">
+<property name="Card Number" value="5" />
+<property name="Type" value="Action" />
+<property name="Blue Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="1" />
+<property name="Text" value="One of your [Melee] characters gets Bold 2 until end of turn.nnMove a damage counter from one of your [Ranged] chracters to an enemy.nnFlip one of your [Specialists] to another mode." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="10f31362-9f24-4dce-b851-7e5a12490fe3" name="Beast Mode" size="Small">
+<property name="Card Number" value="6" />
+<property name="Type" value="Action" />
+<property name="Blue Pips" value="1" />
+<property name="Text" value="Choose one of your characters that's a [Predacon] or [Beast]. When it attacks an enemy in bot or body mode this turn -> The attacking character gets Bold 4 until end of battle." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="ffbeab28-82c1-498d-954b-4ea6ea8443cc" name="Cacophonous Failure" size="Small">
+<property name="Card Number" value="7" />
+<property name="Type" value="Secret Action" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="Reveal [WHEN] As your opponent plays an Action with no battle icons.nnWhen Revealed -> Scrap that Action and it has no effect." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="fb18ac4c-8257-495e-a24d-2e09deca7d34" name="Cloaking Screen" size="Small">
+<property name="Card Number" value="8" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="DEF" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="The upgraded character has Stealth while untapped." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="7a898f01-66f4-4f5a-99f5-b514a37dadf4" name="Cloud Cover" size="Small">
+<property name="Card Number" value="9" />
+<property name="Type" value="Secret Action" />
+<property name="Blue Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Black Pips" value="1" />
+<property name="Text" value="Reveal [WHEN] If one or more damage counters would be moved from one character to another.nnWhen Revealed -> Damage counters can't be moved between characters this turn." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="c66ab2d6-c929-414f-bfb2-29fc788cd206" name="Combaticon Enigma" size="Small">
+<property name="Card Number" value="10" />
+<property name="Type" value="Action" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="If you have Bruticus on the battlefield -> He gets Pierce 2 until end of turn.nnIf you have 5 [Combaticons] in bot mode on the battlefield and/or in your KO area -> Combine them into Bruticus, Unstoppable Giant." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="2587ac94-c9ec-465c-91ad-6019d48eb224" name="Cosmic Rust Cannon" size="Small">
+<property name="Card Number" value="11" />
+<property name="Type" value="battle - Upgrade" />
+<property name="ATK" value="4" />
+<property name="Black Pips" value="1" />
+<property name="Text" value="When the upgraded character attacks -> Do 1 damage to it. After the battle, do another 1 damage to that character unless you scrap an Upgrade from it." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="56dbc842-9c9c-4b9e-8c98-d36636f7153d" name="Crack Back" size="Small">
+<property name="Card Number" value="12" />
+<property name="Type" value="Secret Action" />
+<property name="Blue Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="Reveal [WHEN] When one of your characters defends and you  flip battle cards.nnWhen Revealed -> If your defender's [DEF] is greater than the attacker's [DEF], do damage to the attacker equal to the difference." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="e52582bf-4bf4-403c-bee8-32be06781367" name="Crushing Claws" size="Small">
+<property name="Card Number" value="13" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="2" />
+<property name="Blue Pips" value="1" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Up tp 2 Crushing Claws can fit into 1 of Scorponok's Weapon slots.nnWhen the upgraded character attacks, if you have no other characters and flip at least [O][B][U] -> Do 1 damage to each enemy." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="e34270b1-e175-471e-a7fa-b51b0ceb9da9" name="Dare To Believe" size="Small">
+<property name="Card Number" value="14" />
+<property name="Type" value="Action" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="Text" value="Draw a card.nnOne of your characters gets Bold 1 until end of turn." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a6b9f621-9c2a-44c0-8b69-5e64377d851a" name="Death to the Weak" size="Small">
+<property name="Card Number" value="15" />
+<property name="Type" value="Action" />
+<property name="Text" value="You may KO one of your characters that has 5 [STARS] or fewer. If you do, do 3 damage to an enemy and repair 3 damage from one of your other characters." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="e2e33616-8575-4c52-a283-fdf6a1c9f78c" name="Electro Stinger of Scorponok" size="Small">
+<property name="Card Number" value="16" />
+<property name="Type" value="Upgrade - Utility" />
+<property name="White Pips" value="1" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Put on Scorponok only.nnPierce 2.nnThis can't be scrapped by your opponent's cards.nnWhile Scorponok has Crushing Claws and Zarak's Shield -> He gets an additional Pierce 5." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="26c03c62-5517-4b54-a7a3-12939198a099" name="Energon Sword" size="Small">
+<property name="Card Number" value="17" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="Text" value="Put on [Melee] characters only.nnWhen the upgraded character attacks and you flip at least [U][U] -> The defender's base [DEF] becomes 0 during this battle." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="891a93f6-7d4e-470d-85ed-f4cb6d163bb3" name="Feral Tenacity" size="Small">
+<property name="Card Number" value="18" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="DEF" value="1" />
+<property name="Orange Pips" value="1" />
+<property name="Text" value="Put only on [Predacons] or [Beasts].nnWhen the upgraded character takes damage -> Put 1 rage counter on this.nnThe upgraded character gets +1 [ATK] for each rage counter on this.nnAt the end of your turn -> Remove all rage counters from this." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="871b95d7-1a5f-4e5f-bd94-d10c06cfe99b" name="Grimlock's Sword" size="Small">
+<property name="Card Number" value="19" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="Stars" value="2" />
+<property name="Orange Pips" value="1" />
+<property name="Black Pips" value="1" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Put on [Dinobots] only.nBold 3nPierce 3" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="e9b80b44-2f18-4e88-a0a5-7c6c0fbf0a7b" name="H-M Laser Cannon" size="Small">
+<property name="Card Number" value="20" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Can't be put on [Decepticons].nnWhen you put this on a [Guardian] or a character in combiner mode -> Do 2 damage to each enemy." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="af8cee7a-84a2-4353-b75f-b602d8238b9d" name="Nothin's Gonna Stand In Our Way" size="Small">
+<property name="Card Number" value="21" />
+<property name="Type" value="Action" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="One of your characters gets Pierce 1 until end of turn.nnIf this is the the third Nothin's Gonna Stand In Our Way you've played this turn -> Untap one of your characters with 12 [STARS] or fewer.nnYou may play another Nothin's Gonna Stand In Our Way." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="b5b1e4b3-d2b3-4acb-86da-0d0baa26243f" name="Particle Cannon of Galvatron" size="Small">
+<property name="Card Number" value="22" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="2" />
+<property name="Blue Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Put on Galvatron only.nnBold 1" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="dcc7d127-9293-42ca-a8cd-945a25bcc243" name="Racing Stripes" size="Small">
+<property name="Card Number" value="23" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="Blue Pips" value="1" />
+<property name="Text" value="Put only on [Motorcycles], [Sentinels], or [Stunticons].nnWhen you flip battle cards while upgraded character defends -> Until end of battle, the upgraded character gets +[DEF] equal to half the number of different battle icons flipped this battle, rounded up. Do that much damage to the attacker." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="bb83e020-343d-44b1-8d18-5d1cc630dbd2" name="Resilience" size="Small">
+<property name="Card Number" value="24" />
+<property name="Type" value="Action" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="Repair 5 damage from one of your characters that has 19 [STARS] or more. Then put this card into your KO area." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="b7ca356e-21a1-4223-aee2-fe5f6671f03b" name="Scan the Vaults" size="Small">
+<property name="Card Number" value="25" />
+<property name="Type" value="Action" />
+<property name="Blue Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="Draw a card. Then draw a card for each Scan the Vaults in your scrap pile." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="bc3bb523-54f9-41d6-b697-a7e67ec4c0e0" name="Sharkticon Mace" size="Small">
+<property name="Card Number" value="26" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="2" />
+<property name="Text" value="After the upgraded character attacks -> Scrap this card. If the upgraded character is a [Sharkticon], put this on another [Sharkticon] instead." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="1af3eef3-3579-4318-836a-462f386c4799" name="Spoils of War" size="Small">
+<property name="Card Number" value="27" />
+<property name="Type" value="Action" />
+<property name="Black Pips" value="1" />
+<property name="Text" value="Choose up to 4 of your characters. If they share a trait, repair 1 damage from each of them." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="22a974bf-8da2-422d-bc8e-2335d86dc903" name="Starscream's Cape" size="Small">
+<property name="Card Number" value="28" />
+<property name="Type" value="Upgrade - Utility" />
+<property name="ATK" value="1" />
+<property name="DEF" value="1" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="Put on Starscream only.nnThis can be in an Armor slot.nnIncrease each number in the upgraded character's text box by 1. This effect does not modify abilities granted by upgrades or other effects." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="ee055282-023c-436b-97c2-a83620f67031" name="Stasis Field" size="Small">
+<property name="Card Number" value="29" />
+<property name="Type" value="Secret Action" />
+<property name="Blue Pips" value="1" />
+<property name="Text" value="Reveal [WHEN] When one of your characters defends against an enemy in bot or body mode.nnWhen Revealed -> The attacking player flips that attacker to alt mode." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="586fe90e-b916-4cdb-a29c-f21ebd1f256c" name="Stormfall Sword" size="Small">
+<property name="Card Number" value="30" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="1" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Pierce 2nWhile this is on Windblade -> She has Tough 1." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="a461b1e4-14b6-461e-ba4d-1f52f0d19390" name="Survival of the Fittest" size="Small">
+<property name="Card Number" value="31" />
+<property name="Type" value="Secret Action" />
+<property name="Text" value="Reveal [WHEN] After your opponent chooses an attacker and before they choose a defender.nnWhen Revealed -> KO one of your characters. Then untap one of your other characters." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="5f6646b3-49f8-4ddc-b819-745fe7349f6b" name="The Touch" size="Small">
+<property name="Card Number" value="32" />
+<property name="Type" value="Action" />
+<property name="Stars" value="1" />
+<property name="Orange Pips" value="1" />
+<property name="Blue Pips" value="1" />
+<property name="Text" value="One of your Autobot [Leaders] gets Bold 4 until end of turn.nnIf that character is upgraded with Matrix of Leadership -> Repair 3 damage from it." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="f70cf2be-fee5-4f80-8084-bd300bb7e2f5" name="This is Bad Comedy" size="Small">
+<property name="Card Number" value="33" />
+<property name="Type" value="Action" />
+<property name="White Pips" value="1" />
+<property name="Text" value="Choose an enemy character. Scrap a Utility from it, then do 1 damage to it." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="b4a0f840-19fd-482e-bd42-6f35aa72f981" name="Trithyllum Plating" size="Small">
+<property name="Card Number" value="34" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="DEF" value="1" />
+<property name="Text" value="When you play this from hand -> You may play a Trithyllum Plating from your scrap pile.nnUp to 3 Trithyllum Platings can fit in 1 Armor slot.nnWhile the upgraded character is defending against an enemy that has Pierce -> Reduce that enemy's Pierce total by 2." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="c5fb5f70-cac2-4398-aa9c-c63584edd768" name="Tsunami Blaster" size="Small">
+<property name="Card Number" value="35" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="1" />
+<property name="Orange Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Can't be put on [Autobots].nnThe upgraded character has Bold 1 for each card under it, up to Bold 4." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="0e4b825c-4787-4211-a66d-217544a3b88c" name="Twisted Logic" size="Small">
+<property name="Card Number" value="36" />
+<property name="Type" value="Secret Action" />
+<property name="White Pips" value="1" />
+<property name="Text" value="Reveal [WHEN] When one of your characters defends.nnWhen Revealed -> Reveal the top 5 cards of your opponent's deck. Put them back in any order." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="0903b956-5f08-4f26-bf41-0a785699ef50" name="Unfriendly Fire" size="Small">
+<property name="Card Number" value="37" />
+<property name="Type" value="Upgrade - Utility" />
+<property name="DEF" value="1" />
+<property name="White Pips" value="1" />
+<property name="Black Pips" value="1" />
+<property name="Text" value="Put on [Combaticons] only.nnWhen the upgraded character defends and your opponent flips battle icons of at least 3 different colors -> Do 2 damage to an enemy." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="0f08b270-a1c2-4084-8ab3-11719eb04754" name="Vamparc Ribbon" size="Small">
+<property name="Card Number" value="38" />
+<property name="Type" value="Upgrade - Weapon" />
+<property name="ATK" value="1" />
+<property name="Orange Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="When the upgraded character attacks and does 4 or more attack damage -> Repair 2 damage from the upgraded character." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="dc10797e-64c1-44d3-98b2-86cf674b3bd0" name="Wanna Bet?" size="Small">
+<property name="Card Number" value="39" />
+<property name="Type" value="Secret Action" />
+<property name="White Pips" value="1" />
+<property name="Green Pips" value="1" />
+<property name="Text" value="Reveal [WHEN] If one or more battle cards would be put under a character.nnWhen Revealed -> Until end of turn, if one or more battle cards would be put under a character, scrap those battle cards instead." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="1f2f78b3-f7a2-4120-b6d4-14138dea6d8a" name="Zarak's Shield">
+<property name="Card Number" value="40" />
+<property name="Type" value="Upgrade - Armor" />
+<property name="DEF" value="1" />
+<property name="Orange Pips" value="1" />
+<property name="Text" value="While this is on Scorponok -> He gets +1[DEF].nnWhile this is on Zarak -> He can't take more than 3 attack damage from a single attack." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Battle Card" />
+</card>
+<card id="991b7586-8d75-4641-9a56-649228ac07db" name="Advanced Technology" size="Small">
+<property name="Card Number" value="S01" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Decepticon Shockwave, Cybertron Commander has +4[HEALTH]." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="7a6277cd-bc5a-4578-b9ee-78a65d8e85ba" name="Arise, Rodimus Prime" size="Small">
+<property name="Card Number" value="S02" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Before the game begins -> You may reveal a Matrix of Leadership from your deck and put it into your hand.nnUp to three copies of Matrix of Leadership can fit into the utility slow of your Rodimus Prime, Worthy Leader." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="a296f3e5-fcb4-4167-9f4e-574839b06681" name="Arm the  Lonely" size="Small">
+<property name="Card Number" value="S03" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Raider Spinister, Infantry xe2x80xa2 Aerial Assault has +3[HP].nnOnce per game, at the start of your turn -> You may put a [Battle Master] upgrade from your KO area onto your Raider Spinister, Infantry xe2x80xa2 Aerial Assault. If you do, flip this." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="ca287eda-b02e-40f5-adbc-15c39cfc0b00" name="Barbaric Rage" size="Small">
+<property name="Card Number" value="S04" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="2" />
+<property name="Text" value="Your Galvatron, Maniacal Tyrant has +3[HP].nnWhile your Galvatron, Maniacal Tyrant is in bot mode, he has +3[ATK] and 'When this attacks -> do 2 damage to one of your characters.'" />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="6d7e127b-83ea-45b4-bb8a-8c17b14a2e0f" name="Brothers In Armor" size="Small">
+<property name="Card Number" value="S05" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Sergeant Crosshairs, Artillery xe2x80xa2 Weapons Supervisor has +3[HP].nnOnce per game, at the start of your turn -> You may put a [Battle Master] upgrade from your KO area on to your Sergeant Crosshairs, Artillery xe2x80xa2 Weapons Supervisor. If you do, flip this." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="923d6dc5-95e8-4527-9b1b-1b350fb3db49" name="Bust Some Deceptichops" size="Small">
+<property name="Card Number" value="S06" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Ironhide, Veteran Autobot has +4[HEALTH].nnWhen your Ironhide, Veteran Autobot battle a [Decepticon] -> Ironhide gets Bold 2 and Tough 2 until the end of battle." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="d4eec130-2f20-4425-b7c7-82e4a5dd3c75" name="Can't Squish This" size="Small">
+<property name="Card Number" value="S07" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="While your Bombshell, Decepticon Psy Ops is defending against an attacker that has Pierce -> Reduce the attacker's Pierce total based on the number of cards in your hand.n[CHOICE]1-4 -> Reduce the attackers' Pierce total by 2.n[CHOICE]5-7 -> Reduce the attackers' Pierce total by 3.n[CHOICE]8+ -> Reduce the attackers' Pierce total by 4." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="4324020f-367f-4d9a-9855-fe4902bf1f46" name="Do It With Style!" size="Small">
+<property name="Card Number" value="S08" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Replace the text 'an enemy that doesn't have Pierce' on your Autobot Jazz, Special Ops with 'an enemy that has 8 [STARS] or fewer.'" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="3781809f-0720-4a88-a41c-63b5ee1203f5" name="Drop Your Weapons" size="Small">
+<property name="Card Number" value="S09" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Bluestreak, Reluctant Soldier has +3[HEALTH].nnWhen your Bluestreak, Reluctant Soldier defends in bot mode and you flip at least [W][O][U] -> The attacker's base [ATK] becomes 0 during this battle." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="9097501f-c160-4252-833b-f8557fc55e0f" name="Heat Resistant Body" size="Small">
+<property name="Card Number" value="S10" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Inferno, Fearless Firefighter has +5[HP].nnWhen you flip your Inferno, Fearless Firefighter to bot mode -> Repair 1 damage from one of your [Autobots]." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="b917d529-0de3-4944-a197-1a8b3450a192" name="I Don't Break Rules, I Just Bend Them - A Lot." size="Small">
+<property name="Card Number" value="S11" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Once per game, when you Sideswipe, Reckless Warrior is on the battlefield and you flip him to another mode -> You may play up to two Upgrades from your KO area. If you play a card this way, flip this." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="e20f2b1f-8c9c-4752-9f0d-003066c6d101" name="Made of Sterner Stuff" size="Small">
+<property name="Card Number" value="S12" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Optimus Prime, Battlefield Legend has +3[HEALTH]." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="49bb5841-e33b-40bf-8f3a-281c0ac103fb" name="Mayhem" size="Small">
+<property name="Card Number" value="S13" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Ruckus, Combat Assault has +2[HEALTH].nnWhen your Ruckus, Combat Assault is on the battlefield and you flip him to another mode -> Repair 1 damage from each of your [Cars]. One of your [Cars] gets Bold 1 until end of turn." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="cfe3f518-2881-4d1d-8b9d-4fa31fac836d" name="Paranoia" size="Small">
+<property name="Card Number" value="S14" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your Red Alert, Security Chief has 'When you flip to this mode -> You may scrap a card from your hand. If you do, repair 1 damage from each of your characters.'" />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="822b8187-47f2-4f47-90cb-9b1e035547d3" name="Predacon Fortitude" size="Small">
+<property name="Card Number" value="S15" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="For each card under your Sky-Byte, Harbinger of Doom -> He has +1[HEALTH] and +1[DEF] up to +3[HEALTH] and +3[DEF]." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="94b106bd-0ae7-4971-9368-4b0ff3262a85" name="Quest for Fire" size="Small">
+<property name="Card Number" value="S16" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your [Firecons] have +2[HEALTH].nnBefore the game begins -> You may reveal a Firecon Flame from your deck and put it into your hand." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="934d8fc5-9f59-4a8a-9e73-26fdac47cffd" name="Scout the Area" size="Small">
+<property name="Card Number" value="S17" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="Your deck can have up to 2 extra [STARS] of [W] cards.nnOnce per game, at the start of your turn -> You may deploy a character from under Trypticon, Assault Base to the battlefield. If you do, flip this." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="dbac9922-7ab8-4a0f-856c-a724e4d0c518" name="Starscream's Brigade" size="Small">
+<property name="Card Number" value="S18" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="If your starting team has Onslaught and at least one other [Combaticon], your Starscream, Scheming Second-in-Command has '[TAP], Discard a [B] Action from your hand -> Choose a [Combaticon] you own from the outside the game and deploy it to the battlefield in alt mode with 2 damage on it.'" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="b23d393a-e8a0-40f5-b479-814b0215bc01" name="Such Heroic Nonsense" size="Small">
+<property name="Card Number" value="S19" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="When your Megatron, Decepticon Leader is on the battlefield and you flip Hunker Down while battling -> After the battle, you may swap a card from your hand for a Hunker Down you flipped this battle as though it had [G]." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="8029d329-3e9e-4ccb-9bd8-3add54194500" name="Unstoppable" size="Small">
+<property name="Card Number" value="S20" />
+<property name="Type" value="Stratagem" />
+<property name="Stars" value="1" />
+<property name="Text" value="At the start of your turn, if Wreck-Gar, Junkion Leader is in your KO area -> You may put up to 4 Upgrades from your scrap pile into your KO area. If you do. return Wreck-Gar to the battlefield untapped and repair 2 damage from him for each Upgrade you put into the KO area this turn." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Stratagem" />
+</card>
+<card id="101bd1cd-a30b-427b-9315-cc26e64e8c58" name="Beastbox - Savage Interrogator" size="Small">
+<property name="Card Number" value="T01" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="0" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Mini-Cassette" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="StealthnnWhen you flip to this mode -> Reveal the top card of your opponent's deck. If it's an Action, you may play it." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Beastbox - Savage Interrogator" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Text" value="When this attacks an enemy [Autobot] -> This gets +2[ATK] until the end of turn." />
+<property name="Traits" value="Mini-Cassette, Melee" />
+</alternate>
+</card>
+<card id="ff504bb1-3f3a-4078-a9b8-bf966b3c72a9" name="Blast Off - Space Warrior" size="Large">
+<property name="Card Number" value="T02" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Combaticon, Spaceship, Specialist" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="When this attacks a [Tank] or [Truck] -> This gets +2[ATK] until end of turn." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Blast Off - Space Warrior" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="8" />
+<property name="Text" value="When you flip to this mode -> Do 2 damage to a [Ranged] enemy." />
+<property name="Traits" value="Combaticon, Specialist" />
+</alternate>
+</card>
+<card id="f4fffd88-5830-4087-af78-bf62b65a788f" name="Bombshock - Military Patrol xe2x80xa2 Patrol Leader" size="Small">
+<property name="Card Number" value="T03" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Military Patrol, Tank, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped.nEach of your [Military Patrols] has +2[ATK]." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Bombshock - Military Patrol xe2x80xa2 Patrol Leader" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="8" />
+<property name="Text" value="This has +1[ATK] and +1[DEF] for each Military Patrol in your KO area." />
+<property name="Traits" value="Military Patrol, Ranged" />
+</alternate>
+</card>
+<card id="d9826b04-c18c-4257-a2f7-83f316138da6" name="Brawl - Ground Assault" size="Large">
+<property name="Card Number" value="T04" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="3" />
+<property name="HP" value="7" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Combaticon, Tank, Ranged" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="BravenBold 1" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Brawl - Ground Assault" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
+<property name="Text" value="Enemies can't use Brave or Stealth.nnWhen this attacks an enemy that has an Armor -> Do 1 damage to that enemy." />
+<property name="Traits" value="Combaticon, Melee" />
+</alternate>
+</card>
+<card id="ec21924b-f8fc-4092-b78f-b5d4db186582" name="Bumblebee - Optimistic Brawler" size="Large">
+<property name="Card Number" value="T05" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="9" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Leader, Car Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Draw a card. If you have another [Autobot] on the battlefield, draw another card." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Bumblebee - Optimistic Brawler" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="9" />
+<property name="Text" value="When you flip to this mode -> Each of your [Autobots] gets Bold 1 until end of turn." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="c2c08208-f5c3-45fb-877f-59850669f5bb" name="Cyclonus - Loyal Enforcer" size="Large">
+<property name="Card Number" value="T06" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="13" />
+<property name="Stars" value="8" />
+<property name="Traits" value="Plane, Spaceship, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> You may scrap a [W] from your hand. If you do, move 2 damage from this to an enemy." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Cyclonus - Loyal Enforcer" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="HP" value="13" />
+<property name="Text" value="If one of your [Leaders] that has 10[STARS] or more would take attack damage -> You may have this take that damage instead." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="fc846861-a6e4-4cf3-85e5-a2a70f22f55f" name="Dropshot - Relentless Soldier" size="Small">
+<property name="Card Number" value="T07" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Military Patrol, Truck, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Dropshot - Relentless Soldier" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
+<property name="Text" value="[TAP], Scrap an [O] card from your hand -> One of your characters gets +4[ATK] until end of turn. At the end of turn, do 3 damage to that character." />
+<property name="Traits" value="Military Patrol, Melee" />
+</alternate>
+</card>
+<card id="c78d1062-7705-4d1d-ab14-0c2256923e09" name="Galvatron - Maniacal Tyrant" size="Large">
+<property name="Card Number" value="T08" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="3" />
+<property name="HP" value="17" />
+<property name="Stars" value="12" />
+<property name="Traits" value="Leader, Tank, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When you flip to this mode -> You may scrap an enemy Upgrade." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Galvatron - Maniacal Tyrant" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="7" />
+<property name="DEF" value="1" />
+<property name="HP" value="17" />
+<property name="Text" value="When this attacks, if his Upgrades include at least [W][U][G] and you flip at least [W][O][B] -> Do 4 damage to an enemy." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="c1305d64-15a5-4657-be23-1de11a9b3308" name="Ghost of Starscream - Annoying Apparition" size="Large">
+<property name="Card Number" value="T09" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="0" />
+<property name="HP" value="13" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Plane, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Before the game begins -> KO this.nnWhen your Starscream is KO'd, if this is in your KO are -> Return this to the battlefield fully repaird, even if you have no other characters. Put all Upgrades from the KO'd Starscream onto this instead of scrapping them." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Ghost of Starscream - Annoying Apparition" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="0" />
+<property name="HP" value="13" />
+<property name="Text" value="When this attacks -> You may tap an enemy." />
+<property name="Traits" value="Melee" />
+</alternate>
+</card>
+<card id="0bd4f8fb-f412-4907-ae8f-d56fe619b032" name="Gnaw - Voracious Hunter" size="Large">
+<property name="Card Number" value="T10" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="10" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Sharkticon, Beast, Melee" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="When you flip to this mode -> Return a [Mercenary] card from your scrap pile to your hand." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Gnaw - Voracious Hunter" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="10" />
+<property name="Text" value="When you flip to this mode -> One of your [Sharkticons] has Bold 2 until end of turn." />
+<property name="Traits" value="Sharkticon, Melee" />
+</alternate>
+</card>
+<card id="40bab8f8-5f91-4057-b63c-ba53daa043fb" name="Grimlock - Dinobot King" size="Large">
+<property name="Card Number" value="T11" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="HP" value="18" />
+<property name="Stars" value="14" />
+<property name="Traits" value="Leader, Dinobot, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this attacks and you flip at least [O][B][U] -> Do 1 damage to EACH character, then do 1 damage to EACH Decepticon." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Grimlock - Dinobot King" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="7" />
+<property name="DEF" value="1" />
+<property name="HP" value="18" />
+<property name="Text" value="Bold 3" />
+<property name="Traits" value="Leader, Dinobot, Melee" />
+</alternate>
+</card>
+<card id="ab840271-7ffa-4b3c-a608-cb81532b1d1a" name="Growl - Intimidating Thug" size="Small">
+<property name="Card Number" value="T12" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Military Patrol, Truck, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Growl - Intimidating Thug" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="7" />
+<property name="Text" value="[TAP], Scrap an [O] card from your hand -> One of your characters gets Bold 3 until end of turn." />
+<property name="Traits" value="Military Patrol, Melee" />
+</alternate>
+</card>
+<card id="522aaa16-ab44-4b7e-a12f-6a090c3150d0" name="Huffer - Sullen Engineer" size="Large">
+<property name="Card Number" value="T13" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="3" />
+<property name="HP" value="10" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Truck, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> You may scrap a card from your hand. If you do, return a Utility from your scrap pile to hand." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Huffer - Sullen Engineer" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="10" />
+<property name="Text" value="When you flip to this mode -> You may scrap a card from your hand. If you do, you may play an Upgrade." />
+<property name="Traits" value="Specialist" />
+</alternate>
+</card>
+<card id="554b59a9-d511-423a-88f2-3cb45ba7c605" name="Jazz - Outta Sight, Dynamite Lieutenant" size="Large">
+<property name="Card Number" value="T14" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="13" />
+<property name="Stars" value="9" />
+<property name="Traits" value="Leader, Car" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="StealthnWhen you flip to this mode -> Your opponent scraps a card at random from their hand. You may return a card that shares a card type with the scrapped card from your scrap pile to your hand." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Jazz - Outta Sight, Dynamite Lieutenant" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="13" />
+<property name="Text" value="Each of your [Autobots] has Pierce 2.nnWhen you flip to this mode -> Look at your opponent's hand." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="7f3ae89d-dba0-4c40-90aa-47d43d06b862" name="Lord Zarak - Ruler of Nebulon" size="Large">
+<property name="Card Number" value="T15" />
+<property name="Type" value="Character - Head Mode" />
+<property name="HP" value="10" />
+<property name="Stars" value="6" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="[Head] +Focus 1, Tough 1nnThis begins on Scorponok, Brutal Warlord in head mode. This can't flip.nnWhen Scorponok is KO'd -> Deploy this to the battlefield in body mode, even if Scorponok was your last character." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Head Character" />
+<alternate name="Lord Zarak - Ruler of Nebulon" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="1" />
+<property name="HP" value="10" />
+<property name="Text" value="Focus 2nnTough 2nnWhen you deploy this from under Scorponok -> You may put a Zarak's Shield from Scorponok onto this." />
+<property name="Traits" value="Leader, Melee" />
+</alternate>
+</card>
+<card id="17f47513-1345-434d-94af-2fcd98d35715" name="Megatron - Autobot Bane" size="Large">
+<property name="Card Number" value="T16" />
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="HP" value="11" />
+<property name="Stars" value="8" />
+<property name="Traits" value="Leader, Weaponizer, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When this is KO'd by the effect of Peace Through Tyranny -> Do 2 damage to an enemy [Autobot]." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Upgrade - Weapon" />
+<alternate name="Megatron - Autobot Bane" type="bot" size="Large">
+<property name="Type" value="Character - Weapon Mode" />
+<property name="ATK" value="3" />
+<property name="HP" value="11" />
+<property name="Text" value="Bold 1nnIf another Weapon would be put into the same Upgrade slot as this -> Scrap that weapon instead.nnIf this would leave the battlefield while upgrading a [Decepticon][Leader] that has 10 [STARS] or more -> Instead deploy this to the battlefield in bot mode tapped with 6 damage counters on him." />
+<property name="Traits" value="Weaponizer" />
+</alternate>
+</card>
+<card id="6f8e6ca7-2354-436c-91d4-845b90d0af0a" name="Onslaught - Combaticon Leader" size="Large">
+<property name="Card Number" value="T17" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Leader, Combaticon, Truck" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="Each of your other [Combaticons] has Bold 1 and Tough 1." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Onslaught - Combaticon Leader" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="9" />
+<property name="Text" value="When you flip to this mode -> Draw a card.nnWhen one of your [Combaticons] attacks -> Plan 1." />
+<property name="Traits" value="Leader, Combaticon, Ranged" />
+</alternate>
+</card>
+<card id="a9cb4909-a641-4e67-b85b-4286902d9f6c" name="Ratbat - Calculating Scout" size="Small">
+<property name="Card Number" value="T18" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="0" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Mini-Cassette" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Stealthnn[TAP], Scrap a [W] from your hand -> Each player chooses two cards from their hand and scraps the rest. Each player with fewer than 2 cards in hand draws cards equal to the difference." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Ratbat - Calculating Scout" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Text" value="Once per turn, if your opponent would draw a card, except for the first card they draw at the start of their turn -> You draw a card instead." />
+<property name="Traits" value="Mini-Cassette, Specialist" />
+</alternate>
+</card>
+<card id="f8037172-10ad-4678-a617-e27b4cfbfa8b" name="Ratchet - Chief Medical Officer" size="Large">
+<property name="Card Number" value="T19" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="14" />
+<property name="Stars" value="9" />
+<property name="Traits" value="Truck, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Repair 2 damage from one of your characters." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Ratchet - Chief Medical Officer" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="14" />
+<property name="Text" value="While this is your only character on the battlefield -> He has Bold 2 and Tough 2." />
+<property name="Traits" value="Specialist" />
+</alternate>
+</card>
+<card id="dd537b38-e8fc-4cf9-91ec-b76442f6971d" name="Redwing - Thrillseeker" size="Large">
+<property name="Card Number" value="T20" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="9" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Plane, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Tough 1" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Redwing - Thrillseeker" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Text" value="Revenge -> Your opponent scraps 2 cards from their hand." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="5ce82e47-ea14-4038-af90-53a5f5aee2ff" name="Rewind - Data Collector" size="Small">
+<property name="Card Number" value="T21" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="0" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Mini-Cassette" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="StealthnnWhen you flip to this mode -> Return a card at random from your scrap pile to hand." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Rewind - Data Collector" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Text" value="After you flip battle cards for this character's attack and before defense flips -> You may play a [B] Utility you flipped." />
+<property name="Traits" value="Mini-Cassette, Specialist" />
+</alternate>
+</card>
+<card id="92a9923b-34f0-4fbc-93c4-a8894644786e" name="Rodimus Prime - Worthy Leader" size="Large">
+<property name="Card Number" value="T22" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="3" />
+<property name="HP" value="17" />
+<property name="Stars" value="12" />
+<property name="Traits" value="Leader, Car, Truck" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Return a Matrix of Leadership from your scrap pile to hand." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Rodimus Prime - Worthy Leader" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="2" />
+<property name="HP" value="17" />
+<property name="Text" value="When this is upgraded with Matrix of Leadership -> He has +1[ATK] and Pierce 2." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="5cbae9c9-95e8-4701-8dfd-d1566b25eb0b" name="Rumble - Demolition Expert" size="Small">
+<property name="Card Number" value="T23" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="0" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Mini-Cassette" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="StealthnnWhen you flip to this mode -> Your opponent chooses one of their Upgrades and scraps it." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Rumble - Demolition Expert" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Text" value="When this attacks, you may scrap a [U] card from your hand -> If you do, this gets +3[ATK] until end of turn." />
+<property name="Traits" value="Mini-Cassette, Melee" />
+</alternate>
+</card>
+<card id="f76b0b1a-480c-4094-b70f-87f09f03a0c3" name="Scorponok - Brutal Warlord" size="Extra Large">
+<property name="Card Number" value="T24" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="8" />
+<property name="DEF" value="2" />
+<property name="HP" value="25" />
+<property name="Stars" value="18" />
+<property name="Traits" value="Titan, Leader, Beast, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Before the game begins -> You may put an Electro Stinger of Scorponok from your deck onto this.nnWhen you flip to this mode -> Draw a card.nnThis begins with Lord Zarak, Ruler of Nebulon on him in head mode." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Extra Large Body Character" />
+<alternate name="Scorponok - Brutal Warlord" type="bot" size="Extra Large">
+<property name="Type" value="Character - Body Mode" />
+<property name="ATK" value="8" />
+<property name="DEF" value="2" />
+<property name="HP" value="25" />
+<property name="Text" value="Bold 1nnWhen this attacks -> You may play one of your flipped Upgrades onto this after the battle. If you don't play an Upgrade this way, flip this." />
+<property name="Traits" value="Titan, Leader, Melee" />
+</alternate>
+</card>
+<card id="f8c8a467-1d91-41b7-81df-916efb10f06d" name="Scourge - Opportunistic Tracker" size="Large">
+<property name="Card Number" value="T25" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="3" />
+<property name="HP" value="12" />
+<property name="Stars" value="8" />
+<property name="Traits" value="Spaceship, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Your starting [STAR] limit increases by 1 for each [Sweep] on your starting team.nnEnemies can't use Brave or Stealth against this or your [Sweeps]." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Scourge - Opportunistic Tracker" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="12" />
+<property name="Text" value="When you flip to this mode -> One of your [Sweeps] gets Pierce 2 until end of turn." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="60e8baed-e23a-47ab-a655-00ee1d15ccd1" name="Seaspray - Valiant Vessel" size="Large">
+<property name="Card Number" value="T26" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="11" />
+<property name="Stars" value="6" />
+<property name="Traits" value="Boat, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="This has Stealth while untapped." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Seaspray - Valiant Vessel" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="HP" value="11" />
+<property name="Text" value="When this battles an enemy in bot mode -> This gets +1 [ATK] and +1 [DEF] until end of battle." />
+<property name="Traits" value="Specialist" />
+</alternate>
+</card>
+<card id="7ca7fc8e-a695-4533-9138-dbed703cf081" name="Sharkticon - Feeding Frenzy" size="Small">
+<property name="Card Number" value="T27" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="0" />
+<property name="HP" value="7" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Sharkticon, Beast, Melee" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="Horde 3nRevenge -> Untap one of your tapped [Sharkticons]. If you don't, draw a card." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Sharkticon - Feeding Frenzy" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="7" />
+</alternate>
+</card>
+<card id="6cc7bcac-3764-40e5-9df7-bfba44528f6d" name="Sideswipe - Reckless Warrior" size="Large">
+<property name="Card Number" value="T28" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="13" />
+<property name="Stars" value="7" />
+<property name="Traits" value="Car, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="While this has a Weapon with two or more battle icons -> This gets +2[ATK]." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sideswipe - Reckless Warrior" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="13" />
+<property name="Text" value="When this attacks -> You may put a Weapon with +[ATK] in its stat box from your hand or scrap pile into your KO area. If you do, this gets that much +[ATK] until end of turn." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="42d75e9c-1355-4bbf-a240-7a9fb985cdd4" name="Sky-Byte - Harbinger of Doom" size="Large">
+<property name="Card Number" value="T29" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="7" />
+<property name="DEF" value="1" />
+<property name="HP" value="15" />
+<property name="Stars" value="11" />
+<property name="Traits" value="Leader, Beast, Melee" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="When this attacks -> Put the top 3 cards of your deck face down under this." />
+<property name="Rarity" value="Super Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sky-Byte - Harbinger of Doom" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="0" />
+<property name="HP" value="15" />
+<property name="Text" value="When you flip to this mode -> Play a card from under this. Scrap that card at the end of turn." />
+<property name="Traits" value="Leader, Ranged" />
+</alternate>
+</card>
+<card id="1fe4066d-2229-4426-bc5c-e1d9b2070fec" name="Specialist Countdown - Transport xe2x80xa2 Space Explorer" size="Small">
+<property name="Card Number" value="T30" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="1" />
+<property name="HP" value="6" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Tank, Specialist" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Your starting [STAR] limit is increased by 2 if Omega Supreme is on your starting team.nnThis has Stealth while you have Omega Supreme on the battlefield." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Specialist Countdown - Transport xe2x80xa2 Space Explorer" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="1" />
+<property name="DEF" value="2" />
+<property name="HP" value="6" />
+<property name="Text" value="[TAP] Scrap a card from your hand -> Draw 2 cards, then put a card from your hand on top of your deck. If you have a character in combiner mode, instead draw 3 cards, then put a card from your hand on top of your deck." />
+<property name="Traits" value="Specialist" />
+</alternate>
+</card>
+<card id="a6807e1c-0837-46ff-ac9b-cfc62eb6e69c" name="Sunstreaker - Arrogant Daredevil" size="Large">
+<property name="Card Number" value="T31" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="1" />
+<property name="HP" value="12" />
+<property name="Stars" value="8" />
+<property name="Traits" value="Car, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Bold 1nnWhen you flip to this mode -> You may tap another of your untapped [Autobots] that has the same number of [STARS] or fewer than this. If you do, untap this." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Sunstreaker - Arrogant Daredevil" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="5" />
+<property name="DEF" value="2" />
+<property name="HP" value="12" />
+<property name="Text" value="When you flip to this mode -> You may scrap a card from your hand. If you do, return a Weapon from your scrap pile to hand." />
+<property name="Traits" value="Ranged" />
+</alternate>
+</card>
+<card id="be096e94-2ba8-484c-b29c-64f4a3eb2e83" name="Sweep - Scourge's Armada" size="Small">
+<property name="Card Number" value="T32" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="2" />
+<property name="Stars" value="3" />
+<property name="Traits" value="Sweep, Spaceship, Ranged" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="Horde 3nnStealthnnThis can't take non-attack damage from your opponent's cards." />
+<property name="Rarity" value="Uncommon" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Sweep - Scourge's Armada" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="2" />
+<property name="Text" value="When you flip to this mode -> This can attack untapped enemies this turn as though they were tapped." />
+<property name="Traits" value="Sweep, Ranged" />
+</alternate>
+</card>
+<card id="7f8b4191-9c20-4da1-bb49-322cafc6c3a1" name="Swindle - Arms Dealer" size="Large">
+<property name="Card Number" value="T33" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="8" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Combaticon, Truck, Specialist" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="When you flip to this mode -> Return an upgrade from your scrap pile to your hand." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Swindle - Arms Dealer" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="2" />
+<property name="HP" value="8" />
+<property name="Text" value="When this attacks an [Autobot] -> You may play a weapon.nnWhen this defends against a [Decepticon] -> You may play an armor." />
+<property name="Traits" value="Combaticon, Specialist" />
+</alternate>
+</card>
+<card id="50f16ada-8405-472b-8f1c-a351e098204a" name="Tracer - Ambitious Scout" size="Small">
+<property name="Card Number" value="T34" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Military Patrol, Helicopter, Specialist" />
+<property name="Faction" value="Decepticon" />
+<property name="Text" value="This has Stealth while untapped." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Tracer - Ambitious Scout" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="7" />
+<property name="Text" value="[TAP], Scrap an [O] card from your hand -> Scrap the top card of your deck. If it's an Upgrade, you may play it." />
+<property name="Traits" value="Military Patrol, Specialist" />
+</alternate>
+</card>
+<card id="858025cb-38c2-4451-9f06-c42c8e688864" name="Vortex - Interrogator" size="Large">
+<property name="Card Number" value="T35" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="2" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Combaticon, Helicopter, Ranged" />
+<property name="Faction" value="Mercenary" />
+<property name="Text" value="Pierce 2" />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Vortex - Interrogator" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="1" />
+<property name="DEF" value="2" />
+<property name="HP" value="7" />
+<property name="Text" value="When you flip to this mode -> Your opponent scraps a card from their hand." />
+<property name="Traits" value="Combaticon, Ranged" />
+</alternate>
+</card>
+<card id="89bd6e62-b89f-4f39-9474-791180ba5eab" name="Wheelie - Rhyming Racer" size="Small">
+<property name="Card Number" value="T36" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="0" />
+<property name="HP" value="7" />
+<property name="Stars" value="4" />
+<property name="Traits" value="Car, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="Stealth against [Decepticons] and [Mercenaries]." />
+<property name="Rarity" value="Common" />
+<property name="Draft Type" value="Small Character" />
+<alternate name="Wheelie - Rhyming Racer" type="bot" size="Small">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="1" />
+<property name="HP" value="7" />
+<property name="Text" value="[TAP], Scrap a card from your hand -> Your opponent chooses one of their characters and does 1 damage to it. If the scrapped card has two or more battle icons, instead do 2 damage to an enemy." />
+<property name="Traits" value="Melee" />
+</alternate>
+</card>
+<card id="8ff26a17-2302-4ad9-aa68-b38346ec10ec" name="Windblade - Camien Champion" size="Large">
+<property name="Card Number" value="T37" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="2" />
+<property name="HP" value="15" />
+<property name="Stars" value="10" />
+<property name="Traits" value="Leader, Plane, Ranged" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When you flip to this mode -> Reveal the top 5 cards of your deck. Put 1 Action and 1 Upgrade from among them into your hand. Scrap the rest." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Windblade - Camien Champion" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="6" />
+<property name="DEF" value="2" />
+<property name="HP" value="15" />
+<property name="Text" value="If this would take attack damage and you flipped battle icons of at least four different colors this battle -> Instead this takes half that damage, rounded up." />
+<property name="Traits" value="Leader, Melee" />
+</alternate>
+</card>
+<card id="dd751453-6ff5-4e16-9075-b57e32a3e43d" name="Wreck-Gar - Junkion Leader" size="Large">
+<property name="Card Number" value="T38" />
+<property name="Type" value="Character - Alt Mode" />
+<property name="ATK" value="3" />
+<property name="DEF" value="2" />
+<property name="HP" value="9" />
+<property name="Stars" value="5" />
+<property name="Traits" value="Leader, Junkion, Motorcycle, Melee" />
+<property name="Faction" value="Autobot" />
+<property name="Text" value="When this battles -> You may scrap an Upgrade from this. If you do, choose one:n[CHOICE]This gets +2[ATK] until end of turn.n[CHOICE]This gets +2[DEF] until end of turn.n[CHOICE]Repair 2 damage from this." />
+<property name="Rarity" value="Rare" />
+<property name="Draft Type" value="Large Character" />
+<alternate name="Wreck-Gar - Junkion Leader" type="bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="4" />
+<property name="DEF" value="1" />
+<property name="HP" value="9" />
+<property name="Text" value="When you flip to this mode -> You may return an Upgrade from your scrap pile to your hand." />
+<property name="Traits" value="Leader, Junkion, Melee" />
+</alternate>
+</card>
+</cards>
+</set>
