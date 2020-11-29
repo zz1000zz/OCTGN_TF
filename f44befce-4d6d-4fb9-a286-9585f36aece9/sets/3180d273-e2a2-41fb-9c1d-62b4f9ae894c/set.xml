@@ -40,7 +40,7 @@
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="If you have Superion on the battlefield -> Do 1 damage to each enemy.  If you have 5 Aerialbots in bot mode on the battlefield and/or in your KO area -> Combine them into Superion, Sky Protector." />
+<property name="Text">If you have Superion on the battlefield -> Do 1 damage to each enemy.  If you have 5 Aerialbots in bot mode on the battlefield and/or in your KO area -> Combine them into Superion, Sky Protector.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -49,7 +49,7 @@
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Blue Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Put on Aerialbots only. The upgraded character has +1 [ATK] for each of your other tapped Aerialbots." />
+<property name="Text">Put on Aerialbots only. The upgraded character has +1 [ATK] for each of your other tapped Aerialbots.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -57,7 +57,7 @@
 <property name="Card Number" value="3" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Scrap the top 2 cards of your deck. Put an Action and an Upgrade scrapped this way into your hand. You may play Unleashed Potential." />
+<property name="Text">Scrap the top 2 cards of your deck. Put an Action and an Upgrade scrapped this way into your hand. You may play Unleashed Potential.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -75,7 +75,7 @@
 <property name="ATK" value="1" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="When you put this on a character -> You may play another Attack Drone.  Up to 3 Attack Drones can fit in 1 Weapon slot." />
+<property name="Text">When you put this on a character -> You may play another Attack Drone.  Up to 3 Attack Drones can fit in 1 Weapon slot.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -84,7 +84,7 @@
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Blue Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Bold 2." />
+<property name="Text">Bold 2.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -92,7 +92,7 @@
 <property name="Card Number" value="7" />
 <property name="Type" value="Action" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="If you began the game with only Decepticon characters -> Repair 1 damage from each of your characters. Then do 1 damage to each Autobot." />
+<property name="Text">If you began the game with only Decepticon characters -> Repair 1 damage from each of your characters. Then do 1 damage to each Autobot.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -102,7 +102,7 @@
 <property name="DEF" value="1" />
 <property name="Orange Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="When you put this on a character -> Scrap an enemy Armor." />
+<property name="Text">When you put this on a character -> Scrap an enemy Armor.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -110,7 +110,7 @@
 <property name="Card Number" value="9" />
 <property name="Type" value="Action" />
 <property name="Stars" value="1" />
-<property name="Text" value="Do 3 damage to an enemy." />
+<property name="Text">Do 3 damage to an enemy.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -118,7 +118,7 @@
 <property name="Card Number" value="10" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Brave." />
+<property name="Text">Brave.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -127,7 +127,7 @@
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Put on Cars only.  Damage counters can't be moved from other characters to the upgraded character." />
+<property name="Text">Put on Cars only.  Damage counters can't be moved from other characters to the upgraded character.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -136,7 +136,7 @@
 <property name="Type" value="Upgrade - Utility" />
 <property name="White Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Put on Sentinels only. When the upgraded character attacks -> You may flip a Sentinel in your KO area from bot mode to alt mode. If you do, then flip it back to bot mode." />
+<property name="Text">Put on Sentinels only. When the upgraded character attacks -> You may flip a Sentinel in your KO area from bot mode to alt mode. If you do, then flip it back to bot mode.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -145,7 +145,7 @@
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Draw 2 cards. Then Scrap 2 cards from your hand. If you began the game with only Autobot characters -> You may play an Action." />
+<property name="Text">Draw 2 cards. Then Scrap 2 cards from your hand. If you began the game with only Autobot characters -> You may play an Action.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -154,7 +154,7 @@
 <property name="Type" value="Upgrade - Armor" />
 <property name="DEF" value="1" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="When you put this on a Ranged character -> Repair 1 damage from it." />
+<property name="Text">When you put this on a Ranged character -> Repair 1 damage from it.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -162,14 +162,14 @@
 <property name="Card Number" value="15" />
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Choose an enemy in bot mode. Your opponent flips it too alt mode." />
+<property name="Text">Choose an enemy in bot mode. Your opponent flips it too alt mode.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="8c909cb0-8c50-4c12-8bfa-a568591d275c" name="Crash Landing" size="Small">
 <property name="Card Number" value="16" />
 <property name="Type" value="Upgrade - Utility" />
-<property name="Text" value="Put on Planes only.  When the upgraded character is KO'd during your opponent's turn -> Do damage equal to its attack total to a tapped enemy." />
+<property name="Text">Put on Planes only.  When the upgraded character is KO'd during your opponent's turn -> Do damage equal to its attack total to a tapped enemy.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -179,7 +179,7 @@
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Decepticons only. When one of your Decepticons attacks -> Plan 1." />
+<property name="Text">Put on Decepticons only. When one of your Decepticons attacks -> Plan 1.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -187,7 +187,7 @@
 <property name="Card Number" value="18" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="White Pips" value="1" />
-<property name="Text" value="If the upgraded character would take non-attack damage from an opponent's card ; instead the upgraded character takes that much damage minus 1." />
+<property name="Text">If the upgraded character would take non-attack damage from an opponent's card ; instead the upgraded character takes that much damage minus 1.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -196,7 +196,7 @@
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="If you have Volcanicus on the battlefield -> He gets Bold 2 until end of turn. If you have 5 Dinobots in bot mode on the battlefield and/or in your KO area -> Combine them into Volcanicus, Fiery Champion." />
+<property name="Text">If you have Volcanicus on the battlefield -> He gets Bold 2 until end of turn. If you have 5 Dinobots in bot mode on the battlefield and/or in your KO area -> Combine them into Volcanicus, Fiery Champion.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -205,7 +205,7 @@
 <property name="Type" value="Upgrade - Armor" />
 <property name="Orange Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Put on Dinobots only. When the upgraded character defends and you flip at least [O][O] -> Do 1 damage to the attacker." />
+<property name="Text">Put on Dinobots only. When the upgraded character defends and you flip at least [O][O] -> Do 1 damage to the attacker.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -213,7 +213,7 @@
 <property name="Card Number" value="21" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="When the upgraded character is battling an enemy that has the same number of [STAR] as it -> The upgraded character has +2 [ATK] and +2 [DEF]." />
+<property name="Text">When the upgraded character is battling an enemy that has the same number of [STAR] as it -> The upgraded character has +2 [ATK] and +2 [DEF].</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -223,7 +223,7 @@
 <property name="DEF" value="1" />
 <property name="Stars" value="1" />
 <property name="Blue Pips" value="2" />
-<property name="Text" value="When the upgraded character defends and you flip at least one [O] pip -> Do 1 damage to the attacker." />
+<property name="Text">When the upgraded character defends and you flip at least one [O] pip -> Do 1 damage to the attacker.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -232,7 +232,7 @@
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="When you put this on a Melee character -> Do 1 damage to an enemy." />
+<property name="Text">When you put this on a Melee character -> Do 1 damage to an enemy.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -242,7 +242,7 @@
 <property name="ATK" value="1" />
 <property name="Orange Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="When you put this on a character -> Scrap an enemy Weapon." />
+<property name="Text">When you put this on a character -> Scrap an enemy Weapon.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -252,7 +252,7 @@
 <property name="ATK" value="3" />
 <property name="DEF" value="-1" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="(A character's Armor can't go below 0.)" />
+<property name="Text">(A character's Armor can't go below 0.)</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -261,7 +261,7 @@
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Flip one of your characters from bot mode to alt mode." />
+<property name="Text">Flip one of your characters from bot mode to alt mode.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -270,7 +270,7 @@
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Choose a battle icon color. Then look at your opponent's hand and scrap a card from it that has a battle icon of that color." />
+<property name="Text">Choose a battle icon color. Then look at your opponent's hand and scrap a card from it that has a battle icon of that color.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -278,7 +278,7 @@
 <property name="Card Number" value="28" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Tough 3. After the upgraded character defends -> Scrap this card." />
+<property name="Text">Tough 3. After the upgraded character defends -> Scrap this card.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -287,7 +287,7 @@
 <property name="Type" value="Upgrade - Utility" />
 <property name="ATK" value="1" />
 <property name="White Pips" value="1" />
-<property name="Text" value="When you play this on a Specialist -> Scrap the top card of your deck. You may play that card." />
+<property name="Text">When you play this on a Specialist -> Scrap the top card of your deck. You may play that card.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -296,14 +296,14 @@
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Repair 1 damage from one of your characters. If it's an Autobot, Plan 1." />
+<property name="Text">Repair 1 damage from one of your characters. If it's an Autobot, Plan 1.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="56026a1a-c409-407b-ab1a-3211e86042ae" name="Fling" size="Small">
 <property name="Card Number" value="31" />
 <property name="Type" value="Action" />
-<property name="Text" value="Move 1 damage counter from one of your characters to an enemy." />
+<property name="Text">Move 1 damage counter from one of your characters to an enemy.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -312,7 +312,7 @@
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="For each Focus Fire you've played this turn -> One of you characters gets Bold 1 until end of turn. You may play another Focus Fire." />
+<property name="Text">For each Focus Fire you've played this turn -> One of you characters gets Bold 1 until end of turn. You may play another Focus Fire.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -320,7 +320,7 @@
 <property name="Card Number" value="33" />
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
-<property name="Text" value="Each player chooses 2 cards from their hand and scraps the rest. Each player with fewer than 2 cards in hand draws cards equal to the difference." />
+<property name="Text">Each player chooses 2 cards from their hand and scraps the rest. Each player with fewer than 2 cards in hand draws cards equal to the difference.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -328,7 +328,7 @@
 <property name="Card Number" value="34" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Blue Pips" value="2" />
-<property name="Text" value="Bold 1." />
+<property name="Text">Bold 1.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -336,7 +336,7 @@
 <property name="Card Number" value="35" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="One of your characters gets +2 [ATK] until end of turn. While it's attacking an enemy this turn that has fewer stars than it, it has Pierce 4." />
+<property name="Text">One of your characters gets +2 [ATK] until end of turn. While it's attacking an enemy this turn that has fewer stars than it, it has Pierce 4.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -344,7 +344,7 @@
 <property name="Card Number" value="36" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="Orange Pips" value="2" />
-<property name="Text" value="Tough 1." />
+<property name="Text">Tough 1.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -352,7 +352,7 @@
 <property name="Card Number" value="37" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Tap one of your untapped characters that has 5 [STAR] or more -> Do 3 damage to an enemy." />
+<property name="Text">Tap one of your untapped characters that has 5 [STAR] or more -> Do 3 damage to an enemy.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -360,7 +360,7 @@
 <property name="Card Number" value="38" />
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
-<property name="Text" value="Tap one of your untapped Specialists that has 5 [STAR] or more -> Draw 3 cards" />
+<property name="Text">Tap one of your untapped Specialists that has 5 [STAR] or more -> Draw 3 cards</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -369,7 +369,7 @@
 <property name="Type" value="Upgrade - Utility" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="When the upgraded character is battling -> Each [O] you flip becomes a [B]. Each [B] you flip becomes a [O]." />
+<property name="Text">When the upgraded character is battling -> Each [O] you flip becomes a [B]. Each [B] you flip becomes a [O].</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -378,7 +378,7 @@
 <property name="Type" value="Action" />
 <property name="Stars" value="1" />
 <property name="White Pips" value="1" />
-<property name="Text" value="Scrap the top card of your deck. You may play that card. Then scrap another card from the top of your deck. You may play that card." />
+<property name="Text">Scrap the top card of your deck. You may play that card. Then scrap another card from the top of your deck. You may play that card.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -386,7 +386,7 @@
 <property name="Card Number" value="41" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="If you have a Ranged character on the battlefield -> Do 2 damage to an enemy in bot mode." />
+<property name="Text">If you have a Ranged character on the battlefield -> Do 2 damage to an enemy in bot mode.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -395,7 +395,7 @@
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Plan 6." />
+<property name="Text">Plan 6.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -404,7 +404,7 @@
 <property name="Type" value="Upgrade - Weapon" />
 <property name="ATK" value="1" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="When the upgraded character attacks -> Plan 2.  When you put a card from your hand on top of your deck -> the upgraded character gets +1 [ATK] until end of turn." />
+<property name="Text">When the upgraded character attacks -> Plan 2.  When you put a card from your hand on top of your deck -> the upgraded character gets +1 [ATK] until end of turn.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -414,7 +414,7 @@
 <property name="ATK" value="2" />
 <property name="Stars" value="1" />
 <property name="Orange Pips" value="2" />
-<property name="Text" value="This can be in an Armor or Utility slot." />
+<property name="Text">This can be in an Armor or Utility slot.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -424,7 +424,7 @@
 <property name="Blue Pips" value="1" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Put on Autobots only. While the upgraded character is attacking an Decepticon -> It has Pierce 2." />
+<property name="Text">Put on Autobots only. While the upgraded character is attacking an Decepticon -> It has Pierce 2.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -432,7 +432,7 @@
 <property name="Card Number" value="46" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Draw 2 cards" />
+<property name="Text">Draw 2 cards</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -440,7 +440,7 @@
 <property name="Card Number" value="47" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Bold 3.  After the upgraded character attacks, Scrap this card." />
+<property name="Text">Bold 3.  After the upgraded character attacks, Scrap this card.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -449,7 +449,7 @@
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="If you have a Predaking on the battlefield -> Draw a card. Then you may play an Upgrade. If you have 5 Predacons in bot mode on the battlefield and/or in your KO area -> Combine them into Predaking, Ferocious Hunter." />
+<property name="Text">If you have a Predaking on the battlefield -> Draw a card. Then you may play an Upgrade. If you have 5 Predacons in bot mode on the battlefield and/or in your KO area -> Combine them into Predaking, Ferocious Hunter.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -459,7 +459,7 @@
 <property name="Orange Pips" value="1" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Choose one of your Autobots, it gets +2 [ATK] until end of turn.  Choose an enemy Decepticon. it gets -2 [DEF] until end of turn." />
+<property name="Text">Choose one of your Autobots, it gets +2 [ATK] until end of turn.  Choose an enemy Decepticon. it gets -2 [DEF] until end of turn.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -475,7 +475,7 @@
 <property name="Card Number" value="51" />
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
-<property name="Text" value="Flip one of your characters to it's other mode." />
+<property name="Text">Flip one of your characters to it's other mode.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -483,7 +483,7 @@
 <property name="Card Number" value="52" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="One of your characters gets +4 [ATK] until the end of turn. At end of turn, do 3 damage to it." />
+<property name="Text">One of your characters gets +4 [ATK] until the end of turn. At end of turn, do 3 damage to it.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -493,7 +493,7 @@
 <property name="Stars" value="1" />
 <property name="Orange Pips" value="1" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="When the upgraded character is battling -> Flip 1 more battle card. Scrap one of the cards you flipped without using it's battle icons." />
+<property name="Text">When the upgraded character is battling -> Flip 1 more battle card. Scrap one of the cards you flipped without using it's battle icons.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -501,7 +501,7 @@
 <property name="Card Number" value="54" />
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Repair 1 damage from one of your characters." />
+<property name="Text">Repair 1 damage from one of your characters.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -511,7 +511,7 @@
 <property name="Blue Pips" value="1" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Decepticons only. While the upgraded character is attacking an Autobot -> It has Pierce 2." />
+<property name="Text">Put on Decepticons only. While the upgraded character is attacking an Autobot -> It has Pierce 2.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -520,7 +520,7 @@
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Scrap the top card of your deck. If it's an Upgrade, you may play it." />
+<property name="Text">Scrap the top card of your deck. If it's an Upgrade, you may play it.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -529,7 +529,7 @@
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Draw a card. Then Plan 1." />
+<property name="Text">Draw a card. Then Plan 1.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -537,7 +537,7 @@
 <property name="Card Number" value="58" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="White Pips" value="1" />
-<property name="Text" value="When the upgraded character defends -> Draw a card. Then Plan 1." />
+<property name="Text">When the upgraded character defends -> Draw a card. Then Plan 1.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -546,7 +546,7 @@
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="If you have Optimus Maximus on the battlefield -> Scrap an enemy weapon or armor. If you have 6 Sentinels in bot mode on the battlefield and/or in your KO area -> Combine them into Optimus Maximus, Ultimate Defender." />
+<property name="Text">If you have Optimus Maximus on the battlefield -> Scrap an enemy weapon or armor. If you have 6 Sentinels in bot mode on the battlefield and/or in your KO area -> Combine them into Optimus Maximus, Ultimate Defender.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -555,7 +555,7 @@
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Your opponent chooses one of their Upgrades and scraps it." />
+<property name="Text">Your opponent chooses one of their Upgrades and scraps it.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -563,7 +563,7 @@
 <property name="Card Number" value="61" />
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Your opponent chooses a card from their hand and scraps it. If this is the third Sonic Scramble you've played this turn -> Draw 3 cards. You may play another Sonic Scramble." />
+<property name="Text">Your opponent chooses a card from their hand and scraps it. If this is the third Sonic Scramble you've played this turn -> Draw 3 cards. You may play another Sonic Scramble.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -572,7 +572,7 @@
 <property name="Type" value="Upgrade - Utility" />
 <property name="White Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="If an opponent's card would cause a Weapon or Armor to be scrapped from the upgraded character -> Scrap this card instead." />
+<property name="Text">If an opponent's card would cause a Weapon or Armor to be scrapped from the upgraded character -> Scrap this card instead.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -581,7 +581,7 @@
 <property name="Type" value="Upgrade - Armor" />
 <property name="Orange Pips" value="1" />
 <property name="Green Pips" value="1" />
-<property name="Text" value="Tough 2." />
+<property name="Text">Tough 2.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -589,14 +589,14 @@
 <property name="Card Number" value="64" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Stealth." />
+<property name="Text">Stealth.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
 <card id="194e120f-d73e-4b2a-8125-4122f8468746" name="Steamroll" size="Small">
 <property name="Card Number" value="65" />
 <property name="Type" value="Action" />
-<property name="Text" value="Choose one of your characters. When it does more than enough attack damage to KO an enemy this turn -> Your opponent chooses one of their other characters and puts the extra damage on it." />
+<property name="Text">Choose one of your characters. When it does more than enough attack damage to KO an enemy this turn -> Your opponent chooses one of their other characters and puts the extra damage on it.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -605,7 +605,7 @@
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="If you have Menasor on the battlefield -> Draw 2 cards. If you have 5 Stunticons in bot mode on the battlefield and/or in your KO area -> Combine them into Menasor, Menacing Colossus." />
+<property name="Text">If you have Menasor on the battlefield -> Draw 2 cards. If you have 5 Stunticons in bot mode on the battlefield and/or in your KO area -> Combine them into Menasor, Menacing Colossus.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -613,7 +613,7 @@
 <property name="Card Number" value="67" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Stunticons only. Enemies can't use Bold or Tough against the upgraded character." />
+<property name="Text">Put on Stunticons only. Enemies can't use Bold or Tough against the upgraded character.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -621,7 +621,7 @@
 <property name="Card Number" value="68" />
 <property name="Type" value="Upgrade - Weapon" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Play this only if you've played Tech Research this turn. Bold 4." />
+<property name="Text">Play this only if you've played Tech Research this turn. Bold 4.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -629,7 +629,7 @@
 <property name="Card Number" value="69" />
 <property name="Type" value="Upgrade - Utility" />
 <property name="White Pips" value="1" />
-<property name="Text" value="Play this only if you've played Tech Research this turn. Pierce 4." />
+<property name="Text">Play this only if you've played Tech Research this turn. Pierce 4.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -637,7 +637,7 @@
 <property name="Card Number" value="70" />
 <property name="Type" value="Upgrade - Armor" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Play this only if you've played Tech Research this turn. Tough 4." />
+<property name="Text">Play this only if you've played Tech Research this turn. Tough 4.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -645,7 +645,7 @@
 <property name="Card Number" value="71" />
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
-<property name="Text" value="One of your characters gets Pierce 3 until end of turn." />
+<property name="Text">One of your characters gets Pierce 3 until end of turn.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -654,7 +654,7 @@
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Draw 2 cards. Then Scrap 2 cards from your hand. If you began the game with only Decepticon characters -> You may play an Upgrade." />
+<property name="Text">Draw 2 cards. Then Scrap 2 cards from your hand. If you began the game with only Decepticon characters -> You may play an Upgrade.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -662,7 +662,7 @@
 <property name="Card Number" value="73" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Tap one of your untapped Melee characters -> Tap an untapped enemy character that has the same number of [STAR] or fewer." />
+<property name="Text">Tap one of your untapped Melee characters -> Tap an untapped enemy character that has the same number of [STAR] or fewer.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -677,7 +677,7 @@
 <property name="Card Number" value="75" />
 <property name="Type" value="Action" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Each player draws 2 cards." />
+<property name="Text">Each player draws 2 cards.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -686,7 +686,7 @@
 <property name="Type" value="Upgrade - Utility" />
 <property name="Orange Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Predacons only. The upgraded character can have a Weapon or Armor in it's Armor slot." />
+<property name="Text">Put on Predacons only. The upgraded character can have a Weapon or Armor in it's Armor slot.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -695,7 +695,7 @@
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Do 1 damage to an enemy.  If it's KO'd this way, repair 1 damage from one of your Deceptipcons." />
+<property name="Text">Do 1 damage to an enemy.  If it's KO'd this way, repair 1 damage from one of your Deceptipcons.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -704,7 +704,7 @@
 <property name="Type" value="Action" />
 <property name="Stars" value="1" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Draw 3 cards." />
+<property name="Text">Draw 3 cards.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -712,7 +712,7 @@
 <property name="Card Number" value="79" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="If you've played Ancient Wisdom this turn -> Choose a battle card you own from outside the game that has 1 star and put it into your hand." />
+<property name="Text">If you've played Ancient Wisdom this turn -> Choose a battle card you own from outside the game that has 1 star and put it into your hand.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -721,7 +721,7 @@
 <property name="Type" value="Action" />
 <property name="Stars" value="1" />
 <property name="Orange Pips" value="1" />
-<property name="Text" value="Scrap all enemy Weapon, Armors, or Utilities." />
+<property name="Text">Scrap all enemy Weapon, Armors, or Utilities.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -729,7 +729,7 @@
 <property name="Card Number" value="81" />
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
-<property name="Text" value="Scrap an enemy Upgrade." />
+<property name="Text">Scrap an enemy Upgrade.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Battle Card" />
 </card>
@@ -742,14 +742,14 @@
 <property name="Stars" value="6" />
 <property name="Traits" value="Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> For each card in your opponent's scrap pile that has at least [O][O], repair 1 damage from this." />
+<property name="Text">When you flip to this mode -> For each card in your opponent's scrap pile that has at least [O][O], repair 1 damage from this.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Acid Storm - Toxic Terror" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
-<property name="Text" value="Enemies can't use Bold." />
+<property name="Text">Enemies can't use Bold.</property>
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>
@@ -768,7 +768,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
-<property name="Text" value="When this damage an enemy -> Scrap an Upgrade on that enemy." />
+<property name="Text">When this damage an enemy -> Scrap an Upgrade on that enemy.</property>
 <property name="Traits" value="Aerialbot, Ranged" />
 </alternate>
 </card>
@@ -781,14 +781,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Aerialbot, Helicopter, Specialist" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When an enemy Plane attacks -> Do 1 damage to it." />
+<property name="Text">When an enemy Plane attacks -> Do 1 damage to it.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Alpha Bravo - Airborne Special Ops" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Text" value="Pierce 3." />
+<property name="Text">Pierce 3.</property>
 <property name="Traits" value="Aerialbot, Specialist" />
 </alternate>
 </card>
@@ -801,14 +801,14 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Sentinel Car, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Tough 1." />
+<property name="Text">Tough 1.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Autobot Hotrod - Impulsive Fighter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this is in your KO area and you flip to this mode -> Do 1 damage to an enemy." />
+<property name="Text">When this is in your KO area and you flip to this mode -> Do 1 damage to an enemy.</property>
 <property name="Traits" value="Sentinel, Ranged" />
 </alternate>
 </card>
@@ -821,14 +821,14 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Sentinel, Car, Specialist" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Pierce 2." />
+<property name="Text">Pierce 2.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Autobot Mirage - Counterintelligence" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this is in your KO area and you flip to this mode -> Look at your opponent's hand and scrap an Action from it." />
+<property name="Text">When this is in your KO area and you flip to this mode -> Look at your opponent's hand and scrap an Action from it.</property>
 <property name="Traits" value="Sentinel, Specialist" />
 </alternate>
 </card>
@@ -859,21 +859,21 @@
 <property name="Stars" value="12" />
 <property name="Traits" value="Truck, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When this has an Armor -> He has Tough 2." />
+<property name="Text">When this has an Armor -> He has Tough 2.</property>
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Autobot Springer - Aerial Defense" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="While this has a Utility -> He has Pierce 3." />
+<property name="Text">While this has a Utility -> He has Pierce 3.</property>
 <property name="Traits" value="Ranged" />
 </alternate>
 <alternate name="Autobot Springer - Aerial Defense" type="alt2" size="Large">
 <property name="Type" value="Character - Alt2 Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
-<property name="Text" value="While this has a Weapon -> he has Bold 2." />
+<property name="Text">While this has a Weapon -> he has Bold 2.</property>
 <property name="Traits" value="Helicopter, Ranged" />
 </alternate>
 </card>
@@ -892,7 +892,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
-<property name="Text" value="At the end of your turn, if you have Dreadwind Air Defense in bot mode on the battlefield in your KO area -> You may scrap 3 cards from your hand. If you do, combine Dreadwind and Blackwing into Dreadwing Sky Destroyer." />
+<property name="Text">At the end of your turn, if you have Dreadwind Air Defense in bot mode on the battlefield in your KO area -> You may scrap 3 cards from your hand. If you do, combine Dreadwind and Blackwing into Dreadwing Sky Destroyer.</property>
 <property name="Traits" value="Dreadwing, Ranged" />
 </alternate>
 </card>
@@ -905,21 +905,21 @@
 <property name="Stars" value="11" />
 <property name="Traits" value="Tank, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Brave." />
+<property name="Text">Brave.</property>
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Blitzwing - Relentless Foe" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
-<property name="Text" value="When this attacks and you flip at least [O][B] -> Draw a card. After the battle, flip this to one of his other modes." />
+<property name="Text">When this attacks and you flip at least [O][B] -> Draw a card. After the battle, flip this to one of his other modes.</property>
 <property name="Traits" value="Ranged" />
 </alternate>
 <alternate name="Blitzwing - Relentless Foe" type="alt2" size="Large">
 <property name="Type" value="Character - Alt2 Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="Text" value="Stealth" />
+<property name="Text">Stealth</property>
 <property name="Traits" value="Plane, Ranged" />
 </alternate>
 </card>
@@ -938,7 +938,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="0" />
-<property name="Text" value="When this attacks and you flip at least [W][O][B] -> Flip this to alt mode after the attack" />
+<property name="Text">When this attacks and you flip at least [W][O][B] -> Flip this to alt mode after the attack</property>
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
@@ -951,7 +951,7 @@
 <property name="Stars" value="12" />
 <property name="Traits" value="Car, Melee" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When this does attack damage to a tapped enemy while there's at least one untapped enemy -> This untaps and attacks the untapped enemy." />
+<property name="Text">When this does attack damage to a tapped enemy while there's at least one untapped enemy -> This untaps and attacks the untapped enemy.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Blurr - Fastest Bot in the Galaxy" type="bot" size="Large">
@@ -970,14 +970,14 @@
 <property name="Stars" value="11" />
 <property name="Traits" value="Insecticon, Specialist" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> Draw a card." />
+<property name="Text">When you flip to this mode -> Draw a card.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Bombshell - Decepticon Psy Ops" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this attacks -> You may scrap cards from your hand equal to the number of stars on the defender. If you do, KO the defender." />
+<property name="Text">When this attacks -> You may scrap cards from your hand equal to the number of stars on the defender. If you do, KO the defender.</property>
 <property name="Traits" value="Insecticon, Specialist" />
 </alternate>
 </card>
@@ -990,7 +990,7 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Stunticon, Car, Specialist" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks and you flip at least [B][B] -> This gets +2 [ATK] until end of turn." />
+<property name="Text">When this attacks and you flip at least [B][B] -> This gets +2 [ATK] until end of turn.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Breakdown - Paranoid Scout" type="bot" size="Large">
@@ -1009,14 +1009,14 @@
 <property name="Stars" value="10" />
 <property name="Traits" value="Leader, Car, Melee" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> You may play an Action" />
+<property name="Text">When you flip to this mode -> You may play an Action</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Bumblebee - Trusted Lieutenant" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this attacks -> You may scrap an Action from your hand. If you do, draw 2 cards." />
+<property name="Text">When this attacks -> You may scrap an Action from your hand. If you do, draw 2 cards.</property>
 <property name="Traits" value="Leader, Ranged" />
 </alternate>
 </card>
@@ -1029,14 +1029,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Stunticon, Car, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Tough 1." />
+<property name="Text">Tough 1.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Dead End - Doomed Loner" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you flip to this mode -> Draw a card." />
+<property name="Text">When you flip to this mode -> Draw a card.</property>
 <property name="Traits" value="Stunticon, Ranged" />
 </alternate>
 </card>
@@ -1049,14 +1049,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Stunticon, Car, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks and you flip at least [O][B] -> Draw 2 cards." />
+<property name="Text">When this attacks and you flip at least [O][B] -> Draw 2 cards.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Decepticon Drag Strip - Cutthroat Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
-<property name="Text" value="Pierce 1." />
+<property name="Text">Pierce 1.</property>
 <property name="Traits" value="Stunticon, Ranged" />
 </alternate>
 </card>
@@ -1069,14 +1069,14 @@
 <property name="Stars" value="9" />
 <property name="Traits" value="Leader, Insecticon, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this or one of your other Insecticons is KO'd -> Your opponent chooses 2 cards from their hand ans scraps them." />
+<property name="Text">When this or one of your other Insecticons is KO'd -> Your opponent chooses 2 cards from their hand ans scraps them.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Decepticon Venin - Insecticon Tyrant" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
-<property name="Text" value="While your opponent has no cards in hand -> Each of your Insecticons has Pierce 3." />
+<property name="Text">While your opponent has no cards in hand -> Each of your Insecticons has Pierce 3.</property>
 <property name="Traits" value="Leader, Insecticon, Ranged" />
 </alternate>
 </card>
@@ -1095,7 +1095,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this attacks and you have fewer cards in your hand than your opponent -> Draw 2 cards." />
+<property name="Text">When this attacks and you have fewer cards in your hand than your opponent -> Draw 2 cards.</property>
 <property name="Traits" value="Dinobot, Melee" />
 </alternate>
 </card>
@@ -1114,7 +1114,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="3" />
-<property name="Text" value="When this battles and you flip your first [W] -> Flip 3 extra battle cards for that [W] instead of 2." />
+<property name="Text">When this battles and you flip your first [W] -> Flip 3 extra battle cards for that [W] instead of 2.</property>
 <property name="Traits" value="Dinobot, Melee" />
 </alternate>
 </card>
@@ -1133,7 +1133,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this attacks -> Plan 2." />
+<property name="Text">When this attacks -> Plan 2.</property>
 <property name="Traits" value="Dinobot, Melee" />
 </alternate>
 </card>
@@ -1152,7 +1152,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="Text" value="After this attacks -> Put a battle card you flipped this attack that has at least [G] into your hand." />
+<property name="Text">After this attacks -> Put a battle card you flipped this attack that has at least [G] into your hand.</property>
 <property name="Traits" value="Dinobot, Specialist" />
 </alternate>
 </card>
@@ -1165,14 +1165,14 @@
 <property name="Stars" value="8" />
 <property name="Traits" value="Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode-> This gets +1 [ATK] until end of turn for each character ni your opponent's KO area." />
+<property name="Text">When you flip to this mode-> This gets +1 [ATK] until end of turn for each character ni your opponent's KO area.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Dirge - Doombringer" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="2" />
-<property name="Text" value="Pierce 1.  When this does enough attack damage to KO an enemy without doing extra damage -> Untap this." />
+<property name="Text">Pierce 1.  When this does enough attack damage to KO an enemy without doing extra damage -> Untap this.</property>
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>
@@ -1191,7 +1191,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="2" />
-<property name="Text" value="When you flip to this mode -> Your opponent reveals a card at random from their hand. If it's an Action, scrap it." />
+<property name="Text">When you flip to this mode -> Your opponent reveals a card at random from their hand. If it's an Action, scrap it.</property>
 <property name="Traits" value="Predacon, Specialist" />
 </alternate>
 </card>
@@ -1204,14 +1204,14 @@
 <property name="Stars" value="8" />
 <property name="Traits" value="Dreadwing, Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Pierce 2." />
+<property name="Text">Pierce 2.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Dreadwind - Air Defense" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="2" />
-<property name="Text" value="At the end of your turn, if you have Blackwing Air Defense in bot mode on the battlefield in your KO area -> You may scrap 3 cards from your hand. If you do, combine Dreadwind and Blackwing into Dreadwing Sky Destroyer." />
+<property name="Text">At the end of your turn, if you have Blackwing Air Defense in bot mode on the battlefield in your KO area -> You may scrap 3 cards from your hand. If you do, combine Dreadwind and Blackwing into Dreadwing Sky Destroyer.</property>
 <property name="Traits" value="Dreadwing, Ranged" />
 </alternate>
 </card>
@@ -1224,14 +1224,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Aerialbot, Plane, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Brave." />
+<property name="Text">Brave.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Fireflight - Sky High Recon" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="2" />
-<property name="Text" value="While this has 4 or more damage counters -> he has +1 [ATK]" />
+<property name="Text">While this has 4 or more damage counters -> he has +1 [ATK]</property>
 <property name="Traits" value="Aerialbot, Ranged" />
 </alternate>
 </card>
@@ -1244,14 +1244,14 @@
 <property name="Stars" value="12" />
 <property name="Traits" value="Truck, Melee" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> You may discard your hand. If you do and those cards have battle icons of exactly 4 different colors, do 4 damage to an enemy." />
+<property name="Text">When you flip to this mode -> You may discard your hand. If you do and those cards have battle icons of exactly 4 different colors, do 4 damage to an enemy.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Grapple - Autobot Architect" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
-<property name="Text" value="When this battles and you flip battle icons of exactly 4 different colors -> This gets +4 [ATK] and +4 [DEF] until end of turn." />
+<property name="Text">When this battles and you flip battle icons of exactly 4 different colors -> This gets +4 [ATK] and +4 [DEF] until end of turn.</property>
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
@@ -1270,7 +1270,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this attacks -> Choose a Dinobot you own from outside the game. Put into your KO area in alt mode (fully damaged)." />
+<property name="Text">When this attacks -> Choose a Dinobot you own from outside the game. Put into your KO area in alt mode (fully damaged).</property>
 <property name="Traits" value="Leader, Dinobot, Melee" />
 </alternate>
 </card>
@@ -1283,14 +1283,14 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Sentinel, Truck, Melee" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Bold 1." />
+<property name="Text">Bold 1.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Ironhide - Steadfast Brawler" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this is in your KO area and you flip to this mode -> Each of your characters gets Pierce 2 until end of turn." />
+<property name="Text">When this is in your KO area and you flip to this mode -> Each of your characters gets Pierce 2 until end of turn.</property>
 <property name="Traits" value="Sentinel, Melee" />
 </alternate>
 </card>
@@ -1303,14 +1303,14 @@
 <property name="Stars" value="10" />
 <property name="Traits" value="Leader, Tank, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> You may play an Upgrade." />
+<property name="Text">When you flip to this mode -> You may play an Upgrade.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Megatron - Arrogant Ruler" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this attacks -> You may scrap an Upgrade from your hand. If you do, draw 2 cards." />
+<property name="Text">When this attacks -> You may scrap an Upgrade from your hand. If you do, draw 2 cards.</property>
 <property name="Traits" value="Leader, Ranged" />
 </alternate>
 </card>
@@ -1323,14 +1323,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Leader, Stunticon, Truck" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Your other characters can't take non-attack damage from your opponent's cards." />
+<property name="Text">Your other characters can't take non-attack damage from your opponent's cards.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Motormaster - Stunticon Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="If this would defend -> Instead you may choose one of your other Stunticons to defend." />
+<property name="Text">If this would defend -> Instead you may choose one of your other Stunticons to defend.</property>
 <property name="Traits" value="Leader, Stunticon, Melee" />
 </alternate>
 </card>
@@ -1343,14 +1343,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Stunticon, Truck, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When an enemy car attacks -> Do 1 damage to it." />
+<property name="Text">When an enemy car attacks -> Do 1 damage to it.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Offroad - All-Terrain Soldier" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
-<property name="Text" value="When you flip to this mode -> Repair 1 damage from this." />
+<property name="Text">When you flip to this mode -> Repair 1 damage from this.</property>
 <property name="Traits" value="Stunticon, Melee" />
 </alternate>
 </card>
@@ -1363,14 +1363,14 @@
 <property name="Stars" value="11" />
 <property name="Traits" value="Leader, Sentinel, Melee" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When the game begins and you have only Sentinel characters -> Choose up to 3 different Sentinels you own from outside the game. Put them into your KO area in alt mode (Fully damaged)." />
+<property name="Text">When the game begins and you have only Sentinel characters -> Choose up to 3 different Sentinels you own from outside the game. Put them into your KO area in alt mode (Fully damaged).</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Optimus Prime - Gleaming Commander" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this attacks and you flip at least [W][O][B] -> You may flip a character in your KO area to it's other mode." />
+<property name="Text">When this attacks and you flip at least [W][O][B] -> You may flip a character in your KO area to it's other mode.</property>
 <property name="Traits" value="Leader, Sentinel, Melee" />
 </alternate>
 </card>
@@ -1383,7 +1383,7 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Predacon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Brave." />
+<property name="Text">Brave.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Predacon Headstrong - Ground Assault" type="bot" size="Large">
@@ -1402,14 +1402,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Predacon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Pierce 2." />
+<property name="Text">Pierce 2.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Predacon Rampage - Savage Hunter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Text" value="When an enemy is KO'd -> Repair 1 damage from each of your Predacons." />
+<property name="Text">When an enemy is KO'd -> Repair 1 damage from each of your Predacons.</property>
 <property name="Traits" value="Predacon, Melee" />
 </alternate>
 </card>
@@ -1422,14 +1422,14 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Sentinel, Car, Melee" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Bold 1." />
+<property name="Text">Bold 1.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Prowl - Strategic Mastermind" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="5" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this is in your KO area and you flip to this mode -> Scrap an enemy weapon." />
+<property name="Text">When this is in your KO area and you flip to this mode -> Scrap an enemy weapon.</property>
 <property name="Traits" value="Sentinel, Melee" />
 </alternate>
 </card>
@@ -1442,14 +1442,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Leader, Predacon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Bold 1." />
+<property name="Text">Bold 1.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Razorclaw - Predacon Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you flip to this mode -> This can attack untapped characters this turn as though they were tapped." />
+<property name="Text">When you flip to this mode -> This can attack untapped characters this turn as though they were tapped.</property>
 <property name="Traits" value="Leader, Predacon, Melee" />
 </alternate>
 </card>
@@ -1480,14 +1480,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Aerialbot, Plane, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Bold 1. When this attacks and you flip at least [W][O][B] -> Flip him to bot mode." />
+<property name="Text">Bold 1. When this attacks and you flip at least [W][O][B] -> Flip him to bot mode.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Silverbolt - Aerialbot Leader" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you flip to this mode -> Do 1 damage to an enemy." />
+<property name="Text">When you flip to this mode -> Do 1 damage to an enemy.</property>
 <property name="Traits" value="Aerialbot, Ranged" />
 </alternate>
 </card>
@@ -1500,14 +1500,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Aerialbot, Plane, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Tough 2." />
+<property name="Text">Tough 2.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Skydive - Air Warfare Specialist" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this attacks -> Repair 1 damage from one of your Aerialbots." />
+<property name="Text">When this attacks -> Repair 1 damage from one of your Aerialbots.</property>
 <property name="Traits" value="Aerialbot, Specialist" />
 </alternate>
 </card>
@@ -1520,14 +1520,14 @@
 <property name="Stars" value="10" />
 <property name="Traits" value="Plane, Specialist" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> Return a card that has no battle icons from your scrap pile to your hand." />
+<property name="Text">When you flip to this mode -> Return a card that has no battle icons from your scrap pile to your hand.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Skywarp - Teleporting Seeker" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="0" />
-<property name="Text" value="Once per turn, when you play or flip a battle card that has no battle icons -> This gets +3 [ATK] and +3 [DEF] until end of turn." />
+<property name="Text">Once per turn, when you play or flip a battle card that has no battle icons -> This gets +3 [ATK] and +3 [DEF] until end of turn.</property>
 <property name="Traits" value="Specialist" />
 </alternate>
 </card>
@@ -1540,14 +1540,14 @@
 <property name="Stars" value="13" />
 <property name="Traits" value="Leader, Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When you flip to this mode -> Return a card that lets you Plan from your scrap pile to your hand." />
+<property name="Text">When you flip to this mode -> Return a card that lets you Plan from your scrap pile to your hand.</property>
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Starscream - Decepticon King" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you flip Decepticon Crown while this is battling -> This gets +3 [ATK] and +3 [DEF] until end of turn." />
+<property name="Text">When you flip Decepticon Crown while this is battling -> This gets +3 [ATK] and +3 [DEF] until end of turn.</property>
 <property name="Traits" value="Leader, Ranged" />
 </alternate>
 </card>
@@ -1560,14 +1560,14 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Sentinel, Car, Specialist" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Tough 1." />
+<property name="Text">Tough 1.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Sunstreaker - Bold Warrior" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this is in your KO area and you flip to this mode -> Draw a card." />
+<property name="Text">When this is in your KO area and you flip to this mode -> Draw a card.</property>
 <property name="Traits" value="Sentinel, Specialist" />
 </alternate>
 </card>
@@ -1580,7 +1580,7 @@
 <property name="Stars" value="9" />
 <property name="Traits" value="Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When one of your other characters attacks -> you may tap this. If you do, the attacker gets +[ATK] until the end of the turn equal to this character's [ATK] total." />
+<property name="Text">When one of your other characters attacks -> you may tap this. If you do, the attacker gets +[ATK] until the end of the turn equal to this character's [ATK] total.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Thrust - Supersonic Interceptor" type="bot" size="Large">
@@ -1599,14 +1599,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Predacon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Enemy characters can't be repaired." />
+<property name="Text">Enemy characters can't be repaired.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Torox - Fueler" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
-<property name="Text" value="When you flip to this mode -> Draw a card.  Then Plan 1." />
+<property name="Text">When you flip to this mode -> Draw a card.  Then Plan 1.</property>
 <property name="Traits" value="Predacon, Melee" />
 </alternate>
 </card>
@@ -1619,14 +1619,14 @@
 <property name="Stars" value="6" />
 <property name="Traits" value="Tank, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> For each card in your opponent's scrap pile that has at least [B][B], your opponent chooses one of their characters and does 1 damage to it." />
+<property name="Text">When you flip to this mode -> For each card in your opponent's scrap pile that has at least [B][B], your opponent chooses one of their characters and does 1 damage to it.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Warpath - Confident Sharpshooter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="3" />
-<property name="Text" value="Enemies can't use Tough. Pierce 2." />
+<property name="Text">Enemies can't use Tough. Pierce 2.</property>
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>
@@ -1639,14 +1639,14 @@
 <property name="Stars" value="12" />
 <property name="Traits" value="Plane, Specialist" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode -> Reveal the top card of your deck. If it has battle icons of at least 2 different colors, you may play it." />
+<property name="Text">When you flip to this mode -> Reveal the top card of your deck. If it has battle icons of at least 2 different colors, you may play it.</property>
 <property name="Rarity" value="Super Rare" />
 <property name="Draft Type" value="Large Character" />
 <alternate name="Windblade - Combiner Hunter" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="6" />
 <property name="DEF" value="2" />
-<property name="Text" value="When this attacks an enemy in Combiner mode -> Each of your characters gets Pierce 4 until end of turn." />
+<property name="Text">When this attacks an enemy in Combiner mode -> Each of your characters gets Pierce 4 until end of turn.</property>
 <property name="Traits" value="Specialist" />
 </alternate>
 </card>
@@ -1658,7 +1658,7 @@
 <property name="Stars" value="39" />
 <property name="Traits" value="Dinobot, Melee" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When this attacks on the turn he's combined -> For each battle card you flip that has at least [O], do 1 damage to the defender." />
+<property name="Text">When this attacks on the turn he's combined -> For each battle card you flip that has at least [O], do 1 damage to the defender.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1670,7 +1670,7 @@
 <property name="Stars" value="25" />
 <property name="Traits" value="Predacon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="This has 5 Weapon slots. When this is combined -> Draw a card. Then you may play a card." />
+<property name="Text">This has 5 Weapon slots. When this is combined -> Draw a card. Then you may play a card.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1682,7 +1682,7 @@
 <property name="Stars" value="25" />
 <property name="Traits" value="Stunticon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Bold 1, Tough 1, Pierce 1. You may play an extra action on each of your turns. When this is combined -> Draw 2 cards." />
+<property name="Text">Bold 1, Tough 1, Pierce 1. You may play an extra action on each of your turns. When this is combined -> Draw 2 cards.</property>
 <property name="Rarity" value="Common" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1694,7 +1694,7 @@
 <property name="Stars" value="46" />
 <property name="Traits" value="Leader, Sentinel, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When this battles -> Draw a card then Plan 1." />
+<property name="Text">When this battles -> Draw a card then Plan 1.</property>
 <property name="Rarity" value="Uncommon" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1706,7 +1706,7 @@
 <property name="Stars" value="25" />
 <property name="Traits" value="Aerialbot, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Bold 1, Tough 2, Pierce 3. When this is combined -> Do 3 damage to an enemy." />
+<property name="Text">Bold 1, Tough 2, Pierce 3. When this is combined -> Do 3 damage to an enemy.</property>
 <property name="Draft Type" value="Excluded" />
 </card>
 <card id="dbadbcbc-4c9b-4da1-9eaa-17e630b8b6ea" name="Dreadwing - Sky Destroyer" size="Extra Large">
@@ -1717,7 +1717,7 @@
 <property name="Stars" value="16" />
 <property name="Traits" value="Dreadwing, Plane, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="This 2 Weapon slots, 2 Armor slots, and 2 Utility slots" />
+<property name="Text">This 2 Weapon slots, 2 Armor slots, and 2 Utility slots</property>
 <property name="Draft Type" value="Excluded" />
 </card>
 <card id="8a56f298-dd3b-4548-9c43-b4f7835b1fa5" name="Omega Supreme - Autobot Defense Base" size="Large">
@@ -1728,14 +1728,14 @@
 <property name="Stars" value="19" />
 <property name="Traits" value="Guardian, Spaceship, Tank, Ranged" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="When you flip to this mode, choose one -> Draw a card / Do 1 damage to an enemy." />
+<property name="Text">When you flip to this mode, choose one -> Draw a card / Do 1 damage to an enemy.</property>
 <property name="Rarity" value="Promo" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Omega Supreme - Autobot Defense Base" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="7" />
 <property name="DEF" value="1" />
-<property name="Text" value="If one of your other characters would take 2 or more attack damage -> Instead you may have this take 2 of that damage and your other character take the rest." />
+<property name="Text">If one of your other characters would take 2 or more attack damage -> Instead you may have this take 2 of that damage and your other character take the rest.</property>
 <property name="Traits" value="Guardian, Ranged" />
 </alternate>
 </card>
@@ -1744,7 +1744,7 @@
 <property name="Type" value="Upgrade - Utility" />
 <property name="Orange Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put on Constructicons only.  When the upgraded character attacks -> Put a height counter on your Tower." />
+<property name="Text">Put on Constructicons only.  When the upgraded character attacks -> Put a height counter on your Tower.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1753,7 +1753,7 @@
 <property name="Type" value="Action" />
 <property name="Green Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="If you have Devastator on the battlefield -> Repair 1 damage from him, then put a height counter on your Tower.  If you have 6 Constructicons in bot mode on the battlefield and/or in your KO area -> Combine them into Devastator, Towering Warrior." />
+<property name="Text">If you have Devastator on the battlefield -> Repair 1 damage from him, then put a height counter on your Tower.  If you have 6 Constructicons in bot mode on the battlefield and/or in your KO area -> Combine them into Devastator, Towering Warrior.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1762,7 +1762,7 @@
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Do 1 damage to an enemy. If your Tower is 6 or higher, do 3 damage to that enemy instead" />
+<property name="Text">Do 1 damage to an enemy. If your Tower is 6 or higher, do 3 damage to that enemy instead</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1771,7 +1771,7 @@
 <property name="Type" value="Action" />
 <property name="Blue Pips" value="1" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Put an Upgrade from your scrap pile on top of your deck. If your tower is 3 or higher, draw a card." />
+<property name="Text">Put an Upgrade from your scrap pile on top of your deck. If your tower is 3 or higher, draw a card.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 </card>
@@ -1779,7 +1779,7 @@
 <property name="Card Number" value="5" />
 <property name="Type" value="Action" />
 <property name="White Pips" value="1" />
-<property name="Text" value="If you have fewer than 4 cards in hand, draw cards equal to the difference" />
+<property name="Text">If you have fewer than 4 cards in hand, draw cards equal to the difference</property>
 <property name="Draft Type" value="Excluded" />
 </card>
 <card id="37da857e-066e-4f47-b42e-9233d58ad84a" name="Bonecrusher - Demolitions" size="Large">
@@ -1791,14 +1791,14 @@
 <property name="Stars" value="4" />
 <property name="Traits" value="Constructicon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
+<property name="Text">When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Bonecrusher - Demolitions" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="Pierce 2" />
+<property name="Text">Pierce 2</property>
 <property name="Traits" value="Constructicon, Melee" />
 </alternate>
 </card>
@@ -1811,14 +1811,14 @@
 <property name="Stars" value="4" />
 <property name="Traits" value="Constructicon, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
+<property name="Text">When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Hook - Surgical Engineer" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="0" />
-<property name="Text" value="Pierce 1" />
+<property name="Text">Pierce 1</property>
 <property name="Traits" value="Constructicon, Ranged" />
 </alternate>
 </card>
@@ -1831,14 +1831,14 @@
 <property name="Stars" value="4" />
 <property name="Traits" value="Constructicon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
+<property name="Text">When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Longhaul - Transport" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Text" value="Bold 1" />
+<property name="Text">Bold 1</property>
 <property name="Traits" value="Constructicon, Melee" />
 </alternate>
 </card>
@@ -1851,7 +1851,7 @@
 <property name="Stars" value="4" />
 <property name="Traits" value="Constructicon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
+<property name="Text">When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Mixmaster - Materials Fabrication" type="bot" size="Large">
@@ -1870,14 +1870,14 @@
 <property name="Stars" value="4" />
 <property name="Traits" value="Constructicon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower." />
+<property name="Text">When this attacks -> You may scrap a card from your hand. If you do, put a height counter on your Tower.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Scavenger - Mining and Salvage" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="Tough 1" />
+<property name="Text">Tough 1</property>
 <property name="Traits" value="Constructicon, Melee" />
 </alternate>
 </card>
@@ -1890,14 +1890,14 @@
 <property name="Stars" value="5" />
 <property name="Traits" value="Constructicon, Leader, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="At the start of the game -> Put your Tower tracker into your KO area with a height counter on it." />
+<property name="Text">At the start of the game -> Put your Tower tracker into your KO area with a height counter on it.</property>
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Scrapper - Constructicon Foreman" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When this or one of your other Constructicons is KO'd while this is on the battlefield or in your KO area -> Put a height counter on your Tower" />
+<property name="Text">When this or one of your other Constructicons is KO'd while this is on the battlefield or in your KO area -> Put a height counter on your Tower</property>
 <property name="Traits" value="Constructicon, Leader, Melee" />
 </alternate>
 </card>
@@ -1909,7 +1909,7 @@
 <property name="Stars" value="25" />
 <property name="Traits" value="Constructicon, Melee" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="When this is combined, repair an amount of damage from him equal to the height of your tower.  While your Tower is 6 or higher, this has Bold 2.  While your Tower is 10 or higher, change this character's base ATK from 6 to 10." />
+<property name="Text">When this is combined, repair an amount of damage from him equal to the height of your tower.  While your Tower is 6 or higher, this has Bold 2.  While your Tower is 10 or higher, change this character's base ATK from 6 to 10.</property>
 <property name="Draft Type" value="Excluded" />
 </card>
 <card id="8cb3d641-2d62-4580-b96b-0f126f36c0f7" name="Bumblebee - Least Likely, Most Dangerous" size="Large">
@@ -1927,7 +1927,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="Bold 1." />
+<property name="Text">Bold 1.</property>
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
@@ -1940,14 +1940,14 @@
 <property name="Stars" value="7" />
 <property name="Traits" value="Tank, Ranged" />
 <property name="Faction" value="Decepticon" />
-<property name="Text" value="Bold 1" />
+<property name="Text">Bold 1</property>
 <property name="Rarity" value="RT" />
 <property name="Draft Type" value="Excluded" />
 <alternate name="Megatron - Cybertronian Tyrant" type="bot" size="Large">
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="3" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you upgrade this -> He gets +1 [ATK] until end of turn." />
+<property name="Text">When you upgrade this -> He gets +1 [ATK] until end of turn.</property>
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>
@@ -1966,7 +1966,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="4" />
 <property name="DEF" value="0" />
-<property name="Text" value="Tough 1" />
+<property name="Text">Tough 1</property>
 <property name="Traits" value="Melee" />
 </alternate>
 </card>
@@ -1985,7 +1985,7 @@
 <property name="Type" value="Character - Bot Mode" />
 <property name="ATK" value="2" />
 <property name="DEF" value="1" />
-<property name="Text" value="When you flip to this mode -> This gets Pierce 2 until end of turn." />
+<property name="Text">When you flip to this mode -> This gets Pierce 2 until end of turn.</property>
 <property name="Traits" value="Ranged" />
 </alternate>
 </card>

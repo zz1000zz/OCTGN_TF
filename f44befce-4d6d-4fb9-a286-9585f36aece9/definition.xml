@@ -6,7 +6,7 @@
 name="Transformers"
 id="f44befce-4d6d-4fb9-a286-9585f36aece9"
 octgnVersion="3.1.2.0"
-version="0.0.3.32"
+version="0.0.3.34"
 
 markersize="20"
 
@@ -66,7 +66,7 @@ authors="Brandon Shollenberger"
 
 <property name="Faction" type="String" />
 
-<property name="Text" type="String" />
+<property name="Text" type="RichText" />
 	
 <property name="Card Number" type="String" />
 
